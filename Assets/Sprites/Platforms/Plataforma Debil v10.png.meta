@@ -1,0 +1,5241 @@
+fileFormatVersion: 2
+guid: 2f77631d02435344f99a02f6a1487281
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3368680697958331279
+    second: Plataforma Debil v10_0
+  - first:
+      213: 216480570054340007
+    second: Plataforma Debil v10_1
+  - first:
+      213: -7513437268220005135
+    second: Plataforma Debil v10_2
+  - first:
+      213: 628004614079904
+    second: Plataforma Debil v10_3
+  - first:
+      213: 2071118023996753439
+    second: Plataforma Debil v10_4
+  - first:
+      213: -1798148917783730578
+    second: Plataforma Debil v10_5
+  - first:
+      213: 6454780884939721150
+    second: Plataforma Debil v10_6
+  - first:
+      213: 9001095531200782722
+    second: Plataforma Debil v10_7
+  - first:
+      213: 7972955741990847599
+    second: Plataforma Debil v10_8
+  - first:
+      213: -2752726234728812145
+    second: Plataforma Debil v10_9
+  - first:
+      213: 2461116341685652051
+    second: Plataforma Debil v10_10
+  - first:
+      213: -3108770306499113035
+    second: Plataforma Debil v10_11
+  - first:
+      213: -8470860884318820201
+    second: Plataforma Debil v10_12
+  - first:
+      213: -3452509514013383188
+    second: Plataforma Debil v10_13
+  - first:
+      213: -5939955386932306271
+    second: Plataforma Debil v10_14
+  - first:
+      213: -5546448135270868002
+    second: Plataforma Debil v10_15
+  - first:
+      213: 1880048785018663227
+    second: Plataforma Debil v10_16
+  - first:
+      213: -6847511910226307171
+    second: Plataforma Debil v10_17
+  - first:
+      213: 5880776301700202060
+    second: Plataforma Debil v10_18
+  - first:
+      213: 8250529206382915468
+    second: Plataforma Debil v10_19
+  - first:
+      213: -6598818439529966285
+    second: Plataforma Debil v10_20
+  - first:
+      213: -6362746004753220439
+    second: Plataforma Debil v10_21
+  - first:
+      213: 4629907045959227590
+    second: Plataforma Debil v10_22
+  - first:
+      213: 3461267287795043666
+    second: Plataforma Debil v10_23
+  - first:
+      213: 8861206787533803493
+    second: Plataforma Debil v10_24
+  - first:
+      213: 4570745661166027713
+    second: Plataforma Debil v10_25
+  - first:
+      213: -3008046073720566575
+    second: Plataforma Debil v10_26
+  - first:
+      213: -1062775908960329265
+    second: Plataforma Debil v10_27
+  - first:
+      213: -5527748934541437422
+    second: Plataforma Debil v10_28
+  - first:
+      213: 5965813292404553734
+    second: Plataforma Debil v10_29
+  - first:
+      213: -1227742180758017
+    second: Plataforma Debil v10_30
+  - first:
+      213: 5971739206908468205
+    second: Plataforma Debil v10_31
+  - first:
+      213: 4224279644688847397
+    second: Plataforma Debil v10_32
+  - first:
+      213: -410044682713626726
+    second: Plataforma Debil v10_33
+  - first:
+      213: 2958951271948654408
+    second: Plataforma Debil v10_34
+  - first:
+      213: 1510667436096955779
+    second: Plataforma Debil v10_35
+  - first:
+      213: 7733796187295034729
+    second: Plataforma Debil v10_36
+  - first:
+      213: 1156452065176797246
+    second: Plataforma Debil v10_37
+  - first:
+      213: 3691978085184147892
+    second: Plataforma Debil v10_38
+  - first:
+      213: -5689618556952597635
+    second: Plataforma Debil v10_39
+  - first:
+      213: -4258723790743422353
+    second: Plataforma Debil v10_40
+  - first:
+      213: 8797278903082090832
+    second: Plataforma Debil v10_41
+  - first:
+      213: -4219735647118221354
+    second: Plataforma Debil v10_42
+  - first:
+      213: -1001272590922529228
+    second: Plataforma Debil v10_43
+  - first:
+      213: -393043986575252148
+    second: Plataforma Debil v10_44
+  - first:
+      213: 9169335334056479295
+    second: Plataforma Debil v10_45
+  - first:
+      213: -5295223156842496776
+    second: Plataforma Debil v10_46
+  - first:
+      213: 4609079707591060274
+    second: Plataforma Debil v10_47
+  - first:
+      213: 1020123529870274054
+    second: Plataforma Debil v10_48
+  - first:
+      213: 2488039795130686742
+    second: Plataforma Debil v10_49
+  - first:
+      213: 1213749177339289003
+    second: Plataforma Debil v10_50
+  - first:
+      213: 22062532473974220
+    second: Plataforma Debil v10_51
+  - first:
+      213: 827596667162570631
+    second: Plataforma Debil v10_52
+  - first:
+      213: 4789283162062565971
+    second: Plataforma Debil v10_53
+  - first:
+      213: -6925483963869439148
+    second: Plataforma Debil v10_54
+  - first:
+      213: -7140460700197089415
+    second: Plataforma Debil v10_55
+  - first:
+      213: -8632454070555766373
+    second: Plataforma Debil v10_56
+  - first:
+      213: -7137402477103194212
+    second: Plataforma Debil v10_57
+  - first:
+      213: 5578907855975307170
+    second: Plataforma Debil v10_58
+  - first:
+      213: -5542100119017719664
+    second: Plataforma Debil v10_59
+  - first:
+      213: 411067919522844931
+    second: Plataforma Debil v10_60
+  - first:
+      213: 2618866414343996215
+    second: Plataforma Debil v10_61
+  - first:
+      213: 4166420949846059104
+    second: Plataforma Debil v10_62
+  - first:
+      213: 2798623483850914805
+    second: Plataforma Debil v10_63
+  - first:
+      213: -1524892856710126589
+    second: Plataforma Debil v10_64
+  - first:
+      213: 5973226243740725675
+    second: Plataforma Debil v10_65
+  - first:
+      213: 6101209545369296154
+    second: Plataforma Debil v10_66
+  - first:
+      213: 8464787061059620819
+    second: Plataforma Debil v10_67
+  - first:
+      213: -9125671061064333853
+    second: Plataforma Debil v10_68
+  - first:
+      213: 7045792051133629292
+    second: Plataforma Debil v10_69
+  - first:
+      213: 4880969796807853053
+    second: Plataforma Debil v10_70
+  - first:
+      213: -3468767836812774712
+    second: Plataforma Debil v10_71
+  - first:
+      213: 2635121077644454458
+    second: Plataforma Debil v10_72
+  - first:
+      213: -4584807817731950937
+    second: Plataforma Debil v10_73
+  - first:
+      213: 8114113851258620503
+    second: Plataforma Debil v10_74
+  - first:
+      213: 4254988178781995455
+    second: Plataforma Debil v10_75
+  - first:
+      213: -8275769130687483185
+    second: Plataforma Debil v10_76
+  - first:
+      213: -912801049577718733
+    second: Plataforma Debil v10_77
+  - first:
+      213: -9097568658886245537
+    second: Plataforma Debil v10_78
+  - first:
+      213: 7622344672746332152
+    second: Plataforma Debil v10_79
+  - first:
+      213: -8556356997692961211
+    second: Plataforma Debil v10_80
+  - first:
+      213: 7389227663568560935
+    second: Plataforma Debil v10_81
+  - first:
+      213: -4870319024788078877
+    second: Plataforma Debil v10_82
+  - first:
+      213: -4594346676236746571
+    second: Plataforma Debil v10_83
+  - first:
+      213: -5673662855133896695
+    second: Plataforma Debil v10_84
+  - first:
+      213: -5557067518937275119
+    second: Plataforma Debil v10_85
+  - first:
+      213: 8775587029483910032
+    second: Plataforma Debil v10_86
+  - first:
+      213: -3377891475500411475
+    second: Plataforma Debil v10_87
+  - first:
+      213: -3593774247410916741
+    second: Plataforma Debil v10_88
+  - first:
+      213: 3142550778835530289
+    second: Plataforma Debil v10_89
+  - first:
+      213: 47448020253385281
+    second: Plataforma Debil v10_90
+  - first:
+      213: -2949848539769331636
+    second: Plataforma Debil v10_91
+  - first:
+      213: -5409711015342285836
+    second: Plataforma Debil v10_92
+  - first:
+      213: -2699327650964153914
+    second: Plataforma Debil v10_93
+  - first:
+      213: -634224010698671012
+    second: Plataforma Debil v10_94
+  - first:
+      213: 8605746465787961130
+    second: Plataforma Debil v10_95
+  - first:
+      213: 7682543342890179094
+    second: Plataforma Debil v10_96
+  - first:
+      213: 6931764241907412495
+    second: Plataforma Debil v10_97
+  - first:
+      213: 7751749167190741137
+    second: Plataforma Debil v10_98
+  - first:
+      213: 6327369943290316358
+    second: Plataforma Debil v10_99
+  - first:
+      213: -1952193387774076706
+    second: Plataforma Debil v10_100
+  - first:
+      213: 2749125118577664807
+    second: Plataforma Debil v10_101
+  - first:
+      213: 7006317533319443636
+    second: Plataforma Debil v10_102
+  - first:
+      213: -4266407448680912415
+    second: Plataforma Debil v10_103
+  - first:
+      213: -2058744381326697613
+    second: Plataforma Debil v10_104
+  - first:
+      213: 86314652234013178
+    second: Plataforma Debil v10_105
+  - first:
+      213: 3945998713301706129
+    second: Plataforma Debil v10_106
+  - first:
+      213: -1965570461456858175
+    second: Plataforma Debil v10_107
+  - first:
+      213: -3114820149169211800
+    second: Plataforma Debil v10_108
+  - first:
+      213: 509433583201966068
+    second: Plataforma Debil v10_109
+  - first:
+      213: -4356466462780993268
+    second: Plataforma Debil v10_110
+  - first:
+      213: 1137580002795343148
+    second: Plataforma Debil v10_111
+  - first:
+      213: 3415881165165826486
+    second: Plataforma Debil v10_112
+  - first:
+      213: -4251938303499008629
+    second: Plataforma Debil v10_113
+  - first:
+      213: 1469975956578795185
+    second: Plataforma Debil v10_114
+  - first:
+      213: 62758107277573416
+    second: Plataforma Debil v10_115
+  - first:
+      213: 8875242681057514299
+    second: Plataforma Debil v10_116
+  - first:
+      213: 2794977598580274325
+    second: Plataforma Debil v10_117
+  - first:
+      213: -2990537546762738859
+    second: Plataforma Debil v10_118
+  - first:
+      213: -2659526789825301442
+    second: Plataforma Debil v10_119
+  - first:
+      213: 1468898703652632050
+    second: Plataforma Debil v10_120
+  - first:
+      213: 8147447964966021117
+    second: Plataforma Debil v10_121
+  - first:
+      213: -3334101309708213893
+    second: Plataforma Debil v10_122
+  - first:
+      213: 8084938760070132084
+    second: Plataforma Debil v10_123
+  - first:
+      213: -944553756908091239
+    second: Plataforma Debil v10_124
+  - first:
+      213: 9011873204113498344
+    second: Plataforma Debil v10_125
+  - first:
+      213: 6505323134258110983
+    second: Plataforma Debil v10_126
+  - first:
+      213: 2729400378290879316
+    second: Plataforma Debil v10_127
+  - first:
+      213: -244382240006998881
+    second: Plataforma Debil v10_128
+  - first:
+      213: -8879854515519147953
+    second: Plataforma Debil v10_129
+  - first:
+      213: 7947510010117840815
+    second: Plataforma Debil v10_130
+  - first:
+      213: -2966256364860665231
+    second: Plataforma Debil v10_131
+  - first:
+      213: -8653819388433181472
+    second: Plataforma Debil v10_132
+  - first:
+      213: 2069076745958789411
+    second: Plataforma Debil v10_133
+  - first:
+      213: 7437126527283735933
+    second: Plataforma Debil v10_134
+  - first:
+      213: -5156812197803478330
+    second: Plataforma Debil v10_135
+  - first:
+      213: -7895441316566011149
+    second: Plataforma Debil v10_136
+  - first:
+      213: 4821622898610278516
+    second: Plataforma Debil v10_137
+  - first:
+      213: -7203095914036366112
+    second: Plataforma Debil v10_138
+  - first:
+      213: 8448344600896445234
+    second: Plataforma Debil v10_139
+  - first:
+      213: -7418327909939055222
+    second: Plataforma Debil v10_140
+  - first:
+      213: -8590403204990142026
+    second: Plataforma Debil v10_141
+  - first:
+      213: -213437103165925399
+    second: Plataforma Debil v10_142
+  - first:
+      213: 6585252245123342866
+    second: Plataforma Debil v10_143
+  - first:
+      213: 2785038073516834449
+    second: Plataforma Debil v10_144
+  - first:
+      213: -3571311254312586580
+    second: Plataforma Debil v10_145
+  - first:
+      213: -1521273266472211123
+    second: Plataforma Debil v10_146
+  - first:
+      213: 1683801160908268513
+    second: Plataforma Debil v10_147
+  - first:
+      213: 5887250301056593753
+    second: Plataforma Debil v10_148
+  - first:
+      213: -1709563968304549843
+    second: Plataforma Debil v10_149
+  - first:
+      213: -8696124150769271817
+    second: Plataforma Debil v10_150
+  - first:
+      213: 783006175350488202
+    second: Plataforma Debil v10_151
+  - first:
+      213: -2720393176384755814
+    second: Plataforma Debil v10_152
+  - first:
+      213: 5137405793597173116
+    second: Plataforma Debil v10_153
+  - first:
+      213: 9078848372320522200
+    second: Plataforma Debil v10_154
+  - first:
+      213: 7991452448020927603
+    second: Plataforma Debil v10_155
+  - first:
+      213: 471055862572212877
+    second: Plataforma Debil v10_156
+  - first:
+      213: -5153324560101409223
+    second: Plataforma Debil v10_157
+  - first:
+      213: -4380911289476402018
+    second: Plataforma Debil v10_158
+  - first:
+      213: -6461295903392394215
+    second: Plataforma Debil v10_159
+  - first:
+      213: 7098675464011114079
+    second: Plataforma Debil v10_160
+  - first:
+      213: -8558570637503457774
+    second: Plataforma Debil v10_161
+  - first:
+      213: -7513329758809114602
+    second: Plataforma Debil v10_162
+  - first:
+      213: -71272689400383204
+    second: Plataforma Debil v10_163
+  - first:
+      213: -7849207481642223464
+    second: Plataforma Debil v10_164
+  - first:
+      213: -6120491124495808484
+    second: Plataforma Debil v10_165
+  - first:
+      213: -6244738892517199565
+    second: Plataforma Debil v10_166
+  - first:
+      213: -4179275029400695415
+    second: Plataforma Debil v10_167
+  - first:
+      213: 8376375651842468432
+    second: Plataforma Debil v10_168
+  - first:
+      213: 4924624170829168057
+    second: Plataforma Debil v10_169
+  - first:
+      213: -6704986183490452680
+    second: Plataforma Debil v10_170
+  - first:
+      213: -2285494206226434483
+    second: Plataforma Debil v10_171
+  - first:
+      213: -3656071299915466910
+    second: Plataforma Debil v10_172
+  - first:
+      213: 7640326296740854993
+    second: Plataforma Debil v10_173
+  - first:
+      213: -3383334451344732592
+    second: Plataforma Debil v10_174
+  - first:
+      213: -630807304595152783
+    second: Plataforma Debil v10_175
+  - first:
+      213: -6652665177894085006
+    second: Plataforma Debil v10_176
+  - first:
+      213: 1917139816591688881
+    second: Plataforma Debil v10_177
+  - first:
+      213: -136304098828327016
+    second: Plataforma Debil v10_178
+  - first:
+      213: 4615743826756197495
+    second: Plataforma Debil v10_179
+  - first:
+      213: -477162397650625167
+    second: Plataforma Debil v10_180
+  - first:
+      213: -154649431549564955
+    second: Plataforma Debil v10_181
+  - first:
+      213: 6249135106756284275
+    second: Plataforma Debil v10_182
+  - first:
+      213: -782098321543424234
+    second: Plataforma Debil v10_183
+  - first:
+      213: 111557424193085467
+    second: Plataforma Debil v10_184
+  - first:
+      213: -4072487061722425729
+    second: Plataforma Debil v10_185
+  - first:
+      213: -8025737636815360586
+    second: Plataforma Debil v10_186
+  - first:
+      213: -4384112705582352599
+    second: Plataforma Debil v10_187
+  - first:
+      213: 3620607338631046692
+    second: Plataforma Debil v10_188
+  - first:
+      213: -2292877326808976830
+    second: Plataforma Debil v10_189
+  - first:
+      213: 7051152165984383096
+    second: Plataforma Debil v10_190
+  - first:
+      213: 3545879491510476838
+    second: Plataforma Debil v10_191
+  - first:
+      213: 3092069344130357086
+    second: Plataforma Debil v10_192
+  - first:
+      213: -6408943689090170482
+    second: Plataforma Debil v10_193
+  - first:
+      213: 3155219854595232286
+    second: Plataforma Debil v10_194
+  - first:
+      213: 2834657354440196606
+    second: Plataforma Debil v10_195
+  - first:
+      213: 4591538290144400252
+    second: Plataforma Debil v10_196
+  - first:
+      213: 6856197167385369772
+    second: Plataforma Debil v10_197
+  - first:
+      213: 2970606984656938551
+    second: Plataforma Debil v10_198
+  - first:
+      213: 5440089324607523665
+    second: Plataforma Debil v10_199
+  - first:
+      213: -4206606150408494320
+    second: Plataforma Debil v10_200
+  - first:
+      213: -5457183028673022667
+    second: Plataforma Debil v10_201
+  - first:
+      213: 1485051083547734635
+    second: Plataforma Debil v10_202
+  - first:
+      213: -296558523835201397
+    second: Plataforma Debil v10_203
+  - first:
+      213: -5340898427668857823
+    second: Plataforma Debil v10_204
+  - first:
+      213: -2740912618381064848
+    second: Plataforma Debil v10_205
+  - first:
+      213: 2554436452040071381
+    second: Plataforma Debil v10_206
+  - first:
+      213: -7807095554289955498
+    second: Plataforma Debil v10_207
+  - first:
+      213: -3846797094118897326
+    second: Plataforma Debil v10_208
+  - first:
+      213: 2944741688079108527
+    second: Plataforma Debil v10_209
+  - first:
+      213: 3090072145311936291
+    second: Plataforma Debil v10_210
+  - first:
+      213: -6095940571076014142
+    second: Plataforma Debil v10_211
+  - first:
+      213: -7933708700021154352
+    second: Plataforma Debil v10_212
+  - first:
+      213: 8431817864385865548
+    second: Plataforma Debil v10_213
+  - first:
+      213: -6470678993617661758
+    second: Plataforma Debil v10_214
+  - first:
+      213: 3564590175634280370
+    second: Plataforma Debil v10_215
+  - first:
+      213: 7116620628010829730
+    second: Plataforma Debil v10_216
+  - first:
+      213: 8843279237512123249
+    second: Plataforma Debil v10_217
+  - first:
+      213: -3867871241541109199
+    second: Plataforma Debil v10_218
+  - first:
+      213: -3539986865187469661
+    second: Plataforma Debil v10_219
+  - first:
+      213: 7492815139281801767
+    second: Plataforma Debil v10_220
+  - first:
+      213: 2633399755169065822
+    second: Plataforma Debil v10_221
+  - first:
+      213: -8780956891833531545
+    second: Plataforma Debil v10_222
+  - first:
+      213: 1757982127502234066
+    second: Plataforma Debil v10_223
+  - first:
+      213: 870663782099935738
+    second: Plataforma Debil v10_224
+  - first:
+      213: -6485308505871536217
+    second: Plataforma Debil v10_225
+  - first:
+      213: -8643901760384999979
+    second: Plataforma Debil v10_226
+  - first:
+      213: -3329946372883731037
+    second: Plataforma Debil v10_227
+  - first:
+      213: -7589154254219487180
+    second: Plataforma Debil v10_228
+  - first:
+      213: 8071888232958775673
+    second: Plataforma Debil v10_229
+  - first:
+      213: 8546999172573456613
+    second: Plataforma Debil v10_230
+  - first:
+      213: 3742338371271533651
+    second: Plataforma Debil v10_231
+  - first:
+      213: 8895599421882580267
+    second: Plataforma Debil v10_232
+  - first:
+      213: 3905260561933406089
+    second: Plataforma Debil v10_233
+  - first:
+      213: -8801257764943303991
+    second: Plataforma Debil v10_234
+  - first:
+      213: -4655807461606250846
+    second: Plataforma Debil v10_235
+  - first:
+      213: 4470100703774001618
+    second: Plataforma Debil v10_236
+  - first:
+      213: -3538023657487943298
+    second: Plataforma Debil v10_237
+  - first:
+      213: 2501561006273258601
+    second: Plataforma Debil v10_238
+  - first:
+      213: -7070883856924558847
+    second: Plataforma Debil v10_239
+  - first:
+      213: 8510180881851006289
+    second: Plataforma Debil v10_240
+  - first:
+      213: -5176532014636911153
+    second: Plataforma Debil v10_241
+  - first:
+      213: -453603038394893060
+    second: Plataforma Debil v10_242
+  - first:
+      213: 1265697677360363013
+    second: Plataforma Debil v10_243
+  - first:
+      213: 1739456496745727257
+    second: Plataforma Debil v10_244
+  - first:
+      213: -3475185361498078583
+    second: Plataforma Debil v10_245
+  - first:
+      213: 5844288364347028463
+    second: Plataforma Debil v10_246
+  - first:
+      213: 2364620610138270880
+    second: Plataforma Debil v10_247
+  - first:
+      213: -8157155130486011542
+    second: Plataforma Debil v10_248
+  - first:
+      213: -2388600874179392722
+    second: Plataforma Debil v10_249
+  - first:
+      213: 1676354703586776593
+    second: Plataforma Debil v10_250
+  - first:
+      213: 5195201882915308495
+    second: Plataforma Debil v10_251
+  - first:
+      213: -4360954620364840560
+    second: Plataforma Debil v10_252
+  - first:
+      213: 7624021152458333630
+    second: Plataforma Debil v10_253
+  - first:
+      213: -837281482452455468
+    second: Plataforma Debil v10_254
+  - first:
+      213: -1544677980089999969
+    second: Plataforma Debil v10_255
+  - first:
+      213: 3243245592682325723
+    second: Plataforma Debil v10_256
+  - first:
+      213: 596569731544836081
+    second: Plataforma Debil v10_257
+  - first:
+      213: -7400096004916118379
+    second: Plataforma Debil v10_258
+  - first:
+      213: 3768200388889217785
+    second: Plataforma Debil v10_259
+  - first:
+      213: -8561827560020850135
+    second: Plataforma Debil v10_260
+  - first:
+      213: 3513604666736548914
+    second: Plataforma Debil v10_261
+  - first:
+      213: -3424790340502311608
+    second: Plataforma Debil v10_262
+  - first:
+      213: 2532199402181754982
+    second: Plataforma Debil v10_263
+  - first:
+      213: -2484513572328883145
+    second: Plataforma Debil v10_264
+  - first:
+      213: 5830615971537619586
+    second: Plataforma Debil v10_265
+  - first:
+      213: 2100925784032619558
+    second: Plataforma Debil v10_266
+  - first:
+      213: -2542110314536812652
+    second: Plataforma Debil v10_267
+  - first:
+      213: 2687634857568454624
+    second: Plataforma Debil v10_268
+  - first:
+      213: -7257960682801331324
+    second: Plataforma Debil v10_269
+  - first:
+      213: 6947877801383537855
+    second: Plataforma Debil v10_270
+  - first:
+      213: 8521651913242884057
+    second: Plataforma Debil v10_271
+  - first:
+      213: 8034920968632251756
+    second: Plataforma Debil v10_272
+  - first:
+      213: -4543435025745651802
+    second: Plataforma Debil v10_273
+  - first:
+      213: 8693389974702027594
+    second: Plataforma Debil v10_274
+  - first:
+      213: -2586317045773629734
+    second: Plataforma Debil v10_275
+  - first:
+      213: -3510618315377745388
+    second: Plataforma Debil v10_276
+  - first:
+      213: -3618251867302253720
+    second: Plataforma Debil v10_277
+  - first:
+      213: -6356898160098813250
+    second: Plataforma Debil v10_278
+  - first:
+      213: -5980485768503345961
+    second: Plataforma Debil v10_279
+  - first:
+      213: 8952307338467851013
+    second: Plataforma Debil v10_280
+  - first:
+      213: 2518168130429250602
+    second: Plataforma Debil v10_281
+  - first:
+      213: -7817995212162096614
+    second: Plataforma Debil v10_282
+  - first:
+      213: 8637182066747567616
+    second: Plataforma Debil v10_283
+  - first:
+      213: 6255739600491912350
+    second: Plataforma Debil v10_284
+  - first:
+      213: -7183686956191248691
+    second: Plataforma Debil v10_285
+  - first:
+      213: 4190106343488156986
+    second: Plataforma Debil v10_286
+  - first:
+      213: 5389510723061965933
+    second: Plataforma Debil v10_287
+  - first:
+      213: -1422693086424129134
+    second: Plataforma Debil v10_288
+  - first:
+      213: -7547123071840922314
+    second: Plataforma Debil v10_289
+  - first:
+      213: -8739827118861956736
+    second: Plataforma Debil v10_290
+  - first:
+      213: 2245596118775131889
+    second: Plataforma Debil v10_291
+  - first:
+      213: -8074596285670644097
+    second: Plataforma Debil v10_292
+  - first:
+      213: -7857669129146236717
+    second: Plataforma Debil v10_293
+  - first:
+      213: -2037564490279411772
+    second: Plataforma Debil v10_294
+  - first:
+      213: -6625124787477467117
+    second: Plataforma Debil v10_295
+  - first:
+      213: -671491976323014962
+    second: Plataforma Debil v10_296
+  - first:
+      213: -5770534048598712715
+    second: Plataforma Debil v10_297
+  - first:
+      213: 5454856824833792555
+    second: Plataforma Debil v10_298
+  - first:
+      213: 42845093159610151
+    second: Plataforma Debil v10_299
+  - first:
+      213: 8330177167115819752
+    second: Plataforma Debil v10_300
+  - first:
+      213: 6081685687948180973
+    second: Plataforma Debil v10_301
+  - first:
+      213: 4735156758865525757
+    second: Plataforma Debil v10_302
+  - first:
+      213: -7208335733845273596
+    second: Plataforma Debil v10_303
+  - first:
+      213: 3343369639538735888
+    second: Plataforma Debil v10_304
+  - first:
+      213: -6409404608976166953
+    second: Plataforma Debil v10_305
+  - first:
+      213: -8996300331697357631
+    second: Plataforma Debil v10_306
+  - first:
+      213: 8327181322240146391
+    second: Plataforma Debil v10_307
+  - first:
+      213: 592106804170968284
+    second: Plataforma Debil v10_308
+  - first:
+      213: 8688064293747684172
+    second: Plataforma Debil v10_309
+  - first:
+      213: -5798981435405335015
+    second: Plataforma Debil v10_310
+  - first:
+      213: -501545397456325667
+    second: Plataforma Debil v10_311
+  - first:
+      213: 9152066107515496033
+    second: Plataforma Debil v10_312
+  - first:
+      213: -2502815427735482770
+    second: Plataforma Debil v10_313
+  - first:
+      213: -4336916829019726845
+    second: Plataforma Debil v10_314
+  - first:
+      213: 5263338712251009832
+    second: Plataforma Debil v10_315
+  - first:
+      213: -4396043931444961163
+    second: Plataforma Debil v10_316
+  - first:
+      213: -8057347106068819916
+    second: Plataforma Debil v10_317
+  - first:
+      213: -2457852836874677244
+    second: Plataforma Debil v10_318
+  - first:
+      213: 8745863525241080643
+    second: Plataforma Debil v10_319
+  - first:
+      213: -5808057874065808862
+    second: Plataforma Debil v10_320
+  - first:
+      213: -7768573229081510278
+    second: Plataforma Debil v10_321
+  - first:
+      213: -7452016780345469452
+    second: Plataforma Debil v10_322
+  - first:
+      213: 5183723902577400287
+    second: Plataforma Debil v10_323
+  - first:
+      213: -2382724028124859080
+    second: Plataforma Debil v10_324
+  - first:
+      213: 6186500210914578166
+    second: Plataforma Debil v10_325
+  - first:
+      213: 1742454491952670651
+    second: Plataforma Debil v10_326
+  - first:
+      213: 2626376285601704860
+    second: Plataforma Debil v10_327
+  - first:
+      213: 7024435200016837775
+    second: Plataforma Debil v10_328
+  - first:
+      213: 3697459711226524027
+    second: Plataforma Debil v10_329
+  - first:
+      213: 3030805473125775223
+    second: Plataforma Debil v10_330
+  - first:
+      213: 5418656627850948173
+    second: Plataforma Debil v10_331
+  - first:
+      213: -7095535920045398388
+    second: Plataforma Debil v10_332
+  - first:
+      213: -2003587816803555329
+    second: Plataforma Debil v10_333
+  - first:
+      213: 6927626041910906806
+    second: Plataforma Debil v10_334
+  - first:
+      213: -2292900443605840892
+    second: Plataforma Debil v10_335
+  - first:
+      213: -7990430328325293608
+    second: Plataforma Debil v10_336
+  - first:
+      213: 3378761074989284334
+    second: Plataforma Debil v10_337
+  - first:
+      213: 4986669312619994669
+    second: Plataforma Debil v10_338
+  - first:
+      213: 5902030976588874621
+    second: Plataforma Debil v10_339
+  - first:
+      213: -932877257289129533
+    second: Plataforma Debil v10_340
+  - first:
+      213: -6323677487901575221
+    second: Plataforma Debil v10_341
+  - first:
+      213: 5619370747144040173
+    second: Plataforma Debil v10_342
+  - first:
+      213: -319173107225379906
+    second: Plataforma Debil v10_343
+  - first:
+      213: 2761484821546810406
+    second: Plataforma Debil v10_344
+  - first:
+      213: -5436702061518883121
+    second: Plataforma Debil v10_345
+  - first:
+      213: 6190762897477655264
+    second: Plataforma Debil v10_346
+  - first:
+      213: -1608210660975550584
+    second: Plataforma Debil v10_347
+  - first:
+      213: -5988445054366808950
+    second: Plataforma Debil v10_348
+  - first:
+      213: 2337331453172318472
+    second: Plataforma Debil v10_349
+  - first:
+      213: -4879134007525756039
+    second: Plataforma Debil v10_350
+  - first:
+      213: 953114491781747027
+    second: Plataforma Debil v10_351
+  - first:
+      213: -6222192723180676713
+    second: Plataforma Debil v10_352
+  - first:
+      213: -615336062438015560
+    second: Plataforma Debil v10_353
+  - first:
+      213: -6448104067782621240
+    second: Plataforma Debil v10_354
+  - first:
+      213: -1931941945274621105
+    second: Plataforma Debil v10_355
+  - first:
+      213: -1238339248572137598
+    second: Plataforma Debil v10_356
+  - first:
+      213: 6784637373336819493
+    second: Plataforma Debil v10_357
+  - first:
+      213: 999207808149688625
+    second: Plataforma Debil v10_358
+  - first:
+      213: 4358542520926031547
+    second: Plataforma Debil v10_359
+  - first:
+      213: 6491656998378731492
+    second: Plataforma Debil v10_360
+  - first:
+      213: -6544790627260466466
+    second: Plataforma Debil v10_361
+  - first:
+      213: 1376459034925558482
+    second: Plataforma Debil v10_362
+  - first:
+      213: 5189552927367372048
+    second: Plataforma Debil v10_363
+  - first:
+      213: 211645272117733687
+    second: Plataforma Debil v10_364
+  - first:
+      213: -5710199850179457743
+    second: Plataforma Debil v10_365
+  - first:
+      213: -2222354097216892051
+    second: Plataforma Debil v10_366
+  - first:
+      213: 6120342102884956083
+    second: Plataforma Debil v10_367
+  - first:
+      213: -7467867333366937196
+    second: Plataforma Debil v10_368
+  - first:
+      213: -3912485923355015387
+    second: Plataforma Debil v10_369
+  - first:
+      213: 6344817078137445587
+    second: Plataforma Debil v10_370
+  - first:
+      213: -1306930334234730070
+    second: Plataforma Debil v10_371
+  - first:
+      213: -6166849818019797647
+    second: Plataforma Debil v10_372
+  - first:
+      213: -4028532639650154074
+    second: Plataforma Debil v10_373
+  - first:
+      213: -2113754050628824393
+    second: Plataforma Debil v10_374
+  - first:
+      213: -6739167069881765053
+    second: Plataforma Debil v10_375
+  - first:
+      213: -3024807534310801495
+    second: Plataforma Debil v10_376
+  - first:
+      213: -1315945026099141311
+    second: Plataforma Debil v10_377
+  - first:
+      213: -5077907933209643916
+    second: Plataforma Debil v10_378
+  - first:
+      213: -4431074638455362400
+    second: Plataforma Debil v10_379
+  - first:
+      213: -100806510942170579
+    second: Plataforma Debil v10_380
+  - first:
+      213: -4111238010825302051
+    second: Plataforma Debil v10_381
+  - first:
+      213: -4262864976748172297
+    second: Plataforma Debil v10_382
+  - first:
+      213: -6122647090060234851
+    second: Plataforma Debil v10_383
+  - first:
+      213: -3842364006480255820
+    second: Plataforma Debil v10_384
+  - first:
+      213: -6498902503977484036
+    second: Plataforma Debil v10_385
+  - first:
+      213: -7550334194166666603
+    second: Plataforma Debil v10_386
+  - first:
+      213: -1200433259444687944
+    second: Plataforma Debil v10_387
+  - first:
+      213: 156700913882152866
+    second: Plataforma Debil v10_388
+  - first:
+      213: -142065247519785407
+    second: Plataforma Debil v10_389
+  - first:
+      213: 4649159745492928538
+    second: Plataforma Debil v10_390
+  - first:
+      213: -3545015877573094726
+    second: Plataforma Debil v10_391
+  - first:
+      213: 2492818626584945477
+    second: Plataforma Debil v10_392
+  - first:
+      213: -6223954650777859392
+    second: Plataforma Debil v10_393
+  - first:
+      213: -1370068630004338643
+    second: Plataforma Debil v10_394
+  - first:
+      213: 5773467938358356696
+    second: Plataforma Debil v10_395
+  - first:
+      213: -6730842776887526676
+    second: Plataforma Debil v10_396
+  - first:
+      213: 1957430138021759982
+    second: Plataforma Debil v10_397
+  - first:
+      213: -3170627104819355039
+    second: Plataforma Debil v10_398
+  - first:
+      213: -5816085309135539314
+    second: Plataforma Debil v10_399
+  - first:
+      213: -815125664403111540
+    second: Plataforma Debil v10_400
+  - first:
+      213: 537996411510535297
+    second: Plataforma Debil v10_401
+  - first:
+      213: -5189268334661883738
+    second: Plataforma Debil v10_402
+  - first:
+      213: -5768099717655561611
+    second: Plataforma Debil v10_403
+  - first:
+      213: -457773190772362677
+    second: Plataforma Debil v10_404
+  - first:
+      213: -2259575231227149695
+    second: Plataforma Debil v10_405
+  - first:
+      213: -3572097951419803281
+    second: Plataforma Debil v10_406
+  - first:
+      213: -562505284852402664
+    second: Plataforma Debil v10_407
+  - first:
+      213: 1516214566504404284
+    second: Plataforma Debil v10_408
+  - first:
+      213: 1378872515763029516
+    second: Plataforma Debil v10_409
+  - first:
+      213: 4918082962270268429
+    second: Plataforma Debil v10_410
+  - first:
+      213: -1562325788040220464
+    second: Plataforma Debil v10_411
+  - first:
+      213: 3912964511249517081
+    second: Plataforma Debil v10_412
+  - first:
+      213: -4018608518488890122
+    second: Plataforma Debil v10_413
+  - first:
+      213: -3224554929668872211
+    second: Plataforma Debil v10_414
+  - first:
+      213: -6925870530376598691
+    second: Plataforma Debil v10_415
+  - first:
+      213: -5540773424437389928
+    second: Plataforma Debil v10_416
+  - first:
+      213: 5596260279977540204
+    second: Plataforma Debil v10_417
+  - first:
+      213: 7694969646949804835
+    second: Plataforma Debil v10_418
+  - first:
+      213: -7093306558804215702
+    second: Plataforma Debil v10_419
+  - first:
+      213: -3102182532170937997
+    second: Plataforma Debil v10_420
+  - first:
+      213: 2456413547199502830
+    second: Plataforma Debil v10_421
+  - first:
+      213: -9196098735371718271
+    second: Plataforma Debil v10_422
+  - first:
+      213: 8692651982325148357
+    second: Plataforma Debil v10_423
+  - first:
+      213: -1842420198871719697
+    second: Plataforma Debil v10_424
+  - first:
+      213: -4662099261426418737
+    second: Plataforma Debil v10_425
+  - first:
+      213: 6555587614157609848
+    second: Plataforma Debil v10_426
+  - first:
+      213: -4614753829200325217
+    second: Plataforma Debil v10_427
+  - first:
+      213: -3072533390649593996
+    second: Plataforma Debil v10_428
+  - first:
+      213: 6005578629220414822
+    second: Plataforma Debil v10_429
+  - first:
+      213: 822092875129087392
+    second: Plataforma Debil v10_430
+  - first:
+      213: 552358014251125776
+    second: Plataforma Debil v10_431
+  - first:
+      213: 9100012469020098043
+    second: Plataforma Debil v10_432
+  - first:
+      213: 2178869508373505885
+    second: Plataforma Debil v10_433
+  - first:
+      213: 6769027582476747901
+    second: Plataforma Debil v10_434
+  - first:
+      213: 5897400391419354388
+    second: Plataforma Debil v10_435
+  - first:
+      213: 6711019621613749678
+    second: Plataforma Debil v10_436
+  - first:
+      213: -2072477271177349779
+    second: Plataforma Debil v10_437
+  - first:
+      213: 6871795808796435448
+    second: Plataforma Debil v10_438
+  - first:
+      213: 1882608613570167309
+    second: Plataforma Debil v10_439
+  - first:
+      213: 2748664555733485584
+    second: Plataforma Debil v10_440
+  - first:
+      213: -2210153884659250156
+    second: Plataforma Debil v10_441
+  - first:
+      213: -779631129761371976
+    second: Plataforma Debil v10_442
+  - first:
+      213: 4992463055266553686
+    second: Plataforma Debil v10_443
+  - first:
+      213: 157620103441987396
+    second: Plataforma Debil v10_444
+  - first:
+      213: -1694207207607722591
+    second: Plataforma Debil v10_445
+  - first:
+      213: 5385838953436483238
+    second: Plataforma Debil v10_446
+  - first:
+      213: 5876197013722642463
+    second: Plataforma Debil v10_447
+  - first:
+      213: -3270324512579984434
+    second: Plataforma Debil v10_448
+  - first:
+      213: 8773250009961808695
+    second: Plataforma Debil v10_449
+  - first:
+      213: -6279935979126443559
+    second: Plataforma Debil v10_450
+  - first:
+      213: -6947428467814241271
+    second: Plataforma Debil v10_451
+  - first:
+      213: 5665694736248718874
+    second: Plataforma Debil v10_452
+  - first:
+      213: -7843238471515941033
+    second: Plataforma Debil v10_453
+  - first:
+      213: -7055804114113048395
+    second: Plataforma Debil v10_454
+  - first:
+      213: -762302667035702349
+    second: Plataforma Debil v10_455
+  - first:
+      213: -3862525991596879098
+    second: Plataforma Debil v10_456
+  - first:
+      213: -1238638882343677943
+    second: Plataforma Debil v10_457
+  - first:
+      213: -5205948989981418090
+    second: Plataforma Debil v10_458
+  - first:
+      213: -1615790932727585324
+    second: Plataforma Debil v10_459
+  - first:
+      213: -5162203677966588412
+    second: Plataforma Debil v10_460
+  - first:
+      213: 7043462942724017306
+    second: Plataforma Debil v10_461
+  - first:
+      213: 321279363138254130
+    second: Plataforma Debil v10_462
+  - first:
+      213: -65832042972346715
+    second: Plataforma Debil v10_463
+  - first:
+      213: 4976306433854979407
+    second: Plataforma Debil v10_464
+  - first:
+      213: 7070971186348459839
+    second: Plataforma Debil v10_465
+  - first:
+      213: 3293391288302130874
+    second: Plataforma Debil v10_466
+  - first:
+      213: -5299731706654202619
+    second: Plataforma Debil v10_467
+  - first:
+      213: 5731798940010725554
+    second: Plataforma Debil v10_468
+  - first:
+      213: -4640602219921867604
+    second: Plataforma Debil v10_469
+  - first:
+      213: 6498751100416646929
+    second: Plataforma Debil v10_470
+  - first:
+      213: -2074788747171979202
+    second: Plataforma Debil v10_471
+  - first:
+      213: 2296163811799895317
+    second: Plataforma Debil v10_472
+  - first:
+      213: -3676093966787310740
+    second: Plataforma Debil v10_473
+  - first:
+      213: 6680261096896796901
+    second: Plataforma Debil v10_474
+  - first:
+      213: 5046272185607952922
+    second: Plataforma Debil v10_475
+  - first:
+      213: -618648156178572448
+    second: Plataforma Debil v10_476
+  - first:
+      213: 6692417237626664188
+    second: Plataforma Debil v10_477
+  - first:
+      213: -2970449209761582491
+    second: Plataforma Debil v10_478
+  - first:
+      213: -3354165398050753754
+    second: Plataforma Debil v10_479
+  - first:
+      213: 8045318863017671330
+    second: Plataforma Debil v10_480
+  - first:
+      213: 2566640023652455488
+    second: Plataforma Debil v10_481
+  - first:
+      213: 5834075104998729177
+    second: Plataforma Debil v10_482
+  - first:
+      213: 6174072883524098146
+    second: Plataforma Debil v10_483
+  - first:
+      213: 4122088610217519256
+    second: Plataforma Debil v10_484
+  - first:
+      213: 3993033283601602993
+    second: Plataforma Debil v10_485
+  - first:
+      213: 3910270294735042969
+    second: Plataforma Debil v10_486
+  - first:
+      213: 4715717219827201741
+    second: Plataforma Debil v10_487
+  - first:
+      213: -8868972844540124690
+    second: Plataforma Debil v10_488
+  - first:
+      213: 8649627583971154451
+    second: Plataforma Debil v10_489
+  - first:
+      213: -9032882684158490923
+    second: Plataforma Debil v10_490
+  - first:
+      213: -6041913939635860988
+    second: Plataforma Debil v10_491
+  - first:
+      213: 7999642426961782820
+    second: Plataforma Debil v10_492
+  - first:
+      213: 7700856392338909475
+    second: Plataforma Debil v10_493
+  - first:
+      213: 1096275087579957337
+    second: Plataforma Debil v10_494
+  - first:
+      213: -1720207139915552779
+    second: Plataforma Debil v10_495
+  - first:
+      213: 2346284030240419796
+    second: Plataforma Debil v10_496
+  - first:
+      213: 1112574909789542408
+    second: Plataforma Debil v10_497
+  - first:
+      213: -9182596653666163510
+    second: Plataforma Debil v10_498
+  - first:
+      213: -7270017771343415340
+    second: Plataforma Debil v10_499
+  - first:
+      213: 614409996933009720
+    second: Plataforma Debil v10_500
+  - first:
+      213: -5474071782104489812
+    second: Plataforma Debil v10_501
+  - first:
+      213: -8809866785136735225
+    second: Plataforma Debil v10_502
+  - first:
+      213: -7863651795239944641
+    second: Plataforma Debil v10_503
+  - first:
+      213: 7131218078171449231
+    second: Plataforma Debil v10_504
+  - first:
+      213: 3451326815945317451
+    second: Plataforma Debil v10_505
+  - first:
+      213: 3558055030231930742
+    second: Plataforma Debil v10_506
+  - first:
+      213: 2724055501868353456
+    second: Plataforma Debil v10_507
+  - first:
+      213: -8778160651053761282
+    second: Plataforma Debil v10_508
+  - first:
+      213: -543559107167999674
+    second: Plataforma Debil v10_509
+  - first:
+      213: -6716966212359441209
+    second: Plataforma Debil v10_510
+  - first:
+      213: 9104583881626693798
+    second: Plataforma Debil v10_511
+  - first:
+      213: 1708435746357994274
+    second: Plataforma Debil v10_512
+  - first:
+      213: -169563217434980334
+    second: Plataforma Debil v10_513
+  - first:
+      213: 7772234087259609562
+    second: Plataforma Debil v10_514
+  - first:
+      213: 8847485721377130577
+    second: Plataforma Debil v10_515
+  - first:
+      213: 8888435307284845899
+    second: Plataforma Debil v10_516
+  - first:
+      213: 5337428618020201250
+    second: Plataforma Debil v10_517
+  - first:
+      213: 649989678026701713
+    second: Plataforma Debil v10_518
+  - first:
+      213: -6829453975462668540
+    second: Plataforma Debil v10_519
+  - first:
+      213: -5143787377709088529
+    second: Plataforma Debil v10_520
+  - first:
+      213: -7789954096576024168
+    second: Plataforma Debil v10_521
+  - first:
+      213: 8085573637685325338
+    second: Plataforma Debil v10_522
+  - first:
+      213: -316508479353080582
+    second: Plataforma Debil v10_523
+  - first:
+      213: 7616099980320766868
+    second: Plataforma Debil v10_524
+  - first:
+      213: -9086999387644223933
+    second: Plataforma Debil v10_525
+  - first:
+      213: 7104307697897731822
+    second: Plataforma Debil v10_526
+  - first:
+      213: 4002941648446918978
+    second: Plataforma Debil v10_527
+  - first:
+      213: 6955269302265411752
+    second: Plataforma Debil v10_528
+  - first:
+      213: -1140907896404279186
+    second: Plataforma Debil v10_529
+  - first:
+      213: 2661555235366678067
+    second: Plataforma Debil v10_530
+  - first:
+      213: 5837060713305983001
+    second: Plataforma Debil v10_531
+  - first:
+      213: 269639005589729418
+    second: Plataforma Debil v10_532
+  - first:
+      213: -4157977422014203396
+    second: Plataforma Debil v10_533
+  - first:
+      213: 3545815615908074731
+    second: Plataforma Debil v10_534
+  - first:
+      213: 1021850702688833555
+    second: Plataforma Debil v10_535
+  - first:
+      213: 8227377652389589103
+    second: Plataforma Debil v10_536
+  - first:
+      213: 6324635066254466613
+    second: Plataforma Debil v10_537
+  - first:
+      213: -6679217410415719726
+    second: Plataforma Debil v10_538
+  - first:
+      213: 6206521682849433704
+    second: Plataforma Debil v10_539
+  - first:
+      213: -3899308554799532507
+    second: Plataforma Debil v10_540
+  - first:
+      213: -6470384875090695323
+    second: Plataforma Debil v10_541
+  - first:
+      213: -5117337726944579693
+    second: Plataforma Debil v10_542
+  - first:
+      213: 4491459405016088015
+    second: Plataforma Debil v10_543
+  - first:
+      213: -3359045129410689532
+    second: Plataforma Debil v10_544
+  - first:
+      213: -3026369158999879702
+    second: Plataforma Debil v10_545
+  - first:
+      213: 5385083400776270146
+    second: Plataforma Debil v10_546
+  - first:
+      213: 4063998846026043593
+    second: Plataforma Debil v10_547
+  - first:
+      213: 276713493408733975
+    second: Plataforma Debil v10_548
+  - first:
+      213: -7333947544705922540
+    second: Plataforma Debil v10_549
+  - first:
+      213: 2423866099635481484
+    second: Plataforma Debil v10_550
+  - first:
+      213: 1997699482450058359
+    second: Plataforma Debil v10_551
+  - first:
+      213: -934656959101879178
+    second: Plataforma Debil v10_552
+  - first:
+      213: 2859779641061244528
+    second: Plataforma Debil v10_553
+  - first:
+      213: 8994754525149971791
+    second: Plataforma Debil v10_554
+  - first:
+      213: 5137521104383507059
+    second: Plataforma Debil v10_555
+  - first:
+      213: -1924377356378547287
+    second: Plataforma Debil v10_556
+  - first:
+      213: 732169309519778194
+    second: Plataforma Debil v10_557
+  - first:
+      213: -2585417512393270426
+    second: Plataforma Debil v10_558
+  - first:
+      213: -680472873523767715
+    second: Plataforma Debil v10_559
+  - first:
+      213: 3259343970305013297
+    second: Plataforma Debil v10_560
+  - first:
+      213: 3792251393383763387
+    second: Plataforma Debil v10_561
+  - first:
+      213: 8623028221008926526
+    second: Plataforma Debil v10_562
+  - first:
+      213: -5930176799027288250
+    second: Plataforma Debil v10_563
+  - first:
+      213: -2357366989952350078
+    second: Plataforma Debil v10_564
+  - first:
+      213: 5309413963548778094
+    second: Plataforma Debil v10_565
+  - first:
+      213: 8113481937483594918
+    second: Plataforma Debil v10_566
+  - first:
+      213: -8653702862804954432
+    second: Plataforma Debil v10_567
+  - first:
+      213: 2270438790198348385
+    second: Plataforma Debil v10_568
+  - first:
+      213: 2356872257771055269
+    second: Plataforma Debil v10_569
+  - first:
+      213: 3675245155245108960
+    second: Plataforma Debil v10_570
+  - first:
+      213: 6060764503805222274
+    second: Plataforma Debil v10_571
+  - first:
+      213: 5411184265607122238
+    second: Plataforma Debil v10_572
+  - first:
+      213: -7488378345050736420
+    second: Plataforma Debil v10_573
+  - first:
+      213: -8691252978603337229
+    second: Plataforma Debil v10_574
+  - first:
+      213: -1335479286873063655
+    second: Plataforma Debil v10_575
+  - first:
+      213: 7110846568834536578
+    second: Plataforma Debil v10_576
+  - first:
+      213: -4578454445400438001
+    second: Plataforma Debil v10_577
+  - first:
+      213: 2688882530609474252
+    second: Plataforma Debil v10_578
+  - first:
+      213: -4515846143250131940
+    second: Plataforma Debil v10_579
+  - first:
+      213: 6986592987625039072
+    second: Plataforma Debil v10_580
+  - first:
+      213: -5110507943407057493
+    second: Plataforma Debil v10_581
+  - first:
+      213: -5178149752780587858
+    second: Plataforma Debil v10_582
+  - first:
+      213: 1852010160470067656
+    second: Plataforma Debil v10_583
+  - first:
+      213: -7337013406693176113
+    second: Plataforma Debil v10_584
+  - first:
+      213: -3791403805633071490
+    second: Plataforma Debil v10_585
+  - first:
+      213: 425098295854256290
+    second: Plataforma Debil v10_586
+  - first:
+      213: 2098118465838124908
+    second: Plataforma Debil v10_587
+  - first:
+      213: -3654848135850763371
+    second: Plataforma Debil v10_588
+  - first:
+      213: 922112419606444916
+    second: Plataforma Debil v10_589
+  - first:
+      213: 8675561168962558210
+    second: Plataforma Debil v10_590
+  - first:
+      213: 7621026278073231245
+    second: Plataforma Debil v10_591
+  - first:
+      213: 7790798825856977928
+    second: Plataforma Debil v10_592
+  - first:
+      213: 6165786662866368368
+    second: Plataforma Debil v10_593
+  - first:
+      213: 453737492807750620
+    second: Plataforma Debil v10_594
+  - first:
+      213: 6599451147765090672
+    second: Plataforma Debil v10_595
+  - first:
+      213: 7901995510388440603
+    second: Plataforma Debil v10_596
+  - first:
+      213: -3042887597426603544
+    second: Plataforma Debil v10_597
+  - first:
+      213: 1593726117728145014
+    second: Plataforma Debil v10_598
+  - first:
+      213: -8014925660725886511
+    second: Plataforma Debil v10_599
+  - first:
+      213: -7683495212889770948
+    second: Plataforma Debil v10_600
+  - first:
+      213: -7432125874652574974
+    second: Plataforma Debil v10_601
+  - first:
+      213: 5215061191711877044
+    second: Plataforma Debil v10_602
+  - first:
+      213: 81744677076092469
+    second: Plataforma Debil v10_603
+  - first:
+      213: 2239654245943832697
+    second: Plataforma Debil v10_604
+  - first:
+      213: -6529047541308133274
+    second: Plataforma Debil v10_605
+  - first:
+      213: 2442799805201231331
+    second: Plataforma Debil v10_606
+  - first:
+      213: 7878998136315825770
+    second: Plataforma Debil v10_607
+  - first:
+      213: -2116630715419866214
+    second: Plataforma Debil v10_608
+  - first:
+      213: -4674342670731496915
+    second: Plataforma Debil v10_609
+  - first:
+      213: -4870734749892492931
+    second: Plataforma Debil v10_610
+  - first:
+      213: 6274681586010273672
+    second: Plataforma Debil v10_611
+  - first:
+      213: -5256491737749472439
+    second: Plataforma Debil v10_612
+  - first:
+      213: -7045347495073416594
+    second: Plataforma Debil v10_613
+  - first:
+      213: -4053334640444919154
+    second: Plataforma Debil v10_614
+  - first:
+      213: 4395566314163983415
+    second: Plataforma Debil v10_615
+  - first:
+      213: -3034092098067412351
+    second: Plataforma Debil v10_616
+  - first:
+      213: -8138574945018128618
+    second: Plataforma Debil v10_617
+  - first:
+      213: -7090982379751023279
+    second: Plataforma Debil v10_618
+  - first:
+      213: 967339218950864288
+    second: Plataforma Debil v10_619
+  - first:
+      213: 8561800672135894548
+    second: Plataforma Debil v10_620
+  - first:
+      213: 4614524875136969879
+    second: Plataforma Debil v10_621
+  - first:
+      213: -8428215341594305683
+    second: Plataforma Debil v10_622
+  - first:
+      213: 285545113358449067
+    second: Plataforma Debil v10_623
+  - first:
+      213: -450665741898019143
+    second: Plataforma Debil v10_624
+  - first:
+      213: 7169720493272523726
+    second: Plataforma Debil v10_625
+  - first:
+      213: 8761793177996057901
+    second: Plataforma Debil v10_626
+  - first:
+      213: 7974971326447530835
+    second: Plataforma Debil v10_627
+  - first:
+      213: 7666980172861903693
+    second: Plataforma Debil v10_628
+  - first:
+      213: -1278822195110119798
+    second: Plataforma Debil v10_629
+  - first:
+      213: 5645575141905229206
+    second: Plataforma Debil v10_630
+  - first:
+      213: -6299168950367540409
+    second: Plataforma Debil v10_631
+  - first:
+      213: -1248136224379318855
+    second: Plataforma Debil v10_632
+  - first:
+      213: 7074185817465586147
+    second: Plataforma Debil v10_633
+  - first:
+      213: 2666804718712581576
+    second: Plataforma Debil v10_634
+  - first:
+      213: -6254141094728878797
+    second: Plataforma Debil v10_635
+  - first:
+      213: -2908721033496583234
+    second: Plataforma Debil v10_636
+  - first:
+      213: -8922419615837717612
+    second: Plataforma Debil v10_637
+  - first:
+      213: -4025345082894164384
+    second: Plataforma Debil v10_638
+  - first:
+      213: -6727123463679950418
+    second: Plataforma Debil v10_639
+  - first:
+      213: -1816287549552683738
+    second: Plataforma Debil v10_640
+  - first:
+      213: -3256636691675232955
+    second: Plataforma Debil v10_641
+  - first:
+      213: -946789974207638833
+    second: Plataforma Debil v10_642
+  - first:
+      213: -2573407164208523669
+    second: Plataforma Debil v10_643
+  - first:
+      213: 6219107126419141164
+    second: Plataforma Debil v10_644
+  - first:
+      213: 564993963987645071
+    second: Plataforma Debil v10_645
+  - first:
+      213: -4925453263769765810
+    second: Plataforma Debil v10_646
+  - first:
+      213: 2309983492247239730
+    second: Plataforma Debil v10_647
+  - first:
+      213: -8013641080449552556
+    second: Plataforma Debil v10_648
+  - first:
+      213: 1386053785155802930
+    second: Plataforma Debil v10_649
+  - first:
+      213: 5876423586399381496
+    second: Plataforma Debil v10_650
+  - first:
+      213: -4917465244501377079
+    second: Plataforma Debil v10_651
+  - first:
+      213: 7012929142333634385
+    second: Plataforma Debil v10_652
+  - first:
+      213: -104443549079377240
+    second: Plataforma Debil v10_653
+  - first:
+      213: 7733043523329871659
+    second: Plataforma Debil v10_654
+  - first:
+      213: 6561026465254181688
+    second: Plataforma Debil v10_655
+  - first:
+      213: -3791151295356176663
+    second: Plataforma Debil v10_656
+  - first:
+      213: 4992986018994502483
+    second: Plataforma Debil v10_657
+  - first:
+      213: -4080701602621120309
+    second: Plataforma Debil v10_658
+  - first:
+      213: -6458154102097603173
+    second: Plataforma Debil v10_659
+  - first:
+      213: -8878011792156717699
+    second: Plataforma Debil v10_660
+  - first:
+      213: -401454545585055163
+    second: Plataforma Debil v10_661
+  - first:
+      213: -1975944391380272164
+    second: Plataforma Debil v10_662
+  - first:
+      213: -970148911285423096
+    second: Plataforma Debil v10_663
+  - first:
+      213: 4708954207283099061
+    second: Plataforma Debil v10_664
+  - first:
+      213: -4606098889121510425
+    second: Plataforma Debil v10_665
+  - first:
+      213: -6525887563443752990
+    second: Plataforma Debil v10_666
+  - first:
+      213: -133429065484097869
+    second: Plataforma Debil v10_667
+  - first:
+      213: -6520478322013543087
+    second: Plataforma Debil v10_668
+  - first:
+      213: 4645371903748721881
+    second: Plataforma Debil v10_669
+  - first:
+      213: -7076658761138142057
+    second: Plataforma Debil v10_670
+  - first:
+      213: -2814283270958894427
+    second: Plataforma Debil v10_671
+  - first:
+      213: -1678515704663936940
+    second: Plataforma Debil v10_672
+  - first:
+      213: -5013088369200255316
+    second: Plataforma Debil v10_673
+  - first:
+      213: -7479997708171925582
+    second: Plataforma Debil v10_674
+  - first:
+      213: 5421974420233687434
+    second: Plataforma Debil v10_675
+  - first:
+      213: 2190721083149359583
+    second: Plataforma Debil v10_676
+  - first:
+      213: 4357558116057784909
+    second: Plataforma Debil v10_677
+  - first:
+      213: 7356537740686982608
+    second: Plataforma Debil v10_678
+  - first:
+      213: 8863322841822743515
+    second: Plataforma Debil v10_679
+  - first:
+      213: 6557692756065624281
+    second: Plataforma Debil v10_680
+  - first:
+      213: 3346904458682467156
+    second: Plataforma Debil v10_681
+  - first:
+      213: 6189093395719751219
+    second: Plataforma Debil v10_682
+  - first:
+      213: -2207202408138916480
+    second: Plataforma Debil v10_683
+  - first:
+      213: -7166154687071810220
+    second: Plataforma Debil v10_684
+  - first:
+      213: -8358370400265435349
+    second: Plataforma Debil v10_685
+  - first:
+      213: 8541485094843325519
+    second: Plataforma Debil v10_686
+  - first:
+      213: -3144891646353235341
+    second: Plataforma Debil v10_687
+  - first:
+      213: -1311354605299427026
+    second: Plataforma Debil v10_688
+  - first:
+      213: 1984321749393743272
+    second: Plataforma Debil v10_689
+  - first:
+      213: 1394570688757478876
+    second: Plataforma Debil v10_690
+  - first:
+      213: 2812423152567514798
+    second: Plataforma Debil v10_691
+  - first:
+      213: 2528540840753761675
+    second: Plataforma Debil v10_692
+  - first:
+      213: -8356156176818384600
+    second: Plataforma Debil v10_693
+  - first:
+      213: -1454357902118481901
+    second: Plataforma Debil v10_694
+  - first:
+      213: -7128753166864340257
+    second: Plataforma Debil v10_695
+  - first:
+      213: -4551709246175419795
+    second: Plataforma Debil v10_696
+  - first:
+      213: 4729776582851819583
+    second: Plataforma Debil v10_697
+  - first:
+      213: -6156809801802195545
+    second: Plataforma Debil v10_698
+  - first:
+      213: -6494746941348447618
+    second: Plataforma Debil v10_699
+  - first:
+      213: 6877494927152235410
+    second: Plataforma Debil v10_700
+  - first:
+      213: -7800507933474915633
+    second: Plataforma Debil v10_701
+  - first:
+      213: 1073372828881055152
+    second: Plataforma Debil v10_702
+  - first:
+      213: 1999656323606037679
+    second: Plataforma Debil v10_703
+  - first:
+      213: -4942130588969628526
+    second: Plataforma Debil v10_704
+  - first:
+      213: 5380593660634186144
+    second: Plataforma Debil v10_705
+  - first:
+      213: -2065997038322476388
+    second: Plataforma Debil v10_706
+  - first:
+      213: 4894001046582015091
+    second: Plataforma Debil v10_707
+  - first:
+      213: 8482942988349578919
+    second: Plataforma Debil v10_708
+  - first:
+      213: -7926766004482161778
+    second: Plataforma Debil v10_709
+  - first:
+      213: -5255712951388505185
+    second: Plataforma Debil v10_710
+  - first:
+      213: -683972700911838298
+    second: Plataforma Debil v10_711
+  - first:
+      213: -8982457419062768784
+    second: Plataforma Debil v10_712
+  - first:
+      213: 2828524358182606584
+    second: Plataforma Debil v10_713
+  - first:
+      213: -2822676798179277425
+    second: Plataforma Debil v10_714
+  - first:
+      213: -2656582363246663043
+    second: Plataforma Debil v10_715
+  - first:
+      213: -45030813497670171
+    second: Plataforma Debil v10_716
+  - first:
+      213: 1391632880212626918
+    second: Plataforma Debil v10_717
+  - first:
+      213: -8026661932182502053
+    second: Plataforma Debil v10_718
+  - first:
+      213: 1565755836735133062
+    second: Plataforma Debil v10_719
+  - first:
+      213: -8719311545648737698
+    second: Plataforma Debil v10_720
+  - first:
+      213: 3967466922128371562
+    second: Plataforma Debil v10_721
+  - first:
+      213: 5608465177817355494
+    second: Plataforma Debil v10_722
+  - first:
+      213: -8130076312659111624
+    second: Plataforma Debil v10_723
+  - first:
+      213: 3647293368359017863
+    second: Plataforma Debil v10_724
+  - first:
+      213: 9148848023378477676
+    second: Plataforma Debil v10_725
+  - first:
+      213: 180796445877159905
+    second: Plataforma Debil v10_726
+  - first:
+      213: -7484079861024152759
+    second: Plataforma Debil v10_727
+  - first:
+      213: 4572738479583102861
+    second: Plataforma Debil v10_728
+  - first:
+      213: 8290416351946945116
+    second: Plataforma Debil v10_729
+  - first:
+      213: -4109449567204014886
+    second: Plataforma Debil v10_730
+  - first:
+      213: -502352558005971568
+    second: Plataforma Debil v10_731
+  - first:
+      213: -5138163397325031241
+    second: Plataforma Debil v10_732
+  - first:
+      213: 8039360448164871634
+    second: Plataforma Debil v10_733
+  - first:
+      213: 9162767357229502200
+    second: Plataforma Debil v10_734
+  - first:
+      213: -7166627592069767055
+    second: Plataforma Debil v10_735
+  - first:
+      213: -4067562184845096146
+    second: Plataforma Debil v10_736
+  - first:
+      213: 6680788326004074410
+    second: Plataforma Debil v10_737
+  - first:
+      213: 4659174409719459724
+    second: Plataforma Debil v10_738
+  - first:
+      213: 729345571455139007
+    second: Plataforma Debil v10_739
+  - first:
+      213: 8763998151584756439
+    second: Plataforma Debil v10_740
+  - first:
+      213: -6356311948054209853
+    second: Plataforma Debil v10_741
+  - first:
+      213: 7835055612456560749
+    second: Plataforma Debil v10_742
+  - first:
+      213: 8951088155763800404
+    second: Plataforma Debil v10_743
+  - first:
+      213: 7913945494191887340
+    second: Plataforma Debil v10_744
+  - first:
+      213: -7504430456647841808
+    second: Plataforma Debil v10_745
+  - first:
+      213: 4005684885792095262
+    second: Plataforma Debil v10_746
+  - first:
+      213: -2410261225500721641
+    second: Plataforma Debil v10_747
+  - first:
+      213: 3812440696286703976
+    second: Plataforma Debil v10_748
+  - first:
+      213: 8137575724359992815
+    second: Plataforma Debil v10_749
+  - first:
+      213: 6387473791144517185
+    second: Plataforma Debil v10_750
+  - first:
+      213: 5590201172875737888
+    second: Plataforma Debil v10_751
+  - first:
+      213: -1316621829279592845
+    second: Plataforma Debil v10_752
+  - first:
+      213: 8525091795728376663
+    second: Plataforma Debil v10_753
+  - first:
+      213: 4174041998748947292
+    second: Plataforma Debil v10_754
+  - first:
+      213: -8346831256256404371
+    second: Plataforma Debil v10_755
+  - first:
+      213: -7608867714579758959
+    second: Plataforma Debil v10_756
+  - first:
+      213: -7733980851018734657
+    second: Plataforma Debil v10_757
+  - first:
+      213: 5528584826463695077
+    second: Plataforma Debil v10_758
+  - first:
+      213: -6992084275030570593
+    second: Plataforma Debil v10_759
+  - first:
+      213: 1440406289550559343
+    second: Plataforma Debil v10_760
+  - first:
+      213: -8532635046926826490
+    second: Plataforma Debil v10_761
+  - first:
+      213: 650026132324290934
+    second: Plataforma Debil v10_762
+  - first:
+      213: -2093435948730351630
+    second: Plataforma Debil v10_763
+  - first:
+      213: 2448059982901862858
+    second: Plataforma Debil v10_764
+  - first:
+      213: -6807974267892047743
+    second: Plataforma Debil v10_765
+  - first:
+      213: 4719894669342921914
+    second: Plataforma Debil v10_766
+  - first:
+      213: 2623943369733035580
+    second: Plataforma Debil v10_767
+  - first:
+      213: -2733024834648973185
+    second: Plataforma Debil v10_768
+  - first:
+      213: 500999284216626724
+    second: Plataforma Debil v10_769
+  - first:
+      213: 3532169881254859010
+    second: Plataforma Debil v10_770
+  - first:
+      213: 1480300847388932163
+    second: Plataforma Debil v10_771
+  - first:
+      213: 7494196350176274445
+    second: Plataforma Debil v10_772
+  - first:
+      213: 9164742044604376747
+    second: Plataforma Debil v10_773
+  - first:
+      213: -3812999962413301581
+    second: Plataforma Debil v10_774
+  - first:
+      213: 5140134776161653168
+    second: Plataforma Debil v10_775
+  - first:
+      213: -8624593257059666069
+    second: Plataforma Debil v10_776
+  - first:
+      213: 2618345596676667385
+    second: Plataforma Debil v10_777
+  - first:
+      213: -1010121985492691240
+    second: Plataforma Debil v10_778
+  - first:
+      213: 3816756953722503779
+    second: Plataforma Debil v10_779
+  - first:
+      213: -6871308878219932906
+    second: Plataforma Debil v10_780
+  - first:
+      213: 759335098563535989
+    second: Plataforma Debil v10_781
+  - first:
+      213: -4479193710814301579
+    second: Plataforma Debil v10_782
+  - first:
+      213: -2673859382584491399
+    second: Plataforma Debil v10_783
+  - first:
+      213: -8370789798173992992
+    second: Plataforma Debil v10_784
+  - first:
+      213: 55436132416831809
+    second: Plataforma Debil v10_785
+  - first:
+      213: -2027122155585244697
+    second: Plataforma Debil v10_786
+  - first:
+      213: 4978634040058124842
+    second: Plataforma Debil v10_787
+  - first:
+      213: 7266808961476718457
+    second: Plataforma Debil v10_788
+  - first:
+      213: -1851105021043895158
+    second: Plataforma Debil v10_789
+  - first:
+      213: 8392850230503218081
+    second: Plataforma Debil v10_790
+  - first:
+      213: -381731547332037965
+    second: Plataforma Debil v10_791
+  - first:
+      213: 2574939187408665391
+    second: Plataforma Debil v10_792
+  - first:
+      213: -2559716513325822907
+    second: Plataforma Debil v10_793
+  - first:
+      213: -7662217903604395581
+    second: Plataforma Debil v10_794
+  - first:
+      213: 1548866626278896495
+    second: Plataforma Debil v10_795
+  - first:
+      213: 8812584609853796112
+    second: Plataforma Debil v10_796
+  - first:
+      213: 4028245207899342839
+    second: Plataforma Debil v10_797
+  - first:
+      213: -4286577004465601165
+    second: Plataforma Debil v10_798
+  - first:
+      213: 1134343625978524318
+    second: Plataforma Debil v10_799
+  - first:
+      213: 7486334138347068706
+    second: Plataforma Debil v10_800
+  - first:
+      213: -6575035310223257956
+    second: Plataforma Debil v10_801
+  - first:
+      213: -3951502922051760482
+    second: Plataforma Debil v10_802
+  - first:
+      213: 5335099959778039248
+    second: Plataforma Debil v10_803
+  - first:
+      213: -6418211215810891470
+    second: Plataforma Debil v10_804
+  - first:
+      213: 400864872551822287
+    second: Plataforma Debil v10_805
+  - first:
+      213: 1529303550118358636
+    second: Plataforma Debil v10_806
+  - first:
+      213: -3886106202286232589
+    second: Plataforma Debil v10_807
+  - first:
+      213: 9046843758750412811
+    second: Plataforma Debil v10_808
+  - first:
+      213: -4036711550492037555
+    second: Plataforma Debil v10_809
+  - first:
+      213: 1819471446934053229
+    second: Plataforma Debil v10_810
+  - first:
+      213: 2231761695043460817
+    second: Plataforma Debil v10_811
+  - first:
+      213: -478467191684504788
+    second: Plataforma Debil v10_812
+  - first:
+      213: -4968802904222995780
+    second: Plataforma Debil v10_813
+  - first:
+      213: -6930437976212291143
+    second: Plataforma Debil v10_814
+  - first:
+      213: 2529850134082268002
+    second: Plataforma Debil v10_815
+  - first:
+      213: -6351945419928156614
+    second: Plataforma Debil v10_816
+  - first:
+      213: -1097237786807212200
+    second: Plataforma Debil v10_817
+  - first:
+      213: 4620590441624520914
+    second: Plataforma Debil v10_818
+  - first:
+      213: 6654190650623360807
+    second: Plataforma Debil v10_819
+  - first:
+      213: -2325848362264838390
+    second: Plataforma Debil v10_820
+  - first:
+      213: 2625350139771726010
+    second: Plataforma Debil v10_821
+  - first:
+      213: 5401170853898883795
+    second: Plataforma Debil v10_822
+  - first:
+      213: -777735670335337569
+    second: Plataforma Debil v10_823
+  - first:
+      213: 6091100445405144006
+    second: Plataforma Debil v10_824
+  - first:
+      213: 8078080447438726096
+    second: Plataforma Debil v10_825
+  - first:
+      213: -7716211918808266891
+    second: Plataforma Debil v10_826
+  - first:
+      213: -8928642458161214338
+    second: Plataforma Debil v10_827
+  - first:
+      213: 6488785835671736019
+    second: Plataforma Debil v10_828
+  - first:
+      213: -5387795527200599539
+    second: Plataforma Debil v10_829
+  - first:
+      213: 8280748235660926317
+    second: Plataforma Debil v10_830
+  - first:
+      213: -6118343643339357749
+    second: Plataforma Debil v10_831
+  - first:
+      213: -1564386348844859031
+    second: Plataforma Debil v10_832
+  - first:
+      213: -2390063585734669820
+    second: Plataforma Debil v10_833
+  - first:
+      213: -8411427729274790246
+    second: Plataforma Debil v10_834
+  - first:
+      213: 3169253424446438340
+    second: Plataforma Debil v10_835
+  - first:
+      213: -3771770919768147678
+    second: Plataforma Debil v10_836
+  - first:
+      213: -4183601157620584942
+    second: Plataforma Debil v10_837
+  - first:
+      213: 3696547915713557379
+    second: Plataforma Debil v10_838
+  - first:
+      213: 8052714846628107071
+    second: Plataforma Debil v10_839
+  - first:
+      213: -958759939935670042
+    second: Plataforma Debil v10_840
+  - first:
+      213: 5399516881835190730
+    second: Plataforma Debil v10_841
+  - first:
+      213: -2754310489885853508
+    second: Plataforma Debil v10_842
+  - first:
+      213: 7762255642903461579
+    second: Plataforma Debil v10_843
+  - first:
+      213: 8113877780560171658
+    second: Plataforma Debil v10_844
+  - first:
+      213: -1640589267876089786
+    second: Plataforma Debil v10_845
+  - first:
+      213: 701431241696911108
+    second: Plataforma Debil v10_846
+  - first:
+      213: -797646859215637280
+    second: Plataforma Debil v10_847
+  - first:
+      213: -3612680211558731934
+    second: Plataforma Debil v10_848
+  - first:
+      213: 7113767635014569644
+    second: Plataforma Debil v10_849
+  - first:
+      213: 646487490271215961
+    second: Plataforma Debil v10_850
+  - first:
+      213: 3307787430323923546
+    second: Plataforma Debil v10_851
+  - first:
+      213: 3874331861168126821
+    second: Plataforma Debil v10_852
+  - first:
+      213: -3357154063491021556
+    second: Plataforma Debil v10_853
+  - first:
+      213: -5585696462289491918
+    second: Plataforma Debil v10_854
+  - first:
+      213: -5467850882837670627
+    second: Plataforma Debil v10_855
+  - first:
+      213: -3002733686317311276
+    second: Plataforma Debil v10_856
+  - first:
+      213: -5874143036745750494
+    second: Plataforma Debil v10_857
+  - first:
+      213: -4966679107890588310
+    second: Plataforma Debil v10_858
+  - first:
+      213: -4689381007661665205
+    second: Plataforma Debil v10_859
+  - first:
+      213: -4695793758165588436
+    second: Plataforma Debil v10_860
+  - first:
+      213: 5335691233775750595
+    second: Plataforma Debil v10_861
+  - first:
+      213: -3541628523695692837
+    second: Plataforma Debil v10_862
+  - first:
+      213: 1290151577664220132
+    second: Plataforma Debil v10_863
+  - first:
+      213: 523015533285374438
+    second: Plataforma Debil v10_864
+  - first:
+      213: -144674337581116293
+    second: Plataforma Debil v10_865
+  - first:
+      213: 170303236597576695
+    second: Plataforma Debil v10_866
+  - first:
+      213: 4548362232235110271
+    second: Plataforma Debil v10_867
+  - first:
+      213: 3113649003236591321
+    second: Plataforma Debil v10_868
+  - first:
+      213: -9001914625376882300
+    second: Plataforma Debil v10_869
+  - first:
+      213: -6106528507121383623
+    second: Plataforma Debil v10_870
+  - first:
+      213: 8027908931601098848
+    second: Plataforma Debil v10_871
+  - first:
+      213: 5514315821423652802
+    second: Plataforma Debil v10_872
+  - first:
+      213: -8086540740121723770
+    second: Plataforma Debil v10_873
+  - first:
+      213: 4950831760074242517
+    second: Plataforma Debil v10_874
+  - first:
+      213: 6698886644061375477
+    second: Plataforma Debil v10_875
+  - first:
+      213: 4889438719078547721
+    second: Plataforma Debil v10_876
+  - first:
+      213: 9186545506667258265
+    second: Plataforma Debil v10_877
+  - first:
+      213: 587008872298668509
+    second: Plataforma Debil v10_878
+  - first:
+      213: -6839007230717655837
+    second: Plataforma Debil v10_879
+  - first:
+      213: 4188255186731371392
+    second: Plataforma Debil v10_880
+  - first:
+      213: 5180992438632057145
+    second: Plataforma Debil v10_881
+  - first:
+      213: -5377903593379981754
+    second: Plataforma Debil v10_882
+  - first:
+      213: 3301723830759644299
+    second: Plataforma Debil v10_883
+  - first:
+      213: 5571034660746143941
+    second: Plataforma Debil v10_884
+  - first:
+      213: 8162768534047873278
+    second: Plataforma Debil v10_885
+  - first:
+      213: -2855227116247896428
+    second: Plataforma Debil v10_886
+  - first:
+      213: -4843667623374008063
+    second: Plataforma Debil v10_887
+  - first:
+      213: -5868905529741453232
+    second: Plataforma Debil v10_888
+  - first:
+      213: 1609544001029507295
+    second: Plataforma Debil v10_889
+  - first:
+      213: 5915680578346906887
+    second: Plataforma Debil v10_890
+  - first:
+      213: -7201745837951784769
+    second: Plataforma Debil v10_891
+  - first:
+      213: -8634893081505029212
+    second: Plataforma Debil v10_892
+  - first:
+      213: 5357447142011014436
+    second: Plataforma Debil v10_893
+  - first:
+      213: 4082325402289707479
+    second: Plataforma Debil v10_894
+  - first:
+      213: -6672271939076137567
+    second: Plataforma Debil v10_895
+  - first:
+      213: -6133019711386460676
+    second: Plataforma Debil v10_896
+  - first:
+      213: 2973950717366119424
+    second: Plataforma Debil v10_897
+  - first:
+      213: 6110010719313951053
+    second: Plataforma Debil v10_898
+  - first:
+      213: 4401681864895302583
+    second: Plataforma Debil v10_899
+  - first:
+      213: -2787612770707401895
+    second: Plataforma Debil v10_900
+  - first:
+      213: 6858184389543258987
+    second: Plataforma Debil v10_901
+  - first:
+      213: -7689616466200463687
+    second: Plataforma Debil v10_902
+  - first:
+      213: 1215452937733638572
+    second: Plataforma Debil v10_903
+  - first:
+      213: -1681261909053909295
+    second: Plataforma Debil v10_904
+  - first:
+      213: 7446973304772146058
+    second: Plataforma Debil v10_905
+  - first:
+      213: 30213168282168738
+    second: Plataforma Debil v10_906
+  - first:
+      213: 8481278460010866261
+    second: Plataforma Debil v10_907
+  - first:
+      213: 181554130835754612
+    second: Plataforma Debil v10_908
+  - first:
+      213: -4975866540179462011
+    second: Plataforma Debil v10_909
+  - first:
+      213: -6789672085490818881
+    second: Plataforma Debil v10_910
+  - first:
+      213: -3738607948912035992
+    second: Plataforma Debil v10_911
+  - first:
+      213: 2822296257390966216
+    second: Plataforma Debil v10_912
+  - first:
+      213: 7513050568683850649
+    second: Plataforma Debil v10_913
+  - first:
+      213: -5065956801362459013
+    second: Plataforma Debil v10_914
+  - first:
+      213: 4185103767862289079
+    second: Plataforma Debil v10_915
+  - first:
+      213: 2721235543652061554
+    second: Plataforma Debil v10_916
+  - first:
+      213: 1832994154969165735
+    second: Plataforma Debil v10_917
+  - first:
+      213: 4466272335596184135
+    second: Plataforma Debil v10_918
+  - first:
+      213: -7773900687526179400
+    second: Plataforma Debil v10_919
+  - first:
+      213: 3060867834837236951
+    second: Plataforma Debil v10_920
+  - first:
+      213: -2195360745347460670
+    second: Plataforma Debil v10_921
+  - first:
+      213: -1145479540080126054
+    second: Plataforma Debil v10_922
+  - first:
+      213: 5604540230048467075
+    second: Plataforma Debil v10_923
+  - first:
+      213: -166033459339992468
+    second: Plataforma Debil v10_924
+  - first:
+      213: 7476742569056057548
+    second: Plataforma Debil v10_925
+  - first:
+      213: -2872884478373953747
+    second: Plataforma Debil v10_926
+  - first:
+      213: -134056897742110945
+    second: Plataforma Debil v10_927
+  - first:
+      213: 7385409578111943998
+    second: Plataforma Debil v10_928
+  - first:
+      213: 6947697570531881893
+    second: Plataforma Debil v10_929
+  - first:
+      213: -634933761209376033
+    second: Plataforma Debil v10_930
+  - first:
+      213: -330027802077353650
+    second: Plataforma Debil v10_931
+  - first:
+      213: -9200309324528118396
+    second: Plataforma Debil v10_932
+  - first:
+      213: 2911110301927878962
+    second: Plataforma Debil v10_933
+  - first:
+      213: -5066305458335288875
+    second: Plataforma Debil v10_934
+  - first:
+      213: 8211675835746799888
+    second: Plataforma Debil v10_935
+  - first:
+      213: -8880754748454669408
+    second: Plataforma Debil v10_936
+  - first:
+      213: 4225160338479236533
+    second: Plataforma Debil v10_937
+  - first:
+      213: 2227264743002040787
+    second: Plataforma Debil v10_938
+  - first:
+      213: 6512805832541522548
+    second: Plataforma Debil v10_939
+  - first:
+      213: 8238305122174719134
+    second: Plataforma Debil v10_940
+  - first:
+      213: -8276279494353253702
+    second: Plataforma Debil v10_941
+  - first:
+      213: -1842301330908396201
+    second: Plataforma Debil v10_942
+  - first:
+      213: 7122865809564399598
+    second: Plataforma Debil v10_943
+  - first:
+      213: 5723483777128611227
+    second: Plataforma Debil v10_944
+  - first:
+      213: 9130614815643325517
+    second: Plataforma Debil v10_945
+  - first:
+      213: 6391136966557673455
+    second: Plataforma Debil v10_946
+  - first:
+      213: -1293026704493928352
+    second: Plataforma Debil v10_947
+  - first:
+      213: -3832534485706731788
+    second: Plataforma Debil v10_948
+  - first:
+      213: -9055149235076770588
+    second: Plataforma Debil v10_949
+  - first:
+      213: -6207437993350532391
+    second: Plataforma Debil v10_950
+  - first:
+      213: 1869634725949315254
+    second: Plataforma Debil v10_951
+  - first:
+      213: -4481012687733238597
+    second: Plataforma Debil v10_952
+  - first:
+      213: -3011521387598367355
+    second: Plataforma Debil v10_953
+  - first:
+      213: 5452748579127481097
+    second: Plataforma Debil v10_954
+  - first:
+      213: 5960189420849776642
+    second: Plataforma Debil v10_955
+  - first:
+      213: 7054996008594567595
+    second: Plataforma Debil v10_956
+  - first:
+      213: 3812218530771483787
+    second: Plataforma Debil v10_957
+  - first:
+      213: -1229210561588559573
+    second: Plataforma Debil v10_958
+  - first:
+      213: -4272425577042379961
+    second: Plataforma Debil v10_959
+  - first:
+      213: -510690530285369872
+    second: Plataforma Debil v10_960
+  - first:
+      213: 8101216466709703082
+    second: Plataforma Debil v10_961
+  - first:
+      213: -2160326824389174371
+    second: Plataforma Debil v10_962
+  - first:
+      213: 24282136953131433
+    second: Plataforma Debil v10_963
+  - first:
+      213: -2246240005396677534
+    second: Plataforma Debil v10_964
+  - first:
+      213: 4417440554414280217
+    second: Plataforma Debil v10_965
+  - first:
+      213: -7784389487558386790
+    second: Plataforma Debil v10_966
+  - first:
+      213: 8125281845776506473
+    second: Plataforma Debil v10_967
+  - first:
+      213: -8017001453082084491
+    second: Plataforma Debil v10_968
+  - first:
+      213: 3632514206280827507
+    second: Plataforma Debil v10_969
+  - first:
+      213: 8841654117760651435
+    second: Plataforma Debil v10_970
+  - first:
+      213: 3241887279243563229
+    second: Plataforma Debil v10_971
+  - first:
+      213: 5319680980923174493
+    second: Plataforma Debil v10_972
+  - first:
+      213: 5982201738815194856
+    second: Plataforma Debil v10_973
+  - first:
+      213: 4681534176059560205
+    second: Plataforma Debil v10_974
+  - first:
+      213: 8406278264604863651
+    second: Plataforma Debil v10_975
+  - first:
+      213: -8149629764327669283
+    second: Plataforma Debil v10_976
+  - first:
+      213: 8092226338737930566
+    second: Plataforma Debil v10_977
+  - first:
+      213: 213142913280664022
+    second: Plataforma Debil v10_978
+  - first:
+      213: -5961855471825501460
+    second: Plataforma Debil v10_979
+  - first:
+      213: 5688721900282255793
+    second: Plataforma Debil v10_980
+  - first:
+      213: -8305687113846953914
+    second: Plataforma Debil v10_981
+  - first:
+      213: 3492853146670427579
+    second: Plataforma Debil v10_982
+  - first:
+      213: 7838114864793598005
+    second: Plataforma Debil v10_983
+  - first:
+      213: 8861294524362373724
+    second: Plataforma Debil v10_984
+  - first:
+      213: 5822414624174320870
+    second: Plataforma Debil v10_985
+  - first:
+      213: 4898459111590202220
+    second: Plataforma Debil v10_986
+  - first:
+      213: 7658382218830386816
+    second: Plataforma Debil v10_987
+  - first:
+      213: -8049270252030535812
+    second: Plataforma Debil v10_988
+  - first:
+      213: 3794899746434176582
+    second: Plataforma Debil v10_989
+  - first:
+      213: 445148712048780588
+    second: Plataforma Debil v10_990
+  - first:
+      213: -2310439218915776119
+    second: Plataforma Debil v10_991
+  - first:
+      213: -3236430300169951409
+    second: Plataforma Debil v10_992
+  - first:
+      213: 3776995364491371855
+    second: Plataforma Debil v10_993
+  - first:
+      213: -5019863776307391282
+    second: Plataforma Debil v10_994
+  - first:
+      213: -6306969988456935323
+    second: Plataforma Debil v10_995
+  - first:
+      213: 5129128148140409974
+    second: Plataforma Debil v10_996
+  - first:
+      213: -9174147052698837355
+    second: Plataforma Debil v10_997
+  - first:
+      213: -7613942327006566107
+    second: Plataforma Debil v10_998
+  - first:
+      213: 2908312333470887197
+    second: Plataforma Debil v10_999
+  - first:
+      213: 119537707723296160
+    second: Plataforma Debil v10_1000
+  - first:
+      213: -8932143439071501466
+    second: Plataforma Debil v10_1001
+  - first:
+      213: 3298286322784289176
+    second: Plataforma Debil v10_1002
+  - first:
+      213: -4471773681669177121
+    second: Plataforma Debil v10_1003
+  - first:
+      213: 405554948956833875
+    second: Plataforma Debil v10_1004
+  - first:
+      213: 6240562917124585063
+    second: Plataforma Debil v10_1005
+  - first:
+      213: -7526811342030512012
+    second: Plataforma Debil v10_1006
+  - first:
+      213: -6439105589733255350
+    second: Plataforma Debil v10_1007
+  - first:
+      213: -3032141753143714984
+    second: Plataforma Debil v10_1008
+  - first:
+      213: -625635070856710624
+    second: Plataforma Debil v10_1009
+  - first:
+      213: 6586339104363107111
+    second: Plataforma Debil v10_1010
+  - first:
+      213: 3356601085653513639
+    second: Plataforma Debil v10_1011
+  - first:
+      213: -8610177370693069826
+    second: Plataforma Debil v10_1012
+  - first:
+      213: 7965888542984938245
+    second: Plataforma Debil v10_1013
+  - first:
+      213: 2328480018092750376
+    second: Plataforma Debil v10_1014
+  - first:
+      213: -3445682031251272233
+    second: Plataforma Debil v10_1015
+  - first:
+      213: 6140681616035540144
+    second: Plataforma Debil v10_1016
+  - first:
+      213: 6449892470917491520
+    second: Plataforma Debil v10_1017
+  - first:
+      213: 7453027358199488316
+    second: Plataforma Debil v10_1018
+  - first:
+      213: -3412875575286452571
+    second: Plataforma Debil v10_1019
+  - first:
+      213: -3280679964523021683
+    second: Plataforma Debil v10_1020
+  - first:
+      213: -2493810495693905924
+    second: Plataforma Debil v10_1021
+  - first:
+      213: 6999060110691760122
+    second: Plataforma Debil v10_1022
+  - first:
+      213: -2825020704638164934
+    second: Plataforma Debil v10_1023
+  - first:
+      213: 6934668516614436155
+    second: Plataforma Debil v10_1024
+  - first:
+      213: 8686029556423566573
+    second: Plataforma Debil v10_1025
+  - first:
+      213: -1996492190492939109
+    second: Plataforma Debil v10_1026
+  - first:
+      213: 3496495529835147864
+    second: Plataforma Debil v10_1027
+  - first:
+      213: 9213449453511564459
+    second: Plataforma Debil v10_1028
+  - first:
+      213: -8047702029664791722
+    second: Plataforma Debil v10_1029
+  - first:
+      213: -3068917510195662202
+    second: Plataforma Debil v10_1030
+  - first:
+      213: 2723931457618467330
+    second: Plataforma Debil v10_1031
+  - first:
+      213: -4766588255665947986
+    second: Plataforma Debil v10_1032
+  - first:
+      213: -6944060219235737745
+    second: Plataforma Debil v10_1033
+  - first:
+      213: -7148723354710214700
+    second: Plataforma Debil v10_1034
+  - first:
+      213: -648412557014420622
+    second: Plataforma Debil v10_1035
+  - first:
+      213: 2526285552295086993
+    second: Plataforma Debil v10_1036
+  - first:
+      213: -1883044985428022626
+    second: Plataforma Debil v10_1037
+  - first:
+      213: 3604840453522420266
+    second: Plataforma Debil v10_1038
+  - first:
+      213: -3740025088526718219
+    second: Plataforma Debil v10_1039
+  - first:
+      213: 8670048413510116311
+    second: Plataforma Debil v10_1040
+  - first:
+      213: -6178636120712024530
+    second: Plataforma Debil v10_1041
+  - first:
+      213: 5376150799918954783
+    second: Plataforma Debil v10_1042
+  - first:
+      213: 657294930321362810
+    second: Plataforma Debil v10_1043
+  - first:
+      213: -6643862230666426639
+    second: Plataforma Debil v10_1044
+  - first:
+      213: -8584016826410075315
+    second: Plataforma Debil v10_1045
+  - first:
+      213: -8648554671219466514
+    second: Plataforma Debil v10_1046
+  - first:
+      213: -6913751616533337475
+    second: Plataforma Debil v10_1047
+  - first:
+      213: 8567524070840015266
+    second: Plataforma Debil v10_1048
+  - first:
+      213: 8071380642676720220
+    second: Plataforma Debil v10_1049
+  - first:
+      213: 5988518550325844286
+    second: Plataforma Debil v10_1050
+  - first:
+      213: -7662739941523224158
+    second: Plataforma Debil v10_1051
+  - first:
+      213: -8139115350396509872
+    second: Plataforma Debil v10_1052
+  - first:
+      213: 917205841692868150
+    second: Plataforma Debil v10_1053
+  - first:
+      213: -755256199084629692
+    second: Plataforma Debil v10_1054
+  - first:
+      213: 3528506608185202835
+    second: Plataforma Debil v10_1055
+  - first:
+      213: -4921831539544591063
+    second: Plataforma Debil v10_1056
+  - first:
+      213: 8664143562123159469
+    second: Plataforma Debil v10_1057
+  - first:
+      213: -8146322001542990401
+    second: Plataforma Debil v10_1058
+  - first:
+      213: -3144850038757457047
+    second: Plataforma Debil v10_1059
+  - first:
+      213: 1947859086439636178
+    second: Plataforma Debil v10_1060
+  - first:
+      213: -2933185550146144307
+    second: Plataforma Debil v10_1061
+  - first:
+      213: -3689249270541713903
+    second: Plataforma Debil v10_1062
+  - first:
+      213: 3950384469258263258
+    second: Plataforma Debil v10_1063
+  - first:
+      213: 6484550547534006019
+    second: Plataforma Debil v10_1064
+  - first:
+      213: 1549207193182620091
+    second: Plataforma Debil v10_1065
+  - first:
+      213: -5602800003776297229
+    second: Plataforma Debil v10_1066
+  - first:
+      213: -607210367523178
+    second: Plataforma Debil v10_1067
+  - first:
+      213: 7122995613573137629
+    second: Plataforma Debil v10_1068
+  - first:
+      213: -1812853846899673336
+    second: Plataforma Debil v10_1069
+  - first:
+      213: 1906194444814617527
+    second: Plataforma Debil v10_1070
+  - first:
+      213: 7714966422887065153
+    second: Plataforma Debil v10_1071
+  - first:
+      213: 3628944084335291550
+    second: Plataforma Debil v10_1072
+  - first:
+      213: 7293124640190781620
+    second: Plataforma Debil v10_1073
+  - first:
+      213: 2681403917503251512
+    second: Plataforma Debil v10_1074
+  - first:
+      213: 8076382035366257654
+    second: Plataforma Debil v10_1075
+  - first:
+      213: -6688471940198236866
+    second: Plataforma Debil v10_1076
+  - first:
+      213: 4022033098080903377
+    second: Plataforma Debil v10_1077
+  - first:
+      213: -8672659626172658936
+    second: Plataforma Debil v10_1078
+  - first:
+      213: 229355090195366274
+    second: Plataforma Debil v10_1079
+  - first:
+      213: -8268508258166350718
+    second: Plataforma Debil v10_1080
+  - first:
+      213: -2175366630801343682
+    second: Plataforma Debil v10_1081
+  - first:
+      213: -3940281363539934020
+    second: Plataforma Debil v10_1082
+  - first:
+      213: 678680692108770179
+    second: Plataforma Debil v10_1083
+  - first:
+      213: -3794813871881959549
+    second: Plataforma Debil v10_1084
+  - first:
+      213: -1454762550324634448
+    second: Plataforma Debil v10_1085
+  - first:
+      213: 6896602615669098498
+    second: Plataforma Debil v10_1086
+  - first:
+      213: -1253534625648651742
+    second: Plataforma Debil v10_1087
+  - first:
+      213: 4487767467344475260
+    second: Plataforma Debil v10_1088
+  - first:
+      213: -6192696669217753870
+    second: Plataforma Debil v10_1089
+  - first:
+      213: 8780969236008918070
+    second: Plataforma Debil v10_1090
+  - first:
+      213: 2901013717685061299
+    second: Plataforma Debil v10_1091
+  - first:
+      213: -1052406767637895383
+    second: Plataforma Debil v10_1092
+  - first:
+      213: -3500450754006048881
+    second: Plataforma Debil v10_1093
+  - first:
+      213: -586326473951301541
+    second: Plataforma Debil v10_1094
+  - first:
+      213: -6073985758380905362
+    second: Plataforma Debil v10_1095
+  - first:
+      213: -8516058337054925057
+    second: Plataforma Debil v10_1096
+  - first:
+      213: -7381474744334708007
+    second: Plataforma Debil v10_1097
+  - first:
+      213: -8099072351335579712
+    second: Plataforma Debil v10_1098
+  - first:
+      213: 1365713139014533839
+    second: Plataforma Debil v10_1099
+  - first:
+      213: -5554528812240738539
+    second: Plataforma Debil v10_1100
+  - first:
+      213: -5798781774977045613
+    second: Plataforma Debil v10_1101
+  - first:
+      213: 7472167197875362859
+    second: Plataforma Debil v10_1102
+  - first:
+      213: -5810977002199622085
+    second: Plataforma Debil v10_1103
+  - first:
+      213: 3902998140701019036
+    second: Plataforma Debil v10_1104
+  - first:
+      213: -4108826174389471044
+    second: Plataforma Debil v10_1105
+  - first:
+      213: 7146314157196789596
+    second: Plataforma Debil v10_1106
+  - first:
+      213: 4358425082665141004
+    second: Plataforma Debil v10_1107
+  - first:
+      213: -4428574956617555213
+    second: Plataforma Debil v10_1108
+  - first:
+      213: -6390186047045438586
+    second: Plataforma Debil v10_1109
+  - first:
+      213: -3226510505638522962
+    second: Plataforma Debil v10_1110
+  - first:
+      213: -8866103295651014022
+    second: Plataforma Debil v10_1111
+  - first:
+      213: -2516220247620978112
+    second: Plataforma Debil v10_1112
+  - first:
+      213: 2271063892419232521
+    second: Plataforma Debil v10_1113
+  - first:
+      213: -6432769185058179136
+    second: Plataforma Debil v10_1114
+  - first:
+      213: 2891831775955200907
+    second: Plataforma Debil v10_1115
+  - first:
+      213: -1839049482446855478
+    second: Plataforma Debil v10_1116
+  - first:
+      213: -8914693334645111929
+    second: Plataforma Debil v10_1117
+  - first:
+      213: -3325997226407828851
+    second: Plataforma Debil v10_1118
+  - first:
+      213: 8519890633699972418
+    second: Plataforma Debil v10_1119
+  - first:
+      213: 6365529757329187881
+    second: Plataforma Debil v10_1120
+  - first:
+      213: -2642611168135162523
+    second: Plataforma Debil v10_1121
+  - first:
+      213: 7009148934354584114
+    second: Plataforma Debil v10_1122
+  - first:
+      213: 5673635708643473003
+    second: Plataforma Debil v10_1123
+  - first:
+      213: 5297710127887358730
+    second: Plataforma Debil v10_1124
+  - first:
+      213: 385246526272573646
+    second: Plataforma Debil v10_1125
+  - first:
+      213: -9041675036340623027
+    second: Plataforma Debil v10_1126
+  - first:
+      213: 5351250034569636221
+    second: Plataforma Debil v10_1127
+  - first:
+      213: -84977182383705270
+    second: Plataforma Debil v10_1128
+  - first:
+      213: 865119961541009903
+    second: Plataforma Debil v10_1129
+  - first:
+      213: -2296439009554122214
+    second: Plataforma Debil v10_1130
+  - first:
+      213: -5556140049240992829
+    second: Plataforma Debil v10_1131
+  - first:
+      213: -2359391599070990685
+    second: Plataforma Debil v10_1132
+  - first:
+      213: -3630968750192777349
+    second: Plataforma Debil v10_1133
+  - first:
+      213: -7622448697636711440
+    second: Plataforma Debil v10_1134
+  - first:
+      213: -3074495460823306123
+    second: Plataforma Debil v10_1135
+  - first:
+      213: -6702794169954609527
+    second: Plataforma Debil v10_1136
+  - first:
+      213: 7480892882062682871
+    second: Plataforma Debil v10_1137
+  - first:
+      213: -4135772894387882982
+    second: Plataforma Debil v10_1138
+  - first:
+      213: -8766799843497187694
+    second: Plataforma Debil v10_1139
+  - first:
+      213: -6799323380737644841
+    second: Plataforma Debil v10_1140
+  - first:
+      213: 7869488441190003652
+    second: Plataforma Debil v10_1141
+  - first:
+      213: -1806785445183793930
+    second: Plataforma Debil v10_1142
+  - first:
+      213: 8498462214359870090
+    second: Plataforma Debil v10_1143
+  - first:
+      213: 6541219618585652288
+    second: Plataforma Debil v10_1144
+  - first:
+      213: 863968534958276187
+    second: Plataforma Debil v10_1145
+  - first:
+      213: 4080491721785771800
+    second: Plataforma Debil v10_1146
+  - first:
+      213: 79266747913506560
+    second: Plataforma Debil v10_1147
+  - first:
+      213: -3445886739160071229
+    second: Plataforma Debil v10_1148
+  - first:
+      213: -3330922938083627241
+    second: Plataforma Debil v10_1149
+  - first:
+      213: 268836710520529136
+    second: Plataforma Debil v10_1150
+  - first:
+      213: 7274741464274309338
+    second: Plataforma Debil v10_1151
+  - first:
+      213: -7036631443399099641
+    second: Plataforma Debil v10_1152
+  - first:
+      213: -8112950909705403325
+    second: Plataforma Debil v10_1153
+  - first:
+      213: -544645545315102657
+    second: Plataforma Debil v10_1154
+  - first:
+      213: 4722995880225915420
+    second: Plataforma Debil v10_1155
+  - first:
+      213: -5000949910697598940
+    second: Plataforma Debil v10_1156
+  - first:
+      213: 8123076756474193817
+    second: Plataforma Debil v10_1157
+  - first:
+      213: 9098505398775839604
+    second: Plataforma Debil v10_1158
+  - first:
+      213: -1800818004998275612
+    second: Plataforma Debil v10_1159
+  - first:
+      213: -8834022346613136395
+    second: Plataforma Debil v10_1160
+  - first:
+      213: 8492869268912749976
+    second: Plataforma Debil v10_1161
+  - first:
+      213: 6223018410830018695
+    second: Plataforma Debil v10_1162
+  - first:
+      213: 6238482112388513991
+    second: Plataforma Debil v10_1163
+  - first:
+      213: -2937961938694909484
+    second: Plataforma Debil v10_1164
+  - first:
+      213: -6817671447640908837
+    second: Plataforma Debil v10_1165
+  - first:
+      213: -8673641991178968295
+    second: Plataforma Debil v10_1166
+  - first:
+      213: 7910869826413788908
+    second: Plataforma Debil v10_1167
+  - first:
+      213: 2332658577943614196
+    second: Plataforma Debil v10_1168
+  - first:
+      213: -5743460341710040531
+    second: Plataforma Debil v10_1169
+  - first:
+      213: -4203807653002508527
+    second: Plataforma Debil v10_1170
+  - first:
+      213: -1830053804277443370
+    second: Plataforma Debil v10_1171
+  - first:
+      213: 3701543474870506402
+    second: Plataforma Debil v10_1172
+  - first:
+      213: -3776652525338557438
+    second: Plataforma Debil v10_1173
+  - first:
+      213: 189030447628525651
+    second: Plataforma Debil v10_1174
+  - first:
+      213: 4045227048113810038
+    second: Plataforma Debil v10_1175
+  - first:
+      213: -2670105102644737411
+    second: Plataforma Debil v10_1176
+  - first:
+      213: 7878012444130878091
+    second: Plataforma Debil v10_1177
+  - first:
+      213: -5503613684177760520
+    second: Plataforma Debil v10_1178
+  - first:
+      213: -8610866654619657691
+    second: Plataforma Debil v10_1179
+  - first:
+      213: -7108668149458813203
+    second: Plataforma Debil v10_1180
+  - first:
+      213: -3615037129548230775
+    second: Plataforma Debil v10_1181
+  - first:
+      213: 8762290361707387612
+    second: Plataforma Debil v10_1182
+  - first:
+      213: -4002831950847818919
+    second: Plataforma Debil v10_1183
+  - first:
+      213: -8358563127923717846
+    second: Plataforma Debil v10_1184
+  - first:
+      213: 7979235030190745419
+    second: Plataforma Debil v10_1185
+  - first:
+      213: 1671285524064014857
+    second: Plataforma Debil v10_1186
+  - first:
+      213: 8886989584197720148
+    second: Plataforma Debil v10_1187
+  - first:
+      213: -650195427101149757
+    second: Plataforma Debil v10_1188
+  - first:
+      213: 4602231052851997685
+    second: Plataforma Debil v10_1189
+  - first:
+      213: -3625643839142790648
+    second: Plataforma Debil v10_1190
+  - first:
+      213: -4564652350188964128
+    second: Plataforma Debil v10_1191
+  - first:
+      213: 6301195064439092180
+    second: Plataforma Debil v10_1192
+  - first:
+      213: 5585540883517915725
+    second: Plataforma Debil v10_1193
+  - first:
+      213: -2770265302951579890
+    second: Plataforma Debil v10_1194
+  - first:
+      213: -4298087885075173577
+    second: Plataforma Debil v10_1195
+  - first:
+      213: -1148461340021326818
+    second: Plataforma Debil v10_1196
+  - first:
+      213: 6300842222852676429
+    second: Plataforma Debil v10_1197
+  - first:
+      213: 2815073586497104911
+    second: Plataforma Debil v10_1198
+  - first:
+      213: 7996360002180683180
+    second: Plataforma Debil v10_1199
+  - first:
+      213: -5479816394965184436
+    second: Plataforma Debil v10_1200
+  - first:
+      213: 8229359156125000848
+    second: Plataforma Debil v10_1201
+  - first:
+      213: 4138287766401955103
+    second: Plataforma Debil v10_1202
+  - first:
+      213: 4961047236262541776
+    second: Plataforma Debil v10_1203
+  - first:
+      213: -4642887428254139977
+    second: Plataforma Debil v10_1204
+  - first:
+      213: 8985498183057432053
+    second: Plataforma Debil v10_1205
+  - first:
+      213: 7075892039716684326
+    second: Plataforma Debil v10_1206
+  - first:
+      213: -2706032815497608819
+    second: Plataforma Debil v10_1207
+  - first:
+      213: 7367818784534544978
+    second: Plataforma Debil v10_1208
+  - first:
+      213: 4532509939982319830
+    second: Plataforma Debil v10_1209
+  - first:
+      213: 1917735830923469827
+    second: Plataforma Debil v10_1210
+  - first:
+      213: 3348617649259778725
+    second: Plataforma Debil v10_1211
+  - first:
+      213: -5613649758291976616
+    second: Plataforma Debil v10_1212
+  - first:
+      213: 1260129393345280176
+    second: Plataforma Debil v10_1213
+  - first:
+      213: 4011126945262789739
+    second: Plataforma Debil v10_1214
+  - first:
+      213: 3656028335208318673
+    second: Plataforma Debil v10_1215
+  - first:
+      213: 7427313012987399175
+    second: Plataforma Debil v10_1216
+  - first:
+      213: 582367506657345551
+    second: Plataforma Debil v10_1217
+  - first:
+      213: 6778029245256298881
+    second: Plataforma Debil v10_1218
+  - first:
+      213: 7743652745953967229
+    second: Plataforma Debil v10_1219
+  - first:
+      213: -835965960065014580
+    second: Plataforma Debil v10_1220
+  - first:
+      213: 1535802111169829357
+    second: Plataforma Debil v10_1221
+  - first:
+      213: -2963980346439739428
+    second: Plataforma Debil v10_1222
+  - first:
+      213: -7336799576499129404
+    second: Plataforma Debil v10_1223
+  - first:
+      213: -2116137686144046718
+    second: Plataforma Debil v10_1224
+  - first:
+      213: 5915996058907575428
+    second: Plataforma Debil v10_1225
+  - first:
+      213: -5223424634087062430
+    second: Plataforma Debil v10_1226
+  - first:
+      213: 5806410260984865982
+    second: Plataforma Debil v10_1227
+  - first:
+      213: -3565061040078953186
+    second: Plataforma Debil v10_1228
+  - first:
+      213: -6815847310030661690
+    second: Plataforma Debil v10_1229
+  - first:
+      213: -7956217925797030006
+    second: Plataforma Debil v10_1230
+  - first:
+      213: -1135732591793955686
+    second: Plataforma Debil v10_1231
+  - first:
+      213: 429324853131006771
+    second: Plataforma Debil v10_1232
+  - first:
+      213: 2801136008503141995
+    second: Plataforma Debil v10_1233
+  - first:
+      213: -2332207991294168998
+    second: Plataforma Debil v10_1234
+  - first:
+      213: 7822942393871314248
+    second: Plataforma Debil v10_1235
+  - first:
+      213: 7028192358881663969
+    second: Plataforma Debil v10_1236
+  - first:
+      213: -8262848408477080429
+    second: Plataforma Debil v10_1237
+  - first:
+      213: 268485766739766787
+    second: Plataforma Debil v10_1238
+  - first:
+      213: 458818281768594976
+    second: Plataforma Debil v10_1239
+  - first:
+      213: 394109516509758362
+    second: Plataforma Debil v10_1240
+  - first:
+      213: 5161770531559505815
+    second: Plataforma Debil v10_1241
+  - first:
+      213: 7865065662169081253
+    second: Plataforma Debil v10_1242
+  - first:
+      213: 3574043026145121189
+    second: Plataforma Debil v10_1243
+  - first:
+      213: -2979357743249301607
+    second: Plataforma Debil v10_1244
+  - first:
+      213: 5941802233514770539
+    second: Plataforma Debil v10_1245
+  - first:
+      213: -4520359184553944975
+    second: Plataforma Debil v10_1246
+  - first:
+      213: -4514264111331227402
+    second: Plataforma Debil v10_1247
+  - first:
+      213: -6901364637943708574
+    second: Plataforma Debil v10_1248
+  - first:
+      213: 8227738869314523755
+    second: Plataforma Debil v10_1249
+  - first:
+      213: -2405646684587025439
+    second: Plataforma Debil v10_1250
+  - first:
+      213: 4831224222077716831
+    second: Plataforma Debil v10_1251
+  - first:
+      213: -7006385620135762693
+    second: Plataforma Debil v10_1252
+  - first:
+      213: -7082280767051387939
+    second: Plataforma Debil v10_1253
+  - first:
+      213: -1182656549846293915
+    second: Plataforma Debil v10_1254
+  - first:
+      213: -5029590880997972313
+    second: Plataforma Debil v10_1255
+  - first:
+      213: -7512927024809331154
+    second: Plataforma Debil v10_1256
+  - first:
+      213: 1246366874329573209
+    second: Plataforma Debil v10_1257
+  - first:
+      213: -2760153659809146965
+    second: Plataforma Debil v10_1258
+  - first:
+      213: -2699989188696428390
+    second: Plataforma Debil v10_1259
+  - first:
+      213: 4974548333941372309
+    second: Plataforma Debil v10_1260
+  - first:
+      213: 4161009056644109951
+    second: Plataforma Debil v10_1261
+  - first:
+      213: -524371581415110303
+    second: Plataforma Debil v10_1262
+  - first:
+      213: 8169161883903631858
+    second: Plataforma Debil v10_1263
+  - first:
+      213: 4796693300757814179
+    second: Plataforma Debil v10_1264
+  - first:
+      213: 5226013718606313679
+    second: Plataforma Debil v10_1265
+  - first:
+      213: -2484603797528740655
+    second: Plataforma Debil v10_1266
+  - first:
+      213: 5818686757475048630
+    second: Plataforma Debil v10_1267
+  - first:
+      213: -3309058354292532510
+    second: Plataforma Debil v10_1268
+  - first:
+      213: -7907266118474903398
+    second: Plataforma Debil v10_1269
+  - first:
+      213: 2803768006763698595
+    second: Plataforma Debil v10_1270
+  - first:
+      213: 2453377565225604059
+    second: Plataforma Debil v10_1271
+  - first:
+      213: 7221947142419203966
+    second: Plataforma Debil v10_1272
+  - first:
+      213: 7874261601446448448
+    second: Plataforma Debil v10_1273
+  - first:
+      213: 3865311067618143668
+    second: Plataforma Debil v10_1274
+  - first:
+      213: -3937071074827355738
+    second: Plataforma Debil v10_1275
+  - first:
+      213: 8033646496342814713
+    second: Plataforma Debil v10_1276
+  - first:
+      213: 2305063974182604023
+    second: Plataforma Debil v10_1277
+  - first:
+      213: -4227422590688471261
+    second: Plataforma Debil v10_1278
+  - first:
+      213: -328814902640987096
+    second: Plataforma Debil v10_1279
+  - first:
+      213: -7972503709911251337
+    second: Plataforma Debil v10_1280
+  - first:
+      213: 7549102119373335790
+    second: Plataforma Debil v10_1281
+  - first:
+      213: -7074909984092931397
+    second: Plataforma Debil v10_1282
+  - first:
+      213: -4868008979890325973
+    second: Plataforma Debil v10_1283
+  - first:
+      213: -1943815472758252430
+    second: Plataforma Debil v10_1284
+  - first:
+      213: 670038906275344127
+    second: Plataforma Debil v10_1285
+  - first:
+      213: -8458473639557884987
+    second: Plataforma Debil v10_1286
+  - first:
+      213: -5092118805501240167
+    second: Plataforma Debil v10_1287
+  - first:
+      213: -4994023571762256392
+    second: Plataforma Debil v10_1288
+  - first:
+      213: 7685789142876403173
+    second: Plataforma Debil v10_1289
+  - first:
+      213: -3580986119599730126
+    second: Plataforma Debil v10_1290
+  - first:
+      213: 5703317626044964577
+    second: Plataforma Debil v10_1291
+  - first:
+      213: 2181399060537996397
+    second: Plataforma Debil v10_1292
+  - first:
+      213: -2000391974273063929
+    second: Plataforma Debil v10_1293
+  - first:
+      213: 7662595596929943739
+    second: Plataforma Debil v10_1294
+  - first:
+      213: -5781583747898559873
+    second: Plataforma Debil v10_1295
+  - first:
+      213: 4576541074386148941
+    second: Plataforma Debil v10_1296
+  - first:
+      213: 5898788798455829641
+    second: Plataforma Debil v10_1297
+  - first:
+      213: 4601511418811378726
+    second: Plataforma Debil v10_1298
+  - first:
+      213: 6535011529248988460
+    second: Plataforma Debil v10_1299
+  - first:
+      213: -6138988389952552751
+    second: Plataforma Debil v10_1300
+  - first:
+      213: 6973887742303507845
+    second: Plataforma Debil v10_1301
+  - first:
+      213: -6691964991438854194
+    second: Plataforma Debil v10_1302
+  - first:
+      213: -6258952727391726885
+    second: Plataforma Debil v10_1303
+  - first:
+      213: 1556724616476174499
+    second: Plataforma Debil v10_1304
+  - first:
+      213: -1657246630397198399
+    second: Plataforma Debil v10_1305
+  - first:
+      213: 1073628817081826755
+    second: Plataforma Debil v10_1306
+  - first:
+      213: 8088085014263307609
+    second: Plataforma Debil v10_1307
+  - first:
+      213: 6856523665486455911
+    second: Plataforma Debil v10_1308
+  - first:
+      213: -3661333031669978662
+    second: Plataforma Debil v10_1309
+  - first:
+      213: -5529366645383140316
+    second: Plataforma Debil v10_1310
+  - first:
+      213: 5514002390509458833
+    second: Plataforma Debil v10_1311
+  - first:
+      213: -6609053317798272569
+    second: Plataforma Debil v10_1312
+  - first:
+      213: -9177555513705560354
+    second: Plataforma Debil v10_1313
+  - first:
+      213: -3275919447035818483
+    second: Plataforma Debil v10_1314
+  - first:
+      213: -4837262962980961557
+    second: Plataforma Debil v10_1315
+  - first:
+      213: -2068905580790625835
+    second: Plataforma Debil v10_1316
+  - first:
+      213: 1288468419093939942
+    second: Plataforma Debil v10_1317
+  - first:
+      213: -329096708013018779
+    second: Plataforma Debil v10_1318
+  - first:
+      213: 428682062409151163
+    second: Plataforma Debil v10_1319
+  - first:
+      213: 8905627601182442769
+    second: Plataforma Debil v10_1320
+  - first:
+      213: -719049851770845268
+    second: Plataforma Debil v10_1321
+  - first:
+      213: 4179744825338093914
+    second: Plataforma Debil v10_1322
+  - first:
+      213: -4887223191433246989
+    second: Plataforma Debil v10_1323
+  - first:
+      213: -116969167988428146
+    second: Plataforma Debil v10_1324
+  - first:
+      213: -2762117445989727636
+    second: Plataforma Debil v10_1325
+  - first:
+      213: 2708547625784019560
+    second: Plataforma Debil v10_1326
+  - first:
+      213: -4626141441948734558
+    second: Plataforma Debil v10_1327
+  - first:
+      213: -3551165416194531594
+    second: Plataforma Debil v10_1328
+  - first:
+      213: 459674523419780773
+    second: Plataforma Debil v10_1329
+  - first:
+      213: 1263844192709708814
+    second: Plataforma Debil v10_1330
+  - first:
+      213: 1514063812567207446
+    second: Plataforma Debil v10_1331
+  - first:
+      213: 7507401276621034317
+    second: Plataforma Debil v10_1332
+  - first:
+      213: 3887871561315309511
+    second: Plataforma Debil v10_1333
+  - first:
+      213: -4988153806765315554
+    second: Plataforma Debil v10_1334
+  - first:
+      213: -5265123841465487208
+    second: Plataforma Debil v10_1335
+  - first:
+      213: 5635311617358111508
+    second: Plataforma Debil v10_1336
+  - first:
+      213: 2606485497520071309
+    second: Plataforma Debil v10_1337
+  - first:
+      213: 1672017654568028481
+    second: Plataforma Debil v10_1338
+  - first:
+      213: 3779900627027809004
+    second: Plataforma Debil v10_1339
+  - first:
+      213: 3407055397377442788
+    second: Plataforma Debil v10_1340
+  - first:
+      213: 8372214414583982609
+    second: Plataforma Debil v10_1341
+  - first:
+      213: -3938909329519292298
+    second: Plataforma Debil v10_1342
+  - first:
+      213: -1751564530492670347
+    second: Plataforma Debil v10_1343
+  - first:
+      213: 1071367595619213274
+    second: Plataforma Debil v10_1344
+  - first:
+      213: 940945423689459855
+    second: Plataforma Debil v10_1345
+  - first:
+      213: 3809486696947616417
+    second: Plataforma Debil v10_1346
+  - first:
+      213: -6600097287910086223
+    second: Plataforma Debil v10_1347
+  - first:
+      213: 1359968632544415691
+    second: Plataforma Debil v10_1348
+  - first:
+      213: 9155741854148144406
+    second: Plataforma Debil v10_1349
+  - first:
+      213: 2689979924675215588
+    second: Plataforma Debil v10_1350
+  - first:
+      213: 1979432290215088083
+    second: Plataforma Debil v10_1351
+  - first:
+      213: 3273792830012709787
+    second: Plataforma Debil v10_1352
+  - first:
+      213: 4642442494260971873
+    second: Plataforma Debil v10_1353
+  - first:
+      213: -8130027695316605349
+    second: Plataforma Debil v10_1354
+  - first:
+      213: -8176362532043969288
+    second: Plataforma Debil v10_1355
+  - first:
+      213: -432109558500884360
+    second: Plataforma Debil v10_1356
+  - first:
+      213: -2251805673532057261
+    second: Plataforma Debil v10_1357
+  - first:
+      213: 7287914892619438747
+    second: Plataforma Debil v10_1358
+  - first:
+      213: 2733134442283380549
+    second: Plataforma Debil v10_1359
+  - first:
+      213: 2628920098572907036
+    second: Plataforma Debil v10_1360
+  - first:
+      213: 1178213751904918710
+    second: Plataforma Debil v10_1361
+  - first:
+      213: -1097640096064866399
+    second: Plataforma Debil v10_1362
+  - first:
+      213: -835119852035280278
+    second: Plataforma Debil v10_1363
+  - first:
+      213: -2409395963338490766
+    second: Plataforma Debil v10_1364
+  - first:
+      213: -3090871157999907778
+    second: Plataforma Debil v10_1365
+  - first:
+      213: -3396439868819858113
+    second: Plataforma Debil v10_1366
+  - first:
+      213: -6474781151213082494
+    second: Plataforma Debil v10_1367
+  - first:
+      213: 4929254869679267267
+    second: Plataforma Debil v10_1368
+  - first:
+      213: -6908291715910014425
+    second: Plataforma Debil v10_1369
+  - first:
+      213: -8512079948879007451
+    second: Plataforma Debil v10_1370
+  - first:
+      213: 4405813447328560146
+    second: Plataforma Debil v10_1371
+  - first:
+      213: -2109687064488540560
+    second: Plataforma Debil v10_1372
+  - first:
+      213: -8499920928374321681
+    second: Plataforma Debil v10_1373
+  - first:
+      213: -7452833580194303204
+    second: Plataforma Debil v10_1374
+  - first:
+      213: 6230697311843904816
+    second: Plataforma Debil v10_1375
+  - first:
+      213: -5771264634337773526
+    second: Plataforma Debil v10_1376
+  - first:
+      213: -5674908109253962926
+    second: Plataforma Debil v10_1377
+  - first:
+      213: -137996278228481805
+    second: Plataforma Debil v10_1378
+  - first:
+      213: -298447684813605476
+    second: Plataforma Debil v10_1379
+  - first:
+      213: 1639842631601026071
+    second: Plataforma Debil v10_1380
+  - first:
+      213: -1929330162265521879
+    second: Plataforma Debil v10_1381
+  - first:
+      213: 1701110974717106264
+    second: Plataforma Debil v10_1382
+  - first:
+      213: 2176185381180415882
+    second: Plataforma Debil v10_1383
+  - first:
+      213: 4170559683156354892
+    second: Plataforma Debil v10_1384
+  - first:
+      213: 6255675401413181719
+    second: Plataforma Debil v10_1385
+  - first:
+      213: 5330284431068535340
+    second: Plataforma Debil v10_1386
+  - first:
+      213: -4441532551077839066
+    second: Plataforma Debil v10_1387
+  - first:
+      213: 3312663335028670066
+    second: Plataforma Debil v10_1388
+  - first:
+      213: -2944038928531744995
+    second: Plataforma Debil v10_1389
+  - first:
+      213: 8753425181957753638
+    second: Plataforma Debil v10_1390
+  - first:
+      213: 328989471472368168
+    second: Plataforma Debil v10_1391
+  - first:
+      213: 3196750066031566901
+    second: Plataforma Debil v10_1392
+  - first:
+      213: -7975672635754258247
+    second: Plataforma Debil v10_1393
+  - first:
+      213: 5888527900463288498
+    second: Plataforma Debil v10_1394
+  - first:
+      213: -1773619152746695360
+    second: Plataforma Debil v10_1395
+  - first:
+      213: -4458710077189639307
+    second: Plataforma Debil v10_1396
+  - first:
+      213: -8514571111916677429
+    second: Plataforma Debil v10_1397
+  - first:
+      213: -8910989834745213033
+    second: Plataforma Debil v10_1398
+  - first:
+      213: 305199778684666182
+    second: Plataforma Debil v10_1399
+  - first:
+      213: 1643269753309238218
+    second: Plataforma Debil v10_1400
+  - first:
+      213: -4991919831764404275
+    second: Plataforma Debil v10_1401
+  - first:
+      213: 7357756471062018231
+    second: Plataforma Debil v10_1402
+  - first:
+      213: -575650223968372177
+    second: Plataforma Debil v10_1403
+  - first:
+      213: 3047938405396289911
+    second: Plataforma Debil v10_1404
+  - first:
+      213: -352270521396483570
+    second: Plataforma Debil v10_1405
+  - first:
+      213: -1657168779272587735
+    second: Plataforma Debil v10_1406
+  - first:
+      213: -7814280252352410569
+    second: Plataforma Debil v10_1407
+  - first:
+      213: -6487905434163029267
+    second: Plataforma Debil v10_1408
+  - first:
+      213: -3986439611090705938
+    second: Plataforma Debil v10_1409
+  - first:
+      213: 2865496650033739133
+    second: Plataforma Debil v10_1410
+  - first:
+      213: -7219711673250371884
+    second: Plataforma Debil v10_1411
+  - first:
+      213: 3295326998985595271
+    second: Plataforma Debil v10_1412
+  - first:
+      213: 4614653011401861962
+    second: Plataforma Debil v10_1413
+  - first:
+      213: -6364923046288607206
+    second: Plataforma Debil v10_1414
+  - first:
+      213: 4449900159171391749
+    second: Plataforma Debil v10_1415
+  - first:
+      213: 7254006134758504515
+    second: Plataforma Debil v10_1416
+  - first:
+      213: 7200083509047454576
+    second: Plataforma Debil v10_1417
+  - first:
+      213: -7199264126430273585
+    second: Plataforma Debil v10_1418
+  - first:
+      213: 2182587922177168196
+    second: Plataforma Debil v10_1419
+  - first:
+      213: -2637345057824358689
+    second: Plataforma Debil v10_1420
+  - first:
+      213: 3701091937455849293
+    second: Plataforma Debil v10_1421
+  - first:
+      213: 9129950667661297149
+    second: Plataforma Debil v10_1422
+  - first:
+      213: 2458029648544384905
+    second: Plataforma Debil v10_1423
+  - first:
+      213: -440375087677106981
+    second: Plataforma Debil v10_1424
+  - first:
+      213: -6980150836713520124
+    second: Plataforma Debil v10_1425
+  - first:
+      213: -5500786054230818734
+    second: Plataforma Debil v10_1426
+  - first:
+      213: 1021791102254745341
+    second: Plataforma Debil v10_1427
+  - first:
+      213: 4254298591749217167
+    second: Plataforma Debil v10_1428
+  - first:
+      213: -5912073087265134404
+    second: Plataforma Debil v10_1429
+  - first:
+      213: -1395338945928098349
+    second: Plataforma Debil v10_1430
+  - first:
+      213: 5717461301825932642
+    second: Plataforma Debil v10_1431
+  - first:
+      213: -5580409809912330009
+    second: Plataforma Debil v10_1432
+  - first:
+      213: 6683652744907135626
+    second: Plataforma Debil v10_1433
+  - first:
+      213: -2362308586813540815
+    second: Plataforma Debil v10_1434
+  - first:
+      213: -5278763445992919447
+    second: Plataforma Debil v10_1435
+  - first:
+      213: -8691396068657221803
+    second: Plataforma Debil v10_1436
+  - first:
+      213: -7980068055903390896
+    second: Plataforma Debil v10_1437
+  - first:
+      213: -4015733394035414450
+    second: Plataforma Debil v10_1438
+  - first:
+      213: 5327380627491385045
+    second: Plataforma Debil v10_1439
+  - first:
+      213: -7490341532690141738
+    second: Plataforma Debil v10_1440
+  - first:
+      213: 8805428722973391625
+    second: Plataforma Debil v10_1441
+  - first:
+      213: 1900740648962655446
+    second: Plataforma Debil v10_1442
+  - first:
+      213: 3616303649121980231
+    second: Plataforma Debil v10_1443
+  - first:
+      213: 2445857956944625699
+    second: Plataforma Debil v10_1444
+  - first:
+      213: -7360113119607632839
+    second: Plataforma Debil v10_1445
+  - first:
+      213: 5199994218468978688
+    second: Plataforma Debil v10_1446
+  - first:
+      213: -5919499654885522299
+    second: Plataforma Debil v10_1447
+  - first:
+      213: 8356645516072065228
+    second: Plataforma Debil v10_1448
+  - first:
+      213: -3924491751256312481
+    second: Plataforma Debil v10_1449
+  - first:
+      213: 5713445609941957074
+    second: Plataforma Debil v10_1450
+  - first:
+      213: -972149062448379199
+    second: Plataforma Debil v10_1451
+  - first:
+      213: -425300392952684779
+    second: Plataforma Debil v10_1452
+  - first:
+      213: 9114715085851724816
+    second: Plataforma Debil v10_1453
+  - first:
+      213: 2620151008802858719
+    second: Plataforma Debil v10_1454
+  - first:
+      213: -3901727636216067869
+    second: Plataforma Debil v10_1455
+  - first:
+      213: 5317435379819391156
+    second: Plataforma Debil v10_1456
+  - first:
+      213: -4021845011912288670
+    second: Plataforma Debil v10_1457
+  - first:
+      213: 419086451351875341
+    second: Plataforma Debil v10_1458
+  - first:
+      213: 52697088045306178
+    second: Plataforma Debil v10_1459
+  - first:
+      213: 3546926032310955744
+    second: Plataforma Debil v10_1460
+  - first:
+      213: 9025908183644122915
+    second: Plataforma Debil v10_1461
+  - first:
+      213: 2625838049480167005
+    second: Plataforma Debil v10_1462
+  - first:
+      213: 6532760841653842
+    second: Plataforma Debil v10_1463
+  - first:
+      213: -8540020059420971819
+    second: Plataforma Debil v10_1464
+  - first:
+      213: -5430196534039678134
+    second: Plataforma Debil v10_1465
+  - first:
+      213: 9071717329602871285
+    second: Plataforma Debil v10_1466
+  - first:
+      213: -3006689908663901443
+    second: Plataforma Debil v10_1467
+  - first:
+      213: -5135993223760171287
+    second: Plataforma Debil v10_1468
+  - first:
+      213: -5704294350062878664
+    second: Plataforma Debil v10_1469
+  - first:
+      213: 5732980257322712590
+    second: Plataforma Debil v10_1470
+  - first:
+      213: -5959992524362360041
+    second: Plataforma Debil v10_1471
+  - first:
+      213: 2441447314570209306
+    second: Plataforma Debil v10_1472
+  - first:
+      213: 6892837498934521218
+    second: Plataforma Debil v10_1473
+  - first:
+      213: 4034105712743487525
+    second: Plataforma Debil v10_1474
+  - first:
+      213: -2510938591778143394
+    second: Plataforma Debil v10_1475
+  - first:
+      213: -8898451783185564876
+    second: Plataforma Debil v10_1476
+  - first:
+      213: -4854348088219952063
+    second: Plataforma Debil v10_1477
+  - first:
+      213: -3822674479798898726
+    second: Plataforma Debil v10_1478
+  - first:
+      213: 1299479593413330640
+    second: Plataforma Debil v10_1479
+  - first:
+      213: 7380731162110935581
+    second: Plataforma Debil v10_1480
+  - first:
+      213: -7767002225998631565
+    second: Plataforma Debil v10_1481
+  - first:
+      213: -2900540892433010518
+    second: Plataforma Debil v10_1482
+  - first:
+      213: -6083975706327372135
+    second: Plataforma Debil v10_1483
+  - first:
+      213: -1054652557103309442
+    second: Plataforma Debil v10_1484
+  - first:
+      213: -2626259415434907685
+    second: Plataforma Debil v10_1485
+  - first:
+      213: -6783834777313548078
+    second: Plataforma Debil v10_1486
+  - first:
+      213: -3018773229890338897
+    second: Plataforma Debil v10_1487
+  - first:
+      213: -5373696191094050096
+    second: Plataforma Debil v10_1488
+  - first:
+      213: 1237903125846320172
+    second: Plataforma Debil v10_1489
+  - first:
+      213: -2550261290685688418
+    second: Plataforma Debil v10_1490
+  - first:
+      213: 4724597499653980193
+    second: Plataforma Debil v10_1491
+  - first:
+      213: -5112092749209244470
+    second: Plataforma Debil v10_1492
+  - first:
+      213: -5052568575149819442
+    second: Plataforma Debil v10_1493
+  - first:
+      213: 8001146338085605228
+    second: Plataforma Debil v10_1494
+  - first:
+      213: -4440874239483283200
+    second: Plataforma Debil v10_1495
+  - first:
+      213: 5264856435471404965
+    second: Plataforma Debil v10_1496
+  - first:
+      213: 3344151369073406953
+    second: Plataforma Debil v10_1497
+  - first:
+      213: 6148001939377163158
+    second: Plataforma Debil v10_1498
+  - first:
+      213: -6708434937427256103
+    second: Plataforma Debil v10_1499
+  - first:
+      213: 7455594950580108575
+    second: Plataforma Debil v10_1500
+  - first:
+      213: -3085002654901884433
+    second: Plataforma Debil v10_1501
+  - first:
+      213: 6974063375597334718
+    second: Plataforma Debil v10_1502
+  - first:
+      213: -2336730681408908731
+    second: Plataforma Debil v10_1503
+  - first:
+      213: 8922986284907172076
+    second: Plataforma Debil v10_1504
+  - first:
+      213: -3666737427627949302
+    second: Plataforma Debil v10_1505
+  - first:
+      213: -5616770015467210546
+    second: Plataforma Debil v10_1506
+  - first:
+      213: 8447621971555475076
+    second: Plataforma Debil v10_1507
+  - first:
+      213: -1022819671186248865
+    second: Plataforma Debil v10_1508
+  - first:
+      213: -1556048132187611458
+    second: Plataforma Debil v10_1509
+  - first:
+      213: 6887011376908254868
+    second: Plataforma Debil v10_1510
+  - first:
+      213: 4995622367629209848
+    second: Plataforma Debil v10_1511
+  - first:
+      213: 8891210761794697157
+    second: Plataforma Debil v10_1512
+  - first:
+      213: 6056828286291617190
+    second: Plataforma Debil v10_1513
+  - first:
+      213: -5474310307023371278
+    second: Plataforma Debil v10_1514
+  - first:
+      213: -3366515878787865308
+    second: Plataforma Debil v10_1515
+  - first:
+      213: -8485122750805925821
+    second: Plataforma Debil v10_1516
+  - first:
+      213: -6598323641756748707
+    second: Plataforma Debil v10_1517
+  - first:
+      213: -8985913771724421396
+    second: Plataforma Debil v10_1518
+  - first:
+      213: 3448849052427809561
+    second: Plataforma Debil v10_1519
+  - first:
+      213: -2559609988530135603
+    second: Plataforma Debil v10_1520
+  - first:
+      213: -2099723903644459693
+    second: Plataforma Debil v10_1521
+  - first:
+      213: -4332424620201843722
+    second: Plataforma Debil v10_1522
+  - first:
+      213: -2829252491156915783
+    second: Plataforma Debil v10_1523
+  - first:
+      213: -3380116013632221036
+    second: Plataforma Debil v10_1524
+  - first:
+      213: 2699809395122709619
+    second: Plataforma Debil v10_1525
+  - first:
+      213: -8992585923485507039
+    second: Plataforma Debil v10_1526
+  - first:
+      213: -44376896814908619
+    second: Plataforma Debil v10_1527
+  - first:
+      213: -622369099600841026
+    second: Plataforma Debil v10_1528
+  - first:
+      213: 2456988308212696745
+    second: Plataforma Debil v10_1529
+  - first:
+      213: -6998759788064855537
+    second: Plataforma Debil v10_1530
+  - first:
+      213: 3543786599474078893
+    second: Plataforma Debil v10_1531
+  - first:
+      213: 8702688932096449302
+    second: Plataforma Debil v10_1532
+  - first:
+      213: -2830688120029280322
+    second: Plataforma Debil v10_1533
+  - first:
+      213: -498015125964133542
+    second: Plataforma Debil v10_1534
+  - first:
+      213: -2418240465084828179
+    second: Plataforma Debil v10_1535
+  - first:
+      213: 1484233824723863952
+    second: Plataforma Debil v10_1536
+  - first:
+      213: -7081169248980726512
+    second: Plataforma Debil v10_1537
+  - first:
+      213: -5302277644057954346
+    second: Plataforma Debil v10_1538
+  - first:
+      213: -4166416592833286365
+    second: Plataforma Debil v10_1539
+  - first:
+      213: -74514822747785821
+    second: Plataforma Debil v10_1540
+  - first:
+      213: 359673568828758069
+    second: Plataforma Debil v10_1541
+  - first:
+      213: -1504779567035568636
+    second: Plataforma Debil v10_1542
+  - first:
+      213: -2804589085113339383
+    second: Plataforma Debil v10_1543
+  - first:
+      213: -6180497547956224508
+    second: Plataforma Debil v10_1544
+  - first:
+      213: -6679147736871841640
+    second: Plataforma Debil v10_1545
+  - first:
+      213: 254768052303500380
+    second: Plataforma Debil v10_1546
+  - first:
+      213: 6223490309560683104
+    second: Plataforma Debil v10_1547
+  - first:
+      213: 3576595034476120838
+    second: Plataforma Debil v10_1548
+  - first:
+      213: 7587672771855884335
+    second: Plataforma Debil v10_1549
+  - first:
+      213: -3500288383907437913
+    second: Plataforma Debil v10_1550
+  - first:
+      213: 5669318126628255497
+    second: Plataforma Debil v10_1551
+  - first:
+      213: 7148622268977738821
+    second: Plataforma Debil v10_1552
+  - first:
+      213: -3166190030427063072
+    second: Plataforma Debil v10_1553
+  - first:
+      213: -3945437796427528296
+    second: Plataforma Debil v10_1554
+  - first:
+      213: 5075633634182704147
+    second: Plataforma Debil v10_1555
+  - first:
+      213: 9151631662108347258
+    second: Plataforma Debil v10_1556
+  - first:
+      213: -9206428060322226198
+    second: Plataforma Debil v10_1557
+  - first:
+      213: -1316988246182758463
+    second: Plataforma Debil v10_1558
+  - first:
+      213: -3598415345300141412
+    second: Plataforma Debil v10_1559
+  - first:
+      213: 4999195239610863087
+    second: Plataforma Debil v10_1560
+  - first:
+      213: 7968691728367737626
+    second: Plataforma Debil v10_1561
+  - first:
+      213: 5154464710543492581
+    second: Plataforma Debil v10_1562
+  - first:
+      213: -9147872923749070136
+    second: Plataforma Debil v10_1563
+  - first:
+      213: 1862370334028505194
+    second: Plataforma Debil v10_1564
+  - first:
+      213: -8287172982395163758
+    second: Plataforma Debil v10_1565
+  - first:
+      213: -7512390242173717044
+    second: Plataforma Debil v10_1566
+  - first:
+      213: -8595887262049198767
+    second: Plataforma Debil v10_1567
+  - first:
+      213: -7691800983274756091
+    second: Plataforma Debil v10_1568
+  - first:
+      213: -3830791393074366628
+    second: Plataforma Debil v10_1569
+  - first:
+      213: -1787833866984736862
+    second: Plataforma Debil v10_1570
+  - first:
+      213: 2079087346740808883
+    second: Plataforma Debil v10_1571
+  - first:
+      213: 2020287082492019050
+    second: Plataforma Debil v10_1572
+  - first:
+      213: -4583344319903649990
+    second: Plataforma Debil v10_1573
+  - first:
+      213: -7123948459721076051
+    second: Plataforma Debil v10_1574
+  - first:
+      213: -7544538705523113934
+    second: Plataforma Debil v10_1575
+  - first:
+      213: -1260535733284371256
+    second: Plataforma Debil v10_1576
+  - first:
+      213: -8461013320965948697
+    second: Plataforma Debil v10_1577
+  - first:
+      213: -5204867152413542702
+    second: Plataforma Debil v10_1578
+  - first:
+      213: -3261875689587070973
+    second: Plataforma Debil v10_1579
+  - first:
+      213: 4786322022664579046
+    second: Plataforma Debil v10_1580
+  - first:
+      213: 2603055998493690324
+    second: Plataforma Debil v10_1581
+  - first:
+      213: 7301179388839481660
+    second: Plataforma Debil v10_1582
+  - first:
+      213: 4165523467370067963
+    second: Plataforma Debil v10_1583
+  - first:
+      213: -5637736794023958053
+    second: Plataforma Debil v10_1584
+  - first:
+      213: 7353325150537141926
+    second: Plataforma Debil v10_1585
+  - first:
+      213: 8029293944811428376
+    second: Plataforma Debil v10_1586
+  - first:
+      213: -1246499115523274610
+    second: Plataforma Debil v10_1587
+  - first:
+      213: 2143013475273303898
+    second: Plataforma Debil v10_1588
+  - first:
+      213: -8395080941085646207
+    second: Plataforma Debil v10_1589
+  - first:
+      213: 4461200542784031840
+    second: Plataforma Debil v10_1590
+  - first:
+      213: 7868761328036435272
+    second: Plataforma Debil v10_1591
+  - first:
+      213: 3790605628530257061
+    second: Plataforma Debil v10_1592
+  - first:
+      213: 5083143436998515646
+    second: Plataforma Debil v10_1593
+  - first:
+      213: 6793843487010470644
+    second: Plataforma Debil v10_1594
+  - first:
+      213: 3491452195572471423
+    second: Plataforma Debil v10_1595
+  - first:
+      213: 3475389330587439934
+    second: Plataforma Debil v10_1596
+  - first:
+      213: 5351552940990960898
+    second: Plataforma Debil v10_1597
+  - first:
+      213: -8861720637315953180
+    second: Plataforma Debil v10_1598
+  - first:
+      213: -116811928865380388
+    second: Plataforma Debil v10_1599
+  - first:
+      213: 3276130470752684383
+    second: Plataforma Debil v10_1600
+  - first:
+      213: -479564192075015757
+    second: Plataforma Debil v10_1601
+  - first:
+      213: 7768867795182660852
+    second: Plataforma Debil v10_1602
+  - first:
+      213: -3333314325734091166
+    second: Plataforma Debil v10_1603
+  - first:
+      213: -2254821461648997896
+    second: Plataforma Debil v10_0
+  - first:
+      213: -3068558246539480487
+    second: Plataforma Debil v10_1
+  - first:
+      213: 9199658924353193990
+    second: Plataforma Debil v10_2
+  - first:
+      213: -4738251526053105660
+    second: Plataforma Debil v10_3
+  - first:
+      213: 5588548603738835801
+    second: Plataforma Debil v10_4
+  - first:
+      213: 5370404390868796723
+    second: Plataforma Debil v10_5
+  - first:
+      213: 1088507182931113563
+    second: Plataforma Debil v10_6
+  - first:
+      213: -8337009552991145760
+    second: Plataforma Debil v10_7
+  - first:
+      213: 5633227967626355888
+    second: Plataforma Debil v10_8
+  - first:
+      213: 7480213123612006322
+    second: Plataforma Debil v10_9
+  - first:
+      213: -2297288519674668648
+    second: Plataforma Debil v10_10
+  - first:
+      213: 6908926313004240935
+    second: Plataforma Debil v10_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plataforma Debil v10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c8a74d0ca0041d0800000000000000
+      internalID: -3368680697958331279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adecd67ee7110300800000000000000
+      internalID: 216480570054340007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b099cc98eab790800000000000000
+      internalID: -7513437268220005135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a580f7ba2b320000800000000000000
+      internalID: 628004614079904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_4
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f164c3c9ed61ebc10800000000000000
+      internalID: 2071118023996753439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_5
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e666f361611bb07e0800000000000000
+      internalID: -1798148917783730578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_6
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb940d5140df39950800000000000000
+      internalID: 6454780884939721150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_7
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281249e12b05aec70800000000000000
+      internalID: 9001095531200782722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_8
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64864b3101a5ae60800000000000000
+      internalID: 7972955741990847599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_9
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f813717f21a5cc9d0800000000000000
+      internalID: -2752726234728812145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_10
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a0511f544a72220800000000000000
+      internalID: 2461116341685652051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma Debil v10_11
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 0
+        width: 420
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4893775, y: 0.5481834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf86d090ed6bd4d0800000000000000
+      internalID: -3108770306499113035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plataforma Debil v10_0: -3368680697958331279
+      Plataforma Debil v10_1: 216480570054340007
+      Plataforma Debil v10_10: 2461116341685652051
+      Plataforma Debil v10_11: -3108770306499113035
+      Plataforma Debil v10_2: -7513437268220005135
+      Plataforma Debil v10_3: 628004614079904
+      Plataforma Debil v10_4: 2071118023996753439
+      Plataforma Debil v10_5: -1798148917783730578
+      Plataforma Debil v10_6: 6454780884939721150
+      Plataforma Debil v10_7: 9001095531200782722
+      Plataforma Debil v10_8: 7972955741990847599
+      Plataforma Debil v10_9: -2752726234728812145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

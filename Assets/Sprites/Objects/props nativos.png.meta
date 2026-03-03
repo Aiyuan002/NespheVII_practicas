@@ -1,0 +1,843 @@
+fileFormatVersion: 2
+guid: 8c3cf5fa3ac3fae49bf9b14e021e379f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5273335913531768577
+    second: props nativos_0
+  - first:
+      213: 2314392614737561007
+    second: props nativos_1
+  - first:
+      213: 8825693274340482736
+    second: props nativos_2
+  - first:
+      213: 8319329384681005690
+    second: props nativos_3
+  - first:
+      213: 3934290431702846432
+    second: props nativos_4
+  - first:
+      213: 2394386551239286034
+    second: props nativos_5
+  - first:
+      213: -3747634321117447765
+    second: props nativos_6
+  - first:
+      213: -4598768142683698060
+    second: props nativos_7
+  - first:
+      213: -2225015139838407689
+    second: props nativos_8
+  - first:
+      213: 529127906247101479
+    second: props nativos_9
+  - first:
+      213: -2882728039431316211
+    second: props nativos_10
+  - first:
+      213: -2371154027561922345
+    second: props nativos_11
+  - first:
+      213: 2360985666494881295
+    second: props nativos_12
+  - first:
+      213: 7894931070353413799
+    second: props nativos_13
+  - first:
+      213: -383424125134949915
+    second: props nativos_14
+  - first:
+      213: 340729810814935652
+    second: props nativos_15
+  - first:
+      213: 3280205680760975853
+    second: props nativos_16
+  - first:
+      213: -159491891264520292
+    second: props nativos_17
+  - first:
+      213: 5740914744655856504
+    second: props nativos_18
+  - first:
+      213: -2092430462478727161
+    second: props nativos_19
+  - first:
+      213: -5526342422237092252
+    second: props nativos_20
+  - first:
+      213: 673167517735661445
+    second: props nativos_21
+  - first:
+      213: 4285900609955767088
+    second: props nativos_22
+  - first:
+      213: 4526683447917471863
+    second: props nativos_23
+  - first:
+      213: 1713330093958686736
+    second: props nativos_24
+  - first:
+      213: 1674808815850336998
+    second: props nativos_25
+  - first:
+      213: 2764320788309690284
+    second: props nativos_26
+  - first:
+      213: 8584173450538120597
+    second: props nativos_27
+  - first:
+      213: -8799817498110702109
+    second: props nativos_28
+  - first:
+      213: -4897245925809283886
+    second: props nativos_29
+  - first:
+      213: -3451141350577959476
+    second: props nativos_30
+  - first:
+      213: -581133708384007580
+    second: props nativos_31
+  - first:
+      213: -7774882685592743677
+    second: props nativos_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: props nativos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff001ac0de851d6b0800000000000000
+      internalID: -5273335913531768577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 321
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5483822df5e1020800000000000000
+      internalID: 2314392614737561007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 322
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be5e91c5492b7a70800000000000000
+      internalID: 8825693274340482736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7261676ff1347370800000000000000
+      internalID: 8319329384681005690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 261
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebcdd88d48699630800000000000000
+      internalID: 3934290431702846432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 262
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d1791e1e19a3120800000000000000
+      internalID: 2394386551239286034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 214
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba97bb5d07abdfbc0800000000000000
+      internalID: -3747634321117447765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 215
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c84f25db4ed20c0800000000000000
+      internalID: -4598768142683698060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 216
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbc01ad4882f11e0800000000000000
+      internalID: -2225015139838407689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 178
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cca9cf607d75700800000000000000
+      internalID: 529127906247101479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 179
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d53a91f1e7ef7d0800000000000000
+      internalID: -2882728039431316211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 180
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d05f6f89f7f71fd0800000000000000
+      internalID: -2371154027561922345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 176
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e573364f7e3c020800000000000000
+      internalID: 2360985666494881295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 176
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61c96bafd609d60800000000000000
+      internalID: 7894931070353413799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e134072acdcdaaf0800000000000000
+      internalID: -383424125134949915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 112
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462a20a25f38ab400800000000000000
+      internalID: 340729810814935652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 112
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1f9f7ffa1a58d20800000000000000
+      internalID: 3280205680760975853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f7f9c48fe59cdf0800000000000000
+      internalID: -159491891264520292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873c3092b83dbaf40800000000000000
+      internalID: 5740914744655856504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 66
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466e267c8dc7e43b0800000000000000
+      internalID: -5526342422237092252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 65
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f27f07a42975900800000000000000
+      internalID: 673167517735661445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e2cbcc9202de30800000000000000
+      internalID: 4526683447917471863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc9866f6cc790cb0800000000000000
+      internalID: -4897245925809283886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd83210a351b10d0800000000000000
+      internalID: -3451141350577959476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props nativos_32
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 90
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301d8eaf3611a1490800000000000000
+      internalID: -7774882685592743677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      props nativos_0: -5273335913531768577
+      props nativos_1: 2314392614737561007
+      props nativos_10: -2882728039431316211
+      props nativos_11: -2371154027561922345
+      props nativos_12: 2360985666494881295
+      props nativos_13: 7894931070353413799
+      props nativos_14: -383424125134949915
+      props nativos_15: 340729810814935652
+      props nativos_16: 3280205680760975853
+      props nativos_17: -159491891264520292
+      props nativos_18: 5740914744655856504
+      props nativos_2: 8825693274340482736
+      props nativos_20: -5526342422237092252
+      props nativos_21: 673167517735661445
+      props nativos_23: 4526683447917471863
+      props nativos_29: -4897245925809283886
+      props nativos_3: 8319329384681005690
+      props nativos_30: -3451141350577959476
+      props nativos_32: -7774882685592743677
+      props nativos_4: 3934290431702846432
+      props nativos_5: 2394386551239286034
+      props nativos_6: -3747634321117447765
+      props nativos_7: -4598768142683698060
+      props nativos_8: -2225015139838407689
+      props nativos_9: 529127906247101479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

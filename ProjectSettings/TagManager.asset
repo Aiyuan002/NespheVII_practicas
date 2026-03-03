@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Platform
+  - GroundCheck
+  - JumpingPlatform
+  - Projectile
+  - Teleporter
+  - EnemyProjectile
+  - Climb
+  - Attack
+  - Armor
+  - Weapon
+  - Melee
+  - Consumable
+  - Ability
+  - Mission
+  - Vine
+  - Roof
+  - EnemyAttack
+  - Ammunition1
+  - Ammunition2
+  - Ammunition3
+  - Ammunition
+  - Treasure
+  - BreakablePlatform
+  - Enemy
+  - HealthPotion
+  - NPC
+  - Botas
+  - Piolet
+  - EnemySmoke
+  - Invisible
+  - EnemyDetector
+  - BossIntermedio
+  - Traductor
+  - Walls
+  - PlatformWood
+  - Death
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PatrolRange
+  - Projectiles
+  - Minimap
+  - Invisible
+  - IgnoreProjectile
+  - Ball
+  - Enemigo
+  - Ground
+  - Items
+  - Walls
+  - Roof
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

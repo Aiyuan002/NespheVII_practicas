@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 1ee54012a5e94a04392c657e7448a810
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3975609686481904746
+    second: minimecha_walking_lights_0
+  - first:
+      213: -1835499963637981447
+    second: minimecha_walking_lights_1
+  - first:
+      213: -9109536303191961758
+    second: minimecha_walking_lights_2
+  - first:
+      213: -6898605916283686021
+    second: minimecha_walking_lights_3
+  - first:
+      213: -1338863994364943759
+    second: minimecha_walking_lights_4
+  - first:
+      213: 2019065399790220311
+    second: minimecha_walking_lights_5
+  - first:
+      213: -4348127384335985981
+    second: minimecha_walking_lights_6
+  - first:
+      213: 2762145306084365607
+    second: minimecha_walking_lights_7
+  - first:
+      213: -9097900987040173584
+    second: minimecha_walking_lights_8
+  - first:
+      213: -5815745638564678733
+    second: minimecha_walking_lights_9
+  - first:
+      213: 3642236457932908927
+    second: minimecha_walking_lights_10
+  - first:
+      213: -5575253981561984213
+    second: minimecha_walking_lights_11
+  - first:
+      213: -4013798907297391465
+    second: minimecha_walking_lights_12
+  - first:
+      213: -4019736089023040959
+    second: minimecha_walking_lights_13
+  - first:
+      213: -4208458909668933672
+    second: minimecha_walking_lights_14
+  - first:
+      213: -1300223479248070566
+    second: minimecha_walking_lights_15
+  - first:
+      213: -4334640448459862201
+    second: minimecha_walking_lights_16
+  - first:
+      213: 4198308985978608505
+    second: minimecha_walking_lights_17
+  - first:
+      213: 6688504604680267515
+    second: minimecha_walking_lights_18
+  - first:
+      213: 7923641980594008906
+    second: minimecha_walking_lights_19
+  - first:
+      213: -4301166803822516485
+    second: minimecha_walking_lights_20
+  - first:
+      213: -5334640247379933293
+    second: minimecha_walking_lights_0
+  - first:
+      213: -614644361713754433
+    second: minimecha_walking_lights_1
+  - first:
+      213: -7558733782525308514
+    second: minimecha_walking_lights_2
+  - first:
+      213: 1242630598305580407
+    second: minimecha_walking_lights_3
+  - first:
+      213: -7242796882027402289
+    second: minimecha_walking_lights_4
+  - first:
+      213: -4363322996727450359
+    second: minimecha_walking_lights_5
+  - first:
+      213: -5218202147866312061
+    second: minimecha_walking_lights_6
+  - first:
+      213: -5526161175772436689
+    second: minimecha_walking_lights_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minimecha_walking_lights_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 26
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397ca6a85fc87f5b0800000000000000
+      internalID: 3975609686481904746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimecha_walking_lights_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 78
+        width: 26
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbedad4a5385877f0800000000000000
+      internalID: -1835499963637981447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimecha_walking_lights_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 78
+        width: 26
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9195d43cabf91790800000000000000
+      internalID: -9109536303191961758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimecha_walking_lights_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 26
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775090702f5be3110800000000000000
+      internalID: -6898605916283686021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimecha_walking_lights_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 39
+        width: 26
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb237a1c9a6c7b90800000000000000
+      internalID: -1338863994364943759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimecha_walking_lights_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 39
+        width: 26
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90574c33adc5273c0800000000000000
+      internalID: 2019065399790220311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimecha_walking_lights_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3828f323bc83597b0800000000000000
+      internalID: -4348127384335985981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimecha_walking_lights_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 26
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27678280b12f43b0800000000000000
+      internalID: 2762145306084365607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      minimecha_walking_lights_0: 3975609686481904746
+      minimecha_walking_lights_1: -1835499963637981447
+      minimecha_walking_lights_2: -9109536303191961758
+      minimecha_walking_lights_3: -6898605916283686021
+      minimecha_walking_lights_4: -1338863994364943759
+      minimecha_walking_lights_5: 2019065399790220311
+      minimecha_walking_lights_6: -4348127384335985981
+      minimecha_walking_lights_7: 2762145306084365607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

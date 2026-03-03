@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 4af0973273c008147a8d1f40bd081dd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6224766616413603495
+    second: Ave Azul Sprite Sheet_0
+  - first:
+      213: -8268729002292625211
+    second: Ave Azul Sprite Sheet_1
+  - first:
+      213: -7438313703913369762
+    second: Ave Azul Sprite Sheet_2
+  - first:
+      213: 4731481453931127297
+    second: Ave Azul Sprite Sheet_3
+  - first:
+      213: -7940242580286052270
+    second: Ave Azul Sprite Sheet_4
+  - first:
+      213: 1239190153857538148
+    second: Ave Azul Sprite Sheet_5
+  - first:
+      213: -3132379057552126749
+    second: Ave Azul Sprite Sheet_6
+  - first:
+      213: 2364513267770886174
+    second: Ave Azul Sprite Sheet_7
+  - first:
+      213: 150317349035766638
+    second: Ave Azul Sprite Sheet_8
+  - first:
+      213: -2624402081751379474
+    second: Ave Azul Sprite Sheet_9
+  - first:
+      213: -2799236323878653132
+    second: Ave Azul Sprite Sheet_10
+  - first:
+      213: 6515944071257879848
+    second: Ave Azul Sprite Sheet_11
+  - first:
+      213: -1609482977574628910
+    second: Ave Azul Sprite Sheet_12
+  - first:
+      213: 6725575688667835771
+    second: Ave Azul Sprite Sheet_13
+  - first:
+      213: -2181738628346445610
+    second: Ave Azul Sprite Sheet_14
+  - first:
+      213: 7562870643290243440
+    second: Ave Azul Sprite Sheet_15
+  - first:
+      213: 30863324778508956
+    second: Ave Azul Sprite Sheet_16
+  - first:
+      213: -7304648874566588401
+    second: Ave Azul Sprite Sheet_17
+  - first:
+      213: -430907930107154937
+    second: Ave Azul Sprite Sheet_18
+  - first:
+      213: -6109995706054490928
+    second: Ave Azul Sprite Sheet_19
+  - first:
+      213: 4132465033494842937
+    second: Ave Azul Sprite Sheet_20
+  - first:
+      213: -3110839240131022889
+    second: Ave Azul Sprite Sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ave Azul Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f4fa1ebf2d99a0800000000000000
+      internalID: -6224766616413603495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ave Azul Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 180
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c06238c29f3d80800000000000000
+      internalID: -8268729002292625211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ave Azul Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 180
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc25e981dc5c890800000000000000
+      internalID: -7438313703913369762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ave Azul Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 180
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102e9ea505999a140800000000000000
+      internalID: 4731481453931127297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ave Azul Sprite Sheet_0: -6224766616413603495
+      Ave Azul Sprite Sheet_1: -8268729002292625211
+      Ave Azul Sprite Sheet_2: -7438313703913369762
+      Ave Azul Sprite Sheet_3: 4731481453931127297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

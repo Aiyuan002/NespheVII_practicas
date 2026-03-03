@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 2a55ac72b1dad7f42b0584d1de26bac6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7494003336314927605
+    second: boss cangrejo animacion ataque 2 alto_0
+  - first:
+      213: -8216976892310095428
+    second: boss cangrejo animacion ataque 2 alto_1
+  - first:
+      213: -8105366286553370784
+    second: boss cangrejo animacion ataque 2 alto_2
+  - first:
+      213: 4264162561199547600
+    second: boss cangrejo animacion ataque 2 alto_3
+  - first:
+      213: 2233121782451859128
+    second: boss cangrejo animacion ataque 2 alto_4
+  - first:
+      213: -9168694689035657125
+    second: boss cangrejo animacion ataque 2 alto_5
+  - first:
+      213: -5046997878978088291
+    second: boss cangrejo animacion ataque 2 alto_6
+  - first:
+      213: -7907245169422921583
+    second: boss cangrejo animacion ataque 2 alto_7
+  - first:
+      213: -9192277242338318300
+    second: boss cangrejo animacion ataque 2 alto_8
+  - first:
+      213: 3113162285513709373
+    second: boss cangrejo animacion ataque 2 alto_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss cangrejo animacion ataque 2 alto_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 102
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5041349, y: 0.45613703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9b4a6545c000860800000000000000
+      internalID: 7494003336314927605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion ataque 2 alto_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb973464d0f67fd80800000000000000
+      internalID: -8216976892310095428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion ataque 2 alto_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 102
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5075866, y: 0.4566631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f2f837e44f38f80800000000000000
+      internalID: -8105366286553370784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion ataque 2 alto_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 104
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.43640766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4a1d4c1495d2b30800000000000000
+      internalID: 4264162561199547600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion ataque 2 alto_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 104
+        height: 144
+      alignment: 9
+      pivot: {x: 0.48387557, y: 0.4013086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beea37fd64adfe10800000000000000
+      internalID: 2233121782451859128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion ataque 2 alto_5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 109
+        height: 141
+      alignment: 9
+      pivot: {x: 0.47648636, y: 0.40775484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50e40612c042c080800000000000000
+      internalID: -9168694689035657125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion ataque 2 alto_6
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 0
+        width: 104
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4458644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d927c515b2675f9b0800000000000000
+      internalID: -5046997878978088291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion ataque 2 alto_7
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 104
+        height: 144
+      alignment: 9
+      pivot: {x: 0.50520676, y: 0.40619653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1909f9ca962d34290800000000000000
+      internalID: -7907245169422921583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion ataque 2 alto_8
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 0
+        width: 104
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48952544, y: 0.44332063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42864850d887e6080800000000000000
+      internalID: -9192277242338318300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion ataque 2 alto_9
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 102
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5037926, y: 0.45356762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37103cba9c243b20800000000000000
+      internalID: 3113162285513709373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss cangrejo animacion ataque 2 alto_0: 7494003336314927605
+      boss cangrejo animacion ataque 2 alto_1: -8216976892310095428
+      boss cangrejo animacion ataque 2 alto_2: -8105366286553370784
+      boss cangrejo animacion ataque 2 alto_3: 4264162561199547600
+      boss cangrejo animacion ataque 2 alto_4: 2233121782451859128
+      boss cangrejo animacion ataque 2 alto_5: -9168694689035657125
+      boss cangrejo animacion ataque 2 alto_6: -5046997878978088291
+      boss cangrejo animacion ataque 2 alto_7: -7907245169422921583
+      boss cangrejo animacion ataque 2 alto_8: -9192277242338318300
+      boss cangrejo animacion ataque 2 alto_9: 3113162285513709373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

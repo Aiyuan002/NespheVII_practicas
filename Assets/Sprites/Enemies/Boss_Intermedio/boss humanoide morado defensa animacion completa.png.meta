@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: b1e55ec03fac6b74fb0ca201c91889fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3244107613329438215
+    second: boss humanoide morado defensa animacion completa_0
+  - first:
+      213: 6970496596415680113
+    second: boss humanoide morado defensa animacion completa_1
+  - first:
+      213: 3123200278426475829
+    second: boss humanoide morado defensa animacion completa_2
+  - first:
+      213: 6777789843272997272
+    second: boss humanoide morado defensa animacion completa_3
+  - first:
+      213: -2968129756891508983
+    second: boss humanoide morado defensa animacion completa_4
+  - first:
+      213: -4272260439805614261
+    second: boss humanoide morado defensa animacion completa_5
+  - first:
+      213: -3424076336653860939
+    second: boss humanoide morado defensa animacion completa_6
+  - first:
+      213: 6625924083570706568
+    second: boss humanoide morado defensa animacion completa_7
+  - first:
+      213: 3262068708493027865
+    second: boss humanoide morado defensa animacion completa_8
+  - first:
+      213: -1006198939324415062
+    second: boss humanoide morado defensa animacion completa_9
+  - first:
+      213: 5506767535457183023
+    second: boss humanoide morado defensa animacion completa_10
+  - first:
+      213: -1640505125716245161
+    second: boss humanoide morado defensa animacion completa_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70634a1bfa2650d20800000000000000
+      internalID: 3244107613329438215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e0d6129bd2cb060800000000000000
+      internalID: 6970496596415680113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dd2061b16d75b20800000000000000
+      internalID: 3123200278426475829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8999982c3fb8f0e50800000000000000
+      internalID: 6777789843272997272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f073146b51fc6d0800000000000000
+      internalID: -2968129756891508983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ae61f3c1e5b4c0800000000000000
+      internalID: -4272260439805614261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bffced96bc3b70d0800000000000000
+      internalID: -3424076336653860939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88800fd29d204fb50800000000000000
+      internalID: 6625924083570706568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ae4aa0532354d20800000000000000
+      internalID: 3262068708493027865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3813055634902f0800000000000000
+      internalID: -1006198939324415062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25249bb5e7fb6c40800000000000000
+      internalID: 5506767535457183023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado defensa animacion completa_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755c979a741cb39e0800000000000000
+      internalID: -1640505125716245161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss humanoide morado defensa animacion completa_0: 3244107613329438215
+      boss humanoide morado defensa animacion completa_1: 6970496596415680113
+      boss humanoide morado defensa animacion completa_10: 5506767535457183023
+      boss humanoide morado defensa animacion completa_11: -1640505125716245161
+      boss humanoide morado defensa animacion completa_2: 3123200278426475829
+      boss humanoide morado defensa animacion completa_3: 6777789843272997272
+      boss humanoide morado defensa animacion completa_4: -2968129756891508983
+      boss humanoide morado defensa animacion completa_5: -4272260439805614261
+      boss humanoide morado defensa animacion completa_6: -3424076336653860939
+      boss humanoide morado defensa animacion completa_7: 6625924083570706568
+      boss humanoide morado defensa animacion completa_8: 3262068708493027865
+      boss humanoide morado defensa animacion completa_9: -1006198939324415062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

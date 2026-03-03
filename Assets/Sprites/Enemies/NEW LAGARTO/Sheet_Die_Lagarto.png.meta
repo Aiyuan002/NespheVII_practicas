@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 61c8fd2587d394b49aefb5fb48c7a14d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1129195457008983155
+    second: Sheet_Die_Lagarto_0
+  - first:
+      213: 583186956014038545
+    second: Sheet_Die_Lagarto_1
+  - first:
+      213: 3325574008222019690
+    second: Sheet_Die_Lagarto_2
+  - first:
+      213: 278828494537394470
+    second: Sheet_Die_Lagarto_3
+  - first:
+      213: -8002771039908919784
+    second: Sheet_Die_Lagarto_4
+  - first:
+      213: 6096182790872577292
+    second: Sheet_Die_Lagarto_5
+  - first:
+      213: 3833402491115045851
+    second: Sheet_Die_Lagarto_6
+  - first:
+      213: 3503187981370571362
+    second: Sheet_Die_Lagarto_7
+  - first:
+      213: -27187899591371922
+    second: Sheet_Die_Lagarto_8
+  - first:
+      213: 3987656080152911242
+    second: Sheet_Die_Lagarto_9
+  - first:
+      213: 6088231163683531721
+    second: Sheet_Die_Lagarto_10
+  - first:
+      213: 5343886893511903732
+    second: Sheet_Die_Lagarto_11
+  - first:
+      213: -4317458253352015448
+    second: Sheet_Die_Lagarto_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83aefee6ba4450f0800000000000000
+      internalID: -1129195457008983155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eabd65275e71800800000000000000
+      internalID: 583186956014038545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60785ad0ffc62e20800000000000000
+      internalID: 3325574008222019690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629882ad9099ed300800000000000000
+      internalID: 278828494537394470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_4
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8160273c32270f090800000000000000
+      internalID: -8002771039908919784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_5
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053fc703fdf99450800000000000000
+      internalID: 6096182790872577292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_6
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd38204614bf23530800000000000000
+      internalID: 3833402491115045851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_7
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab20b88e2dd9030800000000000000
+      internalID: 3503187981370571362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_8
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63daa6dfb86f9ff0800000000000000
+      internalID: -27187899591371922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_9
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1
+        width: 143
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dd0ffc310075730800000000000000
+      internalID: 3987656080152911242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_10
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1
+        width: 143
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbe1dd8cfdbd7450800000000000000
+      internalID: 6088231163683531721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_11
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1
+        width: 143
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f984a701dc492a40800000000000000
+      internalID: 5343886893511903732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Die_Lagarto_12
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1
+        width: 143
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ef5ce79e4514c0800000000000000
+      internalID: -4317458253352015448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sheet_Die_Lagarto_0: -1129195457008983155
+      Sheet_Die_Lagarto_1: 583186956014038545
+      Sheet_Die_Lagarto_10: 6088231163683531721
+      Sheet_Die_Lagarto_11: 5343886893511903732
+      Sheet_Die_Lagarto_12: -4317458253352015448
+      Sheet_Die_Lagarto_2: 3325574008222019690
+      Sheet_Die_Lagarto_3: 278828494537394470
+      Sheet_Die_Lagarto_4: -8002771039908919784
+      Sheet_Die_Lagarto_5: 6096182790872577292
+      Sheet_Die_Lagarto_6: 3833402491115045851
+      Sheet_Die_Lagarto_7: 3503187981370571362
+      Sheet_Die_Lagarto_8: -27187899591371922
+      Sheet_Die_Lagarto_9: 3987656080152911242
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

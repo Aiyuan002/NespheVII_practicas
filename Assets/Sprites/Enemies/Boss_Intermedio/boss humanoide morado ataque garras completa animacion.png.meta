@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 1ff03e3f75e16304a9e1d3b551b40ad2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2166958069261042004
+    second: boss humanoide morado ataque garras completa animacion_0
+  - first:
+      213: -5418557153540665504
+    second: boss humanoide morado ataque garras completa animacion_1
+  - first:
+      213: 9095473530511295596
+    second: boss humanoide morado ataque garras completa animacion_2
+  - first:
+      213: 5734721559705958067
+    second: boss humanoide morado ataque garras completa animacion_3
+  - first:
+      213: -2074632257298618699
+    second: boss humanoide morado ataque garras completa animacion_4
+  - first:
+      213: -5844122221206504900
+    second: boss humanoide morado ataque garras completa animacion_5
+  - first:
+      213: 8866799261266021049
+    second: boss humanoide morado ataque garras completa animacion_6
+  - first:
+      213: 405113880256834493
+    second: boss humanoide morado ataque garras completa animacion_7
+  - first:
+      213: -7255673336470793173
+    second: boss humanoide morado ataque garras completa animacion_8
+  - first:
+      213: -8599498929823976278
+    second: boss humanoide morado ataque garras completa animacion_9
+  - first:
+      213: -7468696015943149623
+    second: boss humanoide morado ataque garras completa animacion_10
+  - first:
+      213: -6256143567825291480
+    second: boss humanoide morado ataque garras completa animacion_11
+  - first:
+      213: 1156821704763396009
+    second: boss humanoide morado ataque garras completa animacion_12
+  - first:
+      213: 8772112024645565940
+    second: boss humanoide morado ataque garras completa animacion_13
+  - first:
+      213: 6521150355586810901
+    second: boss humanoide morado ataque garras completa animacion_14
+  - first:
+      213: -1031701070009864115
+    second: boss humanoide morado ataque garras completa animacion_15
+  - first:
+      213: -4378110950736610024
+    second: boss humanoide morado ataque garras completa animacion_16
+  - first:
+      213: 5297948853329671507
+    second: boss humanoide morado ataque garras completa animacion_17
+  - first:
+      213: 1219395272532918502
+    second: boss humanoide morado ataque garras completa animacion_18
+  - first:
+      213: -8688495840270693937
+    second: boss humanoide morado ataque garras completa animacion_19
+  - first:
+      213: 6724792288825481245
+    second: boss humanoide morado ataque garras completa animacion_20
+  - first:
+      213: 2066885189796762664
+    second: boss humanoide morado ataque garras completa animacion_21
+  - first:
+      213: 563398801244387159
+    second: boss humanoide morado ataque garras completa animacion_22
+  - first:
+      213: -4736758927057552911
+    second: boss humanoide morado ataque garras completa animacion_23
+  - first:
+      213: -5739257037127880259
+    second: boss humanoide morado ataque garras completa animacion_24
+  - first:
+      213: 3016404156505294421
+    second: boss humanoide morado ataque garras completa animacion_25
+  - first:
+      213: 1798833951662146200
+    second: boss humanoide morado ataque garras completa animacion_26
+  - first:
+      213: 3607472454576397855
+    second: boss humanoide morado ataque garras completa animacion_27
+  - first:
+      213: 3806760610502787415
+    second: boss humanoide morado ataque garras completa animacion_28
+  - first:
+      213: -7841479140652553866
+    second: boss humanoide morado ataque garras completa animacion_29
+  - first:
+      213: 3259258763886487682
+    second: boss humanoide morado ataque garras completa animacion_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 25
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5317479, y: 0.5203871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451887902e4921e10800000000000000
+      internalID: 2166958069261042004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 26
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4908729, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f8e044afa6dc4b0800000000000000
+      internalID: -5418557153540665504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 32
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50000286, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6408127cfc993e70800000000000000
+      internalID: 9095473530511295596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 37
+        height: 67
+      alignment: 9
+      pivot: {x: 0.474517, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b63c0cefd2d59f40800000000000000
+      internalID: 5734721559705958067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_4
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 53
+        height: 67
+      alignment: 9
+      pivot: {x: 0.3187371, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6262034fc6533e0800000000000000
+      internalID: -2074632257298618699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_6
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 71
+        height: 67
+      alignment: 9
+      pivot: {x: 0.27237153, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba057623f23d0b70800000000000000
+      internalID: 8866799261266021049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_8
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 85
+        height: 67
+      alignment: 9
+      pivot: {x: 0.21, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24926dea8bae4b90800000000000000
+      internalID: -7255673336470793173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_10
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 0
+        width: 100
+        height: 67
+      alignment: 9
+      pivot: {x: 0.18772705, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7555a5b8cd95890800000000000000
+      internalID: -7468696015943149623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_13
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 0
+        width: 116
+        height: 67
+      alignment: 9
+      pivot: {x: 0.14, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd7ee6e86dccb970800000000000000
+      internalID: 8772112024645565940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_16
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 0
+        width: 101
+        height: 67
+      alignment: 9
+      pivot: {x: 0.18, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81db81a5943dd33c0800000000000000
+      internalID: -4378110950736610024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_19
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 0
+        width: 101
+        height: 67
+      alignment: 9
+      pivot: {x: 0.17, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9c43021134c6780800000000000000
+      internalID: -8688495840270693937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_22
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 0
+        width: 84
+        height: 67
+      alignment: 9
+      pivot: {x: 0.2, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7577d07893891d700800000000000000
+      internalID: 563398801244387159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_24
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 0
+        width: 69
+        height: 67
+      alignment: 9
+      pivot: {x: 0.26, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f453f1201a50b0800000000000000
+      internalID: -5739257037127880259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_26
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 0
+        width: 32
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8920cbac2fdb6f810800000000000000
+      internalID: 1798833951662146200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_27
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 0
+        width: 32
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5000076, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e58009511501230800000000000000
+      internalID: 3607472454576397855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_28
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 0
+        width: 31
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751c7fd2b9454d430800000000000000
+      internalID: 3806760610502787415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_29
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 0
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e4cb74487d2390800000000000000
+      internalID: -7841479140652553866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque garras completa animacion_30
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 0
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2886884d3963b3d20800000000000000
+      internalID: 3259258763886487682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss humanoide morado ataque garras completa animacion_0: 2166958069261042004
+      boss humanoide morado ataque garras completa animacion_1: -5418557153540665504
+      boss humanoide morado ataque garras completa animacion_10: -7468696015943149623
+      boss humanoide morado ataque garras completa animacion_13: 8772112024645565940
+      boss humanoide morado ataque garras completa animacion_16: -4378110950736610024
+      boss humanoide morado ataque garras completa animacion_19: -8688495840270693937
+      boss humanoide morado ataque garras completa animacion_2: 9095473530511295596
+      boss humanoide morado ataque garras completa animacion_22: 563398801244387159
+      boss humanoide morado ataque garras completa animacion_24: -5739257037127880259
+      boss humanoide morado ataque garras completa animacion_26: 1798833951662146200
+      boss humanoide morado ataque garras completa animacion_27: 3607472454576397855
+      boss humanoide morado ataque garras completa animacion_28: 3806760610502787415
+      boss humanoide morado ataque garras completa animacion_29: -7841479140652553866
+      boss humanoide morado ataque garras completa animacion_3: 5734721559705958067
+      boss humanoide morado ataque garras completa animacion_30: 3259258763886487682
+      boss humanoide morado ataque garras completa animacion_4: -2074632257298618699
+      boss humanoide morado ataque garras completa animacion_6: 8866799261266021049
+      boss humanoide morado ataque garras completa animacion_8: -7255673336470793173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 1a7879ebcde716f4e9ace49201997a9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6894630480731325479
+    second: seta_transparente_idle_0
+  - first:
+      213: 894540780289216500
+    second: seta_transparente_idle_1
+  - first:
+      213: 3073639532073969585
+    second: seta_transparente_idle_2
+  - first:
+      213: -998321981732715871
+    second: seta_transparente_idle_3
+  - first:
+      213: -7047196531332862334
+    second: seta_transparente_idle_4
+  - first:
+      213: 4687246718557036096
+    second: seta_transparente_idle_5
+  - first:
+      213: 4589694254442690166
+    second: seta_transparente_idle_6
+  - first:
+      213: 2178702812757675533
+    second: seta_transparente_idle_7
+  - first:
+      213: 8767183243224576711
+    second: seta_transparente_idle_8
+  - first:
+      213: -8979187615926154540
+    second: seta_transparente_idle_9
+  - first:
+      213: -2213976621843811231
+    second: seta_transparente_idle_10
+  - first:
+      213: 8830785776894140634
+    second: seta_transparente_idle_11
+  - first:
+      213: 1925219595160250635
+    second: seta_transparente_idle_12
+  - first:
+      213: -8158571051350706091
+    second: seta_transparente_idle_13
+  - first:
+      213: 5001818600647376095
+    second: seta_transparente_idle_14
+  - first:
+      213: -8699652117082060509
+    second: seta_transparente_idle_15
+  - first:
+      213: 681536235628022919
+    second: seta_transparente_idle_16
+  - first:
+      213: 397621475742611809
+    second: seta_transparente_idle_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seta_transparente_idle_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbbd6a6b1a5150a0800000000000000
+      internalID: -6894630480731325479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff4d36a91c0a6c00800000000000000
+      internalID: 894540780289216500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7eddc9ed2c7aa20800000000000000
+      internalID: 3073639532073969585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a28b5b627f3522f0800000000000000
+      internalID: -998321981732715871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2a87a714533e90800000000000000
+      internalID: -7047196531332862334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e15327e027c0140800000000000000
+      internalID: 4687246718557036096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67635bf6b9ed1bf30800000000000000
+      internalID: 4589694254442690166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ec0993aae4c3e10800000000000000
+      internalID: 2178702812757675533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2782d85ba4ba970800000000000000
+      internalID: 8767183243224576711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_9
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8225ef64836380800000000000000
+      internalID: -8979187615926154540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164faf91eff5641e0800000000000000
+      internalID: -2213976621843811231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0e85760e04d8a70800000000000000
+      internalID: 8830785776894140634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_12
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e5248501c7ba10800000000000000
+      internalID: 1925219595160250635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b471dadee6ce80800000000000000
+      internalID: -8158571051350706091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc378a34870a6540800000000000000
+      internalID: 5001818600647376095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32949d30e70a44780800000000000000
+      internalID: -8699652117082060509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c4a2a689d457900800000000000000
+      internalID: 681536235628022919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16974b020a2a48500800000000000000
+      internalID: 397621475742611809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      seta_transparente_idle_0: -6894630480731325479
+      seta_transparente_idle_1: 894540780289216500
+      seta_transparente_idle_10: -2213976621843811231
+      seta_transparente_idle_11: 8830785776894140634
+      seta_transparente_idle_12: 1925219595160250635
+      seta_transparente_idle_13: -8158571051350706091
+      seta_transparente_idle_14: 5001818600647376095
+      seta_transparente_idle_15: -8699652117082060509
+      seta_transparente_idle_16: 681536235628022919
+      seta_transparente_idle_17: 397621475742611809
+      seta_transparente_idle_2: 3073639532073969585
+      seta_transparente_idle_3: -998321981732715871
+      seta_transparente_idle_4: -7047196531332862334
+      seta_transparente_idle_5: 4687246718557036096
+      seta_transparente_idle_6: 4589694254442690166
+      seta_transparente_idle_7: 2178702812757675533
+      seta_transparente_idle_8: 8767183243224576711
+      seta_transparente_idle_9: -8979187615926154540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

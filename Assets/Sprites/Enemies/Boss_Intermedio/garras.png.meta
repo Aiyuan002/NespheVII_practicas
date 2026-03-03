@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 0a1d01258786f594f846fd1d81377060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3771837936964705140
+    second: garras_0
+  - first:
+      213: -3811052864184028795
+    second: garras_1
+  - first:
+      213: 3405453018021889014
+    second: garras_2
+  - first:
+      213: 1166984818341957898
+    second: garras_3
+  - first:
+      213: -6125742362576588437
+    second: garras_4
+  - first:
+      213: -9033880800475078655
+    second: garras_5
+  - first:
+      213: -6069234789261722449
+    second: garras_6
+  - first:
+      213: 4306441580365456046
+    second: garras_7
+  - first:
+      213: -1730830972471375356
+    second: garras_8
+  - first:
+      213: 1068954320253259077
+    second: garras_9
+  - first:
+      213: 9059669413457990311
+    second: garras_10
+  - first:
+      213: 7261278282383719743
+    second: garras_11
+  - first:
+      213: -2135625990224266011
+    second: garras_12
+  - first:
+      213: -8565165578488675087
+    second: garras_13
+  - first:
+      213: -8384756617746434743
+    second: garras_14
+  - first:
+      213: 1963029044937497595
+    second: garras_15
+  - first:
+      213: -4066317726612507299
+    second: garras_16
+  - first:
+      213: -2934838533589261399
+    second: garras_17
+  - first:
+      213: 8729864605678047335
+    second: garras_18
+  - first:
+      213: 5139547409398909653
+    second: garras_19
+  - first:
+      213: -6816646002146504806
+    second: garras_20
+  - first:
+      213: 8382187530308547418
+    second: garras_21
+  - first:
+      213: 6216695888507928968
+    second: garras_22
+  - first:
+      213: 2225758688558959694
+    second: garras_23
+  - first:
+      213: 4775111811461144626
+    second: garras_24
+  - first:
+      213: -8438045311142740391
+    second: garras_25
+  - first:
+      213: 4706923213981484124
+    second: garras_26
+  - first:
+      213: -6459021185336188722
+    second: garras_27
+  - first:
+      213: -2433410814536937576
+    second: garras_28
+  - first:
+      213: -4463770564541269804
+    second: garras_29
+  - first:
+      213: 8557297816012122406
+    second: garras_30
+  - first:
+      213: -9019351615324303810
+    second: garras_31
+  - first:
+      213: 5978256311925995933
+    second: garras_32
+  - first:
+      213: -4360646852573666217
+    second: garras_33
+  - first:
+      213: 6821156295577976070
+    second: garras_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8460e0616db7abc0800000000000000
+      internalID: -3771837936964705140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5817312ac9b6c1bc0800000000000000
+      internalID: -3811052864184028795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f30a7e1a79924f20800000000000000
+      internalID: 3405453018021889014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01db836286f13010800000000000000
+      internalID: 1166984818341957898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b617f0dd6cdfcfaa0800000000000000
+      internalID: -6125742362576588437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1002678864531a280800000000000000
+      internalID: -9033880800475078655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facbc978d1fb5cba0800000000000000
+      internalID: -6069234789261722449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2a7a30dcd83cb30800000000000000
+      internalID: 4306441580365456046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a899f966adaf7e0800000000000000
+      internalID: -1730830972471375356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d80db6a40b5de00800000000000000
+      internalID: 1068954320253259077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a292a3d4596abd70800000000000000
+      internalID: 9059669413457990311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d7dbc302e35c460800000000000000
+      internalID: 7261278282383719743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec37971a7bbc52e0800000000000000
+      internalID: -2135625990224266011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f487cb594b622980800000000000000
+      internalID: -8565165578488675087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9453e1fc74c53ab80800000000000000
+      internalID: -8384756617746434743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb164b04841e3b10800000000000000
+      internalID: 1963029044937497595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55336962998197c0800000000000000
+      internalID: -4066317726612507299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garras_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3a84437eb5547d0800000000000000
+      internalID: -2934838533589261399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garras_0: -3771837936964705140
+      garras_1: -3811052864184028795
+      garras_10: 9059669413457990311
+      garras_11: 7261278282383719743
+      garras_12: -2135625990224266011
+      garras_13: -8565165578488675087
+      garras_14: -8384756617746434743
+      garras_15: 1963029044937497595
+      garras_16: -4066317726612507299
+      garras_17: -2934838533589261399
+      garras_2: 3405453018021889014
+      garras_3: 1166984818341957898
+      garras_4: -6125742362576588437
+      garras_5: -9033880800475078655
+      garras_6: -6069234789261722449
+      garras_7: 4306441580365456046
+      garras_8: -1730830972471375356
+      garras_9: 1068954320253259077
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

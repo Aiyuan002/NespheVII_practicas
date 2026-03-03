@@ -1,0 +1,5103 @@
+fileFormatVersion: 2
+guid: 22b8004dbe2e2634eab4fe8b920a3edd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -10364620314821313
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_0
+  - first:
+      213: 7314322540832862957
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1
+  - first:
+      213: 5190175132511164605
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_2
+  - first:
+      213: 5613972282175086479
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_3
+  - first:
+      213: -3137994224336115349
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_4
+  - first:
+      213: -7749152449688718761
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_5
+  - first:
+      213: -159254791430404874
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_6
+  - first:
+      213: -4147621811427191562
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_7
+  - first:
+      213: -8123648960841853805
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_8
+  - first:
+      213: 5303701598795876074
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_9
+  - first:
+      213: 1798635331456045460
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_10
+  - first:
+      213: -2124910629846621606
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_11
+  - first:
+      213: 2460501729038848850
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_12
+  - first:
+      213: -8124351646499364029
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_13
+  - first:
+      213: -5137742800624609871
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_14
+  - first:
+      213: 7561454782072762694
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_15
+  - first:
+      213: 5027582708798091019
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_16
+  - first:
+      213: 1465341006831400504
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_17
+  - first:
+      213: 3946405991471629516
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_18
+  - first:
+      213: 3860292027111671293
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_19
+  - first:
+      213: 7591401324741670686
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_20
+  - first:
+      213: -2147252687710112496
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_21
+  - first:
+      213: -4786262184763243360
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_22
+  - first:
+      213: 6781331663025133441
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_23
+  - first:
+      213: -1759952647139204394
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_24
+  - first:
+      213: -2908788427044758259
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_25
+  - first:
+      213: 1771275726316640680
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_26
+  - first:
+      213: 2460476865906123679
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_27
+  - first:
+      213: -9221754026791411740
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_28
+  - first:
+      213: -3792668478670201570
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_29
+  - first:
+      213: -6020781134586132663
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_30
+  - first:
+      213: -7644099008501029422
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_31
+  - first:
+      213: -482717824766128864
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_32
+  - first:
+      213: 6792175532540054808
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_33
+  - first:
+      213: 2751291842171978437
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_34
+  - first:
+      213: 2086110614297498175
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_35
+  - first:
+      213: -7149152516631371128
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_36
+  - first:
+      213: -4407900055160281194
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_37
+  - first:
+      213: -6530379973692920798
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_38
+  - first:
+      213: 1074403311548072489
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_39
+  - first:
+      213: -7917819919851489346
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_40
+  - first:
+      213: 3622715274113023662
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_41
+  - first:
+      213: 8757033284708840519
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_42
+  - first:
+      213: 6338118331889739440
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_43
+  - first:
+      213: 935203997302646254
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_44
+  - first:
+      213: -7442792833321156162
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_45
+  - first:
+      213: -6524864372416246768
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_46
+  - first:
+      213: 7863157177799136036
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_47
+  - first:
+      213: 537264916374601074
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_48
+  - first:
+      213: -659184102172121395
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_49
+  - first:
+      213: -3427900481386259360
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_50
+  - first:
+      213: -5194765554353462795
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_51
+  - first:
+      213: -2224858450306300061
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_52
+  - first:
+      213: -5226681748802291119
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_53
+  - first:
+      213: 3498126531326565875
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_54
+  - first:
+      213: 5064629364741472020
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_55
+  - first:
+      213: 3078959608398314251
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_56
+  - first:
+      213: 3429147645755674964
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_57
+  - first:
+      213: 3520918827137857093
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_58
+  - first:
+      213: 1327279982550758285
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_59
+  - first:
+      213: 7750687762445700375
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_60
+  - first:
+      213: -6311072290435733348
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_61
+  - first:
+      213: 13303907737733274
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_62
+  - first:
+      213: -4076666823849306221
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_63
+  - first:
+      213: 2349590701552539986
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_64
+  - first:
+      213: -4635972976292350417
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_65
+  - first:
+      213: -6682033515470141532
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_66
+  - first:
+      213: 6412022665192816769
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_67
+  - first:
+      213: 2993748681572167348
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_68
+  - first:
+      213: 2071756340646694635
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_69
+  - first:
+      213: 5716029667942561338
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_70
+  - first:
+      213: 4961451028687968074
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_71
+  - first:
+      213: 481140551187079617
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_72
+  - first:
+      213: -8246599853114398666
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_73
+  - first:
+      213: 2504059462021241105
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_74
+  - first:
+      213: 2421924080640535578
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_75
+  - first:
+      213: -2321847564001293806
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_76
+  - first:
+      213: 754744110402890955
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_77
+  - first:
+      213: 6675208476304231543
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_78
+  - first:
+      213: -5589699876173076315
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_79
+  - first:
+      213: 8479124985304703083
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_80
+  - first:
+      213: -2508184751834843006
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_81
+  - first:
+      213: -8625239659215371321
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_82
+  - first:
+      213: -2875798617489179192
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_83
+  - first:
+      213: 6847897399692460632
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_84
+  - first:
+      213: 7150318362203294359
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_85
+  - first:
+      213: 7710779399682644678
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_86
+  - first:
+      213: -7307348137705891379
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_87
+  - first:
+      213: -5164787704103713012
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_88
+  - first:
+      213: -5352912960009008831
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_89
+  - first:
+      213: -4617559299880967684
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_90
+  - first:
+      213: -6440746011605447644
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_91
+  - first:
+      213: -3087316243440043573
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_92
+  - first:
+      213: -2089145842904789648
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_93
+  - first:
+      213: 6300846575681046819
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_94
+  - first:
+      213: 3997550572841682583
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_95
+  - first:
+      213: -568202400106648226
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_96
+  - first:
+      213: -7734642851019489528
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_97
+  - first:
+      213: -2076358280509385662
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_98
+  - first:
+      213: 3059511073355243453
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_99
+  - first:
+      213: 4408387340008868637
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_100
+  - first:
+      213: -7455361173193366195
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_101
+  - first:
+      213: 6029793655944982499
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_102
+  - first:
+      213: 1909885386439114329
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_103
+  - first:
+      213: 1227784142651312435
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_104
+  - first:
+      213: 9189087077734417644
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_105
+  - first:
+      213: -7346307942292924346
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_106
+  - first:
+      213: 7495463502881762379
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_107
+  - first:
+      213: 7273302651168313432
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_108
+  - first:
+      213: -370097288135993905
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_109
+  - first:
+      213: -733738885996108648
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_110
+  - first:
+      213: -8548496523448607941
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_111
+  - first:
+      213: 3243873116004713301
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_112
+  - first:
+      213: 691178966890643085
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_113
+  - first:
+      213: -7674335502249155497
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_114
+  - first:
+      213: -8552205660030357527
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_115
+  - first:
+      213: -1480796994787266771
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_116
+  - first:
+      213: -3975704287762014962
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_117
+  - first:
+      213: -7765568546405989168
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_118
+  - first:
+      213: 1050898079021076338
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_119
+  - first:
+      213: -7664604970058090511
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_120
+  - first:
+      213: -2562510016166936314
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_121
+  - first:
+      213: -1333571425352906062
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_122
+  - first:
+      213: -203101672261111638
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_123
+  - first:
+      213: 8761770146937772190
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_124
+  - first:
+      213: -6279716741333463749
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_125
+  - first:
+      213: -6168857229298954501
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_126
+  - first:
+      213: 9041267916807381244
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_127
+  - first:
+      213: -5812532555929286025
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_128
+  - first:
+      213: 1666869766040825993
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_129
+  - first:
+      213: 2807951902160148992
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_130
+  - first:
+      213: -4145399265931841971
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_131
+  - first:
+      213: -1495197070156594484
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_132
+  - first:
+      213: -7913371948636428082
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_133
+  - first:
+      213: -7869924877490362367
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_134
+  - first:
+      213: -7425987697951301440
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_135
+  - first:
+      213: 844544431957387505
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_136
+  - first:
+      213: -2111609934905241471
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_137
+  - first:
+      213: -386330401948006785
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_138
+  - first:
+      213: -3420531922752990059
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_139
+  - first:
+      213: -4892769619285919723
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_140
+  - first:
+      213: -7957875598253795544
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_141
+  - first:
+      213: -1279496978602676815
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_142
+  - first:
+      213: 7686320529188653364
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_143
+  - first:
+      213: 1748838712829553038
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_144
+  - first:
+      213: 7480021054809225489
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_145
+  - first:
+      213: 5157083373598528739
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_146
+  - first:
+      213: -5040793569342575757
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_147
+  - first:
+      213: -4750759013480297026
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_148
+  - first:
+      213: -2237641751649108133
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_149
+  - first:
+      213: -8484065068034971660
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_150
+  - first:
+      213: -6511658401348185289
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_151
+  - first:
+      213: -7332402393367001810
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_152
+  - first:
+      213: -5254780769496101140
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_153
+  - first:
+      213: 5717632149604296777
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_154
+  - first:
+      213: 5689298437895344568
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_155
+  - first:
+      213: -4417493324020931566
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_156
+  - first:
+      213: 1966272312075453603
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_157
+  - first:
+      213: -5534685610817858210
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_158
+  - first:
+      213: 7475251770009168182
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_159
+  - first:
+      213: -7610370083700220514
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_160
+  - first:
+      213: 1207714715134811454
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_161
+  - first:
+      213: -6042332048360769966
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_162
+  - first:
+      213: 5522786158278088318
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_163
+  - first:
+      213: -6969738418440833841
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_164
+  - first:
+      213: 8973024182029023950
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_165
+  - first:
+      213: -3133751953511256110
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_166
+  - first:
+      213: 1131551022089579075
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_167
+  - first:
+      213: -2290735540124660570
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_168
+  - first:
+      213: 7565425813292700388
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_169
+  - first:
+      213: -9191728326411796309
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_170
+  - first:
+      213: 4865844800307218968
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_171
+  - first:
+      213: -1256080262449988547
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_172
+  - first:
+      213: -8976193758186246396
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_173
+  - first:
+      213: -8002499750513389425
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_174
+  - first:
+      213: 3817189091098692540
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_175
+  - first:
+      213: 1193203287324125545
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_176
+  - first:
+      213: 207329314158027575
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_177
+  - first:
+      213: -8292309230808725656
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_178
+  - first:
+      213: 4341052874189784797
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_179
+  - first:
+      213: -7573182021890004869
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_180
+  - first:
+      213: 7792483234669094719
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_181
+  - first:
+      213: -5913160010708621734
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_182
+  - first:
+      213: 4513282600641180988
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_183
+  - first:
+      213: -3421626756823383949
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_184
+  - first:
+      213: -2786110778032884562
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_185
+  - first:
+      213: -5867218001328509472
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_186
+  - first:
+      213: -3086747270667104246
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_187
+  - first:
+      213: 746963327948188112
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_188
+  - first:
+      213: 7983652217752912792
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_189
+  - first:
+      213: -4777084672467333541
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_190
+  - first:
+      213: -6824441481018103539
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_191
+  - first:
+      213: -8678816509690964636
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_192
+  - first:
+      213: -1870877164010790912
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_193
+  - first:
+      213: -3454359508040251311
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_194
+  - first:
+      213: -1734683922667092458
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_195
+  - first:
+      213: -5756095025854841464
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_196
+  - first:
+      213: -7255141303553456903
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_197
+  - first:
+      213: -8511286092939516997
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_198
+  - first:
+      213: -6919999877227652960
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_199
+  - first:
+      213: 5982996872303410955
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_200
+  - first:
+      213: 4313045814761170478
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_201
+  - first:
+      213: -7455112880483020851
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_202
+  - first:
+      213: -8120722933427816447
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_203
+  - first:
+      213: 3142164432943728374
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_204
+  - first:
+      213: 7537748309942765840
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_205
+  - first:
+      213: -159656457008261336
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_206
+  - first:
+      213: 1867401036381219938
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_207
+  - first:
+      213: -8634692730438048764
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_208
+  - first:
+      213: -1984454744205014983
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_209
+  - first:
+      213: -476155217751934254
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_210
+  - first:
+      213: -7924657717522156093
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_211
+  - first:
+      213: -2790701606560648010
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_212
+  - first:
+      213: -3865029851613702131
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_213
+  - first:
+      213: 3105537236329777786
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_214
+  - first:
+      213: -3959884245755994710
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_215
+  - first:
+      213: 7794099419381324326
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_216
+  - first:
+      213: 1370839971893186960
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_217
+  - first:
+      213: -4543506236167380334
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_218
+  - first:
+      213: 3570005151387753123
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_219
+  - first:
+      213: -5523363341126649103
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_220
+  - first:
+      213: -4520466819607077529
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_221
+  - first:
+      213: 3916900845175190954
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_222
+  - first:
+      213: 7954713435125167904
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_223
+  - first:
+      213: -5573840613000250882
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_224
+  - first:
+      213: 7113014528938737496
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_225
+  - first:
+      213: -6410860971957913559
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_226
+  - first:
+      213: 8869477600317035582
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_227
+  - first:
+      213: 8680365489881516843
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_228
+  - first:
+      213: 777594868655834191
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_229
+  - first:
+      213: -6923024903135458260
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_230
+  - first:
+      213: -1513086293568507923
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_231
+  - first:
+      213: -8530523051167657702
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_232
+  - first:
+      213: 166572429495291629
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_233
+  - first:
+      213: -4486127091981408876
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_234
+  - first:
+      213: -4132762695711622676
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_235
+  - first:
+      213: -4082516292039052801
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_236
+  - first:
+      213: -3030516359842479317
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_237
+  - first:
+      213: -7045388189655149679
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_238
+  - first:
+      213: -1645148811119772724
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_239
+  - first:
+      213: -3022673789287156871
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_240
+  - first:
+      213: -5898769885264205993
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_241
+  - first:
+      213: -7885053301246712274
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_242
+  - first:
+      213: -4096023461865447895
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_243
+  - first:
+      213: -5755568620578424934
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_244
+  - first:
+      213: 8491996273883137691
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_245
+  - first:
+      213: -5909312528392536645
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_246
+  - first:
+      213: 1654783493534268319
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_247
+  - first:
+      213: -818173523881617605
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_248
+  - first:
+      213: -4885206736466791929
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_249
+  - first:
+      213: 62803356089518621
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_250
+  - first:
+      213: -6112926287492649439
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_251
+  - first:
+      213: -8119610899907986842
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_252
+  - first:
+      213: 8313830585844365634
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_253
+  - first:
+      213: 8002797656808094816
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_254
+  - first:
+      213: 7874034417006681390
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_255
+  - first:
+      213: 1602237109869422764
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_256
+  - first:
+      213: 174581029370566192
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_257
+  - first:
+      213: -5319613833023430753
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_258
+  - first:
+      213: 5793950665320364601
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_259
+  - first:
+      213: 6988172075450289742
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_260
+  - first:
+      213: -7119344964601107332
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_261
+  - first:
+      213: 7308196735020504789
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_262
+  - first:
+      213: 4935820525946373247
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_263
+  - first:
+      213: 5744850373029518731
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_264
+  - first:
+      213: 4523036202473125399
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_265
+  - first:
+      213: -7380965392596351334
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_266
+  - first:
+      213: -8585501860328824498
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_267
+  - first:
+      213: 6911532793401748504
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_268
+  - first:
+      213: 7310109689557011975
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_269
+  - first:
+      213: 922014730343535201
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_270
+  - first:
+      213: 293526875901041214
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_271
+  - first:
+      213: 7779204758432720971
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_272
+  - first:
+      213: -7323627921446073085
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_273
+  - first:
+      213: -460306991019963110
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_274
+  - first:
+      213: -4489321237287206654
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_275
+  - first:
+      213: 8087985520105406622
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_276
+  - first:
+      213: 5424890436245299990
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_277
+  - first:
+      213: 8033294287481463932
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_278
+  - first:
+      213: 9067410165331471076
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_279
+  - first:
+      213: 2035049550401262597
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_280
+  - first:
+      213: -4064498635079248606
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_281
+  - first:
+      213: 4204067299711034721
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_282
+  - first:
+      213: 4440392935082083834
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_283
+  - first:
+      213: -3117349308765459855
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_284
+  - first:
+      213: -3951220965096391657
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_285
+  - first:
+      213: 4541677559656113311
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_286
+  - first:
+      213: -3801055195024263334
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_287
+  - first:
+      213: -674562882885323451
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_288
+  - first:
+      213: -5317444943254382390
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_289
+  - first:
+      213: -4409388104377496736
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_290
+  - first:
+      213: -1334095805522649575
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_291
+  - first:
+      213: 6769342323388943609
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_292
+  - first:
+      213: 8112946380028845380
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_293
+  - first:
+      213: 2860047802431929448
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_294
+  - first:
+      213: -3477561215741541960
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_295
+  - first:
+      213: 6114836558300058888
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_296
+  - first:
+      213: -3168093598426180671
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_297
+  - first:
+      213: -7389433177259557188
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_298
+  - first:
+      213: -3939084183134752946
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_299
+  - first:
+      213: 4577360919740191142
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_300
+  - first:
+      213: 4728068864590524743
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_301
+  - first:
+      213: 2340120881074571894
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_302
+  - first:
+      213: -5866729652737792447
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_303
+  - first:
+      213: 2733625978394066209
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_304
+  - first:
+      213: 4152366564897682661
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_305
+  - first:
+      213: 8894482680829921039
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_306
+  - first:
+      213: 3028078075141660517
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_307
+  - first:
+      213: 7124364231899150044
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_308
+  - first:
+      213: 681305523638507832
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_309
+  - first:
+      213: 2953872614998572399
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_310
+  - first:
+      213: 4221528274792684214
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_311
+  - first:
+      213: 8020311146840336535
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_312
+  - first:
+      213: -7723722825532041076
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_313
+  - first:
+      213: 3627325152641590535
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_314
+  - first:
+      213: -1394958932400007880
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_315
+  - first:
+      213: 632910114895382536
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_316
+  - first:
+      213: -1330568997500544847
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_317
+  - first:
+      213: 6949027003900868104
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_318
+  - first:
+      213: 9180564155578820058
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_319
+  - first:
+      213: 6367260548527651796
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_320
+  - first:
+      213: 150980788445037137
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_321
+  - first:
+      213: 8745390359454420019
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_322
+  - first:
+      213: -9065490594187398468
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_323
+  - first:
+      213: -4357676688824326847
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_324
+  - first:
+      213: 8459201044376707715
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_325
+  - first:
+      213: -5261561586196290568
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_326
+  - first:
+      213: -969972633805982865
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_327
+  - first:
+      213: 2629506785360528609
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_328
+  - first:
+      213: 7887768932505191010
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_329
+  - first:
+      213: -4025270302590778878
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_330
+  - first:
+      213: 3893510919794073966
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_331
+  - first:
+      213: 8605899186621830576
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_332
+  - first:
+      213: -8991371937526349997
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_333
+  - first:
+      213: 355945796084928227
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_334
+  - first:
+      213: 5114475621175472012
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_335
+  - first:
+      213: -1730982597914884841
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_336
+  - first:
+      213: 2274424614386131996
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_337
+  - first:
+      213: -3419655504940810630
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_338
+  - first:
+      213: 4640763083977280751
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_339
+  - first:
+      213: -864044203850505627
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_340
+  - first:
+      213: 4488055515431675230
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_341
+  - first:
+      213: -2713964994506547423
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_342
+  - first:
+      213: 1527860723860993413
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_343
+  - first:
+      213: 3720922007817690382
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_344
+  - first:
+      213: 1236139278936099965
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_345
+  - first:
+      213: 857756642046148239
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_346
+  - first:
+      213: 5003034005780496596
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_347
+  - first:
+      213: 6628931006520772713
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_348
+  - first:
+      213: -4125153913756583561
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_349
+  - first:
+      213: 3062299922330427243
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_350
+  - first:
+      213: -342606482074466590
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_351
+  - first:
+      213: 973631941515856603
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_352
+  - first:
+      213: 3438768061681239406
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_353
+  - first:
+      213: 5350250998669215930
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_354
+  - first:
+      213: -2571244563313564449
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_355
+  - first:
+      213: 5904505092566123049
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_356
+  - first:
+      213: 4742858745314510520
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_357
+  - first:
+      213: -5627579930245994553
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_358
+  - first:
+      213: 1770584832287783514
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_359
+  - first:
+      213: -3421032937331717882
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_360
+  - first:
+      213: -2787576626077200278
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_361
+  - first:
+      213: 2729369551121827262
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_362
+  - first:
+      213: -763435038818387467
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_363
+  - first:
+      213: -3630770801344857610
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_364
+  - first:
+      213: -6495375505506525167
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_365
+  - first:
+      213: -3457164305443747386
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_366
+  - first:
+      213: 3862330218497656445
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_367
+  - first:
+      213: 8420877009614233669
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_368
+  - first:
+      213: -4627237099394144022
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_369
+  - first:
+      213: 444475648032107393
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_370
+  - first:
+      213: -3751693348291683905
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_371
+  - first:
+      213: -492111960224892917
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_372
+  - first:
+      213: 3041344986426435743
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_373
+  - first:
+      213: 282569927478605450
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_374
+  - first:
+      213: 3309742631892761813
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_375
+  - first:
+      213: 246764140485463991
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_376
+  - first:
+      213: 8856852445842352416
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_377
+  - first:
+      213: 4815811737358862805
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_378
+  - first:
+      213: -6056246717777324827
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_379
+  - first:
+      213: 8937205837101565066
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_380
+  - first:
+      213: 727732856216257124
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_381
+  - first:
+      213: 3578739478963573623
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_382
+  - first:
+      213: -6335027218879134056
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_383
+  - first:
+      213: 580247370723112291
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_384
+  - first:
+      213: -3709967618415866272
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_385
+  - first:
+      213: 4605298160715899301
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_386
+  - first:
+      213: 3604821084928318907
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_387
+  - first:
+      213: 7253480207069381132
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_388
+  - first:
+      213: -8359904069583549001
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_389
+  - first:
+      213: 7245154978982804064
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_390
+  - first:
+      213: -3852247822304710488
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_391
+  - first:
+      213: 605506528963912749
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_392
+  - first:
+      213: 6294135324381340906
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_393
+  - first:
+      213: 8820962162942996696
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_394
+  - first:
+      213: -7204192573247075159
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_395
+  - first:
+      213: -2105445451926030306
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_396
+  - first:
+      213: -2361230437119942421
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_397
+  - first:
+      213: 7794263500812793138
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_398
+  - first:
+      213: 3917710272462100312
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_399
+  - first:
+      213: -4460018768493025671
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_400
+  - first:
+      213: -2291847052929918905
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_401
+  - first:
+      213: 8860635397926429748
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_402
+  - first:
+      213: -2740079332337256152
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_403
+  - first:
+      213: -518157290655606043
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_404
+  - first:
+      213: 1887447130050219734
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_405
+  - first:
+      213: 6130654151347725115
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_406
+  - first:
+      213: 669447434036627552
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_407
+  - first:
+      213: 4314326880653136131
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_408
+  - first:
+      213: -6697773502297108710
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_409
+  - first:
+      213: 3920632915135573631
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_410
+  - first:
+      213: -4782563985953398336
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_411
+  - first:
+      213: 4193343350255633415
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_412
+  - first:
+      213: -4290971881593630387
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_413
+  - first:
+      213: 6590653298459364482
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_414
+  - first:
+      213: 3632232110455765860
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_415
+  - first:
+      213: 5679009672122186276
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_416
+  - first:
+      213: 2851618610144165557
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_417
+  - first:
+      213: -5498389826510468433
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_418
+  - first:
+      213: -6132190626330687416
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_419
+  - first:
+      213: -4188186857814000750
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_420
+  - first:
+      213: 9013677195211463711
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_421
+  - first:
+      213: -3584145412452206111
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_422
+  - first:
+      213: -3693187891226887930
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_423
+  - first:
+      213: 4314503312769566553
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_424
+  - first:
+      213: -3969234722590319516
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_425
+  - first:
+      213: -4689649659621690019
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_426
+  - first:
+      213: 659673811678743242
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_427
+  - first:
+      213: -4851176785711288522
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_428
+  - first:
+      213: 6878783017661154187
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_429
+  - first:
+      213: 4669205039575006317
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_430
+  - first:
+      213: 1107779320220548576
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_431
+  - first:
+      213: 3544906332559784145
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_432
+  - first:
+      213: -2319424457654772970
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_433
+  - first:
+      213: 7553320215228044277
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_434
+  - first:
+      213: -6263374530260954702
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_435
+  - first:
+      213: 1277859837147119444
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_436
+  - first:
+      213: 8888426771266641383
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_437
+  - first:
+      213: -3446802079227636306
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_438
+  - first:
+      213: -6314774385836284510
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_439
+  - first:
+      213: 3607252836006205443
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_440
+  - first:
+      213: 419938710928609633
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_441
+  - first:
+      213: -8857233371750650200
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_442
+  - first:
+      213: -4983644800535479612
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_443
+  - first:
+      213: -937657600499558260
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_444
+  - first:
+      213: 2892085092198942388
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_445
+  - first:
+      213: 5892256215257618146
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_446
+  - first:
+      213: 1535773806254368122
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_447
+  - first:
+      213: -1624754537072294030
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_448
+  - first:
+      213: 1668721028786814189
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_449
+  - first:
+      213: -1000179408057095600
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_450
+  - first:
+      213: -4484388946222658366
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_451
+  - first:
+      213: -3787672763554492901
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_452
+  - first:
+      213: -3749267920644456989
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_453
+  - first:
+      213: -7925973095859449361
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_454
+  - first:
+      213: 4271358276997458840
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_455
+  - first:
+      213: 1842760622284453224
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_456
+  - first:
+      213: 891886584641348712
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_457
+  - first:
+      213: 1937052817230722003
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_458
+  - first:
+      213: 9152044045520802824
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_459
+  - first:
+      213: 5003366579695364680
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_460
+  - first:
+      213: 1671184849632008779
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_461
+  - first:
+      213: 1022740971378410976
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_462
+  - first:
+      213: -2049479694164602234
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_463
+  - first:
+      213: 7757937806904863626
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_464
+  - first:
+      213: -2671803858782818303
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_465
+  - first:
+      213: -1551533701385904208
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_466
+  - first:
+      213: -2776463934684324581
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_467
+  - first:
+      213: -1685619372721416148
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_468
+  - first:
+      213: -1189095187315348718
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_469
+  - first:
+      213: 7478778168329128277
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_470
+  - first:
+      213: -4731189342529948699
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_471
+  - first:
+      213: 5404993078845732276
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_472
+  - first:
+      213: 798423107731593776
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_473
+  - first:
+      213: 8010979426049039885
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_474
+  - first:
+      213: 4872137283826818219
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_475
+  - first:
+      213: 2839316420732369385
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_476
+  - first:
+      213: -8446333277941714108
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_477
+  - first:
+      213: -3268250061699020051
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_478
+  - first:
+      213: 497925712625753081
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_479
+  - first:
+      213: 6930441354310043759
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_480
+  - first:
+      213: 5904672514313873425
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_481
+  - first:
+      213: 2140259713895955623
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_482
+  - first:
+      213: -9140420430982109423
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_483
+  - first:
+      213: 495492309382021248
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_484
+  - first:
+      213: 4501816922088284698
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_485
+  - first:
+      213: 5941463979525335670
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_486
+  - first:
+      213: -3651718112081723155
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_487
+  - first:
+      213: 6710105928758921088
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_488
+  - first:
+      213: -8242447313631778253
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_489
+  - first:
+      213: 7259822706978459187
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_490
+  - first:
+      213: -4338517944328481654
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_491
+  - first:
+      213: -8039410588462683135
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_492
+  - first:
+      213: 7470662561354132853
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_493
+  - first:
+      213: 9201409638399073536
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_494
+  - first:
+      213: 316470596163830603
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_495
+  - first:
+      213: 3840439791794428785
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_496
+  - first:
+      213: -8789513634833212882
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_497
+  - first:
+      213: -4523793829580702155
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_498
+  - first:
+      213: 4001089223975119270
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_499
+  - first:
+      213: 6632340969244055270
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_500
+  - first:
+      213: 4622421552827695242
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_501
+  - first:
+      213: 32623686769396634
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_502
+  - first:
+      213: 4055389407177115151
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_503
+  - first:
+      213: -8914196686339599740
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_504
+  - first:
+      213: 7135143977391743541
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_505
+  - first:
+      213: 264253386258277127
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_506
+  - first:
+      213: -5715236662151111356
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_507
+  - first:
+      213: -2233037118874726412
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_508
+  - first:
+      213: -6603684509723948653
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_509
+  - first:
+      213: 4934689858478565354
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_510
+  - first:
+      213: 7759208846193121957
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_511
+  - first:
+      213: 6202859798146821964
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_512
+  - first:
+      213: 7954496871147360826
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_513
+  - first:
+      213: -2207621562398894269
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_514
+  - first:
+      213: -6227274416237468962
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_515
+  - first:
+      213: -5913933740500018253
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_516
+  - first:
+      213: -94351523132091192
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_517
+  - first:
+      213: -978310686693091938
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_518
+  - first:
+      213: 5229629387383871306
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_519
+  - first:
+      213: 1178496326061771285
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_520
+  - first:
+      213: 6497891464543695302
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_521
+  - first:
+      213: -2464322924300342402
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_522
+  - first:
+      213: 9210818006814410552
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_523
+  - first:
+      213: -3529354166622690210
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_524
+  - first:
+      213: -6098625828214692552
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_525
+  - first:
+      213: 5384544243897839178
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_526
+  - first:
+      213: 3442641100485276943
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_527
+  - first:
+      213: -6237298188730719363
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_528
+  - first:
+      213: 55613347791662317
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_529
+  - first:
+      213: 7683607249484277351
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_530
+  - first:
+      213: -4879475195256679854
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_531
+  - first:
+      213: -8401909471705015918
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_532
+  - first:
+      213: 820825839956610541
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_533
+  - first:
+      213: -4057265062367384819
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_534
+  - first:
+      213: -2720766846980360148
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_535
+  - first:
+      213: -3007807157015683571
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_536
+  - first:
+      213: -2463441307072801226
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_537
+  - first:
+      213: 244504034164280454
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_538
+  - first:
+      213: -8991494196211127517
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_539
+  - first:
+      213: 8434319172965739832
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_540
+  - first:
+      213: 3422438415418201964
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_541
+  - first:
+      213: 3187822848357513621
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_542
+  - first:
+      213: -2064677620396532634
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_543
+  - first:
+      213: -5232868607821678399
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_544
+  - first:
+      213: 2488081490998745583
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_545
+  - first:
+      213: -8739696357434875947
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_546
+  - first:
+      213: -7397856249309440859
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_547
+  - first:
+      213: 5850822865233422661
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_548
+  - first:
+      213: -5628855981264113488
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_549
+  - first:
+      213: 6708208272959128068
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_550
+  - first:
+      213: -7903430323416398396
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_551
+  - first:
+      213: -2568642570701280531
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_552
+  - first:
+      213: 4891656799777678606
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_553
+  - first:
+      213: 1680572237393019094
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_554
+  - first:
+      213: 3835876648325060209
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_555
+  - first:
+      213: 7125763789308388942
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_556
+  - first:
+      213: -4036311165329681872
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_557
+  - first:
+      213: 2179093363478675043
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_558
+  - first:
+      213: 4061945157963286635
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_559
+  - first:
+      213: -1146749598746281710
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_560
+  - first:
+      213: 2175339815191357597
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_561
+  - first:
+      213: 5918772886652348365
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_562
+  - first:
+      213: 1185556129765027381
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_563
+  - first:
+      213: 5453740838481543467
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_564
+  - first:
+      213: -3721014476928243917
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_565
+  - first:
+      213: 7436795177454366790
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_566
+  - first:
+      213: 1961561126236768111
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_567
+  - first:
+      213: 4468734245621490054
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_568
+  - first:
+      213: 268282595321905842
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_569
+  - first:
+      213: -8378916473560968250
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_570
+  - first:
+      213: 930063651243014050
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_571
+  - first:
+      213: 1852707576917098383
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_572
+  - first:
+      213: 4529628067367798041
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_573
+  - first:
+      213: 8841245432200409438
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_574
+  - first:
+      213: 4452980597869572844
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_575
+  - first:
+      213: -8404956951870145519
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_576
+  - first:
+      213: -1162678381032054041
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_577
+  - first:
+      213: 1156358260779604458
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_578
+  - first:
+      213: -7058400898332289569
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_579
+  - first:
+      213: 1114069042078375583
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_580
+  - first:
+      213: 7593546232837703890
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_581
+  - first:
+      213: -4221848391475623555
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_582
+  - first:
+      213: 3006642985402972092
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_583
+  - first:
+      213: -962300044955683395
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_584
+  - first:
+      213: -8236360087292319967
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_585
+  - first:
+      213: 1117750912217427319
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_586
+  - first:
+      213: 2557198470041418244
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_587
+  - first:
+      213: 7427758737755020146
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_588
+  - first:
+      213: -928443016668010307
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_589
+  - first:
+      213: -7607430839536073646
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_590
+  - first:
+      213: -2576020746461097435
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_591
+  - first:
+      213: -1213259976836244437
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_592
+  - first:
+      213: 1701611258146149344
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_593
+  - first:
+      213: 152540391788835453
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_594
+  - first:
+      213: -7954924351258771844
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_595
+  - first:
+      213: -805161288171098067
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_596
+  - first:
+      213: -8518064478210052244
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_597
+  - first:
+      213: 3513340275686006731
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_598
+  - first:
+      213: 7833758228047921788
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_599
+  - first:
+      213: 5248005170869164743
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_600
+  - first:
+      213: -3863206014686251669
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_601
+  - first:
+      213: -2043930636511146756
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_602
+  - first:
+      213: 3971838484630660550
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_603
+  - first:
+      213: -198717468811804323
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_604
+  - first:
+      213: -7995247846136256843
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_605
+  - first:
+      213: 1701391844142994253
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_606
+  - first:
+      213: 4594466462804972461
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_607
+  - first:
+      213: -8842055765817137772
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_608
+  - first:
+      213: -8119060104121867708
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_609
+  - first:
+      213: -8409084172240641435
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_610
+  - first:
+      213: -573544020074621501
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_611
+  - first:
+      213: 3791375113816560734
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_612
+  - first:
+      213: -7323304823042071806
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_613
+  - first:
+      213: -7957490685456975725
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_614
+  - first:
+      213: -3121365418438962791
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_615
+  - first:
+      213: 2718379238727617536
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_616
+  - first:
+      213: 2442229677553382297
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_617
+  - first:
+      213: -4844449807864716685
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_618
+  - first:
+      213: -3349992431705910862
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_619
+  - first:
+      213: 3846899285039233187
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_620
+  - first:
+      213: -6403415168934395979
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_621
+  - first:
+      213: -7547460381246194490
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_622
+  - first:
+      213: -3822972787188066546
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_623
+  - first:
+      213: -2886890188783327920
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_624
+  - first:
+      213: -4134113660204672362
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_625
+  - first:
+      213: -4591915587883685937
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_626
+  - first:
+      213: -8049236672934824145
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_627
+  - first:
+      213: -6079124239855473536
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_628
+  - first:
+      213: 7595351939924491883
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_629
+  - first:
+      213: -8098855037401153000
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_630
+  - first:
+      213: -910589960168849509
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_631
+  - first:
+      213: -3162225588688501510
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_632
+  - first:
+      213: -5547024789884742717
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_633
+  - first:
+      213: -6167985767124149858
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_634
+  - first:
+      213: -8903748896106215515
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_635
+  - first:
+      213: -8484971173148548323
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_636
+  - first:
+      213: -6524300461550801868
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_637
+  - first:
+      213: -2843282194607010537
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_638
+  - first:
+      213: -3462235753219170512
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_639
+  - first:
+      213: -4859401018821961042
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_640
+  - first:
+      213: 3970939496291011255
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_641
+  - first:
+      213: 4523625367456992666
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_642
+  - first:
+      213: 9062860234923971303
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_643
+  - first:
+      213: -9183678453413600684
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_644
+  - first:
+      213: -4470983434626141355
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_645
+  - first:
+      213: 74935044322897270
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_646
+  - first:
+      213: 3687700372683710435
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_647
+  - first:
+      213: -1258537998563715126
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_648
+  - first:
+      213: -5130190479664300388
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_649
+  - first:
+      213: 6737047155960413891
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_650
+  - first:
+      213: -2797614674069271076
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_651
+  - first:
+      213: -2333122375462124182
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_652
+  - first:
+      213: -6056188951233307897
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_653
+  - first:
+      213: -2351457684922638925
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_654
+  - first:
+      213: -6424598270109072546
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_655
+  - first:
+      213: -1880242243408500213
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_656
+  - first:
+      213: 876315027982087939
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_657
+  - first:
+      213: -624435528638872732
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_658
+  - first:
+      213: 8853166175164256448
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_659
+  - first:
+      213: 4111960097498158408
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_660
+  - first:
+      213: 8248802476013323928
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_661
+  - first:
+      213: 2929137984884618265
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_662
+  - first:
+      213: -7658088300508832094
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_663
+  - first:
+      213: -1356865999701151660
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_664
+  - first:
+      213: 5938444680623046895
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_665
+  - first:
+      213: -5875031764546470064
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_666
+  - first:
+      213: -628396224162245851
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_667
+  - first:
+      213: 4454474502633419301
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_668
+  - first:
+      213: -1657463426777642220
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_669
+  - first:
+      213: -7559929198821922263
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_670
+  - first:
+      213: 4664205262197260170
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_671
+  - first:
+      213: 4082268209990537953
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_672
+  - first:
+      213: 6152140006967914342
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_673
+  - first:
+      213: 4601444169224623455
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_674
+  - first:
+      213: -715771068088889304
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_675
+  - first:
+      213: -3182912102592186811
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_676
+  - first:
+      213: -3146134243541233106
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_677
+  - first:
+      213: -5302086746058553422
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_678
+  - first:
+      213: 5280430283265305103
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_679
+  - first:
+      213: 622751111733622826
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_680
+  - first:
+      213: 2357140771347437553
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_681
+  - first:
+      213: -8973432528283992539
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_682
+  - first:
+      213: -3079894574663522155
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_683
+  - first:
+      213: -2350439323120300969
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_684
+  - first:
+      213: 7807493336615183957
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_685
+  - first:
+      213: -6469229922069847130
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_686
+  - first:
+      213: -4277560489370565925
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_687
+  - first:
+      213: 7548366924121045341
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_688
+  - first:
+      213: -4397951310002926577
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_689
+  - first:
+      213: 1546652568626439920
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_690
+  - first:
+      213: -722703694800660306
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_691
+  - first:
+      213: -1322505723966441834
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_692
+  - first:
+      213: -5103754170915602996
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_693
+  - first:
+      213: 2733632964627964700
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_694
+  - first:
+      213: -5879471655853346606
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_695
+  - first:
+      213: -8040675476955434009
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_696
+  - first:
+      213: 2137620841798085634
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_697
+  - first:
+      213: 1725816957553494697
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_698
+  - first:
+      213: -5736505487739377428
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_699
+  - first:
+      213: 1284139927838023263
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_700
+  - first:
+      213: -2702808195035093554
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_701
+  - first:
+      213: -7214677108679370097
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_702
+  - first:
+      213: 8873338910472005194
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_703
+  - first:
+      213: 725358778450798884
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_704
+  - first:
+      213: -7531501679246111116
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_705
+  - first:
+      213: -6865394059477017024
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_706
+  - first:
+      213: -634048968517443042
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_707
+  - first:
+      213: 2270833233665569686
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_708
+  - first:
+      213: 7643051392986095931
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_709
+  - first:
+      213: 4325607180561202062
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_710
+  - first:
+      213: 5155241102354713861
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_711
+  - first:
+      213: 6925295013978488942
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_712
+  - first:
+      213: -2069748481522311125
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_713
+  - first:
+      213: -1386676294530859327
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_714
+  - first:
+      213: -7703133132825825507
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_715
+  - first:
+      213: -8148677670357551226
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_716
+  - first:
+      213: -8790685299574363499
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_717
+  - first:
+      213: 6419206599709151855
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_718
+  - first:
+      213: -7208878686352787222
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_719
+  - first:
+      213: 6609136283426180641
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_720
+  - first:
+      213: 5368249254001842745
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_721
+  - first:
+      213: 2867560706035649719
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_722
+  - first:
+      213: 2512493613611913942
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_723
+  - first:
+      213: -1824037392492462364
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_724
+  - first:
+      213: 1533007683820740039
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_725
+  - first:
+      213: -4784310356563823923
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_726
+  - first:
+      213: -7817723351996504335
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_727
+  - first:
+      213: 2761135793236544160
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_728
+  - first:
+      213: 669969490765033340
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_729
+  - first:
+      213: -7082885088588772232
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_730
+  - first:
+      213: -3059367109348806734
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_731
+  - first:
+      213: 8374089022448855293
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_732
+  - first:
+      213: -4147869992767575334
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_733
+  - first:
+      213: -5287625002667083402
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_734
+  - first:
+      213: -3695786808266184161
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_735
+  - first:
+      213: -6367317238568375671
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_736
+  - first:
+      213: 3302482725906997538
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_737
+  - first:
+      213: 2692931716234282623
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_738
+  - first:
+      213: 1734248853661879910
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_739
+  - first:
+      213: 5412869711342753141
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_740
+  - first:
+      213: -6456595650921789617
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_741
+  - first:
+      213: -4704871595531183355
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_742
+  - first:
+      213: 8679479573549727428
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_743
+  - first:
+      213: 2568108034610259491
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_744
+  - first:
+      213: 869144408634624355
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_745
+  - first:
+      213: 1977465215034624758
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_746
+  - first:
+      213: 8717882693100241912
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_747
+  - first:
+      213: 5168742943122508394
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_748
+  - first:
+      213: -7505743347853003085
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_749
+  - first:
+      213: -1890567351527689883
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_750
+  - first:
+      213: 1382693655497843686
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_751
+  - first:
+      213: 3046354006237775357
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_752
+  - first:
+      213: -7653245763382322008
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_753
+  - first:
+      213: -219706970053457151
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_754
+  - first:
+      213: -7130342599953435900
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_755
+  - first:
+      213: 7709610834672145865
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_756
+  - first:
+      213: 6423334545253173367
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_757
+  - first:
+      213: -2156614214935316540
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_758
+  - first:
+      213: -5789279093967351448
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_759
+  - first:
+      213: 996100270818276644
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_760
+  - first:
+      213: 9051509197950222806
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_761
+  - first:
+      213: 858503120745417602
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_762
+  - first:
+      213: 9219756578557460499
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_763
+  - first:
+      213: 3668088040648735197
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_764
+  - first:
+      213: 3896332150719456862
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_765
+  - first:
+      213: 326239802473075691
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_766
+  - first:
+      213: -5594163305734000409
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_767
+  - first:
+      213: -2132262402677138389
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_768
+  - first:
+      213: 1437367202603192719
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_769
+  - first:
+      213: -1944494616005791889
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_770
+  - first:
+      213: -1266081436570406957
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_771
+  - first:
+      213: 8748862665694846553
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_772
+  - first:
+      213: -9135159687734184871
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_773
+  - first:
+      213: -2923460789744783324
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_774
+  - first:
+      213: 2797688203068965517
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_775
+  - first:
+      213: -1436711933826952894
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_776
+  - first:
+      213: 8042169885268008819
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_777
+  - first:
+      213: 4292641123792094517
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_778
+  - first:
+      213: -7526794689156011603
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_779
+  - first:
+      213: 2451650739904858566
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_780
+  - first:
+      213: 7309532038438838793
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_781
+  - first:
+      213: 1304483564063455064
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_782
+  - first:
+      213: 606995175535420664
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_783
+  - first:
+      213: 8650048894254229907
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_784
+  - first:
+      213: -3059147774941081045
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_785
+  - first:
+      213: -5456651588935842105
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_786
+  - first:
+      213: 4289779019240540100
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_787
+  - first:
+      213: -8376906409903939225
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_788
+  - first:
+      213: 4795793499164288568
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_789
+  - first:
+      213: 6714844739052382496
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_790
+  - first:
+      213: -7453916833713384891
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_791
+  - first:
+      213: -8334724768788702338
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_792
+  - first:
+      213: -6158402972161352231
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_793
+  - first:
+      213: 590387840365090173
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_794
+  - first:
+      213: -8611956712273629689
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_795
+  - first:
+      213: -5636898011982000774
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_796
+  - first:
+      213: 7598582608856672472
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_797
+  - first:
+      213: 6672454540066941625
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_798
+  - first:
+      213: -3165744043453522346
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_799
+  - first:
+      213: 3151262118296848231
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_800
+  - first:
+      213: 5273546814370715597
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_801
+  - first:
+      213: 3252420163583839661
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_802
+  - first:
+      213: 3083047148997205653
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_803
+  - first:
+      213: 6565007648420362978
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_804
+  - first:
+      213: 6314666652847820862
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_805
+  - first:
+      213: -5899565898358663559
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_806
+  - first:
+      213: 5340651621382967679
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_807
+  - first:
+      213: -8221787041753369850
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_808
+  - first:
+      213: 822434327828185177
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_809
+  - first:
+      213: -7252075639614201165
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_810
+  - first:
+      213: -3314131715666666472
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_811
+  - first:
+      213: 4054001306365766541
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_812
+  - first:
+      213: 832968968931135034
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_813
+  - first:
+      213: -5983803032331067973
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_814
+  - first:
+      213: 6102585657004199191
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_815
+  - first:
+      213: 3935540037839121753
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_816
+  - first:
+      213: 8963950637364045444
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_817
+  - first:
+      213: -1610218922281267689
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_818
+  - first:
+      213: 3240339874519858391
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_819
+  - first:
+      213: 9037823396592356551
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_820
+  - first:
+      213: 4729675913143669329
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_821
+  - first:
+      213: 5715271177583496020
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_822
+  - first:
+      213: -6609002968305841833
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_823
+  - first:
+      213: -3396912686284910858
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_824
+  - first:
+      213: -690225598118565454
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_825
+  - first:
+      213: -3264673654376434550
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_826
+  - first:
+      213: -522351963548558411
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_827
+  - first:
+      213: -7912380313744357702
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_828
+  - first:
+      213: -4205189314828261202
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_829
+  - first:
+      213: -2266709325230469239
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_830
+  - first:
+      213: -913143123105716185
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_831
+  - first:
+      213: -3905419522489178464
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_832
+  - first:
+      213: 6943475554589902318
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_833
+  - first:
+      213: -6428513950227429413
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_834
+  - first:
+      213: 6492909358923755017
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_835
+  - first:
+      213: -3893188192661432391
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_836
+  - first:
+      213: -838422810506293201
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_837
+  - first:
+      213: 666559515035026229
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_838
+  - first:
+      213: -8563671767834218776
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_839
+  - first:
+      213: -8984766134565843586
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_840
+  - first:
+      213: 3213995420862199089
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_841
+  - first:
+      213: -8375829887368966445
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_842
+  - first:
+      213: 1067947321670224910
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_843
+  - first:
+      213: 6190003216848699914
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_844
+  - first:
+      213: 4528291289452070977
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_845
+  - first:
+      213: -4329863159700385693
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_846
+  - first:
+      213: -7651968044583523751
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_847
+  - first:
+      213: 4235884235687926903
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_848
+  - first:
+      213: -732936470394966400
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_849
+  - first:
+      213: 7848704619865691933
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_850
+  - first:
+      213: -6172599683930611507
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_851
+  - first:
+      213: 6298510980046673537
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_852
+  - first:
+      213: 6172972044296495335
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_853
+  - first:
+      213: 279477797075557325
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_854
+  - first:
+      213: -2534539194744713240
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_855
+  - first:
+      213: 8551340014726872162
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_856
+  - first:
+      213: -2944684925838835903
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_857
+  - first:
+      213: 5084563295188632377
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_858
+  - first:
+      213: 7832787798448285000
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_859
+  - first:
+      213: -8089340066651201301
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_860
+  - first:
+      213: -6907175840443370182
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_861
+  - first:
+      213: 3791405015400262534
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_862
+  - first:
+      213: -2853965691009125981
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_863
+  - first:
+      213: 8188418683052081540
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_864
+  - first:
+      213: 6845368314842410389
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_865
+  - first:
+      213: 920023117677312880
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_866
+  - first:
+      213: -4120036274937885947
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_867
+  - first:
+      213: 2671961841678758425
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_868
+  - first:
+      213: 4692326848806715872
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_869
+  - first:
+      213: -7047297340108780593
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_870
+  - first:
+      213: -8435565815878657223
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_871
+  - first:
+      213: 7214019992683531163
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_872
+  - first:
+      213: -997533518221764842
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_873
+  - first:
+      213: 798734373604807393
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_874
+  - first:
+      213: 7746126440316674334
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_875
+  - first:
+      213: -1568587010216318246
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_876
+  - first:
+      213: -3215410396662881592
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_877
+  - first:
+      213: 8521573627100770762
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_878
+  - first:
+      213: 4646835129102147608
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_879
+  - first:
+      213: 5379530034505043937
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_880
+  - first:
+      213: -6555665649941960516
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_881
+  - first:
+      213: 7986636325607014255
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_882
+  - first:
+      213: -984066924512438729
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_883
+  - first:
+      213: -7045792078640806535
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_884
+  - first:
+      213: -8813273865044518148
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_885
+  - first:
+      213: -3807194112642630393
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_886
+  - first:
+      213: 8586734794712017166
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_887
+  - first:
+      213: 370905573103283329
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_888
+  - first:
+      213: -5242916603197866117
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_889
+  - first:
+      213: 7036203477682056465
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_890
+  - first:
+      213: -3021507424351509098
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_891
+  - first:
+      213: 5338565230799223840
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_892
+  - first:
+      213: -4261101100786136804
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_893
+  - first:
+      213: -339315559619162876
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_894
+  - first:
+      213: 3076858509305195712
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_895
+  - first:
+      213: 808462521622693100
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_896
+  - first:
+      213: -519876718552608311
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_897
+  - first:
+      213: -6663417179673786485
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_898
+  - first:
+      213: -1041291950936288162
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_899
+  - first:
+      213: -3586148955263951702
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_900
+  - first:
+      213: -6625953661569648671
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_901
+  - first:
+      213: 3175031054801780364
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_902
+  - first:
+      213: 4465828910152071956
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_903
+  - first:
+      213: 2118457031258701251
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_904
+  - first:
+      213: 2739774795126821613
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_905
+  - first:
+      213: -2125032557213620078
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_906
+  - first:
+      213: 6047729614964370859
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_907
+  - first:
+      213: -7574081167541682738
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_908
+  - first:
+      213: -5066276467206696642
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_909
+  - first:
+      213: 3038652409814312371
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_910
+  - first:
+      213: 4015818938618175929
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_911
+  - first:
+      213: -390199718862751252
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_912
+  - first:
+      213: 4747855282149762996
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_913
+  - first:
+      213: -9095931448811871267
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_914
+  - first:
+      213: -8985763297440162642
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_915
+  - first:
+      213: -8856594476489392811
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_916
+  - first:
+      213: 793817685521972063
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_917
+  - first:
+      213: -4573461174152967095
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_918
+  - first:
+      213: -617509874961294383
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_919
+  - first:
+      213: -3857664908809565339
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_920
+  - first:
+      213: -117296275610879810
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_921
+  - first:
+      213: 2102256564034891228
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_922
+  - first:
+      213: -3530483138158926987
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_923
+  - first:
+      213: 9127880635931240783
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_924
+  - first:
+      213: -5124709546056586668
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_925
+  - first:
+      213: -563979794195632593
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_926
+  - first:
+      213: 3560184389575555891
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_927
+  - first:
+      213: 7775048077652421452
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_928
+  - first:
+      213: 6282180464843690242
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_929
+  - first:
+      213: 7630878530862043190
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_930
+  - first:
+      213: -4606993168328768082
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_931
+  - first:
+      213: -5543466767442630593
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_932
+  - first:
+      213: 1576241594573875217
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_933
+  - first:
+      213: 4490242166338790008
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_934
+  - first:
+      213: 6333950766060350131
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_935
+  - first:
+      213: -8324988465226010879
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_936
+  - first:
+      213: 9182795613018033769
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_937
+  - first:
+      213: -6370043925301290503
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_938
+  - first:
+      213: 5686431034488937955
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_939
+  - first:
+      213: -5409704588655847826
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_940
+  - first:
+      213: -6786765858171591883
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_941
+  - first:
+      213: -5417585387726213250
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_942
+  - first:
+      213: -8367162485509564554
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_943
+  - first:
+      213: -4339469832051469571
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_944
+  - first:
+      213: 876700992563182332
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_945
+  - first:
+      213: 3695079181177549829
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_946
+  - first:
+      213: -6380687593656563452
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_947
+  - first:
+      213: -4752204585824963952
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_948
+  - first:
+      213: 553076535179066999
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_949
+  - first:
+      213: -2329283524634874934
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_950
+  - first:
+      213: -3637975250708090732
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_951
+  - first:
+      213: 1975731980619405715
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_952
+  - first:
+      213: -6994761189455697937
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_953
+  - first:
+      213: -6150494285258293606
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_954
+  - first:
+      213: 6057573347957182120
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_955
+  - first:
+      213: -5137771440517318051
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_956
+  - first:
+      213: 1043655863964346232
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_957
+  - first:
+      213: -7841063859824134013
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_958
+  - first:
+      213: 1710776423416052683
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_959
+  - first:
+      213: -8083077023680612191
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_960
+  - first:
+      213: -3930706187423592367
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_961
+  - first:
+      213: -4256089584893445595
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_962
+  - first:
+      213: 8756570439706626278
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_963
+  - first:
+      213: 3658547521248523175
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_964
+  - first:
+      213: 7577639531338898843
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_965
+  - first:
+      213: -1505205716017930651
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_966
+  - first:
+      213: 6602637668103649662
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_967
+  - first:
+      213: 7766143128334349446
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_968
+  - first:
+      213: -610602865149985911
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_969
+  - first:
+      213: 1515360252767121274
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_970
+  - first:
+      213: -5227882085709083962
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_971
+  - first:
+      213: -5559039854824568692
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_972
+  - first:
+      213: 5005854409149947617
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_973
+  - first:
+      213: 8694570785822478695
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_974
+  - first:
+      213: -662413215031011588
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_975
+  - first:
+      213: 7097221550038086387
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_976
+  - first:
+      213: -5876185306929014045
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_977
+  - first:
+      213: -7110764015505641505
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_978
+  - first:
+      213: -6861941842999562030
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_979
+  - first:
+      213: 256746051483817566
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_980
+  - first:
+      213: 4693875251392632941
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_981
+  - first:
+      213: -274818523035892897
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_982
+  - first:
+      213: -2957257184926654583
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_983
+  - first:
+      213: -3743438550344069976
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_984
+  - first:
+      213: -4153409214597793794
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_985
+  - first:
+      213: -1024058806865687233
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_986
+  - first:
+      213: 8620932945031955065
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_987
+  - first:
+      213: -6040221417541623532
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_988
+  - first:
+      213: -1525353086107418603
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_989
+  - first:
+      213: -7112577608749873660
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_990
+  - first:
+      213: -66371645486319538
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_991
+  - first:
+      213: -952659954594198502
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_992
+  - first:
+      213: 8865286556758014509
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_993
+  - first:
+      213: 2443994220893328658
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_994
+  - first:
+      213: 8220089426328634340
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_995
+  - first:
+      213: -6591915026433041189
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_996
+  - first:
+      213: -4014843698292532337
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_997
+  - first:
+      213: 3202742121192361191
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_998
+  - first:
+      213: 2873164112159220763
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_999
+  - first:
+      213: 872159970663343939
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1000
+  - first:
+      213: -3576682105669466933
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1001
+  - first:
+      213: -6479272227549820479
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1002
+  - first:
+      213: 73210357515397041
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1003
+  - first:
+      213: -8593573108538593733
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1004
+  - first:
+      213: -9120224734433424061
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1005
+  - first:
+      213: -734151986443661458
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1006
+  - first:
+      213: 615700464908386791
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1007
+  - first:
+      213: -5455136179958600789
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1008
+  - first:
+      213: 8464573679968262858
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1009
+  - first:
+      213: 9099729429200618456
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1010
+  - first:
+      213: -8027665508224122248
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1011
+  - first:
+      213: -3862361329602454530
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1012
+  - first:
+      213: -1253902176764547960
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1013
+  - first:
+      213: 6299663599428308181
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1014
+  - first:
+      213: 962599918832328996
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1015
+  - first:
+      213: -2031916399880441927
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1016
+  - first:
+      213: 1050118831262007868
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1017
+  - first:
+      213: -3093111153028865213
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1018
+  - first:
+      213: 712820389739976330
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1019
+  - first:
+      213: 3815303117514518172
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1020
+  - first:
+      213: 7800156885735689346
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1021
+  - first:
+      213: -6396042972522834041
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1022
+  - first:
+      213: -5323482696782278942
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1023
+  - first:
+      213: -8671723205374990408
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1024
+  - first:
+      213: -3850780604202932027
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1025
+  - first:
+      213: -4534101600092673881
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1026
+  - first:
+      213: -2070528687746390778
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1027
+  - first:
+      213: -3835170108389587600
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1028
+  - first:
+      213: -1516473897553083285
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1029
+  - first:
+      213: -6459168920930501583
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1030
+  - first:
+      213: -1902200277130261625
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1031
+  - first:
+      213: 7004844362154921183
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1032
+  - first:
+      213: -6709351944280182723
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1033
+  - first:
+      213: 8595581692263157190
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1034
+  - first:
+      213: -1265390122029364811
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1035
+  - first:
+      213: -6264596641564727316
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1036
+  - first:
+      213: -535779699381805012
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1037
+  - first:
+      213: 4087722736089582722
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1038
+  - first:
+      213: 2531671342276451656
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1039
+  - first:
+      213: 2166205130121381756
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1040
+  - first:
+      213: 8711863076117108187
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1041
+  - first:
+      213: -8506492240230164554
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1042
+  - first:
+      213: -5457858526104237766
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1043
+  - first:
+      213: -3008133907756445363
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1044
+  - first:
+      213: 7816293049740203926
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1045
+  - first:
+      213: -4106153704027338520
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1046
+  - first:
+      213: 4819637532284362170
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1047
+  - first:
+      213: -3474212520596583395
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1048
+  - first:
+      213: -4114751499696056269
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1049
+  - first:
+      213: 701893222583458878
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1050
+  - first:
+      213: -5085183491432047108
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1051
+  - first:
+      213: -2854191609630515050
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1052
+  - first:
+      213: 8232864053933248943
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1053
+  - first:
+      213: 7400869296908189028
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1054
+  - first:
+      213: 1921998214553837248
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1055
+  - first:
+      213: -5097047930939835044
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1056
+  - first:
+      213: -7429181890052915857
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1057
+  - first:
+      213: 5703145859973641818
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1058
+  - first:
+      213: -8120339994327660197
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1059
+  - first:
+      213: 7738397795242400735
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1060
+  - first:
+      213: 158581241881190625
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1061
+  - first:
+      213: -1461699502469335048
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1062
+  - first:
+      213: -5526231411959323463
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1063
+  - first:
+      213: -6611311525051598914
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1064
+  - first:
+      213: 208685342999425173
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1065
+  - first:
+      213: 8757981351387359441
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1066
+  - first:
+      213: 2669000437772239540
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1067
+  - first:
+      213: 6368070718650779326
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1068
+  - first:
+      213: -1078337871059895626
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1069
+  - first:
+      213: 9174262989614484071
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1070
+  - first:
+      213: 3738728154049149903
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1071
+  - first:
+      213: -1085066641452574794
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1072
+  - first:
+      213: -1475826134594846106
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1073
+  - first:
+      213: -8875872186163332347
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1074
+  - first:
+      213: -1738772410900262059
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1075
+  - first:
+      213: -6054943631745801714
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1076
+  - first:
+      213: 6213144062910178101
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1077
+  - first:
+      213: 2743041324776994970
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1078
+  - first:
+      213: -7769197056327731647
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1079
+  - first:
+      213: -3819710615648831457
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1080
+  - first:
+      213: 7207515806518724593
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1081
+  - first:
+      213: -5331820938444586918
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1082
+  - first:
+      213: -2260299051381405688
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1083
+  - first:
+      213: 1045099318801337460
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1084
+  - first:
+      213: -800168662452904055
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1085
+  - first:
+      213: -9007374745530348626
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1086
+  - first:
+      213: 2794328687201839648
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1087
+  - first:
+      213: 1810982084940929657
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1088
+  - first:
+      213: 8848954108782777465
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1089
+  - first:
+      213: 9032226874914791411
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1090
+  - first:
+      213: 1261780654751876389
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1091
+  - first:
+      213: -1614194478359918063
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1092
+  - first:
+      213: -1108609176604836732
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1093
+  - first:
+      213: -5499086351404260674
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1094
+  - first:
+      213: -6376262135906649868
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1095
+  - first:
+      213: 4334174528549223440
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1096
+  - first:
+      213: 1175587844609466779
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1097
+  - first:
+      213: -70252209747256077
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1098
+  - first:
+      213: 5642359457562282096
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1099
+  - first:
+      213: 4183736987076554241
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1100
+  - first:
+      213: 6451683310288437929
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1101
+  - first:
+      213: 6610681132262439042
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1102
+  - first:
+      213: -6747867615441973515
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1103
+  - first:
+      213: 4829228967775782691
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1104
+  - first:
+      213: 2911696557142812112
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1105
+  - first:
+      213: 4264665771558619920
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1106
+  - first:
+      213: 1407924472130928021
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1107
+  - first:
+      213: -501574389356152442
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1108
+  - first:
+      213: 8600384320847350560
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1109
+  - first:
+      213: 2743186893067140176
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1110
+  - first:
+      213: -2151587639654758292
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1111
+  - first:
+      213: 1959970613688724203
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1112
+  - first:
+      213: 1727281390977418061
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1113
+  - first:
+      213: 8256278112402394422
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1114
+  - first:
+      213: 7802180677866073999
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1115
+  - first:
+      213: 771840090709606188
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1116
+  - first:
+      213: -3485672738775234828
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1117
+  - first:
+      213: 2758510208567120589
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1118
+  - first:
+      213: -6977870938117155872
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1119
+  - first:
+      213: -7709633550273553996
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1120
+  - first:
+      213: 2170275080651683919
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1121
+  - first:
+      213: -7679937674026194509
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1122
+  - first:
+      213: -8902335946150511948
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1123
+  - first:
+      213: 7807917561219950686
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1124
+  - first:
+      213: 6617441360987329697
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1125
+  - first:
+      213: 8985215792157137536
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1126
+  - first:
+      213: -3873685417872628950
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1127
+  - first:
+      213: 7111468609920675860
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1128
+  - first:
+      213: 1825129495109955950
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1129
+  - first:
+      213: -8718960792815711204
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1130
+  - first:
+      213: -4865152836695321318
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1131
+  - first:
+      213: -7526830370628383675
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1132
+  - first:
+      213: 4309849748237938388
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1133
+  - first:
+      213: 6874646950135048302
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1134
+  - first:
+      213: -418436851119790546
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1135
+  - first:
+      213: 8927939988566162991
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1136
+  - first:
+      213: 7838702920274531501
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1137
+  - first:
+      213: -4660649348564410516
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1138
+  - first:
+      213: 5440803095919848731
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1139
+  - first:
+      213: -602112141409840149
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1140
+  - first:
+      213: 5994381029290071533
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1141
+  - first:
+      213: -6089435363642471631
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_0
+  - first:
+      213: -1351878724475066173
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_1
+  - first:
+      213: -2523232654688053102
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_2
+  - first:
+      213: 7258619948625074332
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_3
+  - first:
+      213: -7693723109177836672
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_4
+  - first:
+      213: 8409829600553015650
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_5
+  - first:
+      213: 2986472829395345913
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_6
+  - first:
+      213: 2017350320717411377
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_7
+  - first:
+      213: -1472456268371666620
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_8
+  - first:
+      213: 5011299663493248077
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_9
+  - first:
+      213: -4088940849403025690
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_10
+  - first:
+      213: 4016982834091684423
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_11
+  - first:
+      213: 193819222494999668
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_12
+  - first:
+      213: -7793930367936637392
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_13
+  - first:
+      213: -1580125859224147301
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_14
+  - first:
+      213: -7617256918701933990
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_15
+  - first:
+      213: 6978254591524444326
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_16
+  - first:
+      213: -428776732952150408
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_17
+  - first:
+      213: -4265188553711284747
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_18
+  - first:
+      213: 7969242371752847694
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_19
+  - first:
+      213: -5766007138832036743
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_20
+  - first:
+      213: 5665772379843346255
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_21
+  - first:
+      213: -953670128990877480
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_22
+  - first:
+      213: 845247085888642788
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_23
+  - first:
+      213: -8267548544335542207
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_24
+  - first:
+      213: 7578734744621165991
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_25
+  - first:
+      213: -2926841180201266764
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_26
+  - first:
+      213: -6526917756533395813
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_27
+  - first:
+      213: -5903616125767082898
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_28
+  - first:
+      213: -2350182029548933714
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_29
+  - first:
+      213: 9008738979199199090
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_30
+  - first:
+      213: -7389652120417033141
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_31
+  - first:
+      213: 9148003152952177868
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_32
+  - first:
+      213: 1551985535334995053
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_33
+  - first:
+      213: -8108933383290029745
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_34
+  - first:
+      213: -3664332729920961405
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_35
+  - first:
+      213: -6088811084509185115
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_36
+  - first:
+      213: -2469069659031028372
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_37
+  - first:
+      213: 1607624349337806123
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_38
+  - first:
+      213: -5701234956143010225
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_39
+  - first:
+      213: 2777026199832765507
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_40
+  - first:
+      213: -6877902056571582737
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_41
+  - first:
+      213: -451800523110558719
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_42
+  - first:
+      213: 5389295900741715869
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_43
+  - first:
+      213: 2007993518315189879
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_44
+  - first:
+      213: 2451286584590262581
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_45
+  - first:
+      213: -1794603757313983219
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_46
+  - first:
+      213: 4278522373904028899
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_47
+  - first:
+      213: 8449568975500727907
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_48
+  - first:
+      213: 8274428985895210092
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_49
+  - first:
+      213: -8885163291833608680
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_50
+  - first:
+      213: -1095850041676823492
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_51
+  - first:
+      213: 4973526913055761442
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_52
+  - first:
+      213: -7795453165575605606
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_53
+  - first:
+      213: -7289798778132943538
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_54
+  - first:
+      213: -3537688842643497787
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_55
+  - first:
+      213: -4421247213796612017
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_56
+  - first:
+      213: 2785951296307798595
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_57
+  - first:
+      213: -3545547924897000313
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_58
+  - first:
+      213: 7023218998025897252
+    second: Plantas Carnivoras Azules Con Prota Sprite Sheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b836bcccafd7ba0800000000000000
+      internalID: -10364620314821313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8614076792d3de0800000000000000
+      internalID: 7314322540832862957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29817abe44dabfcd0800000000000000
+      internalID: 5190175132511164605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c989c5da26ccbb460800000000000000
+      internalID: 5613972282175086479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bbd3568976a3590800000000000000
+      internalID: -3137994224336115349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269178ae677b5b470800000000000000
+      internalID: -7749152449688718761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1277f1735127920800000000000000
+      internalID: -159254791430404874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b1e5ad611ffb10800000000000000
+      internalID: -4147621811427191562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d86843d8c09be0800000000000000
+      internalID: -8123648960841853805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44bc813e76bb8540800000000000000
+      internalID: 5303701598795876074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6afbb26f92147c0800000000000000
+      internalID: 1798635331456045460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74270eeca903fb730800000000000000
+      internalID: -2124910629846621606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f4735e8590b200800000000000000
+      internalID: 2460501729038848850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036d107df9566d390800000000000000
+      internalID: -8124351646499364029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a298427e3421ae0800000000000000
+      internalID: -5137742800624609871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a72edb0311a4690800000000000000
+      internalID: 7561454782072762694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a89d00249db7d060800000000000000
+      internalID: 5027582708798091019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e3f6845ddac0af0800000000000000
+      internalID: 1465341006831400504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd0afbbb910fc4c0800000000000000
+      internalID: 3946405991471629516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49e159d6bf689e60800000000000000
+      internalID: 3860292027111671293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ccc8d8e070bffa0800000000000000
+      internalID: 7591401324741670686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f38cef5fdd0ae40800000000000000
+      internalID: -2147252687710112496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d809980212e3c2f0800000000000000
+      internalID: -4786262184763243360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee93dd0fbbeabb00800000000000000
+      internalID: 6781331663025133441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148059bf664c34d80800000000000000
+      internalID: -1759952647139204394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad2e0ca8131d2960800000000000000
+      internalID: -2908788427044758259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15e142475c167d0800000000000000
+      internalID: 1771275726316640680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e23aba1eabb65a0800000000000000
+      internalID: 2460476865906123679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c926d8964221ea0800000000000000
+      internalID: -9221754026791411740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadaa3b55e9726fd0800000000000000
+      internalID: -3792668478670201570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27722690f58750d70800000000000000
+      internalID: -6020781134586132663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44a4dc6c8ea27990800000000000000
+      internalID: -7644099008501029422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc43edf366c34fe70800000000000000
+      internalID: -482717824766128864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64df222f92c98510800000000000000
+      internalID: 6792175532540054808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49f0b50d08477f80800000000000000
+      internalID: 2751291842171978437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384493eebcca52dc0800000000000000
+      internalID: 2086110614297498175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab7e5b1492308ba0800000000000000
+      internalID: -7149152516631371128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db2cf0a3a1cbdd0800000000000000
+      internalID: -4407900055160281194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b256c8204dd6f4610800000000000000
+      internalID: -6530379973692920798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e5e0a830521e0b0800000000000000
+      internalID: 1074403311548072489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3442cfc8d9af98620800000000000000
+      internalID: -7917819919851489346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe64f1e2588cc80a0800000000000000
+      internalID: 3622715274113023662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104d8a661d1eab9f0800000000000000
+      internalID: 8757033284708840519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97cd296110aaca40800000000000000
+      internalID: 6338118331889739440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776b6725773dddb10800000000000000
+      internalID: 935203997302646254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ee254928b40220800000000000000
+      internalID: -7442792833321156162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0df7b414694817e0800000000000000
+      internalID: -6524864372416246768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e45c143e6d506b30800000000000000
+      internalID: 7863157177799136036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366d1e92736e24570800000000000000
+      internalID: 537264916374601074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cca77a25da4d270800000000000000
+      internalID: -659184102172121395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816daeacf0f81b480800000000000000
+      internalID: -3427900481386259360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3481c27132cac0f0800000000000000
+      internalID: -5194765554353462795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a8856064850540800000000000000
+      internalID: -2224858450306300061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92fba2e5acf0d390800000000000000
+      internalID: -5226681748802291119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2f4162ae65da90800000000000000
+      internalID: 3498126531326565875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1f58bdba97eec0800000000000000
+      internalID: 5064629364741472020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48a775751394a2c0800000000000000
+      internalID: 3078959608398314251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34227f181ffa9a620800000000000000
+      internalID: 3429147645755674964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784146a82feabcec0800000000000000
+      internalID: 3520918827137857093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Con Prota Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425cb15d77c777160800000000000000
+      internalID: 1327279982550758285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_0: -10364620314821313
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_1: 7314322540832862957
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_10: 1798635331456045460
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_11: -2124910629846621606
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_12: 2460501729038848850
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_13: -8124351646499364029
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_14: -5137742800624609871
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_15: 7561454782072762694
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_16: 5027582708798091019
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_17: 1465341006831400504
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_18: 3946405991471629516
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_19: 3860292027111671293
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_2: 5190175132511164605
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_20: 7591401324741670686
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_21: -2147252687710112496
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_22: -4786262184763243360
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_23: 6781331663025133441
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_24: -1759952647139204394
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_25: -2908788427044758259
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_26: 1771275726316640680
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_27: 2460476865906123679
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_28: -9221754026791411740
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_29: -3792668478670201570
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_3: 5613972282175086479
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_30: -6020781134586132663
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_31: -7644099008501029422
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_32: -482717824766128864
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_33: 6792175532540054808
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_34: 2751291842171978437
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_35: 2086110614297498175
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_36: -7149152516631371128
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_37: -4407900055160281194
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_38: -6530379973692920798
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_39: 1074403311548072489
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_4: -3137994224336115349
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_40: -7917819919851489346
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_41: 3622715274113023662
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_42: 8757033284708840519
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_43: 6338118331889739440
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_44: 935203997302646254
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_45: -7442792833321156162
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_46: -6524864372416246768
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_47: 7863157177799136036
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_48: 537264916374601074
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_49: -659184102172121395
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_5: -7749152449688718761
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_50: -3427900481386259360
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_51: -5194765554353462795
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_52: -2224858450306300061
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_53: -5226681748802291119
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_54: 3498126531326565875
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_55: 5064629364741472020
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_56: 3078959608398314251
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_57: 3429147645755674964
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_58: 3520918827137857093
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_59: 1327279982550758285
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_6: -159254791430404874
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_7: -4147621811427191562
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_8: -8123648960841853805
+      Plantas Carnivoras Azules Con Prota Sprite Sheet_9: 5303701598795876074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

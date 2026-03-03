@@ -1,0 +1,1538 @@
+fileFormatVersion: 2
+guid: bc7f4ada058c4ad41af35a30aad61974
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1276375106848335186
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_0
+  - first:
+      213: 2779464089647622230
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_1
+  - first:
+      213: -1544282740326663135
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_2
+  - first:
+      213: -2450151342506413281
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_3
+  - first:
+      213: -2476451112699877026
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_4
+  - first:
+      213: 2938989227607635940
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_5
+  - first:
+      213: -7576739891954255000
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_6
+  - first:
+      213: -5933335294611312732
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_7
+  - first:
+      213: 8383565472264164916
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_8
+  - first:
+      213: 4107241723187602538
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_9
+  - first:
+      213: 8339087580649343259
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_10
+  - first:
+      213: -4018350819775249117
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_11
+  - first:
+      213: 9186782487881565250
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_12
+  - first:
+      213: 5685818587688558679
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_13
+  - first:
+      213: -9041767116461162621
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_14
+  - first:
+      213: -495362315924402312
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_15
+  - first:
+      213: -8745200418590628984
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_16
+  - first:
+      213: -3449603460507536503
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_17
+  - first:
+      213: -5104184656690430441
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_18
+  - first:
+      213: -4099898322944087770
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_19
+  - first:
+      213: 3562746142571719217
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_20
+  - first:
+      213: 4943697419797108213
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_21
+  - first:
+      213: -637322039671294254
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_22
+  - first:
+      213: 4728464694598660094
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_23
+  - first:
+      213: 1895567812729463456
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_24
+  - first:
+      213: -3988276209902791402
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_25
+  - first:
+      213: 8838253127705811852
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_26
+  - first:
+      213: 4591054832788860672
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_27
+  - first:
+      213: 4424018081950451523
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_28
+  - first:
+      213: -1364762226899375489
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_29
+  - first:
+      213: -4467195729718407190
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_30
+  - first:
+      213: 1297331613859864656
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_31
+  - first:
+      213: 7573873325277801413
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_32
+  - first:
+      213: 2355715513389489447
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_33
+  - first:
+      213: 6358849216262534943
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_34
+  - first:
+      213: -7247674121312346683
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_35
+  - first:
+      213: -8303170891212989098
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_36
+  - first:
+      213: -2030677764399249965
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_37
+  - first:
+      213: 3789587017123523991
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_38
+  - first:
+      213: 5230566080192431040
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_39
+  - first:
+      213: 6127170972783986023
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_40
+  - first:
+      213: -6451907061156066228
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_41
+  - first:
+      213: -7167636860409779474
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_42
+  - first:
+      213: 4704535947255182103
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_43
+  - first:
+      213: -7597646367880794218
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_44
+  - first:
+      213: 4842278067117558497
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_45
+  - first:
+      213: -681744982374559940
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_46
+  - first:
+      213: -233481527748816028
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_47
+  - first:
+      213: 2736106601074014695
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_48
+  - first:
+      213: 8860023900717835646
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_0
+  - first:
+      213: 7330638507226431282
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_1
+  - first:
+      213: -1485548259084029867
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_2
+  - first:
+      213: -2757503756003645978
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_3
+  - first:
+      213: -2668874317701993123
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_4
+  - first:
+      213: 8092090457328015493
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_5
+  - first:
+      213: 6089554969974118155
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_6
+  - first:
+      213: 1592780373700407743
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_7
+  - first:
+      213: 4074319926491794677
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_8
+  - first:
+      213: 23564098946835502
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_9
+  - first:
+      213: -6261507626056000658
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_10
+  - first:
+      213: -7953734595043067709
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_11
+  - first:
+      213: 8552634236574558006
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_12
+  - first:
+      213: 733589039153570540
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_13
+  - first:
+      213: -7722118601686052923
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_14
+  - first:
+      213: 2735226450437307951
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_15
+  - first:
+      213: 5281958949957302005
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_16
+  - first:
+      213: -1023061460204711212
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_17
+  - first:
+      213: -3693801458638920428
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_18
+  - first:
+      213: 3343437777986175964
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_19
+  - first:
+      213: 5913450819252282506
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_20
+  - first:
+      213: 6549928911911929091
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_21
+  - first:
+      213: -8525551434371255124
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_22
+  - first:
+      213: -5116406845360159867
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_23
+  - first:
+      213: 6696944760073204944
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_24
+  - first:
+      213: 5788010573570427543
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_25
+  - first:
+      213: -2139831800147537930
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_26
+  - first:
+      213: -3509651669617122687
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_27
+  - first:
+      213: -6534432147351621117
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_28
+  - first:
+      213: 5867872405897553300
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_29
+  - first:
+      213: -7333555110185646332
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_30
+  - first:
+      213: 7125528250343555431
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_31
+  - first:
+      213: -2533857615994331593
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_32
+  - first:
+      213: -4609619624424939490
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_33
+  - first:
+      213: -4338110751195390339
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_34
+  - first:
+      213: -7524894955565871934
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_35
+  - first:
+      213: 4811443760780990717
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_36
+  - first:
+      213: 8479304712943606650
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_37
+  - first:
+      213: -7483900018342359647
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_38
+  - first:
+      213: 7941462920735849723
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_39
+  - first:
+      213: 1718214322714365999
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_40
+  - first:
+      213: -5791830672567096536
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_41
+  - first:
+      213: -5776879119033908721
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_42
+  - first:
+      213: 7539648397978115807
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_43
+  - first:
+      213: 2970976830795994842
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_44
+  - first:
+      213: -4768981822710879011
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_45
+  - first:
+      213: -4061706064914628081
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_46
+  - first:
+      213: -2338640773134343517
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_47
+  - first:
+      213: 6074297870097402899
+    second: Plantas Carnivoras Azules Sin Prota Sprite Sheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75e1c79bc025fa70800000000000000
+      internalID: 1276375106848335186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff70802e8abb560800000000000000
+      internalID: 2779464089647622230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550b898aab5426be0800000000000000
+      internalID: -1544282740326663135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5e89c91f06bb9d0800000000000000
+      internalID: -2450151342506413281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5da537c2f046fad0800000000000000
+      internalID: -2476451112699877026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5885d5fa561ec4070800000000000000
+      internalID: 2938989227607635940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0795893bf1728450800000000000000
+      internalID: -7576739891954255000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb170ab9f41ba1610800000000000000
+      internalID: -5933335294611312732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcc6dfe264ea8830800000000000000
+      internalID: 8383565472264164916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24ad235c67b35000800000000000000
+      internalID: 4107241723187602538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b588e2df7aa19a0800000000000000
+      internalID: 8339087580649343259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8f8b8c688ae9190800000000000000
+      internalID: -4018350819775249117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637eedc368f01b670800000000000000
+      internalID: 9186782487881565250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce26ed9285b3e2a00800000000000000
+      internalID: 5685818587688558679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf01199b0685d490800000000000000
+      internalID: -9041767116461162621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e719ef6f975f520800000000000000
+      internalID: -495362315924402312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f676621ea94d4940800000000000000
+      internalID: -8745200418590628984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d21b19b50b5dc1f0800000000000000
+      internalID: -3449603460507536503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e10bd42bfcbcc0800000000000000
+      internalID: -5104184656690430441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3cc7dd1f6466e20800000000000000
+      internalID: -4099898322944087770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a846646703cc01250800000000000000
+      internalID: 3562746142571719217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305429274a506ea50800000000000000
+      internalID: 4943697419797108213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4baf704282fa980800000000000000
+      internalID: -637322039671294254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5834eeff41fdef8b0800000000000000
+      internalID: 4728464694598660094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4b39007c350fc50800000000000000
+      internalID: 1895567812729463456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aced153f4235050800000000000000
+      internalID: -3988276209902791402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff0f19a05acd42e0800000000000000
+      internalID: 8838253127705811852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1826d13c6663b4fc0800000000000000
+      internalID: 4591054832788860672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302b63835980155a0800000000000000
+      internalID: 4424018081950451523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49527d42ddede6150800000000000000
+      internalID: -1364762226899375489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40742ac6b7af93a90800000000000000
+      internalID: -4467195729718407190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7610db6e036f2e260800000000000000
+      internalID: 1297331613859864656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e5d375cede5dcd0800000000000000
+      internalID: 7573873325277801413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e106b78df575700c0800000000000000
+      internalID: 2355715513389489447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e12be814febc3c0800000000000000
+      internalID: 6358849216262534943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc0e5118e3329790800000000000000
+      internalID: -7247674121312346683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8de1abb9ea5c240800000000000000
+      internalID: -8303170891212989098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b9c4d06ba8ca570800000000000000
+      internalID: -2030677764399249965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad0a20b598d32890800000000000000
+      internalID: 3789587017123523991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7563637eb53e60800000000000000
+      internalID: 5230566080192431040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d061b2d258d710800000000000000
+      internalID: 6127170972783986023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b2d6290b84f9fa0800000000000000
+      internalID: -6451907061156066228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02cc976c0764dfa0800000000000000
+      internalID: -7167636860409779474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde14dc654632a860800000000000000
+      internalID: 4704535947255182103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6d28bcfa70b3920800000000000000
+      internalID: -7597646367880794218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddce505ac4c21ddb0800000000000000
+      internalID: 4842278067117558497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02c6b29adbe1a7c0800000000000000
+      internalID: -681744982374559940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a225148b9a7b8fd0800000000000000
+      internalID: -233481527748816028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Azules Sin Prota Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c4117dabd3c4450800000000000000
+      internalID: 2736106601074014695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_0: 1276375106848335186
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_1: 2779464089647622230
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_10: 8339087580649343259
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_11: -4018350819775249117
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_12: 9186782487881565250
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_13: 5685818587688558679
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_14: -9041767116461162621
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_15: -495362315924402312
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_16: -8745200418590628984
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_17: -3449603460507536503
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_18: -5104184656690430441
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_19: -4099898322944087770
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_2: -1544282740326663135
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_20: 3562746142571719217
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_21: 4943697419797108213
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_22: -637322039671294254
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_23: 4728464694598660094
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_24: 1895567812729463456
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_25: -3988276209902791402
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_26: 8838253127705811852
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_27: 4591054832788860672
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_28: 4424018081950451523
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_29: -1364762226899375489
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_3: -2450151342506413281
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_30: -4467195729718407190
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_31: 1297331613859864656
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_32: 7573873325277801413
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_33: 2355715513389489447
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_34: 6358849216262534943
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_35: -7247674121312346683
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_36: -8303170891212989098
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_37: -2030677764399249965
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_38: 3789587017123523991
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_39: 5230566080192431040
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_4: -2476451112699877026
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_40: 6127170972783986023
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_41: -6451907061156066228
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_42: -7167636860409779474
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_43: 4704535947255182103
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_44: -7597646367880794218
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_45: 4842278067117558497
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_46: -681744982374559940
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_47: -233481527748816028
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_48: 2736106601074014695
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_5: 2938989227607635940
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_6: -7576739891954255000
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_7: -5933335294611312732
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_8: 8383565472264164916
+      Plantas Carnivoras Azules Sin Prota Sprite Sheet_9: 4107241723187602538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

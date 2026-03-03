@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: dc7edfb46f5f0f848b245832dc373580
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7401595014106500467
+    second: boss humanoide morado muerte_0
+  - first:
+      213: 6007900924577707868
+    second: boss humanoide morado muerte_1
+  - first:
+      213: -675612402502601979
+    second: boss humanoide morado muerte_2
+  - first:
+      213: 7840777335526869581
+    second: boss humanoide morado muerte_3
+  - first:
+      213: 3562557390917961985
+    second: boss humanoide morado muerte_4
+  - first:
+      213: 4679007597769196958
+    second: boss humanoide morado muerte_5
+  - first:
+      213: 680185884889043720
+    second: boss humanoide morado muerte_6
+  - first:
+      213: 3655130189671173085
+    second: boss humanoide morado muerte_7
+  - first:
+      213: 7974897335452549826
+    second: boss humanoide morado muerte_8
+  - first:
+      213: -3204571799615283061
+    second: boss humanoide morado muerte_9
+  - first:
+      213: 6779647178350078102
+    second: boss humanoide morado muerte_10
+  - first:
+      213: -6203171043131897306
+    second: boss humanoide morado muerte_11
+  - first:
+      213: 3833916256756147811
+    second: boss humanoide morado muerte_12
+  - first:
+      213: 1667994297604753003
+    second: boss humanoide morado muerte_13
+  - first:
+      213: -3103808803178059287
+    second: boss humanoide morado muerte_14
+  - first:
+      213: 8505300727872137413
+    second: boss humanoide morado muerte_15
+  - first:
+      213: -2491372511970881735
+    second: boss humanoide morado muerte_16
+  - first:
+      213: 6832102007528557837
+    second: boss humanoide morado muerte_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dce13337fb7b660800000000000000
+      internalID: 7401595014106500467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57f1374f0a506350800000000000000
+      internalID: 6007900924577707868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 25
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503fbf6791ebf96f0800000000000000
+      internalID: -675612402502601979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 25
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a4307c17900dc60800000000000000
+      internalID: 7840777335526869581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1098b91621fb07130800000000000000
+      internalID: 3562557390917961985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e950366ae9c2fe040800000000000000
+      internalID: 4679007597769196958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_6
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803db026571807900800000000000000
+      internalID: 680185884889043720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_7
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb0823ba81a9b230800000000000000
+      internalID: 3655130189671173085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2cbdfafd68cae60800000000000000
+      internalID: 7974897335452549826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_9
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8062b24de21783d0800000000000000
+      internalID: -3204571799615283061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_10
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69829084035261e50800000000000000
+      internalID: 6779647178350078102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_11
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a42255dc8e9e9a0800000000000000
+      internalID: -6203171043131897306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_12
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ab86c58ec43530800000000000000
+      internalID: 3833916256756147811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_13
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66cb1ce9f7e52710800000000000000
+      internalID: 1667994297604753003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_14
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e967d3965e0de4d0800000000000000
+      internalID: -3103808803178059287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_15
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8a0b0f2f5e80670800000000000000
+      internalID: 8505300727872137413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado muerte_16
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 0
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8dc476eddc6dd0800000000000000
+      internalID: -2491372511970881735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss humanoide morado muerte_0: 7401595014106500467
+      boss humanoide morado muerte_1: 6007900924577707868
+      boss humanoide morado muerte_10: 6779647178350078102
+      boss humanoide morado muerte_11: -6203171043131897306
+      boss humanoide morado muerte_12: 3833916256756147811
+      boss humanoide morado muerte_13: 1667994297604753003
+      boss humanoide morado muerte_14: -3103808803178059287
+      boss humanoide morado muerte_15: 8505300727872137413
+      boss humanoide morado muerte_16: -2491372511970881735
+      boss humanoide morado muerte_2: -675612402502601979
+      boss humanoide morado muerte_3: 7840777335526869581
+      boss humanoide morado muerte_4: 3562557390917961985
+      boss humanoide morado muerte_5: 4679007597769196958
+      boss humanoide morado muerte_6: 680185884889043720
+      boss humanoide morado muerte_7: 3655130189671173085
+      boss humanoide morado muerte_8: 7974897335452549826
+      boss humanoide morado muerte_9: -3204571799615283061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

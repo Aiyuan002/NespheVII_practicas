@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: f9e7f251cded7e04aa5a94b158c7eaa4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3585244498091414532
+    second: Plataforma_Destruye_0
+  - first:
+      213: -4502089232125153608
+    second: Plataforma_Destruye_1
+  - first:
+      213: -6202059732012402207
+    second: Plataforma_Destruye_2
+  - first:
+      213: 2366049699697264503
+    second: Plataforma_Destruye_3
+  - first:
+      213: 4655698583706314515
+    second: Plataforma_Destruye_4
+  - first:
+      213: 2004363710843766868
+    second: Plataforma_Destruye_5
+  - first:
+      213: -1114629409040497396
+    second: Plataforma_Destruye_6
+  - first:
+      213: 659168585215356872
+    second: Plataforma_Destruye_7
+  - first:
+      213: 7717149930053226717
+    second: Plataforma_Destruye_8
+  - first:
+      213: -1148938641297815619
+    second: Plataforma_Destruye_9
+  - first:
+      213: 5415068366513085028
+    second: Plataforma_Destruye_10
+  - first:
+      213: 113745814598224871
+    second: Plataforma_Destruye_11
+  - first:
+      213: 3980192628780089938
+    second: Plataforma_Destruye_0
+  - first:
+      213: -8954353994562886549
+    second: Plataforma_Destruye_1
+  - first:
+      213: 411676309625938811
+    second: Plataforma_Destruye_2
+  - first:
+      213: 402123273633808369
+    second: Plataforma_Destruye_3
+  - first:
+      213: 4073331273745302840
+    second: Plataforma_Destruye_4
+  - first:
+      213: 4064019361873603619
+    second: Plataforma_Destruye_5
+  - first:
+      213: 8527640419840839222
+    second: Plataforma_Destruye_6
+  - first:
+      213: 2167629266881754727
+    second: Plataforma_Destruye_7
+  - first:
+      213: 4358776507512010249
+    second: Plataforma_Destruye_8
+  - first:
+      213: -4617969989122741156
+    second: Plataforma_Destruye_9
+  - first:
+      213: -6469881747183318940
+    second: Plataforma_Destruye_10
+  - first:
+      213: -4159539040198097883
+    second: Plataforma_Destruye_11
+  - first:
+      213: 5586069906228366403
+    second: Plataforma_Destruye_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plataforma_Destruye_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252c010ab1c7c3730800000000000000
+      internalID: -3585244498091414532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64aaf0fb7ebbb380800000000000000
+      internalID: -4502089232125153608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73a2b52c6196b500800000000000000
+      internalID: -6202059732012402207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff3cd0acf0a49500800000000000000
+      internalID: 2366049699697264503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83504184631678830800000000000000
+      internalID: 4655698583706314515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c29c8d31c466830800000000000000
+      internalID: 2004363710843766868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e40ecc7c3485670800000000000000
+      internalID: -1114629409040497396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7663a396557f41e10800000000000000
+      internalID: 659168585215356872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9063299c32c7d7c30800000000000000
+      internalID: 7717149930053226717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cacee03cca9efb0800000000000000
+      internalID: -1148938641297815619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ca5074dc5636a0800000000000000
+      internalID: 5415068366513085028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 35
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5248f97f7495646c0800000000000000
+      internalID: 113745814598224871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Destruye_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ccd33cbf4b58d40800000000000000
+      internalID: 5586069906228366403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plataforma_Destruye_0: -3585244498091414532
+      Plataforma_Destruye_1: -4502089232125153608
+      Plataforma_Destruye_10: 5415068366513085028
+      Plataforma_Destruye_11: 113745814598224871
+      Plataforma_Destruye_12: 5586069906228366403
+      Plataforma_Destruye_2: -6202059732012402207
+      Plataforma_Destruye_3: 2366049699697264503
+      Plataforma_Destruye_4: 4655698583706314515
+      Plataforma_Destruye_5: 2004363710843766868
+      Plataforma_Destruye_6: -1114629409040497396
+      Plataforma_Destruye_7: 659168585215356872
+      Plataforma_Destruye_8: 7717149930053226717
+      Plataforma_Destruye_9: -1148938641297815619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

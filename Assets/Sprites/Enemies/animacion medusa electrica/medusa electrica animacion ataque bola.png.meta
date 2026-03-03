@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 2680e2d73ce98964dae589ad52c936e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6765765505828524054
+    second: medusa electrica animacion ataque bola_0
+  - first:
+      213: 4681598666444518954
+    second: medusa electrica animacion ataque bola_1
+  - first:
+      213: 8028703682049556506
+    second: medusa electrica animacion ataque bola_2
+  - first:
+      213: 6061373855859245146
+    second: medusa electrica animacion ataque bola_3
+  - first:
+      213: 3616111157981567733
+    second: medusa electrica animacion ataque bola_4
+  - first:
+      213: 872080468579758377
+    second: medusa electrica animacion ataque bola_5
+  - first:
+      213: -4217370034218731464
+    second: medusa electrica animacion ataque bola_6
+  - first:
+      213: -5892597400857554779
+    second: medusa electrica animacion ataque bola_7
+  - first:
+      213: -7317906734147247112
+    second: medusa electrica animacion ataque bola_8
+  - first:
+      213: -4924332359603841691
+    second: medusa electrica animacion ataque bola_9
+  - first:
+      213: 7822514262402971571
+    second: medusa electrica animacion ataque bola_10
+  - first:
+      213: -7199104826435147910
+    second: medusa electrica animacion ataque bola_11
+  - first:
+      213: 7805956529368743292
+    second: medusa electrica animacion ataque bola_12
+  - first:
+      213: 5080871142171535080
+    second: medusa electrica animacion ataque bola_13
+  - first:
+      213: 6974977594490086941
+    second: medusa electrica animacion ataque bola_14
+  - first:
+      213: -3373275729441928299
+    second: medusa electrica animacion ataque bola_15
+  - first:
+      213: -7346526962406452825
+    second: medusa electrica animacion ataque bola_16
+  - first:
+      213: -6392136418837176684
+    second: medusa electrica animacion ataque bola_17
+  - first:
+      213: -5834776493108129915
+    second: medusa electrica animacion ataque bola_18
+  - first:
+      213: -3037302537641062500
+    second: medusa electrica animacion ataque bola_19
+  - first:
+      213: -1242844074197260823
+    second: medusa electrica animacion ataque bola_20
+  - first:
+      213: 3592857445485720807
+    second: medusa electrica animacion ataque bola_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medusa electrica animacion ataque bola_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 16
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610108881e3d4ed50800000000000000
+      internalID: 6765765505828524054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa electrica animacion ataque bola_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 17
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a263e56de2168f040800000000000000
+      internalID: 4681598666444518954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa electrica animacion ataque bola_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 18
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a104f6ff57fab6f60800000000000000
+      internalID: 8028703682049556506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa electrica animacion ataque bola_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 18
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa51df60f10f2230800000000000000
+      internalID: 3616111157981567733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa electrica animacion ataque bola_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 17
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5651ad52fc149abb0800000000000000
+      internalID: -4924332359603841691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa electrica animacion ataque bola_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 11
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7768878d44a71c90800000000000000
+      internalID: -7199104826435147910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa electrica animacion ataque bola_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 16
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16e3ebca291cc060800000000000000
+      internalID: 6974977594490086941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medusa electrica animacion ataque bola_0: 6765765505828524054
+      medusa electrica animacion ataque bola_1: 4681598666444518954
+      medusa electrica animacion ataque bola_11: -7199104826435147910
+      medusa electrica animacion ataque bola_14: 6974977594490086941
+      medusa electrica animacion ataque bola_2: 8028703682049556506
+      medusa electrica animacion ataque bola_4: 3616111157981567733
+      medusa electrica animacion ataque bola_9: -4924332359603841691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

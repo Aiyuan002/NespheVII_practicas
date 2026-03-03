@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: aa16b6498444b3548ad4e6bc2fb92bfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1804123109256616673
+    second: seta_transparente_andando_sprite_0
+  - first:
+      213: -5679633294540753863
+    second: seta_transparente_andando_sprite_1
+  - first:
+      213: 90457412202230893
+    second: seta_transparente_andando_sprite_2
+  - first:
+      213: 160748855057629646
+    second: seta_transparente_andando_sprite_3
+  - first:
+      213: -6764698731460564439
+    second: seta_transparente_andando_sprite_4
+  - first:
+      213: -6211639177512160974
+    second: seta_transparente_andando_sprite_5
+  - first:
+      213: 1016606286153754433
+    second: seta_transparente_andando_sprite_6
+  - first:
+      213: -3289368914628065152
+    second: seta_transparente_andando_sprite_7
+  - first:
+      213: -1041834531618780387
+    second: seta_transparente_andando_sprite_8
+  - first:
+      213: -2276969192135460384
+    second: seta_transparente_andando_sprite_9
+  - first:
+      213: -6162632745205947850
+    second: seta_transparente_andando_sprite_10
+  - first:
+      213: 526797526859061612
+    second: seta_transparente_andando_sprite_11
+  - first:
+      213: 7613342784241681940
+    second: seta_transparente_andando_sprite_12
+  - first:
+      213: -6301524726489577240
+    second: seta_transparente_andando_sprite_13
+  - first:
+      213: -7058067087465627933
+    second: seta_transparente_andando_sprite_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea5052c868890910800000000000000
+      internalID: 1804123109256616673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934ba605c93ed21b0800000000000000
+      internalID: -5679633294540753863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d647d91898e514100800000000000000
+      internalID: 90457412202230893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1c2c36b381b3200800000000000000
+      internalID: 160748855057629646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae1ca3856fe12a0800000000000000
+      internalID: -6764698731460564439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231fc772413dbc9a0800000000000000
+      internalID: -6211639177512160974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147af92f706bb1e00800000000000000
+      internalID: 1016606286153754433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c1646660d952d0800000000000000
+      internalID: -3289368914628065152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b802c6309aa81f0800000000000000
+      internalID: -1041834531618780387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9f14a65949660e0800000000000000
+      internalID: -2276969192135460384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6322fc45b2ee97aa0800000000000000
+      internalID: -6162632745205947850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c691df04f8f8f4700800000000000000
+      internalID: 526797526859061612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4164200dce608a960800000000000000
+      internalID: 7613342784241681940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e88f3ee5ac7c88a0800000000000000
+      internalID: -6301524726489577240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_andando_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee3cb21165bc0e90800000000000000
+      internalID: -7058067087465627933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      seta_transparente_andando_sprite_0: 1804123109256616673
+      seta_transparente_andando_sprite_1: -5679633294540753863
+      seta_transparente_andando_sprite_10: -6162632745205947850
+      seta_transparente_andando_sprite_11: 526797526859061612
+      seta_transparente_andando_sprite_12: 7613342784241681940
+      seta_transparente_andando_sprite_13: -6301524726489577240
+      seta_transparente_andando_sprite_14: -7058067087465627933
+      seta_transparente_andando_sprite_2: 90457412202230893
+      seta_transparente_andando_sprite_3: 160748855057629646
+      seta_transparente_andando_sprite_4: -6764698731460564439
+      seta_transparente_andando_sprite_5: -6211639177512160974
+      seta_transparente_andando_sprite_6: 1016606286153754433
+      seta_transparente_andando_sprite_7: -3289368914628065152
+      seta_transparente_andando_sprite_8: -1041834531618780387
+      seta_transparente_andando_sprite_9: -2276969192135460384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

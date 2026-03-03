@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 0fc2f07d6b6f8064c9b3fef58e031029
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3675386773598663053
+    second: seta_humo_2_redimensionada_0
+  - first:
+      213: 1748556609431510559
+    second: seta_humo_2_redimensionada_1
+  - first:
+      213: -6359399165089599716
+    second: seta_humo_2_redimensionada_2
+  - first:
+      213: 4146852279604841939
+    second: seta_humo_2_redimensionada_3
+  - first:
+      213: 8221293175600924432
+    second: seta_humo_2_redimensionada_4
+  - first:
+      213: -1912430836715558976
+    second: seta_humo_2_redimensionada_5
+  - first:
+      213: -6896428017028466105
+    second: seta_humo_2_redimensionada_6
+  - first:
+      213: 3426485381821609484
+    second: seta_humo_2_redimensionada_7
+  - first:
+      213: 6931199821757162763
+    second: seta_humo_2_redimensionada_8
+  - first:
+      213: -5598137527553188556
+    second: seta_humo_2_redimensionada_9
+  - first:
+      213: -4223507807519392287
+    second: seta_humo_2_redimensionada_10
+  - first:
+      213: 3527907437629934745
+    second: seta_humo_2_redimensionada_11
+  - first:
+      213: -8644529507997377126
+    second: seta_humo_2_redimensionada_12
+  - first:
+      213: -6868365061622904594
+    second: seta_humo_2_redimensionada_13
+  - first:
+      213: -9101834722066508098
+    second: seta_humo_2_redimensionada_14
+  - first:
+      213: -7730494324659517851
+    second: seta_humo_2_redimensionada_15
+  - first:
+      213: 3741932933796542268
+    second: seta_humo_2_redimensionada_16
+  - first:
+      213: -517324287279354117
+    second: seta_humo_2_redimensionada_17
+  - first:
+      213: -6788713246858166048
+    second: seta_humo_2_redimensionada_18
+  - first:
+      213: 4535454798148930354
+    second: seta_humo_2_redimensionada_19
+  - first:
+      213: 6584387635648500302
+    second: seta_humo_2_redimensionada_20
+  - first:
+      213: -5629716513436962298
+    second: seta_humo_2_redimensionada_21
+  - first:
+      213: 4231039266503134311
+    second: seta_humo_2_redimensionada_22
+  - first:
+      213: -4953938186779133967
+    second: seta_humo_2_redimensionada_23
+  - first:
+      213: -1357110016346103987
+    second: seta_humo_2_redimensionada_24
+  - first:
+      213: 7751581118823419694
+    second: seta_humo_2_redimensionada_25
+  - first:
+      213: -5637725256516297922
+    second: seta_humo_2_redimensionada_26
+  - first:
+      213: -3514317834937107610
+    second: seta_humo_2_redimensionada_27
+  - first:
+      213: -7391569250380257692
+    second: seta_humo_2_redimensionada_28
+  - first:
+      213: -6671325793676438243
+    second: seta_humo_2_redimensionada_29
+  - first:
+      213: -7691788315237628649
+    second: seta_humo_2_redimensionada_30
+  - first:
+      213: 2653166397438131493
+    second: seta_humo_2_redimensionada_31
+  - first:
+      213: -5109048547973370376
+    second: seta_humo_2_redimensionada_32
+  - first:
+      213: -7987574548589252302
+    second: seta_humo_2_redimensionada_33
+  - first:
+      213: 725243833443791993
+    second: seta_humo_2_redimensionada_34
+  - first:
+      213: 7224813589302658365
+    second: seta_humo_2_redimensionada_35
+  - first:
+      213: -3570467761803869840
+    second: seta_humo_2_redimensionada_36
+  - first:
+      213: 9142676470325362593
+    second: seta_humo_2_redimensionada_37
+  - first:
+      213: -9189149148532004505
+    second: seta_humo_2_redimensionada_38
+  - first:
+      213: 8801063009130446532
+    second: seta_humo_2_redimensionada_39
+  - first:
+      213: -6618052486003156604
+    second: seta_humo_2_redimensionada_40
+  - first:
+      213: -2201617857859957963
+    second: seta_humo_2_redimensionada_41
+  - first:
+      213: 2328656220841980161
+    second: seta_humo_2_redimensionada_42
+  - first:
+      213: 6550177930224207948
+    second: seta_humo_2_redimensionada_43
+  - first:
+      213: -7950832171631050050
+    second: seta_humo_2_redimensionada_44
+  - first:
+      213: -7297292347271717855
+    second: seta_humo_2_redimensionada_45
+  - first:
+      213: -5234267724618534581
+    second: seta_humo_2_redimensionada_46
+  - first:
+      213: 76544707886791812
+    second: seta_humo_2_redimensionada_47
+  - first:
+      213: -420153987373282400
+    second: seta_humo_2_redimensionada_48
+  - first:
+      213: -298001257935796832
+    second: seta_humo_2_redimensionada_49
+  - first:
+      213: 175900821773280865
+    second: seta_humo_2_redimensionada_50
+  - first:
+      213: -7396162003920442562
+    second: seta_humo_2_redimensionada_51
+  - first:
+      213: 876440638450706593
+    second: seta_humo_2_redimensionada_52
+  - first:
+      213: -1344567489629201955
+    second: seta_humo_2_redimensionada_53
+  - first:
+      213: 6298610663583488111
+    second: seta_humo_2_redimensionada_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e8b73d3376efcc0800000000000000
+      internalID: -3675386773598663053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e93d6d8fe144810800000000000000
+      internalID: 1748556609431510559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f2be32720eeb7a0800000000000000
+      internalID: -6359399165089599716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_3
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8dd56d249c8930800000000000000
+      internalID: 4146852279604841939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_4
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017490eb596e71270800000000000000
+      internalID: 8221293175600924432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_5
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7e018594ea575e0800000000000000
+      internalID: -1912430836715558976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_6
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a77f1e147fa40a0800000000000000
+      internalID: -6896428017028466105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_7
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06bb8bec425d8f20800000000000000
+      internalID: 3426485381821609484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_8
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05261bc381903060800000000000000
+      internalID: 6931199821757162763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_9
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d9862349b6f42b0800000000000000
+      internalID: -5598137527553188556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_humo_2_redimensionada_10
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 0
+        width: 331
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edb7b2b6061365c0800000000000000
+      internalID: -4223507807519392287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      seta_humo_2_redimensionada_0: -3675386773598663053
+      seta_humo_2_redimensionada_1: 1748556609431510559
+      seta_humo_2_redimensionada_10: -4223507807519392287
+      seta_humo_2_redimensionada_2: -6359399165089599716
+      seta_humo_2_redimensionada_3: 4146852279604841939
+      seta_humo_2_redimensionada_4: 8221293175600924432
+      seta_humo_2_redimensionada_5: -1912430836715558976
+      seta_humo_2_redimensionada_6: -6896428017028466105
+      seta_humo_2_redimensionada_7: 3426485381821609484
+      seta_humo_2_redimensionada_8: 6931199821757162763
+      seta_humo_2_redimensionada_9: -5598137527553188556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 6bf6fb739101b834a828a21cebd8928a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2407383006251427138
+    second: seta_transparente_ataque_soloseta_sprite_0
+  - first:
+      213: -7409081450435439754
+    second: seta_transparente_ataque_soloseta_sprite_1
+  - first:
+      213: 7735930348851194198
+    second: seta_transparente_ataque_soloseta_sprite_2
+  - first:
+      213: 8478733002437017667
+    second: seta_transparente_ataque_soloseta_sprite_3
+  - first:
+      213: 4482271860326669340
+    second: seta_transparente_ataque_soloseta_sprite_4
+  - first:
+      213: -4517031536079426925
+    second: seta_transparente_ataque_soloseta_sprite_5
+  - first:
+      213: -1705357162401000649
+    second: seta_transparente_ataque_soloseta_sprite_6
+  - first:
+      213: 1214707722464493252
+    second: seta_transparente_ataque_soloseta_sprite_7
+  - first:
+      213: 8796185478430607668
+    second: seta_transparente_ataque_soloseta_sprite_8
+  - first:
+      213: -8166299531301343432
+    second: seta_transparente_ataque_soloseta_sprite_9
+  - first:
+      213: -8827414864727898745
+    second: seta_transparente_ataque_soloseta_sprite_10
+  - first:
+      213: -6687194824951924030
+    second: seta_transparente_ataque_soloseta_sprite_11
+  - first:
+      213: -2498608482119700194
+    second: seta_transparente_ataque_soloseta_sprite_12
+  - first:
+      213: -4223781395610232858
+    second: seta_transparente_ataque_soloseta_sprite_13
+  - first:
+      213: -2911057624143112684
+    second: seta_transparente_ataque_soloseta_sprite_14
+  - first:
+      213: -5690037193243583424
+    second: seta_transparente_ataque_soloseta_sprite_15
+  - first:
+      213: 4730790958235548531
+    second: seta_transparente_ataque_soloseta_sprite_16
+  - first:
+      213: -1449377879053700646
+    second: seta_transparente_ataque_soloseta_sprite_17
+  - first:
+      213: -8050167700688913296
+    second: seta_transparente_ataque_soloseta_sprite_18
+  - first:
+      213: 9091033501995299869
+    second: seta_transparente_ataque_soloseta_sprite_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba521229e1479ed0800000000000000
+      internalID: -2407383006251427138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6731cd20da7ad2990800000000000000
+      internalID: -7409081450435439754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65960726aab8b5b60800000000000000
+      internalID: 7735930348851194198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340c3a35eb28aa570800000000000000
+      internalID: 8478733002437017667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1085428a343e30800000000000000
+      internalID: 4482271860326669340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aafbc00c74051c0800000000000000
+      internalID: -4517031536079426925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7339be732ba5558e0800000000000000
+      internalID: -1705357162401000649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce7b6fdc328bd010800000000000000
+      internalID: 1214707722464493252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4394e44a614521a70800000000000000
+      internalID: 8796185478430607668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f285bd7d97bae80800000000000000
+      internalID: -8166299531301343432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78504ee33f8be7580800000000000000
+      internalID: -8827414864727898745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf8eaacbf4233a0800000000000000
+      internalID: -6687194824951924030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 0
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e113a7ed2d8235dd0800000000000000
+      internalID: -2498608482119700194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e79fb1033d1265c0800000000000000
+      internalID: -4223781395610232858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d148a388d997d0800000000000000
+      internalID: -2911057624143112684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c94f1e15de801b0800000000000000
+      internalID: -5690037193243583424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b724ccf4527a140800000000000000
+      internalID: 4730790958235548531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1f1b58f76c2ebe0800000000000000
+      internalID: -1449377879053700646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c3d1ab02f084090800000000000000
+      internalID: -8050167700688913296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_transparente_ataque_soloseta_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14fa9fbdc6d92e70800000000000000
+      internalID: 9091033501995299869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      seta_transparente_ataque_soloseta_sprite_0: -2407383006251427138
+      seta_transparente_ataque_soloseta_sprite_1: -7409081450435439754
+      seta_transparente_ataque_soloseta_sprite_10: -8827414864727898745
+      seta_transparente_ataque_soloseta_sprite_11: -6687194824951924030
+      seta_transparente_ataque_soloseta_sprite_12: -2498608482119700194
+      seta_transparente_ataque_soloseta_sprite_13: -4223781395610232858
+      seta_transparente_ataque_soloseta_sprite_14: -2911057624143112684
+      seta_transparente_ataque_soloseta_sprite_15: -5690037193243583424
+      seta_transparente_ataque_soloseta_sprite_16: 4730790958235548531
+      seta_transparente_ataque_soloseta_sprite_17: -1449377879053700646
+      seta_transparente_ataque_soloseta_sprite_18: -8050167700688913296
+      seta_transparente_ataque_soloseta_sprite_19: 9091033501995299869
+      seta_transparente_ataque_soloseta_sprite_2: 7735930348851194198
+      seta_transparente_ataque_soloseta_sprite_3: 8478733002437017667
+      seta_transparente_ataque_soloseta_sprite_4: 4482271860326669340
+      seta_transparente_ataque_soloseta_sprite_5: -4517031536079426925
+      seta_transparente_ataque_soloseta_sprite_6: -1705357162401000649
+      seta_transparente_ataque_soloseta_sprite_7: 1214707722464493252
+      seta_transparente_ataque_soloseta_sprite_8: 8796185478430607668
+      seta_transparente_ataque_soloseta_sprite_9: -8166299531301343432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

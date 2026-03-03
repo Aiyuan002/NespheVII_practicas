@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 982ba6de1f13bf84b8d28d75ce793649
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2320823097291064583
+    second: seta_andando_redimension_2_0
+  - first:
+      213: -7294856563572203244
+    second: seta_andando_redimension_2_1
+  - first:
+      213: -3308566271899674627
+    second: seta_andando_redimension_2_2
+  - first:
+      213: 2353980262543306529
+    second: seta_andando_redimension_2_3
+  - first:
+      213: 7680735030296378972
+    second: seta_andando_redimension_2_4
+  - first:
+      213: -8796272765155029698
+    second: seta_andando_redimension_2_5
+  - first:
+      213: -5981587649256041826
+    second: seta_andando_redimension_2_6
+  - first:
+      213: -4334589556280506396
+    second: seta_andando_redimension_2_7
+  - first:
+      213: 1719725009907359833
+    second: seta_andando_redimension_2_8
+  - first:
+      213: -5588156788251394889
+    second: seta_andando_redimension_2_9
+  - first:
+      213: 3023183685703393196
+    second: seta_andando_redimension_2_10
+  - first:
+      213: 3458162295541409516
+    second: seta_andando_redimension_2_11
+  - first:
+      213: 4070850306098313001
+    second: seta_andando_redimension_2_12
+  - first:
+      213: 8199243878491004513
+    second: seta_andando_redimension_2_13
+  - first:
+      213: 1478677254900672194
+    second: seta_andando_redimension_2_14
+  - first:
+      213: -419349280364395524
+    second: seta_andando_redimension_2_15
+  - first:
+      213: 3728680604706115801
+    second: seta_andando_redimension_2_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 18
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab17370b7cacfd0800000000000000
+      internalID: -2320823097291064583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 31
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112ad0fa9673ca90800000000000000
+      internalID: -7294856563572203244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 37
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7d497518c9512d0800000000000000
+      internalID: -3308566271899674627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 53
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fac2da3940ba020800000000000000
+      internalID: 2353980262543306529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 63
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ef6b6d0d3779a60800000000000000
+      internalID: 7680735030296378972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_5
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 68
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dcd75568c5de580800000000000000
+      internalID: -8796272765155029698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 63
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92da3d89b12dfca0800000000000000
+      internalID: -5981587649256041826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 53
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e748c2a3c178d3c0800000000000000
+      internalID: -4334589556280506396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_8
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 37
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95022e6f8c0bdd710800000000000000
+      internalID: 1719725009907359833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_9
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 18
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc76172201e272b0800000000000000
+      internalID: -5588156788251394889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf5b1d6b8184f920800000000000000
+      internalID: 3023183685703393196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 8
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce62561294cddff20800000000000000
+      internalID: 3458162295541409516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 8
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927b7ccf8c09e7830800000000000000
+      internalID: 4070850306098313001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_13
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 8
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e9044bdd099c170800000000000000
+      internalID: 8199243878491004513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_14
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 8
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6edc30121558410800000000000000
+      internalID: 1478677254900672194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_15
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 8
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf380132d0c2e2af0800000000000000
+      internalID: -419349280364395524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seta_andando_redimension_2_16
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 8
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0956c214feeb330800000000000000
+      internalID: 3728680604706115801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      seta_andando_redimension_2_0: -2320823097291064583
+      seta_andando_redimension_2_1: -7294856563572203244
+      seta_andando_redimension_2_10: 3023183685703393196
+      seta_andando_redimension_2_11: 3458162295541409516
+      seta_andando_redimension_2_12: 4070850306098313001
+      seta_andando_redimension_2_13: 8199243878491004513
+      seta_andando_redimension_2_14: 1478677254900672194
+      seta_andando_redimension_2_15: -419349280364395524
+      seta_andando_redimension_2_16: 3728680604706115801
+      seta_andando_redimension_2_2: -3308566271899674627
+      seta_andando_redimension_2_3: 2353980262543306529
+      seta_andando_redimension_2_4: 7680735030296378972
+      seta_andando_redimension_2_5: -8796272765155029698
+      seta_andando_redimension_2_6: -5981587649256041826
+      seta_andando_redimension_2_7: -4334589556280506396
+      seta_andando_redimension_2_8: 1719725009907359833
+      seta_andando_redimension_2_9: -5588156788251394889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1275 @@
+fileFormatVersion: 2
+guid: 527515e4e3136714ab92d79ce55f43b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9103080389534868274
+    second: Cave_Tile_Ground_0
+  - first:
+      213: -2148743652483047591
+    second: Cave_Tile_Ground_1
+  - first:
+      213: -4679222727473449777
+    second: Cave_Tile_Ground_2
+  - first:
+      213: 6734450574257627682
+    second: Cave_Tile_Ground_3
+  - first:
+      213: -3924508482474453390
+    second: Cave_Tile_Ground_4
+  - first:
+      213: -233433122759392749
+    second: Cave_Tile_Ground_5
+  - first:
+      213: 7723725225326888455
+    second: Cave_Tile_Ground_6
+  - first:
+      213: 1486145258014877153
+    second: Cave_Tile_Ground_7
+  - first:
+      213: -5652323587307701114
+    second: Cave_Tile_Ground_8
+  - first:
+      213: -9213931846462497349
+    second: Cave_Tile_Ground_9
+  - first:
+      213: 6432013015098034108
+    second: Cave_Tile_Ground_10
+  - first:
+      213: 3257761548797250388
+    second: Cave_Tile_Ground_11
+  - first:
+      213: -4266198693904288799
+    second: Cave_Tile_Ground_12
+  - first:
+      213: -4925572464357559388
+    second: Cave_Tile_Ground_13
+  - first:
+      213: 1282310690848456268
+    second: Cave_Tile_Ground_14
+  - first:
+      213: -7961553317480954393
+    second: Cave_Tile_Ground_15
+  - first:
+      213: 1821341054409915049
+    second: Cave_Tile_Ground_16
+  - first:
+      213: -983200937539651539
+    second: Cave_Tile_Ground_17
+  - first:
+      213: 386843670851355939
+    second: Cave_Tile_Ground_18
+  - first:
+      213: -3137154752596096753
+    second: Cave_Tile_Ground_19
+  - first:
+      213: 863074702128832599
+    second: Cave_Tile_Ground_20
+  - first:
+      213: 6730211353948499145
+    second: Cave_Tile_Ground_21
+  - first:
+      213: 6053442378074862304
+    second: Cave_Tile_Ground_22
+  - first:
+      213: 982693626111982811
+    second: Cave_Tile_Ground_23
+  - first:
+      213: 574474856848715110
+    second: Cave_Tile_Ground_24
+  - first:
+      213: 8785701355589297902
+    second: Cave_Tile_Ground_25
+  - first:
+      213: 1182291999659780403
+    second: Cave_Tile_Ground_26
+  - first:
+      213: -7833983243984817039
+    second: Cave_Tile_Ground_27
+  - first:
+      213: -8381862142205962064
+    second: Cave_Tile_Ground_28
+  - first:
+      213: 8067539318488958430
+    second: Cave_Tile_Ground_29
+  - first:
+      213: 5115955133920816549
+    second: Cave_Tile_Ground_30
+  - first:
+      213: -7588913428188151157
+    second: Cave_Tile_Ground_31
+  - first:
+      213: 7705935588725248090
+    second: Cave_Tile_Ground_32
+  - first:
+      213: -4686679769400123821
+    second: Cave_Tile_Ground_33
+  - first:
+      213: -880159945656399873
+    second: Cave_Tile_Ground_34
+  - first:
+      213: 6971076976062577663
+    second: Cave_Tile_Ground_35
+  - first:
+      213: 7471107681192189984
+    second: Cave_Tile_Ground_36
+  - first:
+      213: -4073552380120995063
+    second: Cave_Tile_Ground_37
+  - first:
+      213: 8040752091295349157
+    second: Cave_Tile_Ground_38
+  - first:
+      213: -1523910657194860598
+    second: Cave_Tile_Ground_39
+  - first:
+      213: -1941447566680798052
+    second: Cave_Tile_Ground_40
+  - first:
+      213: -6753580027780761092
+    second: Cave_Tile_Ground_41
+  - first:
+      213: -2706252107773033811
+    second: Cave_Tile_Ground_42
+  - first:
+      213: 8873533380358410619
+    second: Cave_Tile_Ground_43
+  - first:
+      213: 5565699975135745812
+    second: Cave_Tile_Ground_44
+  - first:
+      213: 6351771882892725621
+    second: Cave_Tile_Ground_45
+  - first:
+      213: 7192462707901319935
+    second: Cave_Tile_Ground_46
+  - first:
+      213: -606205974359699728
+    second: Cave_Tile_Ground_47
+  - first:
+      213: -723098738952294520
+    second: Cave_Tile_Ground_48
+  - first:
+      213: 5479062233110490769
+    second: Cave_Tile_Ground_49
+  - first:
+      213: 3079108193194694096
+    second: Cave_Tile_Ground_50
+  - first:
+      213: -7725505055629924351
+    second: Cave_Tile_Ground_51
+  - first:
+      213: -1910181784229781437
+    second: Cave_Tile_Ground_52
+  - first:
+      213: -3754898250816365041
+    second: Cave_Tile_Ground_53
+  - first:
+      213: 4952786541611587495
+    second: Cave_Tile_Ground_54
+  - first:
+      213: 3815708249968774259
+    second: Cave_Tile_Ground_55
+  - first:
+      213: -8831496854762779462
+    second: Cave_Tile_Ground_56
+  - first:
+      213: -5807093352067598688
+    second: Cave_Tile_Ground_57
+  - first:
+      213: 9115049966706404267
+    second: Cave_Tile_Ground_58
+  - first:
+      213: -3937886466496510330
+    second: Cave_Tile_Ground_59
+  - first:
+      213: 7250172604784208325
+    second: Cave_Tile_Ground_60
+  - first:
+      213: 8188884943229167625
+    second: Cave_Tile_Ground_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc13fbad9c5ba180800000000000000
+      internalID: -9103080389534868274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5f5858012e22e0800000000000000
+      internalID: -2148743652483047591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4b20098bf001fb0800000000000000
+      internalID: -4679222727473449777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222d0cdd13957d50800000000000000
+      internalID: 6734450574257627682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2765a1004585989c0800000000000000
+      internalID: -3924508482474453390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312cd17cfcda2ccf0800000000000000
+      internalID: -233433122759392749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706455e9b2f203b60800000000000000
+      internalID: 7723725225326888455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ab9cfc39df9410800000000000000
+      internalID: 1486145258014877153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c76f605a9ee81b0800000000000000
+      internalID: -5652323587307701114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd91fa9dc9812080800000000000000
+      internalID: -9213931846462497349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb78b9b42c9134950800000000000000
+      internalID: 6432013015098034108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8cf64ed4e53d20800000000000000
+      internalID: 3257761548797250388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3799424ea6bc4c0800000000000000
+      internalID: -4266198693904288799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b582c0f9d4abb0800000000000000
+      internalID: -4925572464357559388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e35b387ceabc110800000000000000
+      internalID: 1282310690848456268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5073b9071e28190800000000000000
+      internalID: -7961553317480954393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa30f20a04b64910800000000000000
+      internalID: 1821341054409915049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d283e1fd4f7fa52f0800000000000000
+      internalID: -983200937539651539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32504b0e4485e5500800000000000000
+      internalID: 386843670851355939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09c416bf569674d0800000000000000
+      internalID: -3137154752596096753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750e30b6ed14afb00800000000000000
+      internalID: 863074702128832599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca6677193866d50800000000000000
+      internalID: 6730211353948499145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2b27535c5220450800000000000000
+      internalID: 6053442378074862304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcf17b75aa33ad00800000000000000
+      internalID: 982693626111982811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d6cdea6d1f8f700800000000000000
+      internalID: 574474856848715110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6619295d41de970800000000000000
+      internalID: 8785701355589297902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e1844f48586010800000000000000
+      internalID: 1182291999659780403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1743cedeeb9184390800000000000000
+      internalID: -7833983243984817039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8d4896ac4adab80800000000000000
+      internalID: -8381862142205962064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 7}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5080a3448a5ff60800000000000000
+      internalID: 8067539318488958430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 7}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adaf2cb6168ff640800000000000000
+      internalID: 5115955133920816549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 7}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8247a1e173cea690800000000000000
+      internalID: -7588913428188151157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a505204179bf0fa60800000000000000
+      internalID: 7705935588725248090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e55e0b49195feb0800000000000000
+      internalID: -4686679769400123821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff78f95513b09c3f0800000000000000
+      internalID: -880159945656399873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb3d1c439d3eb060800000000000000
+      internalID: 6971076976062577663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02027283ad4bea760800000000000000
+      internalID: 7471107681192189984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be0f061b5d777c0800000000000000
+      internalID: -4073552380120995063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a973a0ec6d769f60800000000000000
+      internalID: 8040752091295349157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_Tile_Ground_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfd770d45bf9dae0800000000000000
+      internalID: -1523910657194860598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cave_Tile_Ground_0: -9103080389534868274
+      Cave_Tile_Ground_1: -2148743652483047591
+      Cave_Tile_Ground_10: 6432013015098034108
+      Cave_Tile_Ground_11: 3257761548797250388
+      Cave_Tile_Ground_12: -4266198693904288799
+      Cave_Tile_Ground_13: -4925572464357559388
+      Cave_Tile_Ground_14: 1282310690848456268
+      Cave_Tile_Ground_15: -7961553317480954393
+      Cave_Tile_Ground_16: 1821341054409915049
+      Cave_Tile_Ground_17: -983200937539651539
+      Cave_Tile_Ground_18: 386843670851355939
+      Cave_Tile_Ground_19: -3137154752596096753
+      Cave_Tile_Ground_2: -4679222727473449777
+      Cave_Tile_Ground_20: 863074702128832599
+      Cave_Tile_Ground_21: 6730211353948499145
+      Cave_Tile_Ground_22: 6053442378074862304
+      Cave_Tile_Ground_23: 982693626111982811
+      Cave_Tile_Ground_24: 574474856848715110
+      Cave_Tile_Ground_25: 8785701355589297902
+      Cave_Tile_Ground_26: 1182291999659780403
+      Cave_Tile_Ground_27: -7833983243984817039
+      Cave_Tile_Ground_28: -8381862142205962064
+      Cave_Tile_Ground_29: 8067539318488958430
+      Cave_Tile_Ground_3: 6734450574257627682
+      Cave_Tile_Ground_30: 5115955133920816549
+      Cave_Tile_Ground_31: -7588913428188151157
+      Cave_Tile_Ground_32: 7705935588725248090
+      Cave_Tile_Ground_33: -4686679769400123821
+      Cave_Tile_Ground_34: -880159945656399873
+      Cave_Tile_Ground_35: 6971076976062577663
+      Cave_Tile_Ground_36: 7471107681192189984
+      Cave_Tile_Ground_37: -4073552380120995063
+      Cave_Tile_Ground_38: 8040752091295349157
+      Cave_Tile_Ground_39: -1523910657194860598
+      Cave_Tile_Ground_4: -3924508482474453390
+      Cave_Tile_Ground_5: -233433122759392749
+      Cave_Tile_Ground_6: 7723725225326888455
+      Cave_Tile_Ground_7: 1486145258014877153
+      Cave_Tile_Ground_8: -5652323587307701114
+      Cave_Tile_Ground_9: -9213931846462497349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

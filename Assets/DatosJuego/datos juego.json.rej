@@ -1,0 +1,9 @@
+diff a/Assets/datos juego.json b/Assets/datos juego.json	(rejected hunks)
+@@ -1 +1,5 @@
+-{"posicion":{"x":-1.4397788047790528,"y":-0.38199999928474429,"z":0.0},"vida":3,"energy":100,"health":100,"guardado":true}
+\ No newline at end of file
++<<<<<<< HEAD
++{"posicion":{"x":-1.9829308986663819,"y":-0.2698480188846588,"z":0.0},"vida":3,"energy":100,"health":75,"guardado":true}
++=======
++{"posicion":{"x":-1.4397788047790528,"y":-0.38199999928474429,"z":0.0},"vida":3,"energy":100,"health":100,"guardado":true}
++>>>>>>> develop

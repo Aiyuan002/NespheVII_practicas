@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: baa7fcac7ba4fc24c94eaad9afa84f23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7569426307874092748
+    second: Objetoshabilidadesymunicion1_0
+  - first:
+      213: -8246715625321106162
+    second: Objetoshabilidadesymunicion1_1
+  - first:
+      213: 5156344234063013031
+    second: Objetoshabilidadesymunicion1_2
+  - first:
+      213: 2691791126451232332
+    second: Objetoshabilidadesymunicion1_3
+  - first:
+      213: -5985655598886475132
+    second: Objetoshabilidadesymunicion1_4
+  - first:
+      213: -5389031141764673969
+    second: Objetoshabilidadesymunicion1_5
+  - first:
+      213: 475079599900969778
+    second: Objetoshabilidadesymunicion1_6
+  - first:
+      213: -7162381175220527819
+    second: Objetoshabilidadesymunicion1_7
+  - first:
+      213: -5169284178625955633
+    second: Objetoshabilidadesymunicion1_8
+  - first:
+      213: -2370396689698250026
+    second: Objetoshabilidadesymunicion1_9
+  - first:
+      213: 1149428591534129464
+    second: Objetoshabilidadesymunicion1_10
+  - first:
+      213: 4493662491897986499
+    second: Objetoshabilidadesymunicion1_11
+  - first:
+      213: -6558576753687985952
+    second: Objetoshabilidadesymunicion1_12
+  - first:
+      213: -6251888758147216071
+    second: Objetoshabilidadesymunicion1_13
+  - first:
+      213: -3329034486531341610
+    second: Objetoshabilidadesymunicion1_14
+  - first:
+      213: 1210127917214236270
+    second: Objetoshabilidadesymunicion1_15
+  - first:
+      213: 3840773947873762324
+    second: Objetoshabilidadesymunicion1_16
+  - first:
+      213: -6231523180000057052
+    second: Objetoshabilidadesymunicion1_17
+  - first:
+      213: 6557171258210286749
+    second: Objetoshabilidadesymunicion1_18
+  - first:
+      213: -1579905680548017113
+    second: Objetoshabilidadesymunicion1_19
+  - first:
+      213: -7104563493261685987
+    second: Objetoshabilidadesymunicion1_20
+  - first:
+      213: 2016778299116729955
+    second: Objetoshabilidadesymunicion1_21
+  - first:
+      213: 4994734041139220070
+    second: Objetoshabilidadesymunicion1_22
+  - first:
+      213: 4775459853028885985
+    second: Objetoshabilidadesymunicion1_23
+  - first:
+      213: -8127311526291827041
+    second: Objetoshabilidadesymunicion1_24
+  - first:
+      213: 5814171869336495005
+    second: Objetoshabilidadesymunicion1_25
+  - first:
+      213: 8506315354893719923
+    second: Objetoshabilidadesymunicion1_26
+  - first:
+      213: 4463188190660460825
+    second: Objetoshabilidadesymunicion1_27
+  - first:
+      213: -8177789893545774625
+    second: Objetoshabilidadesymunicion1_28
+  - first:
+      213: -7836176664897890867
+    second: Objetoshabilidadesymunicion1_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 230
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6f45a5f110c0960800000000000000
+      internalID: 7569426307874092748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 230
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05721de4d7cd8d80800000000000000
+      internalID: -8246715625321106162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 230
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a5fae2c30f8740800000000000000
+      internalID: 5156344234063013031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 230
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e9cad84c92b5520800000000000000
+      internalID: 2691791126451232332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 231
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2b8832fdaeeca0800000000000000
+      internalID: -5985655598886475132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 226
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e49979ab05635b0800000000000000
+      internalID: -5389031141764673969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 185
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc1280162d79600800000000000000
+      internalID: 475079599900969778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 183
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d1901e44c1a9c90800000000000000
+      internalID: -7162381175220527819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 185
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8f3f57d630348b0800000000000000
+      internalID: -5169284178625955633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 185
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d226c505c8aa1fd0800000000000000
+      internalID: -2370396689698250026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 191
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831c11dc63793ff00800000000000000
+      internalID: 1149428591534129464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 194
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd731a5a32bc5e30800000000000000
+      internalID: 4493662491897986499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 134
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e00b4cf0314bf4a0800000000000000
+      internalID: -6558576753687985952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 134
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d80636c44dc39a0800000000000000
+      internalID: -6251888758147216071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d24641c5c4ecc1d0800000000000000
+      internalID: -3329034486531341610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 134
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e765eddec3bc010800000000000000
+      internalID: 1210127917214236270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 144
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c17996e8b2d4530800000000000000
+      internalID: 3840773947873762324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 143
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429eb7e0fae2589a0800000000000000
+      internalID: -6231523180000057052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 84
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c76099480cffa50800000000000000
+      internalID: 6557171258210286749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 84
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c405c772c031ae0800000000000000
+      internalID: -1579905680548017113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 84
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bcdebf425876d90800000000000000
+      internalID: -7104563493261685987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 84
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366b19d7d290dfb10800000000000000
+      internalID: 2016778299116729955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 88
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e87ada52cd05540800000000000000
+      internalID: 4994734041139220070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 84
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50de25f67d54240800000000000000
+      internalID: 4775459853028885985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 29
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9610782a3df53f80800000000000000
+      internalID: -8127311526291827041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 29
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93eed6a28610b050800000000000000
+      internalID: 5814171869336495005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 29
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37914e33fb08c0670800000000000000
+      internalID: 8506315354893719923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 29
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911090e230e60fd30800000000000000
+      internalID: 4463188190660460825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 31
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1bc6b6b67a28e80800000000000000
+      internalID: -8177789893545774625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetoshabilidadesymunicion1_29
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 33
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc55e8357de404390800000000000000
+      internalID: -7836176664897890867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Objetoshabilidadesymunicion1_0: 7569426307874092748
+      Objetoshabilidadesymunicion1_1: -8246715625321106162
+      Objetoshabilidadesymunicion1_10: 1149428591534129464
+      Objetoshabilidadesymunicion1_11: 4493662491897986499
+      Objetoshabilidadesymunicion1_12: -6558576753687985952
+      Objetoshabilidadesymunicion1_13: -6251888758147216071
+      Objetoshabilidadesymunicion1_14: -3329034486531341610
+      Objetoshabilidadesymunicion1_15: 1210127917214236270
+      Objetoshabilidadesymunicion1_16: 3840773947873762324
+      Objetoshabilidadesymunicion1_17: -6231523180000057052
+      Objetoshabilidadesymunicion1_18: 6557171258210286749
+      Objetoshabilidadesymunicion1_19: -1579905680548017113
+      Objetoshabilidadesymunicion1_2: 5156344234063013031
+      Objetoshabilidadesymunicion1_20: -7104563493261685987
+      Objetoshabilidadesymunicion1_21: 2016778299116729955
+      Objetoshabilidadesymunicion1_22: 4994734041139220070
+      Objetoshabilidadesymunicion1_23: 4775459853028885985
+      Objetoshabilidadesymunicion1_24: -8127311526291827041
+      Objetoshabilidadesymunicion1_25: 5814171869336495005
+      Objetoshabilidadesymunicion1_26: 8506315354893719923
+      Objetoshabilidadesymunicion1_27: 4463188190660460825
+      Objetoshabilidadesymunicion1_28: -8177789893545774625
+      Objetoshabilidadesymunicion1_29: -7836176664897890867
+      Objetoshabilidadesymunicion1_3: 2691791126451232332
+      Objetoshabilidadesymunicion1_4: -5985655598886475132
+      Objetoshabilidadesymunicion1_5: -5389031141764673969
+      Objetoshabilidadesymunicion1_6: 475079599900969778
+      Objetoshabilidadesymunicion1_7: -7162381175220527819
+      Objetoshabilidadesymunicion1_8: -5169284178625955633
+      Objetoshabilidadesymunicion1_9: -2370396689698250026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: ef9dd0462e507bc4b9ef9b4061be829f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8115018713229755335
+    second: shotalldirecSheet_0
+  - first:
+      213: -8278867564903882082
+    second: shotalldirecSheet_1
+  - first:
+      213: 6538867037794851266
+    second: shotalldirecSheet_2
+  - first:
+      213: 2510996741966005269
+    second: shotalldirecSheet_3
+  - first:
+      213: -553112979097252185
+    second: shotalldirecSheet_4
+  - first:
+      213: 5436378762860079613
+    second: shotalldirecSheet_5
+  - first:
+      213: -2882267165649141726
+    second: shotalldirecSheet_6
+  - first:
+      213: 1116664923217191234
+    second: shotalldirecSheet_7
+  - first:
+      213: 5017557356151774205
+    second: shotalldirecSheet_8
+  - first:
+      213: -4635328140946552358
+    second: shotalldirecSheet_9
+  - first:
+      213: -7805900410314356116
+    second: shotalldirecSheet_10
+  - first:
+      213: 1965766458801603500
+    second: shotalldirecSheet_11
+  - first:
+      213: -2211514393176789949
+    second: shotalldirecSheet_12
+  - first:
+      213: 2437375341944089025
+    second: shotalldirecSheet_13
+  - first:
+      213: -2714361618894012074
+    second: shotalldirecSheet_14
+  - first:
+      213: -3977585252195745097
+    second: shotalldirecSheet_15
+  - first:
+      213: 1238263346497547474
+    second: shotalldirecSheet_16
+  - first:
+      213: 4950611173083818807
+    second: shotalldirecSheet_17
+  - first:
+      213: 4658413652669667730
+    second: shotalldirecSheet_18
+  - first:
+      213: 822836134495360673
+    second: shotalldirecSheet_19
+  - first:
+      213: -2213393189369709003
+    second: shotalldirecSheet_20
+  - first:
+      213: 1716362167918915092
+    second: shotalldirecSheet_21
+  - first:
+      213: -8907652717587591383
+    second: shotalldirecSheet_22
+  - first:
+      213: 9055110065681074799
+    second: shotalldirecSheet_23
+  - first:
+      213: -6806810263850479671
+    second: shotalldirecSheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Lumin
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shotalldirecSheet_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 70
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cfa4cb979a16f80800000000000000
+      internalID: -8115018713229755335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 70
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a66320dd8b1d80800000000000000
+      internalID: -8278867564903882082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 70
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d54d2de8beba50800000000000000
+      internalID: 6538867037794851266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 70
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5140c05ab3ad8d220800000000000000
+      internalID: 2510996741966005269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 70
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae00401da2f258f0800000000000000
+      internalID: -553112979097252185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 70
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9a0c08ea5e17b40800000000000000
+      internalID: 5436378762860079613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_6
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22006b3a8412008d0800000000000000
+      internalID: -2882267165649141726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 70
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ef71d4d03f7f00800000000000000
+      internalID: 1116664923217191234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 70
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb139dc4d1f1a540800000000000000
+      internalID: 5017557356151774205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 70
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad942856d910cafb0800000000000000
+      internalID: -4635328140946552358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 69
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a032b2feedba390800000000000000
+      internalID: -7805900410314356116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 69
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca34f30ed2ec74b10800000000000000
+      internalID: 1965766458801603500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ca803606f1f41e0800000000000000
+      internalID: -2211514393176789949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 69
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9afd0b5fb43d120800000000000000
+      internalID: 2437375341944089025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 69
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6514ed92d76a45ad0800000000000000
+      internalID: -2714361618894012074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_15
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b24a0b8947ccc8c0800000000000000
+      internalID: -3977585252195745097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 70
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc6f5af3f13f2110800000000000000
+      internalID: 1238263346497547474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 70
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73badb8e1aa14b440800000000000000
+      internalID: 4950611173083818807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999438298206a040800000000000000
+      internalID: 4658413652669667730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 70
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a693f0da1d4b6b00800000000000000
+      internalID: 822836134495360673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_20
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 70
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e795f0f927841e0800000000000000
+      internalID: -2213393189369709003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_21
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 70
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ee9bc4c4eb1d710800000000000000
+      internalID: 1716362167918915092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_22
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 70
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f06a15c09a16480800000000000000
+      internalID: -8907652717587591383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_23
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 70
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a0cf2f0a63aad70800000000000000
+      internalID: 9055110065681074799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotalldirecSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 70
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf85b9012a5981a0800000000000000
+      internalID: -6806810263850479671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shotalldirecSheet_0: -8115018713229755335
+      shotalldirecSheet_1: -8278867564903882082
+      shotalldirecSheet_10: -7805900410314356116
+      shotalldirecSheet_11: 1965766458801603500
+      shotalldirecSheet_12: -2211514393176789949
+      shotalldirecSheet_13: 2437375341944089025
+      shotalldirecSheet_14: -2714361618894012074
+      shotalldirecSheet_15: -3977585252195745097
+      shotalldirecSheet_16: 1238263346497547474
+      shotalldirecSheet_17: 4950611173083818807
+      shotalldirecSheet_18: 4658413652669667730
+      shotalldirecSheet_19: 822836134495360673
+      shotalldirecSheet_2: 6538867037794851266
+      shotalldirecSheet_20: -2213393189369709003
+      shotalldirecSheet_21: 1716362167918915092
+      shotalldirecSheet_22: -8907652717587591383
+      shotalldirecSheet_23: 9055110065681074799
+      shotalldirecSheet_24: -6806810263850479671
+      shotalldirecSheet_3: 2510996741966005269
+      shotalldirecSheet_4: -553112979097252185
+      shotalldirecSheet_5: 5436378762860079613
+      shotalldirecSheet_6: -2882267165649141726
+      shotalldirecSheet_7: 1116664923217191234
+      shotalldirecSheet_8: 5017557356151774205
+      shotalldirecSheet_9: -4635328140946552358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

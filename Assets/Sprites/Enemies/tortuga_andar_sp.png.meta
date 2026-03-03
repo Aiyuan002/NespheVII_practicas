@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 87efb639c6257344c8ba2ce88dfdf74d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8198417574731692413
+    second: tortuga_andar_sp_0
+  - first:
+      213: 7427619561233934849
+    second: tortuga_andar_sp_1
+  - first:
+      213: 2968980474696516945
+    second: tortuga_andar_sp_2
+  - first:
+      213: 4199101953225601206
+    second: tortuga_andar_sp_3
+  - first:
+      213: 2069126188697708747
+    second: tortuga_andar_sp_4
+  - first:
+      213: 2423008449442135184
+    second: tortuga_andar_sp_5
+  - first:
+      213: 3915229570786576356
+    second: tortuga_andar_sp_6
+  - first:
+      213: 1655793744435986580
+    second: tortuga_andar_sp_7
+  - first:
+      213: -5708254632579142780
+    second: tortuga_andar_sp_8
+  - first:
+      213: 3679061434774171340
+    second: tortuga_andar_sp_9
+  - first:
+      213: -8986723382639445198
+    second: tortuga_andar_sp_10
+  - first:
+      213: 1749354087401437966
+    second: tortuga_andar_sp_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tortuga_andar_sp_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 86
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79b33ed851a6c170800000000000000
+      internalID: 8198417574731692413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 86
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a671243a4341760800000000000000
+      internalID: 7427619561233934849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 86
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1554b5be200f33920800000000000000
+      internalID: 2968980474696516945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 86
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b039a98af4364a30800000000000000
+      internalID: 4199101953225601206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 86
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8e8c05e4307bc10800000000000000
+      internalID: 2069126188697708747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 0
+        width: 86
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cb4ccd85140a120800000000000000
+      internalID: 2423008449442135184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_6
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 0
+        width: 86
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7c6d40d80b55630800000000000000
+      internalID: 3915229570786576356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_7
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 0
+        width: 86
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490cb6643af8af610800000000000000
+      internalID: 1655793744435986580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_8
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 0
+        width: 86
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b64a1c7a438c0b0800000000000000
+      internalID: -5708254632579142780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_9
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 0
+        width: 86
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccead86e1e6ae0330800000000000000
+      internalID: 3679061434774171340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_10
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 0
+        width: 86
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b341b72beb84380800000000000000
+      internalID: -8986723382639445198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_andar_sp_11
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 0
+        width: 86
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb0f52644f64810800000000000000
+      internalID: 1749354087401437966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tortuga_andar_sp_0: 8198417574731692413
+      tortuga_andar_sp_1: 7427619561233934849
+      tortuga_andar_sp_10: -8986723382639445198
+      tortuga_andar_sp_11: 1749354087401437966
+      tortuga_andar_sp_2: 2968980474696516945
+      tortuga_andar_sp_3: 4199101953225601206
+      tortuga_andar_sp_4: 2069126188697708747
+      tortuga_andar_sp_5: 2423008449442135184
+      tortuga_andar_sp_6: 3915229570786576356
+      tortuga_andar_sp_7: 1655793744435986580
+      tortuga_andar_sp_8: -5708254632579142780
+      tortuga_andar_sp_9: 3679061434774171340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

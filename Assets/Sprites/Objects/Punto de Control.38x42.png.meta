@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 75c4f1c1fe7407d4a87bc38087be8895
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5176545028553448708
+    second: Punto de Control.38x42_0
+  - first:
+      213: 4164353440412997558
+    second: Punto de Control.38x42_1
+  - first:
+      213: -8250675219256740843
+    second: Punto de Control.38x42_2
+  - first:
+      213: -7475265918880360417
+    second: Punto de Control.38x42_3
+  - first:
+      213: 1603548809597555143
+    second: Punto de Control.38x42_4
+  - first:
+      213: 6889338954238955918
+    second: Punto de Control.38x42_5
+  - first:
+      213: 8178206642523218662
+    second: Punto de Control.38x42_6
+  - first:
+      213: -4080053722201055285
+    second: Punto de Control.38x42_7
+  - first:
+      213: 1170237558060005136
+    second: Punto de Control.38x42_8
+  - first:
+      213: 2099675692504734798
+    second: Punto de Control.38x42_9
+  - first:
+      213: 4457070049185657864
+    second: Punto de Control.38x42_10
+  - first:
+      213: -7975937058688981053
+    second: Punto de Control.38x42_11
+  - first:
+      213: 5201335329332609793
+    second: Punto de Control.38x42_12
+  - first:
+      213: 6588713740167725302
+    second: Punto de Control.38x42_13
+  - first:
+      213: -9156835510632003625
+    second: Punto de Control.38x42_14
+  - first:
+      213: -4852078693461604798
+    second: Punto de Control.38x42_15
+  - first:
+      213: 5653732577974018961
+    second: Punto de Control.38x42_16
+  - first:
+      213: 6421643172015883106
+    second: Punto de Control.38x42_17
+  - first:
+      213: 8432451252242225055
+    second: Punto de Control.38x42_18
+  - first:
+      213: 8947749075395378661
+    second: Punto de Control.38x42_19
+  - first:
+      213: 3712688518373609794
+    second: Punto de Control.38x42_20
+  - first:
+      213: 3578291638324113497
+    second: Punto de Control.38x42_21
+  - first:
+      213: 8177446370976177563
+    second: Punto de Control.38x42_22
+  - first:
+      213: 2696371029064034217
+    second: Punto de Control.38x42_23
+  - first:
+      213: 43554884182952301
+    second: Punto de Control.38x42_24
+  - first:
+      213: -2449192115947573947
+    second: Punto de Control.38x42_25
+  - first:
+      213: -4225250920848504941
+    second: Punto de Control.38x42_26
+  - first:
+      213: -2572312482964033901
+    second: Punto de Control.38x42_27
+  - first:
+      213: 6692278016921592848
+    second: Punto de Control.38x42_28
+  - first:
+      213: 4312731340933377895
+    second: Punto de Control.38x42_29
+  - first:
+      213: -4445825888520850801
+    second: Punto de Control.38x42_30
+  - first:
+      213: 3314726939627061229
+    second: Punto de Control.38x42_31
+  - first:
+      213: -6303997116877713151
+    second: Punto de Control.38x42_32
+  - first:
+      213: 5016530455765826324
+    second: Punto de Control.38x42_33
+  - first:
+      213: 6987012763325336830
+    second: Punto de Control.38x42_34
+  - first:
+      213: -3353936538442766181
+    second: Punto de Control.38x42_35
+  - first:
+      213: -6558232388930778732
+    second: Punto de Control.38x42_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Punto de Control.38x42_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2e14919b73928b0800000000000000
+      internalID: -5176545028553448708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punto de Control.38x42_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b71efee361cac930800000000000000
+      internalID: 4164353440412997558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punto de Control.38x42_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514751f1a96bf7d80800000000000000
+      internalID: -8250675219256740843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punto de Control.38x42_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f185d8f9045824890800000000000000
+      internalID: -7475265918880360417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punto de Control.38x42_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c110187523f04610800000000000000
+      internalID: 1603548809597555143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punto de Control.38x42_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e819ca01749db9f50800000000000000
+      internalID: 6889338954238955918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punto de Control.38x42_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e226538c93de7170800000000000000
+      internalID: 8178206642523218662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Punto de Control.38x42_0: -5176545028553448708
+      Punto de Control.38x42_1: 4164353440412997558
+      Punto de Control.38x42_2: -8250675219256740843
+      Punto de Control.38x42_3: -7475265918880360417
+      Punto de Control.38x42_4: 1603548809597555143
+      Punto de Control.38x42_5: 6889338954238955918
+      Punto de Control.38x42_6: 8178206642523218662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 243f403b28278414ba254cb6d67cdae6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6787419726121166852
+    second: "Icono_H.F\xEDsicas_Pixel_0"
+  - first:
+      213: -2215857911006375225
+    second: "Icono_H.F\xEDsicas_Pixel_1"
+  - first:
+      213: 8336965727353704000
+    second: "Icono_H.F\xEDsicas_Pixel_2"
+  - first:
+      213: -7697547556516622370
+    second: "Icono_H.F\xEDsicas_Pixel_3"
+  - first:
+      213: 6955881147696179706
+    second: "Icono_H.F\xEDsicas_Pixel_4"
+  - first:
+      213: 5814237274601315433
+    second: "Icono_H.F\xEDsicas_Pixel_5"
+  - first:
+      213: -1295538484785940473
+    second: "Icono_H.F\xEDsicas_Pixel_6"
+  - first:
+      213: -4844998435998545433
+    second: "Icono_H.F\xEDsicas_Pixel_7"
+  - first:
+      213: -6609732166026433568
+    second: "Icono_H.F\xEDsicas_Pixel_8"
+  - first:
+      213: -5225199534509029600
+    second: "Icono_H.F\xEDsicas_Pixel_9"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Icono_H.F\xEDsicas_Pixel_0"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7911b68bd3ec1a0800000000000000
+      internalID: -6787419726121166852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_H.F\xEDsicas_Pixel_1"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2d9b558f0bf31e0800000000000000
+      internalID: -2215857911006375225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_H.F\xEDsicas_Pixel_2"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e068b682ad2b370800000000000000
+      internalID: 8336965727353704000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_H.F\xEDsicas_Pixel_3"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf862cd741dc2590800000000000000
+      internalID: -7697547556516622370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_H.F\xEDsicas_Pixel_4"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9644ccc01488060800000000000000
+      internalID: 6955881147696179706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_H.F\xEDsicas_Pixel_5"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c52700ff150b050800000000000000
+      internalID: 5814237274601315433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_H.F\xEDsicas_Pixel_6"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7087c75bc92550ee0800000000000000
+      internalID: -1295538484785940473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_H.F\xEDsicas_Pixel_7"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9cbf4a79b13ccb0800000000000000
+      internalID: -4844998435998545433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_H.F\xEDsicas_Pixel_8"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb65876d938544a0800000000000000
+      internalID: -6609732166026433568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_H.F\xEDsicas_Pixel_9"
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278d0925bc5c77b0800000000000000
+      internalID: -5225199534509029600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Icono_H.F\xEDsicas_Pixel_0": -6787419726121166852
+      "Icono_H.F\xEDsicas_Pixel_1": -2215857911006375225
+      "Icono_H.F\xEDsicas_Pixel_2": 8336965727353704000
+      "Icono_H.F\xEDsicas_Pixel_3": -7697547556516622370
+      "Icono_H.F\xEDsicas_Pixel_4": 6955881147696179706
+      "Icono_H.F\xEDsicas_Pixel_5": 5814237274601315433
+      "Icono_H.F\xEDsicas_Pixel_6": -1295538484785940473
+      "Icono_H.F\xEDsicas_Pixel_7": -4844998435998545433
+      "Icono_H.F\xEDsicas_Pixel_8": -6609732166026433568
+      "Icono_H.F\xEDsicas_Pixel_9": -5225199534509029600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

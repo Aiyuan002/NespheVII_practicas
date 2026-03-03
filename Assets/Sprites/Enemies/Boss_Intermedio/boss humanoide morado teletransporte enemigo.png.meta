@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: c7245f3faaba4d34f8b86d65c55513a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7606303253721863783
+    second: boss humanoide morado teletransporte enemigo_0
+  - first:
+      213: -1692709601865018994
+    second: boss humanoide morado teletransporte enemigo_1
+  - first:
+      213: -775970702077240422
+    second: boss humanoide morado teletransporte enemigo_2
+  - first:
+      213: 284585136410687582
+    second: boss humanoide morado teletransporte enemigo_3
+  - first:
+      213: 7724761686677648470
+    second: boss humanoide morado teletransporte enemigo_4
+  - first:
+      213: 8071947705469475702
+    second: boss humanoide morado teletransporte enemigo_5
+  - first:
+      213: 7990294647990849287
+    second: boss humanoide morado teletransporte enemigo_6
+  - first:
+      213: 2526573392202274532
+    second: boss humanoide morado teletransporte enemigo_7
+  - first:
+      213: 313814766460749086
+    second: boss humanoide morado teletransporte enemigo_8
+  - first:
+      213: -5648491354654921005
+    second: boss humanoide morado teletransporte enemigo_9
+  - first:
+      213: -8051323516984158099
+    second: boss humanoide morado teletransporte enemigo_10
+  - first:
+      213: -2329216252990570356
+    second: boss humanoide morado teletransporte enemigo_11
+  - first:
+      213: 3005073194474900184
+    second: boss humanoide morado teletransporte enemigo_12
+  - first:
+      213: -6665561465311797697
+    second: boss humanoide morado teletransporte enemigo_13
+  - first:
+      213: -6718449050685642584
+    second: boss humanoide morado teletransporte enemigo_14
+  - first:
+      213: 2427659070179336943
+    second: boss humanoide morado teletransporte enemigo_15
+  - first:
+      213: 7562496877443051689
+    second: boss humanoide morado teletransporte enemigo_16
+  - first:
+      213: 8452551518111688867
+    second: boss humanoide morado teletransporte enemigo_17
+  - first:
+      213: 1055836394541432406
+    second: boss humanoide morado teletransporte enemigo_18
+  - first:
+      213: 383827726016874475
+    second: boss humanoide morado teletransporte enemigo_19
+  - first:
+      213: -5114918167514311130
+    second: boss humanoide morado teletransporte enemigo_20
+  - first:
+      213: 3592790919146772411
+    second: boss humanoide morado teletransporte enemigo_21
+  - first:
+      213: -8963788320210159443
+    second: boss humanoide morado teletransporte enemigo_22
+  - first:
+      213: 6252621926842065111
+    second: boss humanoide morado teletransporte enemigo_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 80
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999a20c9d7bf07690800000000000000
+      internalID: -7606303253721863783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 80
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8151f0e5994288e0800000000000000
+      internalID: -1692709601865018994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 80
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b539af1c23b35f0800000000000000
+      internalID: -775970702077240422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 80
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e587d1c7cac03f300800000000000000
+      internalID: 284585136410687582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654f7f493ddd33b60800000000000000
+      internalID: 7724761686677648470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 80
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b990ecba1550070800000000000000
+      internalID: 8071947705469475702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f0330e5aa33ee60800000000000000
+      internalID: 7990294647990849287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 80
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69b252d11301320800000000000000
+      internalID: 2526573392202274532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 80
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e154a201ed4ea5400800000000000000
+      internalID: 313814766460749086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 80
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deade83a078c91b0800000000000000
+      internalID: -5648491354654921005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 80
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6819664be3f34090800000000000000
+      internalID: -8051323516984158099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 80
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804e6b9826fcafd0800000000000000
+      internalID: -2329216252990570356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da89b8162a24b920800000000000000
+      internalID: 3005073194474900184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ede87b92b2f73a0800000000000000
+      internalID: -6665561465311797697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8625c2f2643c2a0800000000000000
+      internalID: -6718449050685642584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe26bc1ef07c0b120800000000000000
+      internalID: 2427659070179336943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a07efa97d263f860800000000000000
+      internalID: 7562496877443051689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a86cba72de7d4570800000000000000
+      internalID: 8452551518111688867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e32955b9517ae00800000000000000
+      internalID: 1055836394541432406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be78e208841a35500800000000000000
+      internalID: 383827726016874475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6261e12d6092409b0800000000000000
+      internalID: -5114918167514311130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_21
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb71ef73e482cd130800000000000000
+      internalID: 3592790919146772411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f314d30a3a9380800000000000000
+      internalID: -8963788320210159443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado teletransporte enemigo_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d06d30c386c5c650800000000000000
+      internalID: 6252621926842065111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss humanoide morado teletransporte enemigo_0: -7606303253721863783
+      boss humanoide morado teletransporte enemigo_1: -1692709601865018994
+      boss humanoide morado teletransporte enemigo_10: -8051323516984158099
+      boss humanoide morado teletransporte enemigo_11: -2329216252990570356
+      boss humanoide morado teletransporte enemigo_12: 3005073194474900184
+      boss humanoide morado teletransporte enemigo_13: -6665561465311797697
+      boss humanoide morado teletransporte enemigo_14: -6718449050685642584
+      boss humanoide morado teletransporte enemigo_15: 2427659070179336943
+      boss humanoide morado teletransporte enemigo_16: 7562496877443051689
+      boss humanoide morado teletransporte enemigo_17: 8452551518111688867
+      boss humanoide morado teletransporte enemigo_18: 1055836394541432406
+      boss humanoide morado teletransporte enemigo_19: 383827726016874475
+      boss humanoide morado teletransporte enemigo_2: -775970702077240422
+      boss humanoide morado teletransporte enemigo_20: -5114918167514311130
+      boss humanoide morado teletransporte enemigo_21: 3592790919146772411
+      boss humanoide morado teletransporte enemigo_22: -8963788320210159443
+      boss humanoide morado teletransporte enemigo_23: 6252621926842065111
+      boss humanoide morado teletransporte enemigo_3: 284585136410687582
+      boss humanoide morado teletransporte enemigo_4: 7724761686677648470
+      boss humanoide morado teletransporte enemigo_5: 8071947705469475702
+      boss humanoide morado teletransporte enemigo_6: 7990294647990849287
+      boss humanoide morado teletransporte enemigo_7: 2526573392202274532
+      boss humanoide morado teletransporte enemigo_8: 313814766460749086
+      boss humanoide morado teletransporte enemigo_9: -5648491354654921005
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

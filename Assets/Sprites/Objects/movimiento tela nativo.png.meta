@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: 01f4d5d930626c94bbe8edc3ec614a9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6443704543733951962
+    second: movimiento tela nativo_0
+  - first:
+      213: -7116235392753998251
+    second: movimiento tela nativo_1
+  - first:
+      213: -925673547363425492
+    second: movimiento tela nativo_2
+  - first:
+      213: 3643925682202257649
+    second: movimiento tela nativo_3
+  - first:
+      213: 1733410698737062962
+    second: movimiento tela nativo_4
+  - first:
+      213: 6448862631155439182
+    second: movimiento tela nativo_5
+  - first:
+      213: -4661310183898025438
+    second: movimiento tela nativo_6
+  - first:
+      213: -3558624011488985133
+    second: movimiento tela nativo_7
+  - first:
+      213: 4245363591366230412
+    second: movimiento tela nativo_8
+  - first:
+      213: -2676540984194702141
+    second: movimiento tela nativo_9
+  - first:
+      213: -1244105131957756666
+    second: movimiento tela nativo_10
+  - first:
+      213: 8675129914563715673
+    second: movimiento tela nativo_11
+  - first:
+      213: 1132420222219123840
+    second: movimiento tela nativo_12
+  - first:
+      213: 6949652493120944389
+    second: movimiento tela nativo_13
+  - first:
+      213: -2603241392349132841
+    second: movimiento tela nativo_14
+  - first:
+      213: -1753466295912531457
+    second: movimiento tela nativo_15
+  - first:
+      213: -6132189470811017335
+    second: movimiento tela nativo_16
+  - first:
+      213: 8269765304522236373
+    second: movimiento tela nativo_17
+  - first:
+      213: -660024237457313526
+    second: movimiento tela nativo_18
+  - first:
+      213: 964225503490381151
+    second: movimiento tela nativo_19
+  - first:
+      213: -5716674452429004010
+    second: movimiento tela nativo_20
+  - first:
+      213: 3993035575628364731
+    second: movimiento tela nativo_21
+  - first:
+      213: -268023681689198675
+    second: movimiento tela nativo_22
+  - first:
+      213: -7010873331096541113
+    second: movimiento tela nativo_23
+  - first:
+      213: 4359252679654191298
+    second: movimiento tela nativo_24
+  - first:
+      213: 5148405848000453036
+    second: movimiento tela nativo_25
+  - first:
+      213: 5435507773922335927
+    second: movimiento tela nativo_26
+  - first:
+      213: 6565139298089840856
+    second: movimiento tela nativo_27
+  - first:
+      213: 1493916961563558718
+    second: movimiento tela nativo_28
+  - first:
+      213: 7335527690477138336
+    second: movimiento tela nativo_29
+  - first:
+      213: -2219743334870398436
+    second: movimiento tela nativo_30
+  - first:
+      213: 3099603007368001811
+    second: movimiento tela nativo_31
+  - first:
+      213: 4124183165331563469
+    second: movimiento tela nativo_32
+  - first:
+      213: 5903176769669920688
+    second: movimiento tela nativo_33
+  - first:
+      213: -3119938498426154369
+    second: movimiento tela nativo_34
+  - first:
+      213: 6533547212580843373
+    second: movimiento tela nativo_35
+  - first:
+      213: 9116831735371133819
+    second: movimiento tela nativo_36
+  - first:
+      213: 8626909791853256234
+    second: movimiento tela nativo_37
+  - first:
+      213: 3419859215440319681
+    second: movimiento tela nativo_38
+  - first:
+      213: 1196012885952392845
+    second: movimiento tela nativo_39
+  - first:
+      213: 4808070704821030491
+    second: movimiento tela nativo_40
+  - first:
+      213: 2695263140739551437
+    second: movimiento tela nativo_41
+  - first:
+      213: -4913110145911074837
+    second: movimiento tela nativo_42
+  - first:
+      213: 3164364754129657125
+    second: movimiento tela nativo_43
+  - first:
+      213: -895796272257912184
+    second: movimiento tela nativo_44
+  - first:
+      213: 6973607832228003406
+    second: movimiento tela nativo_45
+  - first:
+      213: 5061644129154663800
+    second: movimiento tela nativo_46
+  - first:
+      213: 360686130687234771
+    second: movimiento tela nativo_47
+  - first:
+      213: -4465361264975932861
+    second: movimiento tela nativo_48
+  - first:
+      213: -3152599719225421051
+    second: movimiento tela nativo_49
+  - first:
+      213: -7053499734791724491
+    second: movimiento tela nativo_50
+  - first:
+      213: -4219599061029188468
+    second: movimiento tela nativo_51
+  - first:
+      213: -5195198918512508603
+    second: movimiento tela nativo_52
+  - first:
+      213: -6449424534033109525
+    second: movimiento tela nativo_53
+  - first:
+      213: -7757274182554454945
+    second: movimiento tela nativo_54
+  - first:
+      213: 3042125066988243874
+    second: movimiento tela nativo_55
+  - first:
+      213: 125674858199873296
+    second: movimiento tela nativo_56
+  - first:
+      213: -9152118956717646308
+    second: movimiento tela nativo_57
+  - first:
+      213: -7533142662917766690
+    second: movimiento tela nativo_58
+  - first:
+      213: 9136108679381637924
+    second: movimiento tela nativo_59
+  - first:
+      213: 5116015966600313783
+    second: movimiento tela nativo_60
+  - first:
+      213: -8805279885208966415
+    second: movimiento tela nativo_61
+  - first:
+      213: -4224506017351525779
+    second: movimiento tela nativo_62
+  - first:
+      213: -1178719278329307931
+    second: movimiento tela nativo_63
+  - first:
+      213: 3393905925255031821
+    second: movimiento tela nativo_64
+  - first:
+      213: -8562160732724699322
+    second: movimiento tela nativo_65
+  - first:
+      213: 6599671143254697661
+    second: movimiento tela nativo_66
+  - first:
+      213: 3742807889616236788
+    second: movimiento tela nativo_67
+  - first:
+      213: -1595816753633518187
+    second: movimiento tela nativo_68
+  - first:
+      213: -7049928695282903103
+    second: movimiento tela nativo_69
+  - first:
+      213: -2669746372283209703
+    second: movimiento tela nativo_70
+  - first:
+      213: 6994388453547591337
+    second: movimiento tela nativo_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: movimiento tela nativo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add25de6423ac6950800000000000000
+      internalID: 6443704543733951962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556e5dc1d9d0e3d90800000000000000
+      internalID: -7116235392753998251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c236d6720d85723f0800000000000000
+      internalID: -925673547363425492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 560
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8a6930a13d19230800000000000000
+      internalID: 3643925682202257649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 560
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2349514b8df4e0810800000000000000
+      internalID: 1733410698737062962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 560
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e469f4f3566fe7950800000000000000
+      internalID: 6448862631155439182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 496
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f8dc9513bf4fb0800000000000000
+      internalID: -4661310183898025438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 496
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff502e05a3d9ec0800000000000000
+      internalID: -3558624011488985133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 496
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c2c581bf8aea30800000000000000
+      internalID: 4245363591366230412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 496
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4ec42e7240bdad0800000000000000
+      internalID: -2676540984194702141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 496
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dda6a59fc0cbee0800000000000000
+      internalID: -1244105131957756666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 496
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9526fe9c1b0446870800000000000000
+      internalID: 8675129914563715673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf6d9313a27bf00800000000000000
+      internalID: 1132420222219123840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509b1e42f10227060800000000000000
+      internalID: 6949652493120944389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7cf680fbd6fdbd0800000000000000
+      internalID: -2603241392349132841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff97382b1bf6aa7e0800000000000000
+      internalID: -1753466295912531457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 432
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f2be08a2616eaa0800000000000000
+      internalID: -6132189470811017335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 432
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1e5e7babb14c270800000000000000
+      internalID: 8269765304522236373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a017537f37f17d6f0800000000000000
+      internalID: -660024237457313526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 369
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f559aea9cfd916d00800000000000000
+      internalID: 964225503490381151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6132b6eafda4aa0b0800000000000000
+      internalID: -5716674452429004010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb73d433bc1a6730800000000000000
+      internalID: 3993035575628364731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafd58da1e9c74cf0800000000000000
+      internalID: -268023681689198675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 369
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7482bbeb9df54be90800000000000000
+      internalID: -7010873331096541113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c035f0473d2f7c30800000000000000
+      internalID: 4359252679654191298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 305
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca95c9167dfc27740800000000000000
+      internalID: 5148405848000453036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd386958dce6b40800000000000000
+      internalID: 5435507773922335927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d03a93786f0c1b50800000000000000
+      internalID: 6565139298089840856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e334de9bf857bb410800000000000000
+      internalID: 1493916961563558718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 305
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a17ee6b1970dc560800000000000000
+      internalID: 7335527690477138336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a42889233e131e0800000000000000
+      internalID: -2219743334870398436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 241
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319f6e64380040b20800000000000000
+      internalID: 3099603007368001811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3eb3eecba0c3930800000000000000
+      internalID: 4124183165331563469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b77382eefb4ce150800000000000000
+      internalID: 5903176769669920688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f725e304770c3b4d0800000000000000
+      internalID: -3119938498426154369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 241
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fef19d292dbaa50800000000000000
+      internalID: 6533547212580843373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73fdc7092e758e70800000000000000
+      internalID: 9116831735371133819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e90c49fb0f8b770800000000000000
+      internalID: 8626909791853256234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c49a2656d7c57f20800000000000000
+      internalID: 3419859215440319681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e6bfd0267199010800000000000000
+      internalID: 1196012885952392845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ec1dfe4d2b9b240800000000000000
+      internalID: 4808070704821030491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc01cffdb8f776520800000000000000
+      internalID: 2695263140739551437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef4a926a5021dbb0800000000000000
+      internalID: -4913110145911074837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d1aa57af41aeb20800000000000000
+      internalID: 3164364754129657125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882b2f8590e7193f0800000000000000
+      internalID: -895796272257912184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ef4da206b37c060800000000000000
+      internalID: 6973607832228003406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87584b984829e3640800000000000000
+      internalID: 5061644129154663800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 145
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2d507ff1a610500800000000000000
+      internalID: 360686130687234771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34212578699d702c0800000000000000
+      internalID: -4465361264975932861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50392903247bf34d0800000000000000
+      internalID: -3152599719225421051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5326d6cbc5fec1e90800000000000000
+      internalID: -7053499734791724491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c88c8a209f075c0800000000000000
+      internalID: -4219599061029188468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5418194eb12f6e7b0800000000000000
+      internalID: -5195198918512508603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed644b8e8a0f76a0800000000000000
+      internalID: -6449424534033109525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5478831b30a85490800000000000000
+      internalID: -7757274182554454945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab452c61acc73a20800000000000000
+      internalID: 3042125066988243874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01773302e9c7eb100800000000000000
+      internalID: 125674858199873296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed9b28c442df080800000000000000
+      internalID: -9152118956717646308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1427e09a6e47790800000000000000
+      internalID: -7533142662917766690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bd7ef407af9ce70800000000000000
+      internalID: 9136108679381637924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb30727a6dbff640800000000000000
+      internalID: 5116015966600313783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa2a36c89c5dc580800000000000000
+      internalID: -8805279885208966415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a134cd82a8f55c0800000000000000
+      internalID: -4224506017351525779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecd64dbf0954afe0800000000000000
+      internalID: -1178719278329307931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c6be31573991f20800000000000000
+      internalID: 3393905925255031821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f55288d281d2980800000000000000
+      internalID: -8562160732724699322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a71030fdb69b50800000000000000
+      internalID: 6599671143254697661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0fa1302ff11f330800000000000000
+      internalID: 3742807889616236788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d9e091e158ad9e0800000000000000
+      internalID: -1595816753633518187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c754d9243f992e90800000000000000
+      internalID: -7049928695282903103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918ebafb1d723fad0800000000000000
+      internalID: -2669746372283209703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento tela nativo_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a64cca9d3f011160800000000000000
+      internalID: 6994388453547591337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      movimiento tela nativo_0: 6443704543733951962
+      movimiento tela nativo_1: -7116235392753998251
+      movimiento tela nativo_10: -1244105131957756666
+      movimiento tela nativo_11: 8675129914563715673
+      movimiento tela nativo_12: 1132420222219123840
+      movimiento tela nativo_13: 6949652493120944389
+      movimiento tela nativo_14: -2603241392349132841
+      movimiento tela nativo_15: -1753466295912531457
+      movimiento tela nativo_16: -6132189470811017335
+      movimiento tela nativo_17: 8269765304522236373
+      movimiento tela nativo_18: -660024237457313526
+      movimiento tela nativo_19: 964225503490381151
+      movimiento tela nativo_2: -925673547363425492
+      movimiento tela nativo_20: -5716674452429004010
+      movimiento tela nativo_21: 3993035575628364731
+      movimiento tela nativo_22: -268023681689198675
+      movimiento tela nativo_23: -7010873331096541113
+      movimiento tela nativo_24: 4359252679654191298
+      movimiento tela nativo_25: 5148405848000453036
+      movimiento tela nativo_26: 5435507773922335927
+      movimiento tela nativo_27: 6565139298089840856
+      movimiento tela nativo_28: 1493916961563558718
+      movimiento tela nativo_29: 7335527690477138336
+      movimiento tela nativo_3: 3643925682202257649
+      movimiento tela nativo_30: -2219743334870398436
+      movimiento tela nativo_31: 3099603007368001811
+      movimiento tela nativo_32: 4124183165331563469
+      movimiento tela nativo_33: 5903176769669920688
+      movimiento tela nativo_34: -3119938498426154369
+      movimiento tela nativo_35: 6533547212580843373
+      movimiento tela nativo_36: 9116831735371133819
+      movimiento tela nativo_37: 8626909791853256234
+      movimiento tela nativo_38: 3419859215440319681
+      movimiento tela nativo_39: 1196012885952392845
+      movimiento tela nativo_4: 1733410698737062962
+      movimiento tela nativo_40: 4808070704821030491
+      movimiento tela nativo_41: 2695263140739551437
+      movimiento tela nativo_42: -4913110145911074837
+      movimiento tela nativo_43: 3164364754129657125
+      movimiento tela nativo_44: -895796272257912184
+      movimiento tela nativo_45: 6973607832228003406
+      movimiento tela nativo_46: 5061644129154663800
+      movimiento tela nativo_47: 360686130687234771
+      movimiento tela nativo_48: -4465361264975932861
+      movimiento tela nativo_49: -3152599719225421051
+      movimiento tela nativo_5: 6448862631155439182
+      movimiento tela nativo_50: -7053499734791724491
+      movimiento tela nativo_51: -4219599061029188468
+      movimiento tela nativo_52: -5195198918512508603
+      movimiento tela nativo_53: -6449424534033109525
+      movimiento tela nativo_54: -7757274182554454945
+      movimiento tela nativo_55: 3042125066988243874
+      movimiento tela nativo_56: 125674858199873296
+      movimiento tela nativo_57: -9152118956717646308
+      movimiento tela nativo_58: -7533142662917766690
+      movimiento tela nativo_59: 9136108679381637924
+      movimiento tela nativo_6: -4661310183898025438
+      movimiento tela nativo_60: 5116015966600313783
+      movimiento tela nativo_61: -8805279885208966415
+      movimiento tela nativo_62: -4224506017351525779
+      movimiento tela nativo_63: -1178719278329307931
+      movimiento tela nativo_64: 3393905925255031821
+      movimiento tela nativo_65: -8562160732724699322
+      movimiento tela nativo_66: 6599671143254697661
+      movimiento tela nativo_67: 3742807889616236788
+      movimiento tela nativo_68: -1595816753633518187
+      movimiento tela nativo_69: -7049928695282903103
+      movimiento tela nativo_7: -3558624011488985133
+      movimiento tela nativo_70: -2669746372283209703
+      movimiento tela nativo_71: 6994388453547591337
+      movimiento tela nativo_8: 4245363591366230412
+      movimiento tela nativo_9: -2676540984194702141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

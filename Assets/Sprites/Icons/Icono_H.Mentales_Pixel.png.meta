@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 387ba976b353c4e42b6a78e3712257af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7724775964222141438
+    second: Icono_H.Mentales_Pixel_0
+  - first:
+      213: -7867223052480707213
+    second: Icono_H.Mentales_Pixel_1
+  - first:
+      213: 2309843857342575252
+    second: Icono_H.Mentales_Pixel_2
+  - first:
+      213: 829163274794848052
+    second: Icono_H.Mentales_Pixel_3
+  - first:
+      213: 6808573266741737188
+    second: Icono_H.Mentales_Pixel_4
+  - first:
+      213: 24113945651386700
+    second: Icono_H.Mentales_Pixel_5
+  - first:
+      213: 4624980423293342753
+    second: Icono_H.Mentales_Pixel_6
+  - first:
+      213: 3519157554147208448
+    second: Icono_H.Mentales_Pixel_7
+  - first:
+      213: -7721378231477176171
+    second: Icono_H.Mentales_Pixel_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icono_H.Mentales_Pixel_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3bfe4dfcae33b60800000000000000
+      internalID: 7724775964222141438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icono_H.Mentales_Pixel_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3758f1ce05202d290800000000000000
+      internalID: -7867223052480707213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icono_H.Mentales_Pixel_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492b58b00c63e0020800000000000000
+      internalID: 2309843857342575252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icono_H.Mentales_Pixel_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f42f6fa97c18b00800000000000000
+      internalID: 829163274794848052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icono_H.Mentales_Pixel_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6bc5f0059ec7e50800000000000000
+      internalID: 6808573266741737188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icono_H.Mentales_Pixel_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c491fac718ba55000800000000000000
+      internalID: 24113945651386700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icono_H.Mentales_Pixel_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241987d03b3f2040800000000000000
+      internalID: 4624980423293342753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icono_H.Mentales_Pixel_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da393762f86d030800000000000000
+      internalID: 3519157554147208448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icono_H.Mentales_Pixel_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5987e58786728d490800000000000000
+      internalID: -7721378231477176171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Icono_H.Mentales_Pixel_0: 7724775964222141438
+      Icono_H.Mentales_Pixel_1: -7867223052480707213
+      Icono_H.Mentales_Pixel_2: 2309843857342575252
+      Icono_H.Mentales_Pixel_3: 829163274794848052
+      Icono_H.Mentales_Pixel_4: 6808573266741737188
+      Icono_H.Mentales_Pixel_5: 24113945651386700
+      Icono_H.Mentales_Pixel_6: 4624980423293342753
+      Icono_H.Mentales_Pixel_7: 3519157554147208448
+      Icono_H.Mentales_Pixel_8: -7721378231477176171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

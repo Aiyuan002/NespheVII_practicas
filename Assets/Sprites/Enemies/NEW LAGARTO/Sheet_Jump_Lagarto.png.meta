@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 946773987c51e844799e23a3f2a9ab1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6756939785517404166
+    second: Sheet_Jump_Lagarto_0
+  - first:
+      213: 2470874183497153987
+    second: Sheet_Jump_Lagarto_1
+  - first:
+      213: -3857519472237133001
+    second: Sheet_Jump_Lagarto_2
+  - first:
+      213: 2750794221844409737
+    second: Sheet_Jump_Lagarto_3
+  - first:
+      213: 5030411896831058051
+    second: Sheet_Jump_Lagarto_4
+  - first:
+      213: -3514778885650755056
+    second: Sheet_Jump_Lagarto_5
+  - first:
+      213: 1965023926551948445
+    second: Sheet_Jump_Lagarto_6
+  - first:
+      213: 3992374849309158600
+    second: Sheet_Jump_Lagarto_7
+  - first:
+      213: 8542734602712622291
+    second: Sheet_Jump_Lagarto_8
+  - first:
+      213: 3203286967699146594
+    second: Sheet_Jump_Lagarto_9
+  - first:
+      213: 848237606398393754
+    second: Sheet_Jump_Lagarto_10
+  - first:
+      213: 6295403871732523604
+    second: Sheet_Jump_Lagarto_11
+  - first:
+      213: 6149706362803710046
+    second: Sheet_Jump_Lagarto_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 150
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affe78b90178a32a0800000000000000
+      internalID: -6756939785517404166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 159
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdf7088afe4a4220800000000000000
+      internalID: 2470874183497153987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 160
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733472f5a76577ac0800000000000000
+      internalID: -3857519472237133001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 161
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dab3b35c8cc2620800000000000000
+      internalID: 2750794221844409737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 165
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380a388c7fc9fc540800000000000000
+      internalID: 5030411896831058051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 14
+        width: 166
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0125eb0c93ff83fc0800000000000000
+      internalID: -3514778885650755056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_6
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 10
+        width: 166
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca54d99da254b10800000000000000
+      internalID: 1965023926551948445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_7
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 0
+        width: 161
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca64fd5c3c76730800000000000000
+      internalID: 3992374849309158600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_8
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 158
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4af1d1cd3ed8670800000000000000
+      internalID: 8542734602712622291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_9
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 0
+        width: 155
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267885f768c547c20800000000000000
+      internalID: 3203286967699146594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_10
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 0
+        width: 158
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9df08edb9b85cb00800000000000000
+      internalID: 848237606398393754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_11
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 0
+        width: 149
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4526c348774cd5750800000000000000
+      internalID: 6295403871732523604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Jump_Lagarto_12
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 0
+        width: 152
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58efdbba55285550800000000000000
+      internalID: 6149706362803710046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sheet_Jump_Lagarto_0: -6756939785517404166
+      Sheet_Jump_Lagarto_1: 2470874183497153987
+      Sheet_Jump_Lagarto_10: 848237606398393754
+      Sheet_Jump_Lagarto_11: 6295403871732523604
+      Sheet_Jump_Lagarto_12: 6149706362803710046
+      Sheet_Jump_Lagarto_2: -3857519472237133001
+      Sheet_Jump_Lagarto_3: 2750794221844409737
+      Sheet_Jump_Lagarto_4: 5030411896831058051
+      Sheet_Jump_Lagarto_5: -3514778885650755056
+      Sheet_Jump_Lagarto_6: 1965023926551948445
+      Sheet_Jump_Lagarto_7: 3992374849309158600
+      Sheet_Jump_Lagarto_8: 8542734602712622291
+      Sheet_Jump_Lagarto_9: 3203286967699146594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

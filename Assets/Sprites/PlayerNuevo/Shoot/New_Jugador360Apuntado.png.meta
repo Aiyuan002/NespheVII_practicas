@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 0c8d46ba0ddf09c4f86f0e9ad0b7ca3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2403226452330658662
+    second: New_Jugador360Apuntado_0
+  - first:
+      213: -8762651923659387517
+    second: New_Jugador360Apuntado_1
+  - first:
+      213: 6514182176369498142
+    second: New_Jugador360Apuntado_2
+  - first:
+      213: 3800274439381065711
+    second: New_Jugador360Apuntado_3
+  - first:
+      213: 6962980864924566461
+    second: New_Jugador360Apuntado_4
+  - first:
+      213: 7385598161076005561
+    second: New_Jugador360Apuntado_5
+  - first:
+      213: -6355831452257920223
+    second: New_Jugador360Apuntado_6
+  - first:
+      213: 5324050880035262711
+    second: New_Jugador360Apuntado_7
+  - first:
+      213: 7906756253253811748
+    second: New_Jugador360Apuntado_8
+  - first:
+      213: 1584290609411223856
+    second: New_Jugador360Apuntado_9
+  - first:
+      213: 1037677871851437117
+    second: New_Jugador360Apuntado_10
+  - first:
+      213: 1791745877695860113
+    second: New_Jugador360Apuntado_11
+  - first:
+      213: -3693810413623467338
+    second: New_Jugador360Apuntado_12
+  - first:
+      213: -7722408731362760561
+    second: New_Jugador360Apuntado_13
+  - first:
+      213: 5288046038991333388
+    second: New_Jugador360Apuntado_14
+  - first:
+      213: -5579853402845760122
+    second: New_Jugador360Apuntado_15
+  - first:
+      213: -5348824850766714469
+    second: New_Jugador360Apuntado_16
+  - first:
+      213: 6618966750268860427
+    second: New_Jugador360Apuntado_17
+  - first:
+      213: -1032985845581592028
+    second: New_Jugador360Apuntado_18
+  - first:
+      213: -9204807396201239585
+    second: New_Jugador360Apuntado_19
+  - first:
+      213: -6456514140425557911
+    second: New_Jugador360Apuntado_20
+  - first:
+      213: -7036619057003882042
+    second: New_Jugador360Apuntado_21
+  - first:
+      213: -7143285878803860281
+    second: New_Jugador360Apuntado_22
+  - first:
+      213: 6634224147800533493
+    second: New_Jugador360Apuntado_23
+  - first:
+      213: 8267177051001014751
+    second: New_Jugador360Apuntado_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 72
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a944202464606aed0800000000000000
+      internalID: -2403226452330658662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 72
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d83ef708ec46680800000000000000
+      internalID: -8762651923659387517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 72
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e185fa00d26076a50800000000000000
+      internalID: 6514182176369498142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 72
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef1e48c7794db430800000000000000
+      internalID: 3800274439381065711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_4
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 72
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3cba7843a71a060800000000000000
+      internalID: 6962980864924566461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_5
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 72
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baa6bc956aee7660800000000000000
+      internalID: 7385598161076005561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_6
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 72
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b59e308fc8bc7a0800000000000000
+      internalID: -6355831452257920223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_7
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f09b9e3114d2e940800000000000000
+      internalID: 5324050880035262711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 72
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ebac8abe07abd60800000000000000
+      internalID: 7906756253253811748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_9
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 72
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03171f25ae78cf510800000000000000
+      internalID: 1584290609411223856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_10
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 70
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cfcfec682966e00800000000000000
+      internalID: 1037677871851437117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_11
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 70
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d05d7f16f8dd810800000000000000
+      internalID: 1791745877695860113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_12
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 68
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2a55cdff2fcbcc0800000000000000
+      internalID: -3693810413623467338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_13
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 71
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f886fb48c2e74d490800000000000000
+      internalID: -7722408731362760561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_14
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 71
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c086dfdead9e26940800000000000000
+      internalID: 5288046038991333388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_15
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 72
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685bf98b4e06092b0800000000000000
+      internalID: -5579853402845760122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_16
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 72
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99a444332825c5b0800000000000000
+      internalID: -5348824850766714469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_17
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08a5e9c03b4bdb50800000000000000
+      internalID: 6618966750268860427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_18
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 72
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a4a10b8d81aa1f0800000000000000
+      internalID: -1032985845581592028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_19
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 72
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb698b3174f14080800000000000000
+      internalID: -9204807396201239585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_20
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 72
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968e5ace89ad566a0800000000000000
+      internalID: -6456514140425557911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_21
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 72
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c91a8fcf38e85e90800000000000000
+      internalID: -7036619057003882042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_22
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 72
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4f4d80753fddc90800000000000000
+      internalID: -7143285878803860281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_23
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 72
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f928f976bf711c50800000000000000
+      internalID: 6634224147800533493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Jugador360Apuntado_24
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 72
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd94d2cf9b9eab270800000000000000
+      internalID: 8267177051001014751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      New_Jugador360Apuntado_0: -2403226452330658662
+      New_Jugador360Apuntado_1: -8762651923659387517
+      New_Jugador360Apuntado_10: 1037677871851437117
+      New_Jugador360Apuntado_11: 1791745877695860113
+      New_Jugador360Apuntado_12: -3693810413623467338
+      New_Jugador360Apuntado_13: -7722408731362760561
+      New_Jugador360Apuntado_14: 5288046038991333388
+      New_Jugador360Apuntado_15: -5579853402845760122
+      New_Jugador360Apuntado_16: -5348824850766714469
+      New_Jugador360Apuntado_17: 6618966750268860427
+      New_Jugador360Apuntado_18: -1032985845581592028
+      New_Jugador360Apuntado_19: -9204807396201239585
+      New_Jugador360Apuntado_2: 6514182176369498142
+      New_Jugador360Apuntado_20: -6456514140425557911
+      New_Jugador360Apuntado_21: -7036619057003882042
+      New_Jugador360Apuntado_22: -7143285878803860281
+      New_Jugador360Apuntado_23: 6634224147800533493
+      New_Jugador360Apuntado_24: 8267177051001014751
+      New_Jugador360Apuntado_3: 3800274439381065711
+      New_Jugador360Apuntado_4: 6962980864924566461
+      New_Jugador360Apuntado_5: 7385598161076005561
+      New_Jugador360Apuntado_6: -6355831452257920223
+      New_Jugador360Apuntado_7: 5324050880035262711
+      New_Jugador360Apuntado_8: 7906756253253811748
+      New_Jugador360Apuntado_9: 1584290609411223856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

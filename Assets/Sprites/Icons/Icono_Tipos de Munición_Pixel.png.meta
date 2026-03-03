@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: c4a1e0e3128adb74da4bf0edfec064ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6734338517902047460
+    second: "Icono_Tipos de Munici\xF3n_Pixel_0"
+  - first:
+      213: 3816121909622353761
+    second: "Icono_Tipos de Munici\xF3n_Pixel_1"
+  - first:
+      213: 4318232054977313770
+    second: "Icono_Tipos de Munici\xF3n_Pixel_2"
+  - first:
+      213: -223577340604546094
+    second: "Icono_Tipos de Munici\xF3n_Pixel_3"
+  - first:
+      213: -3050417949689057894
+    second: "Icono_Tipos de Munici\xF3n_Pixel_4"
+  - first:
+      213: -7875618591600707293
+    second: "Icono_Tipos de Munici\xF3n_Pixel_5"
+  - first:
+      213: 5965523791977109838
+    second: "Icono_Tipos de Munici\xF3n_Pixel_6"
+  - first:
+      213: -5827403632726304179
+    second: "Icono_Tipos de Munici\xF3n_Pixel_7"
+  - first:
+      213: 5284075112520587406
+    second: "Icono_Tipos de Munici\xF3n_Pixel_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Icono_Tipos de Munici\xF3n_Pixel_0"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17c73b4cc2da82a0800000000000000
+      internalID: -6734338517902047460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_Tipos de Munici\xF3n_Pixel_1"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f20aa78a695f430800000000000000
+      internalID: 3816121909622353761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_Tipos de Munici\xF3n_Pixel_2"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb0aecc217deb30800000000000000
+      internalID: 4318232054977313770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_Tipos de Munici\xF3n_Pixel_3"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d38071e791b5ecf0800000000000000
+      internalID: -223577340604546094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_Tipos de Munici\xF3n_Pixel_4"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dee4c590dbaa5d0800000000000000
+      internalID: -3050417949689057894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_Tipos de Munici\xF3n_Pixel_5"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3297d252e9e24b290800000000000000
+      internalID: -7875618591600707293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_Tipos de Munici\xF3n_Pixel_6"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49dfe7384cc9c250800000000000000
+      internalID: 5965523791977109838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_Tipos de Munici\xF3n_Pixel_7"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a178c5547e02fa0800000000000000
+      internalID: -5827403632726304179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Icono_Tipos de Munici\xF3n_Pixel_8"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e889540915ec45940800000000000000
+      internalID: 5284075112520587406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Icono_Tipos de Munici\xF3n_Pixel_0": -6734338517902047460
+      "Icono_Tipos de Munici\xF3n_Pixel_1": 3816121909622353761
+      "Icono_Tipos de Munici\xF3n_Pixel_2": 4318232054977313770
+      "Icono_Tipos de Munici\xF3n_Pixel_3": -223577340604546094
+      "Icono_Tipos de Munici\xF3n_Pixel_4": -3050417949689057894
+      "Icono_Tipos de Munici\xF3n_Pixel_5": -7875618591600707293
+      "Icono_Tipos de Munici\xF3n_Pixel_6": 5965523791977109838
+      "Icono_Tipos de Munici\xF3n_Pixel_7": -5827403632726304179
+      "Icono_Tipos de Munici\xF3n_Pixel_8": 5284075112520587406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

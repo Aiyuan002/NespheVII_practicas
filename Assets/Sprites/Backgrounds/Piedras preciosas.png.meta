@@ -1,0 +1,4693 @@
+fileFormatVersion: 2
+guid: 28d86bb7290977547b7fa0c96eaa3801
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 589026561886801308
+    second: Piedras preciosas_0
+  - first:
+      213: -2372755304610765598
+    second: Piedras preciosas_1
+  - first:
+      213: -9214461506350706381
+    second: Piedras preciosas_2
+  - first:
+      213: -8066202543275885723
+    second: Piedras preciosas_3
+  - first:
+      213: -1949254385615343148
+    second: Piedras preciosas_4
+  - first:
+      213: -5465620646059685682
+    second: Piedras preciosas_5
+  - first:
+      213: 6524663309848037675
+    second: Piedras preciosas_6
+  - first:
+      213: 3529018798094932102
+    second: Piedras preciosas_7
+  - first:
+      213: -2716915755759420312
+    second: Piedras preciosas_8
+  - first:
+      213: -1646160260926817747
+    second: Piedras preciosas_9
+  - first:
+      213: -8065762546354030495
+    second: Piedras preciosas_10
+  - first:
+      213: 8171539739506683315
+    second: Piedras preciosas_11
+  - first:
+      213: 1880409412915049589
+    second: Piedras preciosas_12
+  - first:
+      213: 786549258151835371
+    second: Piedras preciosas_13
+  - first:
+      213: -3090325317248438585
+    second: Piedras preciosas_14
+  - first:
+      213: 8372792866694748421
+    second: Piedras preciosas_15
+  - first:
+      213: 4727202981248558059
+    second: Piedras preciosas_16
+  - first:
+      213: -3295384220366052455
+    second: Piedras preciosas_17
+  - first:
+      213: 7484312930271552100
+    second: Piedras preciosas_18
+  - first:
+      213: -6447840197794141677
+    second: Piedras preciosas_19
+  - first:
+      213: -8561392566509377174
+    second: Piedras preciosas_20
+  - first:
+      213: 2840077347822036605
+    second: Piedras preciosas_21
+  - first:
+      213: 6155663162155535107
+    second: Piedras preciosas_22
+  - first:
+      213: -2839579245010165874
+    second: Piedras preciosas_23
+  - first:
+      213: 7327922448777560668
+    second: Piedras preciosas_24
+  - first:
+      213: 2723209294441639923
+    second: Piedras preciosas_25
+  - first:
+      213: 3337279257219160637
+    second: Piedras preciosas_26
+  - first:
+      213: 2223233633686270578
+    second: Piedras preciosas_27
+  - first:
+      213: -2826347473884370653
+    second: Piedras preciosas_28
+  - first:
+      213: 4119637679954185010
+    second: Piedras preciosas_29
+  - first:
+      213: -5148856247467009652
+    second: Piedras preciosas_30
+  - first:
+      213: 5213552657327104291
+    second: Piedras preciosas_31
+  - first:
+      213: -1640232606034576038
+    second: Piedras preciosas_32
+  - first:
+      213: -8867195481328507535
+    second: Piedras preciosas_33
+  - first:
+      213: 2828899987906172490
+    second: Piedras preciosas_34
+  - first:
+      213: 2430132126714650993
+    second: Piedras preciosas_35
+  - first:
+      213: 7525711694694079177
+    second: Piedras preciosas_36
+  - first:
+      213: -1396132110744463602
+    second: Piedras preciosas_37
+  - first:
+      213: -1799446133572869096
+    second: Piedras preciosas_38
+  - first:
+      213: 3594605230105356967
+    second: Piedras preciosas_39
+  - first:
+      213: 305237708400218765
+    second: Piedras preciosas_40
+  - first:
+      213: 3993789091647995587
+    second: Piedras preciosas_41
+  - first:
+      213: 5593536727562325590
+    second: Piedras preciosas_42
+  - first:
+      213: -5324915520871957931
+    second: Piedras preciosas_43
+  - first:
+      213: -7593165343563470488
+    second: Piedras preciosas_44
+  - first:
+      213: -575370844100909178
+    second: Piedras preciosas_45
+  - first:
+      213: 7374837575256861656
+    second: Piedras preciosas_46
+  - first:
+      213: 8747714918301943198
+    second: Piedras preciosas_47
+  - first:
+      213: -3280385052680475137
+    second: Piedras preciosas_48
+  - first:
+      213: -8797910127431255132
+    second: Piedras preciosas_49
+  - first:
+      213: 1570001691817896095
+    second: Piedras preciosas_50
+  - first:
+      213: -5856100609275080265
+    second: Piedras preciosas_51
+  - first:
+      213: -8362439966891281801
+    second: Piedras preciosas_52
+  - first:
+      213: -1124213334318121525
+    second: Piedras preciosas_53
+  - first:
+      213: -2426887507526526516
+    second: Piedras preciosas_54
+  - first:
+      213: 7341926672755458897
+    second: Piedras preciosas_55
+  - first:
+      213: -4743897459974182229
+    second: Piedras preciosas_56
+  - first:
+      213: -5547549191012146666
+    second: Piedras preciosas_57
+  - first:
+      213: -9157832573109475313
+    second: Piedras preciosas_58
+  - first:
+      213: -7033943597243207887
+    second: Piedras preciosas_59
+  - first:
+      213: 8410134640520390677
+    second: Piedras preciosas_60
+  - first:
+      213: 5839565625538118793
+    second: Piedras preciosas_61
+  - first:
+      213: 8176823535417172243
+    second: Piedras preciosas_62
+  - first:
+      213: -1718256094458946038
+    second: Piedras preciosas_63
+  - first:
+      213: -1545494582700941840
+    second: Piedras preciosas_64
+  - first:
+      213: -2543464258006842884
+    second: Piedras preciosas_65
+  - first:
+      213: -3256688855750136369
+    second: Piedras preciosas_66
+  - first:
+      213: 8629310537431198974
+    second: Piedras preciosas_67
+  - first:
+      213: 6203375570392722671
+    second: Piedras preciosas_68
+  - first:
+      213: 7253970744460797280
+    second: Piedras preciosas_69
+  - first:
+      213: 605463988383221321
+    second: Piedras preciosas_70
+  - first:
+      213: 5350230749170793233
+    second: Piedras preciosas_71
+  - first:
+      213: 4575667358899712813
+    second: Piedras preciosas_72
+  - first:
+      213: -2633719980478208121
+    second: Piedras preciosas_73
+  - first:
+      213: 5430785695077859685
+    second: Piedras preciosas_74
+  - first:
+      213: -3713253915013064711
+    second: Piedras preciosas_75
+  - first:
+      213: 5387793080118170852
+    second: Piedras preciosas_76
+  - first:
+      213: -6891155699874690198
+    second: Piedras preciosas_77
+  - first:
+      213: -5129894157965461223
+    second: Piedras preciosas_78
+  - first:
+      213: -5665021868994505050
+    second: Piedras preciosas_79
+  - first:
+      213: 5697981699517730171
+    second: Piedras preciosas_80
+  - first:
+      213: 6248047342882223070
+    second: Piedras preciosas_81
+  - first:
+      213: -7840031553800681480
+    second: Piedras preciosas_82
+  - first:
+      213: 8846433300436703305
+    second: Piedras preciosas_83
+  - first:
+      213: 438118009419346572
+    second: Piedras preciosas_84
+  - first:
+      213: -6907211165325946649
+    second: Piedras preciosas_85
+  - first:
+      213: -8278841511811401786
+    second: Piedras preciosas_86
+  - first:
+      213: -75754883025398382
+    second: Piedras preciosas_87
+  - first:
+      213: -3373128641904993844
+    second: Piedras preciosas_88
+  - first:
+      213: 7023574926263888483
+    second: Piedras preciosas_89
+  - first:
+      213: -1737639504150933610
+    second: Piedras preciosas_90
+  - first:
+      213: 7300524558071241021
+    second: Piedras preciosas_91
+  - first:
+      213: 8251085017933132490
+    second: Piedras preciosas_92
+  - first:
+      213: -4486307915324239123
+    second: Piedras preciosas_93
+  - first:
+      213: -3654482630731273216
+    second: Piedras preciosas_94
+  - first:
+      213: -5434901733919000947
+    second: Piedras preciosas_95
+  - first:
+      213: 4752286697589583961
+    second: Piedras preciosas_96
+  - first:
+      213: -5059518378639537967
+    second: Piedras preciosas_97
+  - first:
+      213: 3729611031967644985
+    second: Piedras preciosas_98
+  - first:
+      213: 2587937160482196626
+    second: Piedras preciosas_99
+  - first:
+      213: 5211127379579429234
+    second: Piedras preciosas_100
+  - first:
+      213: 5994199278315679443
+    second: Piedras preciosas_101
+  - first:
+      213: 6781025122080094467
+    second: Piedras preciosas_102
+  - first:
+      213: 4105504725074347859
+    second: Piedras preciosas_103
+  - first:
+      213: 8253823750836127411
+    second: Piedras preciosas_104
+  - first:
+      213: 6268219484261528672
+    second: Piedras preciosas_105
+  - first:
+      213: 8335277640315336896
+    second: Piedras preciosas_106
+  - first:
+      213: 5778162878818236371
+    second: Piedras preciosas_107
+  - first:
+      213: 464800388841185847
+    second: Piedras preciosas_108
+  - first:
+      213: -7368157885956341328
+    second: Piedras preciosas_109
+  - first:
+      213: -6111182859457291269
+    second: Piedras preciosas_110
+  - first:
+      213: -8971406229622172441
+    second: Piedras preciosas_111
+  - first:
+      213: -841389913822510978
+    second: Piedras preciosas_112
+  - first:
+      213: 8206080756508408626
+    second: Piedras preciosas_113
+  - first:
+      213: -3490977501829467698
+    second: Piedras preciosas_114
+  - first:
+      213: 1367894046292031393
+    second: Piedras preciosas_115
+  - first:
+      213: 6123392508428375059
+    second: Piedras preciosas_116
+  - first:
+      213: 3801007581495169984
+    second: Piedras preciosas_117
+  - first:
+      213: 5524583651240253728
+    second: Piedras preciosas_118
+  - first:
+      213: 636141458576328500
+    second: Piedras preciosas_119
+  - first:
+      213: -711285526571271495
+    second: Piedras preciosas_120
+  - first:
+      213: 4941599802745711121
+    second: Piedras preciosas_121
+  - first:
+      213: 7684415907154316071
+    second: Piedras preciosas_122
+  - first:
+      213: 5077023788828576071
+    second: Piedras preciosas_123
+  - first:
+      213: -424650077928785489
+    second: Piedras preciosas_124
+  - first:
+      213: -6939065334783877394
+    second: Piedras preciosas_125
+  - first:
+      213: -7616324749023846371
+    second: Piedras preciosas_126
+  - first:
+      213: 1673934418189726111
+    second: Piedras preciosas_127
+  - first:
+      213: -2292086900435008496
+    second: Piedras preciosas_128
+  - first:
+      213: 3368554137748200180
+    second: Piedras preciosas_129
+  - first:
+      213: 724393709771213290
+    second: Piedras preciosas_130
+  - first:
+      213: -3810376011323133861
+    second: Piedras preciosas_131
+  - first:
+      213: -2966263000365864028
+    second: Piedras preciosas_132
+  - first:
+      213: 3381150772535923325
+    second: Piedras preciosas_133
+  - first:
+      213: 4502861289950118906
+    second: Piedras preciosas_134
+  - first:
+      213: 3556123455185120884
+    second: Piedras preciosas_135
+  - first:
+      213: 8168721872607671285
+    second: Piedras preciosas_136
+  - first:
+      213: 3479912593270205971
+    second: Piedras preciosas_137
+  - first:
+      213: -5538575052333433471
+    second: Piedras preciosas_138
+  - first:
+      213: -8523171027812750555
+    second: Piedras preciosas_139
+  - first:
+      213: -4070416804665252381
+    second: Piedras preciosas_140
+  - first:
+      213: -6261113634592920604
+    second: Piedras preciosas_141
+  - first:
+      213: 8649922895564767482
+    second: Piedras preciosas_142
+  - first:
+      213: 6676224300316075437
+    second: Piedras preciosas_143
+  - first:
+      213: 4520997936765344661
+    second: Piedras preciosas_144
+  - first:
+      213: -1173695606012094066
+    second: Piedras preciosas_145
+  - first:
+      213: 583509775682139871
+    second: Piedras preciosas_146
+  - first:
+      213: -3109146674823257388
+    second: Piedras preciosas_147
+  - first:
+      213: 469967271803812552
+    second: Piedras preciosas_148
+  - first:
+      213: -6192199009573638936
+    second: Piedras preciosas_149
+  - first:
+      213: 1978099475067273949
+    second: Piedras preciosas_150
+  - first:
+      213: -4454460801916556181
+    second: Piedras preciosas_151
+  - first:
+      213: -5258816744790876845
+    second: Piedras preciosas_152
+  - first:
+      213: -7845930961238252384
+    second: Piedras preciosas_153
+  - first:
+      213: -8230504324252090849
+    second: Piedras preciosas_154
+  - first:
+      213: 6104279905589329938
+    second: Piedras preciosas_155
+  - first:
+      213: 8757360536245519741
+    second: Piedras preciosas_156
+  - first:
+      213: -6574955315759742961
+    second: Piedras preciosas_157
+  - first:
+      213: -212025848306359596
+    second: Piedras preciosas_158
+  - first:
+      213: 5954969460690261294
+    second: Piedras preciosas_159
+  - first:
+      213: 5028300299709788213
+    second: Piedras preciosas_160
+  - first:
+      213: -6527035047127622977
+    second: Piedras preciosas_161
+  - first:
+      213: 1415807782682653923
+    second: Piedras preciosas_162
+  - first:
+      213: 7697334376796505811
+    second: Piedras preciosas_163
+  - first:
+      213: -9213983444461098140
+    second: Piedras preciosas_164
+  - first:
+      213: 2536426180401595560
+    second: Piedras preciosas_165
+  - first:
+      213: 6463790470777039494
+    second: Piedras preciosas_166
+  - first:
+      213: 8052094104985478791
+    second: Piedras preciosas_167
+  - first:
+      213: -2056705674228772004
+    second: Piedras preciosas_168
+  - first:
+      213: 8328452026020109356
+    second: Piedras preciosas_169
+  - first:
+      213: -8982578177167104714
+    second: Piedras preciosas_170
+  - first:
+      213: -3588594388705501555
+    second: Piedras preciosas_171
+  - first:
+      213: -7465813266372956287
+    second: Piedras preciosas_172
+  - first:
+      213: 2122614580434198776
+    second: Piedras preciosas_173
+  - first:
+      213: -2332148565159011510
+    second: Piedras preciosas_174
+  - first:
+      213: -9175534627203698014
+    second: Piedras preciosas_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Piedras preciosas_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 785
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d48888984ac2800800000000000000
+      internalID: 589026561886801308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 785
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e460c13f97421fd0800000000000000
+      internalID: -2372755304610765598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 785
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331947d8418af1080800000000000000
+      internalID: -9214461506350706381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 785
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b30b106871f0090800000000000000
+      internalID: -8066202543275885723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 737
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d17680c67bd2f4e0800000000000000
+      internalID: -1949254385615343148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 737
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec842920bf63624b0800000000000000
+      internalID: -5465620646059685682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 737
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29448e06b24c8a50800000000000000
+      internalID: 6524663309848037675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 737
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688df1a36e799f030800000000000000
+      internalID: 3529018798094932102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 689
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c3c45d3839b4ad0800000000000000
+      internalID: -2716915755759420312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 689
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ab714e6f9a729e0800000000000000
+      internalID: -1646160260926817747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 689
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168fae5c2b7a01090800000000000000
+      internalID: -8065762546354030495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 689
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda8413914276170800000000000000
+      internalID: 8171539739506683315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 641
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5743a11f56e881a10800000000000000
+      internalID: 1880409412915049589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 641
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6bc7a02626aea00800000000000000
+      internalID: 786549258151835371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 641
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cea2094f75fc15d0800000000000000
+      internalID: -3090325317248438585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 641
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509d34550c2223470800000000000000
+      internalID: 8372792866694748421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 593
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3ec7ec0166a9140800000000000000
+      internalID: 4727202981248558059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 593
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99367a2e2817442d0800000000000000
+      internalID: -3295384220366052455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 593
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462e2bcd4fe9dd760800000000000000
+      internalID: 7484312930271552100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 593
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aeef1908ba486a0800000000000000
+      internalID: -6447840197794141677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 593
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69e98a22d2df2980800000000000000
+      internalID: -8561392566509377174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 593
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76e09bec4bf96720800000000000000
+      internalID: 2840077347822036605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 593
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b0d39280f4d6550800000000000000
+      internalID: 6155663162155535107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 593
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd89da8b9c798d0800000000000000
+      internalID: -2839579245010165874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 545
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c524ff464a202b560800000000000000
+      internalID: 7327922448777560668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 545
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff6c34dc68cac520800000000000000
+      internalID: 2723209294441639923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 545
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ad3d28dc5605e20800000000000000
+      internalID: 3337279257219160637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 545
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272329ce5338ade10800000000000000
+      internalID: 2223233633686270578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 545
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ac4772fbc6c8d0800000000000000
+      internalID: -2826347473884370653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 545
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bcbf4a4a4eb2930800000000000000
+      internalID: 4119637679954185010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 545
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c899d22d5869b88b0800000000000000
+      internalID: -5148856247467009652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 545
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a6cde4824a5840800000000000000
+      internalID: 5213552657327104291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 497
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dbb489229bc39e0800000000000000
+      internalID: -1640232606034576038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 497
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175277da0b461f480800000000000000
+      internalID: -8867195481328507535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 497
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4611440d85424720800000000000000
+      internalID: 2828899987906172490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 497
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171671a3b4099b120800000000000000
+      internalID: 2430132126714650993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 497
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca5e34d9e2b07860800000000000000
+      internalID: 7525711694694079177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 497
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075f870e31ff9ce0800000000000000
+      internalID: -1396132110744463602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 497
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81460ff76451707e0800000000000000
+      internalID: -1799446133572869096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_39
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 497
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aae038696a92e130800000000000000
+      internalID: 3594605230105356967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 449
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82df3d141c6c3400800000000000000
+      internalID: 305237708400218765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 449
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3283d40acc6730800000000000000
+      internalID: 3993789091647995587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 449
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e0474940c30ad40800000000000000
+      internalID: 5593536727562325590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 449
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a767fdb891a16b0800000000000000
+      internalID: -5324915520871957931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 449
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869a710b958af9690800000000000000
+      internalID: -7593165343563470488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 449
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687af37044fd308f0800000000000000
+      internalID: -575370844100909178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 449
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db636d73bfa85660800000000000000
+      internalID: 7374837575256861656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 449
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95c5cdee50266970800000000000000
+      internalID: 8747714918301943198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdaa70cc2bb972d0800000000000000
+      internalID: -3280385052680475137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 401
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abf5a83a5b87e580800000000000000
+      internalID: -8797910127431255132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 401
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9861917834c9c510800000000000000
+      internalID: 1570001691817896095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 401
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d537d583fabea0800000000000000
+      internalID: -5856100609275080265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 401
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727aedf725a2fb80800000000000000
+      internalID: -8362439966891281801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 401
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdf534cdedf560f0800000000000000
+      internalID: -1124213334318121525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 401
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc95c0c8ba6f15ed0800000000000000
+      internalID: -2426887507526526516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_55
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1530e80e863c3e560800000000000000
+      internalID: 7341926672755458897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 353
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6c57f46a4a2eb0800000000000000
+      internalID: -4743897459974182229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 353
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61227b727652303b0800000000000000
+      internalID: -5547549191012146666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 353
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ee478bc7d8e080800000000000000
+      internalID: -9157832573109475313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 353
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f6f24d099626e90800000000000000
+      internalID: -7033943597243207887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_60
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 353
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518ec6195ecc6b470800000000000000
+      internalID: 8410134640520390677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 353
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98408c04ffd4a0150800000000000000
+      internalID: 5839565625538118793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 353
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311289bcea9e97170800000000000000
+      internalID: 8176823535417172243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_63
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 353
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0edf909f278728e0800000000000000
+      internalID: -1718256094458946038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 305
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd1db8ddc4d8ae0800000000000000
+      internalID: -1545494582700941840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 305
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf18992bbbcc3bcd0800000000000000
+      internalID: -2543464258006842884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 305
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd2a098dbaedc2d0800000000000000
+      internalID: -3256688855750136369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 305
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc2f18b63871c770800000000000000
+      internalID: 8629310537431198974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_68
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 305
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec2891e631d61650800000000000000
+      internalID: 6203375570392722671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 305
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06569aa75f74ba460800000000000000
+      internalID: 7253970744460797280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 305
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468fdf1a4a076800800000000000000
+      internalID: 605463988383221321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_71
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 305
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b72b60586df3a40800000000000000
+      internalID: 5350230749170793233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 257
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2331915839008f30800000000000000
+      internalID: 4575667358899712813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 257
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876fbdb1a5237bd0800000000000000
+      internalID: -2633719980478208121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 257
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561836ee0d60e5b40800000000000000
+      internalID: 5430785695077859685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_75
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 257
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f751daec3fd77cc0800000000000000
+      internalID: -3713253915013064711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 257
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e450c7b24945ca40800000000000000
+      internalID: 5387793080118170852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b8f01e662bd50a0800000000000000
+      internalID: -6891155699874690198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919fd135174fec8b0800000000000000
+      internalID: -5129894157965461223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_79
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 257
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a653cdef9cc161b0800000000000000
+      internalID: -5665021868994505050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 225
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d4e60aa2c431f40800000000000000
+      internalID: 5697981699517730171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 225
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3715c64f585b650800000000000000
+      internalID: 6248047342882223070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 225
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f74bdf07dc923390800000000000000
+      internalID: -7840031553800681480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_83
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 225
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94857b16738d4ca70800000000000000
+      internalID: 8846433300436703305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8234212202841600800000000000000
+      internalID: 438118009419346572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e092268a08a420a0800000000000000
+      internalID: -6907211165325946649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c739b81285ab1d80800000000000000
+      internalID: -8278841511811401786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_87
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951543d55dd2fef0800000000000000
+      internalID: -75754883025398382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_88
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 225
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc99e8d2f5d3031d0800000000000000
+      internalID: -3373128641904993844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_89
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 225
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aac45de20c87160800000000000000
+      internalID: 7023574926263888483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_90
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 225
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fc56fc31aa2e7e0800000000000000
+      internalID: -1737639504150933610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_91
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 225
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d391addd76ca05560800000000000000
+      internalID: 7300524558071241021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 193
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b3719b1eb18270800000000000000
+      internalID: 8251085017933132490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_93
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2531278be6db1c0800000000000000
+      internalID: -4486307915324239123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_94
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c6d6dd86ba84dc0800000000000000
+      internalID: -3654482630731273216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_95
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 193
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867a981ba95394b0800000000000000
+      internalID: -5434901733919000947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_96
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95034a0a29383f140800000000000000
+      internalID: 4752286697589583961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_97
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 193
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d841a257daf8c9b0800000000000000
+      internalID: -5059518378639537967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_98
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 193
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d3fc6297d32c330800000000000000
+      internalID: 3729611031967644985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_99
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c039fc2233ae320800000000000000
+      internalID: 2587937160482196626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_100
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271e423fdb4a15840800000000000000
+      internalID: 5211127379579429234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_101
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea8e82c7caf2350800000000000000
+      internalID: 5994199278315679443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_102
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 193
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309759ecb6a0b1e50800000000000000
+      internalID: 6781025122080094467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_103
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 193
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3578eb9abcea9f830800000000000000
+      internalID: 4105504725074347859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 161
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6054388f87b8270800000000000000
+      internalID: 8253823750836127411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_105
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 161
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064379519603df650800000000000000
+      internalID: 6268219484261528672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c870470adadca370800000000000000
+      internalID: 8335277640315336896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 161
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73f463688203050800000000000000
+      internalID: 5778162878818236371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_108
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 161
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732a754bd7d437600800000000000000
+      internalID: 464800388841185847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_109
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 161
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1449ed07b0fb990800000000000000
+      internalID: -7368157885956341328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_110
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 161
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb97985197b03ba0800000000000000
+      internalID: -6111182859457291269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 161
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4d4a311992f7380800000000000000
+      internalID: -8971406229622172441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_112
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 161
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70430dc458c254f0800000000000000
+      internalID: -841389913822510978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_113
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 161
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b3ad968fad1e170800000000000000
+      internalID: 8206080756508408626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_114
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 161
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1f294457e8d8fc0800000000000000
+      internalID: -3490977501829467698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_115
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 161
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7bb9f336cbbf210800000000000000
+      internalID: 1367894046292031393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_116
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 129
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31459251b09aaf450800000000000000
+      internalID: 6123392508428375059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_117
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3169bb144efb430800000000000000
+      internalID: 3801007581495169984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_118
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291b107f834bac40800000000000000
+      internalID: 5524583651240253728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_119
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 129
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4374751494704d800800000000000000
+      internalID: 636141458576328500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_120
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bab7d605910126f0800000000000000
+      internalID: -711285526571271495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_121
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a6cc0c6d6149440800000000000000
+      internalID: 4941599802745711121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_122
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b4b44cd8784aa60800000000000000
+      internalID: 7684415907154316071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_123
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749c5599c36357640800000000000000
+      internalID: 5077023788828576071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_124
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 129
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9763701075b1af0800000000000000
+      internalID: -424650077928785489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_125
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeedafeb7dc73bf90800000000000000
+      internalID: -6939065334783877394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_126
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 129
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ea686ef06d4690800000000000000
+      internalID: -7616324749023846371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_127
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 129
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91bf750c720b3710800000000000000
+      internalID: 1673934418189726111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_128
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ce39ab1fd030e0800000000000000
+      internalID: -2292086900435008496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_129
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa572314228fbe20800000000000000
+      internalID: 3368554137748200180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_130
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9c074bd309d0a00800000000000000
+      internalID: 724393709771213290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_131
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b503a68b433de1bc0800000000000000
+      internalID: -3810376011323133861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_132
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abeec06487b5d6d0800000000000000
+      internalID: -2966263000365864028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_133
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 97
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d729a09a6b24cee20800000000000000
+      internalID: 3381150772535923325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_134
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3855c6c706d7e30800000000000000
+      internalID: 4502861289950118906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_135
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e6ebbf073e95130800000000000000
+      internalID: 3556123455185120884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_136
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 97
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f37ebd63412d5170800000000000000
+      internalID: 8168721872607671285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_137
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e6743f0122b4030800000000000000
+      internalID: 3479912593270205971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_138
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 97
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d33d3a5570323b0800000000000000
+      internalID: -5538575052333433471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_139
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 97
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52be15f9b1d97b980800000000000000
+      internalID: -8523171027812750555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_140
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5a52e6b79f287c0800000000000000
+      internalID: -4070416804665252381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_141
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebebb7725e0c19a0800000000000000
+      internalID: -6261113634592920604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_142
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af008a45b03ba0870800000000000000
+      internalID: 8649922895564767482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_143
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 65
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5ab2501a6b6ac50800000000000000
+      internalID: 6676224300316075437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_144
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b1c239bafcdbe30800000000000000
+      internalID: 4520997936765344661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_145
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e895639901236bfe0800000000000000
+      internalID: -1173695606012094066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_146
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 65
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd67086ac0b091800800000000000000
+      internalID: 583509775682139871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_147
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2a29c72971ad4d0800000000000000
+      internalID: -3109146674823257388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_148
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cafce36eb8a58600800000000000000
+      internalID: 469967271803812552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_149
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec66d7fec3e01aa0800000000000000
+      internalID: -6192199009573638936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_150
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 65
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd285cdfdfe937b10800000000000000
+      internalID: 1978099475067273949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_151
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 65
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cacdb50839e22c0800000000000000
+      internalID: -4454460801916556181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_152
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d1dd3780ee407b0800000000000000
+      internalID: -5258816744790876845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_153
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a72b3c57ad1390800000000000000
+      internalID: -7845930961238252384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_154
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e33a69cef57cd80800000000000000
+      internalID: -8230504324252090849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_155
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21005367b32c6b450800000000000000
+      internalID: 6104279905589329938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_156
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7540fc5205688970800000000000000
+      internalID: 8757360536245519741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_157
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 33
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f000316d9f011c4a0800000000000000
+      internalID: -6574955315759742961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_158
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 33
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2af744d9bbe0df0800000000000000
+      internalID: -212025848306359596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_159
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 33
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e251eb87c2d44a250800000000000000
+      internalID: 5954969460690261294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_160
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 33
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53031344b7c18c540800000000000000
+      internalID: 5028300299709788213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_161
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 33
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbade63d4305b65a0800000000000000
+      internalID: -6527035047127622977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_162
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 33
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e478055da5f5a310800000000000000
+      internalID: 1415807782682653923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_163
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 33
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6cb5e55dc62da60800000000000000
+      internalID: 7697334376796505811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_164
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46be09200ea512080800000000000000
+      internalID: -9213983444461098140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_165
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a486d92c22333320800000000000000
+      internalID: 2536426180401595560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_166
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a6831cf2ff3b950800000000000000
+      internalID: 6463790470777039494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_167
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7862da93de8cebf60800000000000000
+      internalID: 8052094104985478791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_168
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c535010161d1573e0800000000000000
+      internalID: -2056705674228772004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_169
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c9fcbddfa949370800000000000000
+      internalID: 8328452026020109356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_170
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63567c65db8775380800000000000000
+      internalID: -8982578177167104714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_171
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e9f3aaa60c23ec0800000000000000
+      internalID: -3588594388705501555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_172
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fe07ac36a146890800000000000000
+      internalID: -7465813266372956287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_173
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f068ddf6ba057d10800000000000000
+      internalID: 2122614580434198776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_174
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b924a7c3b82afd0800000000000000
+      internalID: -2332148565159011510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedras preciosas_175
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a23a31eed3f9a080800000000000000
+      internalID: -9175534627203698014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Piedras preciosas_0: 589026561886801308
+      Piedras preciosas_1: -2372755304610765598
+      Piedras preciosas_10: -8065762546354030495
+      Piedras preciosas_100: 5211127379579429234
+      Piedras preciosas_101: 5994199278315679443
+      Piedras preciosas_102: 6781025122080094467
+      Piedras preciosas_103: 4105504725074347859
+      Piedras preciosas_104: 8253823750836127411
+      Piedras preciosas_105: 6268219484261528672
+      Piedras preciosas_106: 8335277640315336896
+      Piedras preciosas_107: 5778162878818236371
+      Piedras preciosas_108: 464800388841185847
+      Piedras preciosas_109: -7368157885956341328
+      Piedras preciosas_11: 8171539739506683315
+      Piedras preciosas_110: -6111182859457291269
+      Piedras preciosas_111: -8971406229622172441
+      Piedras preciosas_112: -841389913822510978
+      Piedras preciosas_113: 8206080756508408626
+      Piedras preciosas_114: -3490977501829467698
+      Piedras preciosas_115: 1367894046292031393
+      Piedras preciosas_116: 6123392508428375059
+      Piedras preciosas_117: 3801007581495169984
+      Piedras preciosas_118: 5524583651240253728
+      Piedras preciosas_119: 636141458576328500
+      Piedras preciosas_12: 1880409412915049589
+      Piedras preciosas_120: -711285526571271495
+      Piedras preciosas_121: 4941599802745711121
+      Piedras preciosas_122: 7684415907154316071
+      Piedras preciosas_123: 5077023788828576071
+      Piedras preciosas_124: -424650077928785489
+      Piedras preciosas_125: -6939065334783877394
+      Piedras preciosas_126: -7616324749023846371
+      Piedras preciosas_127: 1673934418189726111
+      Piedras preciosas_128: -2292086900435008496
+      Piedras preciosas_129: 3368554137748200180
+      Piedras preciosas_13: 786549258151835371
+      Piedras preciosas_130: 724393709771213290
+      Piedras preciosas_131: -3810376011323133861
+      Piedras preciosas_132: -2966263000365864028
+      Piedras preciosas_133: 3381150772535923325
+      Piedras preciosas_134: 4502861289950118906
+      Piedras preciosas_135: 3556123455185120884
+      Piedras preciosas_136: 8168721872607671285
+      Piedras preciosas_137: 3479912593270205971
+      Piedras preciosas_138: -5538575052333433471
+      Piedras preciosas_139: -8523171027812750555
+      Piedras preciosas_14: -3090325317248438585
+      Piedras preciosas_140: -4070416804665252381
+      Piedras preciosas_141: -6261113634592920604
+      Piedras preciosas_142: 8649922895564767482
+      Piedras preciosas_143: 6676224300316075437
+      Piedras preciosas_144: 4520997936765344661
+      Piedras preciosas_145: -1173695606012094066
+      Piedras preciosas_146: 583509775682139871
+      Piedras preciosas_147: -3109146674823257388
+      Piedras preciosas_148: 469967271803812552
+      Piedras preciosas_149: -6192199009573638936
+      Piedras preciosas_15: 8372792866694748421
+      Piedras preciosas_150: 1978099475067273949
+      Piedras preciosas_151: -4454460801916556181
+      Piedras preciosas_152: -5258816744790876845
+      Piedras preciosas_153: -7845930961238252384
+      Piedras preciosas_154: -8230504324252090849
+      Piedras preciosas_155: 6104279905589329938
+      Piedras preciosas_156: 8757360536245519741
+      Piedras preciosas_157: -6574955315759742961
+      Piedras preciosas_158: -212025848306359596
+      Piedras preciosas_159: 5954969460690261294
+      Piedras preciosas_16: 4727202981248558059
+      Piedras preciosas_160: 5028300299709788213
+      Piedras preciosas_161: -6527035047127622977
+      Piedras preciosas_162: 1415807782682653923
+      Piedras preciosas_163: 7697334376796505811
+      Piedras preciosas_164: -9213983444461098140
+      Piedras preciosas_165: 2536426180401595560
+      Piedras preciosas_166: 6463790470777039494
+      Piedras preciosas_167: 8052094104985478791
+      Piedras preciosas_168: -2056705674228772004
+      Piedras preciosas_169: 8328452026020109356
+      Piedras preciosas_17: -3295384220366052455
+      Piedras preciosas_170: -8982578177167104714
+      Piedras preciosas_171: -3588594388705501555
+      Piedras preciosas_172: -7465813266372956287
+      Piedras preciosas_173: 2122614580434198776
+      Piedras preciosas_174: -2332148565159011510
+      Piedras preciosas_175: -9175534627203698014
+      Piedras preciosas_18: 7484312930271552100
+      Piedras preciosas_19: -6447840197794141677
+      Piedras preciosas_2: -9214461506350706381
+      Piedras preciosas_20: -8561392566509377174
+      Piedras preciosas_21: 2840077347822036605
+      Piedras preciosas_22: 6155663162155535107
+      Piedras preciosas_23: -2839579245010165874
+      Piedras preciosas_24: 7327922448777560668
+      Piedras preciosas_25: 2723209294441639923
+      Piedras preciosas_26: 3337279257219160637
+      Piedras preciosas_27: 2223233633686270578
+      Piedras preciosas_28: -2826347473884370653
+      Piedras preciosas_29: 4119637679954185010
+      Piedras preciosas_3: -8066202543275885723
+      Piedras preciosas_30: -5148856247467009652
+      Piedras preciosas_31: 5213552657327104291
+      Piedras preciosas_32: -1640232606034576038
+      Piedras preciosas_33: -8867195481328507535
+      Piedras preciosas_34: 2828899987906172490
+      Piedras preciosas_35: 2430132126714650993
+      Piedras preciosas_36: 7525711694694079177
+      Piedras preciosas_37: -1396132110744463602
+      Piedras preciosas_38: -1799446133572869096
+      Piedras preciosas_39: 3594605230105356967
+      Piedras preciosas_4: -1949254385615343148
+      Piedras preciosas_40: 305237708400218765
+      Piedras preciosas_41: 3993789091647995587
+      Piedras preciosas_42: 5593536727562325590
+      Piedras preciosas_43: -5324915520871957931
+      Piedras preciosas_44: -7593165343563470488
+      Piedras preciosas_45: -575370844100909178
+      Piedras preciosas_46: 7374837575256861656
+      Piedras preciosas_47: 8747714918301943198
+      Piedras preciosas_48: -3280385052680475137
+      Piedras preciosas_49: -8797910127431255132
+      Piedras preciosas_5: -5465620646059685682
+      Piedras preciosas_50: 1570001691817896095
+      Piedras preciosas_51: -5856100609275080265
+      Piedras preciosas_52: -8362439966891281801
+      Piedras preciosas_53: -1124213334318121525
+      Piedras preciosas_54: -2426887507526526516
+      Piedras preciosas_55: 7341926672755458897
+      Piedras preciosas_56: -4743897459974182229
+      Piedras preciosas_57: -5547549191012146666
+      Piedras preciosas_58: -9157832573109475313
+      Piedras preciosas_59: -7033943597243207887
+      Piedras preciosas_6: 6524663309848037675
+      Piedras preciosas_60: 8410134640520390677
+      Piedras preciosas_61: 5839565625538118793
+      Piedras preciosas_62: 8176823535417172243
+      Piedras preciosas_63: -1718256094458946038
+      Piedras preciosas_64: -1545494582700941840
+      Piedras preciosas_65: -2543464258006842884
+      Piedras preciosas_66: -3256688855750136369
+      Piedras preciosas_67: 8629310537431198974
+      Piedras preciosas_68: 6203375570392722671
+      Piedras preciosas_69: 7253970744460797280
+      Piedras preciosas_7: 3529018798094932102
+      Piedras preciosas_70: 605463988383221321
+      Piedras preciosas_71: 5350230749170793233
+      Piedras preciosas_72: 4575667358899712813
+      Piedras preciosas_73: -2633719980478208121
+      Piedras preciosas_74: 5430785695077859685
+      Piedras preciosas_75: -3713253915013064711
+      Piedras preciosas_76: 5387793080118170852
+      Piedras preciosas_77: -6891155699874690198
+      Piedras preciosas_78: -5129894157965461223
+      Piedras preciosas_79: -5665021868994505050
+      Piedras preciosas_8: -2716915755759420312
+      Piedras preciosas_80: 5697981699517730171
+      Piedras preciosas_81: 6248047342882223070
+      Piedras preciosas_82: -7840031553800681480
+      Piedras preciosas_83: 8846433300436703305
+      Piedras preciosas_84: 438118009419346572
+      Piedras preciosas_85: -6907211165325946649
+      Piedras preciosas_86: -8278841511811401786
+      Piedras preciosas_87: -75754883025398382
+      Piedras preciosas_88: -3373128641904993844
+      Piedras preciosas_89: 7023574926263888483
+      Piedras preciosas_9: -1646160260926817747
+      Piedras preciosas_90: -1737639504150933610
+      Piedras preciosas_91: 7300524558071241021
+      Piedras preciosas_92: 8251085017933132490
+      Piedras preciosas_93: -4486307915324239123
+      Piedras preciosas_94: -3654482630731273216
+      Piedras preciosas_95: -5434901733919000947
+      Piedras preciosas_96: 4752286697589583961
+      Piedras preciosas_97: -5059518378639537967
+      Piedras preciosas_98: 3729611031967644985
+      Piedras preciosas_99: 2587937160482196626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

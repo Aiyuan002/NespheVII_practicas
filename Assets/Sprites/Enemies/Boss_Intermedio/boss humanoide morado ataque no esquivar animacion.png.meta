@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 647d7cedfc2c40546bf69812ced0f8e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3530871073495527109
+    second: boss humanoide morado ataque no esquivar animacion_0
+  - first:
+      213: 1227473888593032467
+    second: boss humanoide morado ataque no esquivar animacion_1
+  - first:
+      213: 6682397247969637216
+    second: boss humanoide morado ataque no esquivar animacion_2
+  - first:
+      213: 522920361263312796
+    second: boss humanoide morado ataque no esquivar animacion_3
+  - first:
+      213: 33281315254797490
+    second: boss humanoide morado ataque no esquivar animacion_4
+  - first:
+      213: 5527807851587855054
+    second: boss humanoide morado ataque no esquivar animacion_5
+  - first:
+      213: -7603957772596871047
+    second: boss humanoide morado ataque no esquivar animacion_6
+  - first:
+      213: -1501484089934750392
+    second: boss humanoide morado ataque no esquivar animacion_7
+  - first:
+      213: 4422436000271785104
+    second: boss humanoide morado ataque no esquivar animacion_0
+  - first:
+      213: -4610862132623825144
+    second: boss humanoide morado ataque no esquivar animacion_1
+  - first:
+      213: -3236952762531948840
+    second: boss humanoide morado ataque no esquivar animacion_2
+  - first:
+      213: -2983656536274333928
+    second: boss humanoide morado ataque no esquivar animacion_3
+  - first:
+      213: -6027879115909432768
+    second: boss humanoide morado ataque no esquivar animacion_4
+  - first:
+      213: -866993266322838332
+    second: boss humanoide morado ataque no esquivar animacion_5
+  - first:
+      213: 3209539439948210270
+    second: boss humanoide morado ataque no esquivar animacion_6
+  - first:
+      213: 8388410498872957831
+    second: boss humanoide morado ataque no esquivar animacion_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss humanoide morado ataque no esquivar animacion_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c59167c16af5d30800000000000000
+      internalID: 3530871073495527109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque no esquivar animacion_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80728acd15de200c0800000000000000
+      internalID: 1227473888593032467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque no esquivar animacion_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d65092dc980413d0800000000000000
+      internalID: 6682397247969637216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque no esquivar animacion_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f8897303ce796d0800000000000000
+      internalID: 522920361263312796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque no esquivar animacion_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04af83391eba85ca0800000000000000
+      internalID: 33281315254797490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque no esquivar animacion_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cceb22c732d7f3f0800000000000000
+      internalID: 5527807851587855054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque no esquivar animacion_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5028b2ad139a8c20800000000000000
+      internalID: -7603957772596871047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss humanoide morado ataque no esquivar animacion_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bda7fa7ee996470800000000000000
+      internalID: -1501484089934750392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss humanoide morado ataque no esquivar animacion_0: 3530871073495527109
+      boss humanoide morado ataque no esquivar animacion_1: 1227473888593032467
+      boss humanoide morado ataque no esquivar animacion_2: 6682397247969637216
+      boss humanoide morado ataque no esquivar animacion_3: 522920361263312796
+      boss humanoide morado ataque no esquivar animacion_4: 33281315254797490
+      boss humanoide morado ataque no esquivar animacion_5: 5527807851587855054
+      boss humanoide morado ataque no esquivar animacion_6: -7603957772596871047
+      boss humanoide morado ataque no esquivar animacion_7: -1501484089934750392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: ab78596a89d4b0d428bad03a25eae5ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1736251255983204886
+    second: consumibles3_0
+  - first:
+      213: 8483469836753303501
+    second: consumibles3_1
+  - first:
+      213: -4818186568510152023
+    second: consumibles3_2
+  - first:
+      213: 7606760949185602020
+    second: consumibles3_3
+  - first:
+      213: -2292784475251745675
+    second: consumibles3_4
+  - first:
+      213: -4605617349665609014
+    second: consumibles3_5
+  - first:
+      213: 4169890953762776017
+    second: consumibles3_6
+  - first:
+      213: 8083445567213545363
+    second: consumibles3_7
+  - first:
+      213: 8228988768628054743
+    second: consumibles3_8
+  - first:
+      213: 6330801578124515405
+    second: consumibles3_9
+  - first:
+      213: 1617499901013887999
+    second: consumibles3_10
+  - first:
+      213: 7731931218026016762
+    second: consumibles3_11
+  - first:
+      213: -4947346493883327046
+    second: consumibles3_12
+  - first:
+      213: -5625881186847575485
+    second: consumibles3_13
+  - first:
+      213: -271565321289420961
+    second: consumibles3_14
+  - first:
+      213: -826503400574757299
+    second: consumibles3_15
+  - first:
+      213: 1926488769774645942
+    second: consumibles3_16
+  - first:
+      213: -636949274557822349
+    second: consumibles3_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: consumibles3_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 225
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a64b97157681810800000000000000
+      internalID: 1736251255983204886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 223
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7fb628ed65bb570800000000000000
+      internalID: 8483469836753303501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 222
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2e46208dc522db0800000000000000
+      internalID: -4818186568510152023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 184
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1658be7c4a09960800000000000000
+      internalID: 7606760949185602020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 182
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cd61edaa46e20e0800000000000000
+      internalID: -2292784475251745675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 181
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2ecd0c6f8510c0800000000000000
+      internalID: -4605617349665609014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 139
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3252bbabd6ed930800000000000000
+      internalID: 4169890953762776017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 137
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39728fa5aea2e2070800000000000000
+      internalID: 8083445567213545363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 136
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da11ce9fad333270800000000000000
+      internalID: 8228988768628054743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4818974e768bd750800000000000000
+      internalID: 6330801578124515405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 92
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb89201793827610800000000000000
+      internalID: 1617499901013887999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 91
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affa13e2a765d4b60800000000000000
+      internalID: 7731931218026016762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 49
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5f43739e775bb0800000000000000
+      internalID: -4947346493883327046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342b5652edadce1b0800000000000000
+      internalID: -5625881186847575485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 46
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5faa3377c43b3cf0800000000000000
+      internalID: -271565321289420961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d613498ba784f0800000000000000
+      internalID: -826503400574757299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 7
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2723244534cba10800000000000000
+      internalID: 1926488769774645942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: consumibles3_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 6
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac90e620a1927f0800000000000000
+      internalID: -636949274557822349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      consumibles3_0: 1736251255983204886
+      consumibles3_1: 8483469836753303501
+      consumibles3_10: 1617499901013887999
+      consumibles3_11: 7731931218026016762
+      consumibles3_12: -4947346493883327046
+      consumibles3_13: -5625881186847575485
+      consumibles3_14: -271565321289420961
+      consumibles3_15: -826503400574757299
+      consumibles3_16: 1926488769774645942
+      consumibles3_17: -636949274557822349
+      consumibles3_2: -4818186568510152023
+      consumibles3_3: 7606760949185602020
+      consumibles3_4: -2292784475251745675
+      consumibles3_5: -4605617349665609014
+      consumibles3_6: 4169890953762776017
+      consumibles3_7: 8083445567213545363
+      consumibles3_8: 8228988768628054743
+      consumibles3_9: 6330801578124515405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

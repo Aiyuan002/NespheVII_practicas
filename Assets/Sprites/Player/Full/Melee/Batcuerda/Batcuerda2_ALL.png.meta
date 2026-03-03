@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 15446111b87637042a583897b1af73d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7697063173948041673
+    second: Batcuerda2_ALL_0
+  - first:
+      213: -2191011471005641558
+    second: Batcuerda2_ALL_1
+  - first:
+      213: -3346138607756343899
+    second: Batcuerda2_ALL_2
+  - first:
+      213: 5726648810064910170
+    second: Batcuerda2_ALL_3
+  - first:
+      213: -8641989618432837725
+    second: Batcuerda2_ALL_4
+  - first:
+      213: -8254747416674435662
+    second: Batcuerda2_ALL_5
+  - first:
+      213: -8509947892431722077
+    second: Batcuerda2_ALL_6
+  - first:
+      213: 4528080737777572275
+    second: Batcuerda2_ALL_7
+  - first:
+      213: 6332283017040841366
+    second: Batcuerda2_ALL_8
+  - first:
+      213: 6239976888226071815
+    second: Batcuerda2_ALL_9
+  - first:
+      213: -3311715408443847064
+    second: Batcuerda2_ALL_10
+  - first:
+      213: -3763218277524510257
+    second: Batcuerda2_ALL_11
+  - first:
+      213: 4823251639659896677
+    second: Batcuerda2_ALL_12
+  - first:
+      213: 8257259082795362709
+    second: Batcuerda2_ALL_13
+  - first:
+      213: -6806351923833672112
+    second: Batcuerda2_ALL_14
+  - first:
+      213: -4499868002900703545
+    second: Batcuerda2_ALL_15
+  - first:
+      213: -7787689061248920431
+    second: Batcuerda2_ALL_16
+  - first:
+      213: -11813908944655793
+    second: Batcuerda2_ALL_17
+  - first:
+      213: -6069886245229119842
+    second: Batcuerda2_ALL_18
+  - first:
+      213: 7428896547826591828
+    second: Batcuerda2_ALL_19
+  - first:
+      213: -8645559299692502243
+    second: Batcuerda2_ALL_20
+  - first:
+      213: -4840313504824998162
+    second: Batcuerda2_ALL_0
+  - first:
+      213: -2004449612845942445
+    second: Batcuerda2_ALL_1
+  - first:
+      213: 2134705495692723506
+    second: Batcuerda2_ALL_2
+  - first:
+      213: -7432446338662226824
+    second: Batcuerda2_ALL_3
+  - first:
+      213: -8029782485471719895
+    second: Batcuerda2_ALL_4
+  - first:
+      213: -1759336087526295097
+    second: Batcuerda2_ALL_5
+  - first:
+      213: -4270448580350278479
+    second: Batcuerda2_ALL_6
+  - first:
+      213: 1568748581249661275
+    second: Batcuerda2_ALL_7
+  - first:
+      213: 6690500148984441747
+    second: Batcuerda2_ALL_8
+  - first:
+      213: -2992148215024841661
+    second: Batcuerda2_ALL_9
+  - first:
+      213: 1095746880130362856
+    second: Batcuerda2_ALL_10
+  - first:
+      213: -6696937977744175387
+    second: Batcuerda2_ALL_11
+  - first:
+      213: 4376590469017039377
+    second: Batcuerda2_ALL_12
+  - first:
+      213: -8707748812666646757
+    second: Batcuerda2_ALL_13
+  - first:
+      213: -4432797048992234541
+    second: Batcuerda2_ALL_14
+  - first:
+      213: -4913933743857533926
+    second: Batcuerda2_ALL_15
+  - first:
+      213: -5104894169544423988
+    second: Batcuerda2_ALL_16
+  - first:
+      213: -3032158057217630898
+    second: Batcuerda2_ALL_17
+  - first:
+      213: -5901429266845648123
+    second: Batcuerda2_ALL_18
+  - first:
+      213: -8855515432007324597
+    second: Batcuerda2_ALL_19
+  - first:
+      213: 1513506574753458666
+    second: Batcuerda2_ALL_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6416f2380c3dcb0800000000000000
+      internalID: -7697063173948041673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359f52872b3ce24e0800000000000000
+      internalID: -2191011471005641558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c6d2965fff9d10800000000000000
+      internalID: -3346138607756343899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874a2eb0f65aad890800000000000000
+      internalID: 5726648810064910170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e0ec18f5b709090800000000000000
+      internalID: -8641989618432837725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9387656259597e0800000000000000
+      internalID: -8254747416674435662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b486a854a15cb4c0800000000000000
+      internalID: -8509947892431722077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b847e58055c510800000000000000
+      internalID: 4528080737777572275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b6aed007e69dc50800000000000000
+      internalID: 6332283017040841366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c00203d01c976d0800000000000000
+      internalID: 6239976888226071815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eda9e16bffd43f00800000000000000
+      internalID: -3311715408443847064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee4cb12462bf03a0800000000000000
+      internalID: -3763218277524510257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112fe19e7d5ccbc30800000000000000
+      internalID: 4823251639659896677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fccab279cd72780800000000000000
+      internalID: 8257259082795362709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d30b65e19a8b72c0800000000000000
+      internalID: -6806351923833672112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf09b8b433ecbb0800000000000000
+      internalID: -4499868002900703545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc58758bcc5c729b0800000000000000
+      internalID: -7787689061248920431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d54b0ef4c9be5d0800000000000000
+      internalID: -11813908944655793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b32925959e91ea0800000000000000
+      internalID: -6069886245229119842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ca63412a3ea1580800000000000000
+      internalID: 7428896547826591828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batcuerda2_ALL_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9e569f53e010510800000000000000
+      internalID: -8645559299692502243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Batcuerda2_ALL_0: -7697063173948041673
+      Batcuerda2_ALL_1: -2191011471005641558
+      Batcuerda2_ALL_10: -3311715408443847064
+      Batcuerda2_ALL_11: -3763218277524510257
+      Batcuerda2_ALL_12: 4823251639659896677
+      Batcuerda2_ALL_13: 8257259082795362709
+      Batcuerda2_ALL_14: -6806351923833672112
+      Batcuerda2_ALL_15: -4499868002900703545
+      Batcuerda2_ALL_16: -7787689061248920431
+      Batcuerda2_ALL_17: -11813908944655793
+      Batcuerda2_ALL_18: -6069886245229119842
+      Batcuerda2_ALL_19: 7428896547826591828
+      Batcuerda2_ALL_2: -3346138607756343899
+      Batcuerda2_ALL_20: -8645559299692502243
+      Batcuerda2_ALL_3: 5726648810064910170
+      Batcuerda2_ALL_4: -8641989618432837725
+      Batcuerda2_ALL_5: -8254747416674435662
+      Batcuerda2_ALL_6: -8509947892431722077
+      Batcuerda2_ALL_7: 4528080737777572275
+      Batcuerda2_ALL_8: 6332283017040841366
+      Batcuerda2_ALL_9: 6239976888226071815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

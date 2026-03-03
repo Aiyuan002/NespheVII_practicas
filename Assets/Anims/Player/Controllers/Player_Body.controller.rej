@@ -1,0 +1,52 @@
+diff a/Assets/Anims/Player/Controllers/Player_Body.controller b/Assets/Anims/Player/Controllers/Player_Body.controller	(rejected hunks)
+@@ -397,43 +397,43 @@
+     m_DefaultFloat: 0
+     m_DefaultInt: 0
+     m_DefaultBool: 0
+-    m_Controller: {fileID: 9100000}
++    m_Controller: {fileID: 0}
+   - m_Name: Run
+     m_Type: 4
+     m_DefaultFloat: 0
+     m_DefaultInt: 0
+     m_DefaultBool: 0
+-    m_Controller: {fileID: 9100000}
++    m_Controller: {fileID: 0}
+   - m_Name: HShoot
+     m_Type: 9
+     m_DefaultFloat: 0
+     m_DefaultInt: 0
+     m_DefaultBool: 0
+-    m_Controller: {fileID: 9100000}
++    m_Controller: {fileID: 0}
+   - m_Name: VShoot
+     m_Type: 9
+     m_DefaultFloat: 0
+     m_DefaultInt: 0
+     m_DefaultBool: 0
+-    m_Controller: {fileID: 9100000}
++    m_Controller: {fileID: 0}
+   - m_Name: DShoot
+     m_Type: 9
+     m_DefaultFloat: 0
+     m_DefaultInt: 0
+     m_DefaultBool: 0
+-    m_Controller: {fileID: 9100000}
++    m_Controller: {fileID: 0}
+   - m_Name: Falling
+     m_Type: 4
+     m_DefaultFloat: 0
+     m_DefaultInt: 0
+     m_DefaultBool: 0
+-    m_Controller: {fileID: 9100000}
++    m_Controller: {fileID: 0}
+   - m_Name: Land
+     m_Type: 4
+     m_DefaultFloat: 0
+     m_DefaultInt: 0
+     m_DefaultBool: 0
+-    m_Controller: {fileID: 9100000}
++    m_Controller: {fileID: 0}
+   m_AnimatorLayers:
+   - serializedVersion: 5
+     m_Name: Base Layer

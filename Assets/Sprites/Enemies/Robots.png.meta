@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 38c5f62e16b2d584e90b3307e85b7b5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3789970742305621702
+    second: Robots_0
+  - first:
+      213: 1153602221029940482
+    second: Robots_1
+  - first:
+      213: 7220256909217379457
+    second: Robots_2
+  - first:
+      213: -4787678575841182519
+    second: Robots_3
+  - first:
+      213: -6982751730453723745
+    second: Robots_4
+  - first:
+      213: 1244119152092600778
+    second: Robots_5
+  - first:
+      213: -3262953744549677926
+    second: Robots_6
+  - first:
+      213: 8264502420414563162
+    second: Robots_7
+  - first:
+      213: -7030113667889344979
+    second: Robots_8
+  - first:
+      213: -563492863888229776
+    second: Robots_9
+  - first:
+      213: 4246133360445378179
+    second: Robots_10
+  - first:
+      213: 5134041562148767286
+    second: Robots_11
+  - first:
+      213: -164831641842415004
+    second: Robots_12
+  - first:
+      213: -6439201682062923602
+    second: Robots_13
+  - first:
+      213: -4604231872922678675
+    second: Robots_14
+  - first:
+      213: -2221205636235491004
+    second: Robots_15
+  - first:
+      213: -6872306876412305627
+    second: Robots_16
+  - first:
+      213: 5100146409154162865
+    second: Robots_17
+  - first:
+      213: -2697051556631495611
+    second: Robots_18
+  - first:
+      213: 2635224095287943801
+    second: Robots_19
+  - first:
+      213: -4941689202146948025
+    second: Robots_20
+  - first:
+      213: 7508230208416121661
+    second: Robots_21
+  - first:
+      213: 266415932648174245
+    second: Robots_22
+  - first:
+      213: 7480380593854515679
+    second: Robots_23
+  - first:
+      213: 7319947678641611153
+    second: Robots_24
+  - first:
+      213: 5935718923554210408
+    second: Robots_25
+  - first:
+      213: -9200512208380517602
+    second: Robots_26
+  - first:
+      213: 1677727719109450854
+    second: Robots_27
+  - first:
+      213: -6047006845317463523
+    second: Robots_28
+  - first:
+      213: -7384329721810511373
+    second: Robots_29
+  - first:
+      213: 7781327049567659163
+    second: Robots_30
+  - first:
+      213: 7821562408742972092
+    second: Robots_31
+  - first:
+      213: -9099947692941275343
+    second: Robots_32
+  - first:
+      213: -8450407705803570217
+    second: Robots_33
+  - first:
+      213: -5081433514308512837
+    second: Robots_34
+  - first:
+      213: -3551128652049828431
+    second: Robots_35
+  - first:
+      213: 677794565612920126
+    second: Robots_36
+  - first:
+      213: 1519067008365873777
+    second: Robots_37
+  - first:
+      213: -8968794770141746834
+    second: Robots_38
+  - first:
+      213: -2963185263936660476
+    second: Robots_39
+  - first:
+      213: 807425999757931166
+    second: Robots_40
+  - first:
+      213: 3468233125536076009
+    second: Robots_41
+  - first:
+      213: 4620730307599301821
+    second: Robots_42
+  - first:
+      213: 1569100959806684889
+    second: Robots_43
+  - first:
+      213: 172257192092249504
+    second: Robots_44
+  - first:
+      213: 752757502560305180
+    second: Robots_45
+  - first:
+      213: 5155255054927834757
+    second: Robots_46
+  - first:
+      213: 6635108195610413150
+    second: Robots_47
+  - first:
+      213: -8008625690025541247
+    second: Robots_48
+  - first:
+      213: 8600174735120938001
+    second: Robots_49
+  - first:
+      213: 8042047593891755861
+    second: Robots_50
+  - first:
+      213: 1747399731909927920
+    second: Robots_51
+  - first:
+      213: -2815573390869105562
+    second: Robots_52
+  - first:
+      213: -2294155144847268496
+    second: Robots_53
+  - first:
+      213: 4635920688522716549
+    second: Robots_54
+  - first:
+      213: 2135747662240916179
+    second: Robots_55
+  - first:
+      213: 6379340535168570520
+    second: Robots_56
+  - first:
+      213: -5751216172461502110
+    second: Robots_57
+  - first:
+      213: -5563888656737655600
+    second: Robots_58
+  - first:
+      213: 6580878418108035162
+    second: Robots_59
+  - first:
+      213: -3246391675599544536
+    second: Robots_60
+  - first:
+      213: -5855298201952498645
+    second: Robots_61
+  - first:
+      213: -4171849884600197842
+    second: Robots_62
+  - first:
+      213: -6713283145963917248
+    second: Robots_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 341, y: 20, z: 742, w: 211}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robots_0
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 20
+        width: 138
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6004c5f4ea89430800000000000000
+      internalID: 3789970742305621702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 20
+        width: 180
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5794ab1b620010800000000000000
+      internalID: 1153602221029940482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots_2
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 20
+        width: 287
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18436f48761833460800000000000000
+      internalID: 7220256909217379457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Robots_0: 3789970742305621702
+      Robots_1: 1153602221029940482
+      Robots_2: 7220256909217379457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

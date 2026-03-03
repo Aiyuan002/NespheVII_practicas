@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: a57f9ba6700ce88479909dc89b2f842b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5256331337471568226
+    second: chorro desvanecimiento animacion_0
+  - first:
+      213: 6569378508655499736
+    second: chorro desvanecimiento animacion_1
+  - first:
+      213: -1387798182341769519
+    second: chorro desvanecimiento animacion_2
+  - first:
+      213: 2611219641777219156
+    second: chorro desvanecimiento animacion_3
+  - first:
+      213: 5338601928369753830
+    second: chorro desvanecimiento animacion_4
+  - first:
+      213: 5064822165503036173
+    second: chorro desvanecimiento animacion_5
+  - first:
+      213: -7485212489413537785
+    second: chorro desvanecimiento animacion_6
+  - first:
+      213: -8329817880306602324
+    second: chorro desvanecimiento animacion_7
+  - first:
+      213: 638828515318881562
+    second: chorro desvanecimiento animacion_8
+  - first:
+      213: -7144806982965034764
+    second: chorro desvanecimiento animacion_9
+  - first:
+      213: 4946381726748607494
+    second: chorro desvanecimiento animacion_10
+  - first:
+      213: -6943284485664489792
+    second: chorro desvanecimiento animacion_11
+  - first:
+      213: 5121829969980980033
+    second: chorro desvanecimiento animacion_12
+  - first:
+      213: 8049776532848185429
+    second: chorro desvanecimiento animacion_13
+  - first:
+      213: -7306060536720957145
+    second: chorro desvanecimiento animacion_14
+  - first:
+      213: 6974111058235796507
+    second: chorro desvanecimiento animacion_15
+  - first:
+      213: -3266506575095594831
+    second: chorro desvanecimiento animacion_16
+  - first:
+      213: 6704660455243060274
+    second: chorro desvanecimiento animacion_0
+  - first:
+      213: 3153458209875223090
+    second: chorro desvanecimiento animacion_1
+  - first:
+      213: -6811144997932930627
+    second: chorro desvanecimiento animacion_2
+  - first:
+      213: -1502454891727459275
+    second: chorro desvanecimiento animacion_3
+  - first:
+      213: 5756698655408692174
+    second: chorro desvanecimiento animacion_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 24
+        height: 4
+      alignment: 9
+      pivot: {x: 0.50000006, y: -0.040614817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2341f56492dbb0d50800000000000000
+      internalID: -5256331337471568226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 24
+        height: 16
+      alignment: 9
+      pivot: {x: 0.48819336, y: 0.0055224076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e6adb88553cb20800000000000000
+      internalID: 6569378508655499736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5063626, y: -0.002796799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9678c16b3f971a0800000000000000
+      internalID: -1387798182341769519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 24
+        height: 58
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.002404544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c698f7c35362be0800000000000000
+      internalID: 2611219641777219156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 24
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48870406, y: 0.0017660065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb9a924de6e3ef40800000000000000
+      internalID: 5338601928369753830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 28
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: -0.000025001415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b4559ccecd94640800000000000000
+      internalID: 5064822165503036173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 28
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0012821216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700503436ee2f1890800000000000000
+      internalID: -7485212489413537785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 28
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49031776, y: -0.0012754058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caea0a865ca866c80800000000000000
+      internalID: -8329817880306602324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 28
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0012754058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dd8f766239dd800800000000000000
+      internalID: 638828515318881562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 28
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: -0.000025001415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f083af57eb88dc90800000000000000
+      internalID: -7144806982965034764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 28
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4903172, y: 0.0017660065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604855239f315a440800000000000000
+      internalID: 4946381726748607494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 28
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4999989, y: -0.0041469275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cebc712c8f74af90800000000000000
+      internalID: -6943284485664489792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0034674725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b7aa89835641740800000000000000
+      internalID: 5121829969980980033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5096817, y: 0.00993841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55011b96b1d86bf60800000000000000
+      internalID: 8049776532848185429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01960414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7216f39a6a8ab9a90800000000000000
+      internalID: -7306060536720957145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 28
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5096817, y: 0.018048579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ca44a9e0509c060800000000000000
+      internalID: 6974111058235796507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chorro desvanecimiento animacion_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 24
+        height: 4
+      alignment: 9
+      pivot: {x: 0.50000256, y: -0.040614817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b003fe93990ba2d0800000000000000
+      internalID: -3266506575095594831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chorro desvanecimiento animacion_0: -5256331337471568226
+      chorro desvanecimiento animacion_1: 6569378508655499736
+      chorro desvanecimiento animacion_10: 4946381726748607494
+      chorro desvanecimiento animacion_11: -6943284485664489792
+      chorro desvanecimiento animacion_12: 5121829969980980033
+      chorro desvanecimiento animacion_13: 8049776532848185429
+      chorro desvanecimiento animacion_14: -7306060536720957145
+      chorro desvanecimiento animacion_15: 6974111058235796507
+      chorro desvanecimiento animacion_16: -3266506575095594831
+      chorro desvanecimiento animacion_2: -1387798182341769519
+      chorro desvanecimiento animacion_3: 2611219641777219156
+      chorro desvanecimiento animacion_4: 5338601928369753830
+      chorro desvanecimiento animacion_5: 5064822165503036173
+      chorro desvanecimiento animacion_6: -7485212489413537785
+      chorro desvanecimiento animacion_7: -8329817880306602324
+      chorro desvanecimiento animacion_8: 638828515318881562
+      chorro desvanecimiento animacion_9: -7144806982965034764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

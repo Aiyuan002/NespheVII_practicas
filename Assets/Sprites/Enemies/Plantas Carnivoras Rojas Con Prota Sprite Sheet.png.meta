@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 8e91c3db04622f542aa5439a2d68de5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1221749299894715286
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_0
+  - first:
+      213: 3874427826705385885
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_1
+  - first:
+      213: 5795448668816005855
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_2
+  - first:
+      213: -6022707179511896808
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_3
+  - first:
+      213: -4471623723159843093
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_4
+  - first:
+      213: 4894525898434628128
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_5
+  - first:
+      213: 8703687855066804368
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_6
+  - first:
+      213: -5691179495748136936
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_7
+  - first:
+      213: -6013241169702047948
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_8
+  - first:
+      213: -2238834149956354260
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_9
+  - first:
+      213: -8616567470265133073
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_10
+  - first:
+      213: -2002927623672193142
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_11
+  - first:
+      213: 8191265488206442330
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_12
+  - first:
+      213: -8529760043335191972
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_13
+  - first:
+      213: 2601124462026467091
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_14
+  - first:
+      213: 2169304484865473240
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_15
+  - first:
+      213: 5942210162667783739
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_16
+  - first:
+      213: -779810692554023680
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_17
+  - first:
+      213: -3544266543583943756
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_18
+  - first:
+      213: -3448174102330478880
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_19
+  - first:
+      213: 7655226153783022764
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_20
+  - first:
+      213: -2309154913703366625
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_21
+  - first:
+      213: -7059064770688740065
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_22
+  - first:
+      213: 2339629025011982348
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_23
+  - first:
+      213: -1721550386529271102
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_24
+  - first:
+      213: -1260116096239006853
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_25
+  - first:
+      213: 7563236480138607920
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_26
+  - first:
+      213: -1216760446596919626
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_27
+  - first:
+      213: -6245027189743867163
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_28
+  - first:
+      213: -3489598301838693957
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_29
+  - first:
+      213: -2463230574327709632
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_30
+  - first:
+      213: -5490127996598361058
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_31
+  - first:
+      213: -1747503931059289561
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_32
+  - first:
+      213: -7695226756282662032
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_33
+  - first:
+      213: -591211636296669765
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_34
+  - first:
+      213: -3409159467367346788
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_35
+  - first:
+      213: 5909274437981195078
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_36
+  - first:
+      213: -4717206338708450807
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_37
+  - first:
+      213: 5266459868022997314
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_38
+  - first:
+      213: -2184205723839799520
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_39
+  - first:
+      213: -8826721473220835301
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_40
+  - first:
+      213: 5830928044152992167
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_41
+  - first:
+      213: 7547566202135219151
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_42
+  - first:
+      213: 8502437251230326769
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_43
+  - first:
+      213: 8361764595526676144
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_44
+  - first:
+      213: -1418274204611608197
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_45
+  - first:
+      213: -2347999215022651276
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_46
+  - first:
+      213: 5863713688538096554
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_47
+  - first:
+      213: 263573800352031345
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_48
+  - first:
+      213: 3635103351431914064
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_49
+  - first:
+      213: -8873945362796759750
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_50
+  - first:
+      213: -5214785469497233407
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_51
+  - first:
+      213: -1330931922432284260
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_52
+  - first:
+      213: 3401114460766932411
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_53
+  - first:
+      213: 5042598039308482633
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_54
+  - first:
+      213: -7032713475297155700
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_55
+  - first:
+      213: -2979930547225652910
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_56
+  - first:
+      213: -223582197063461560
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_57
+  - first:
+      213: 937395449389565823
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_58
+  - first:
+      213: 4039228498786675558
+    second: Plantas Carnivoras Rojas Con Prota Sprite Sheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938ec0e38684f010800000000000000
+      internalID: 1221749299894715286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99c9aea49bb4c530800000000000000
+      internalID: 3874427826705385885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdad9c2dbd19d6050800000000000000
+      internalID: 5795448668816005855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815affadabb0b6ca0800000000000000
+      internalID: -6022707179511896808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee09db5ae991f1c0800000000000000
+      internalID: -4471623723159843093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a45205f59dce340800000000000000
+      internalID: 4894525898434628128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09073257df5b9c870800000000000000
+      internalID: 8703687855066804368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81012fad66ed401b0800000000000000
+      internalID: -5691179495748136936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa723040dac8ca0800000000000000
+      internalID: -6013241169702047948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f76d4d3301ee0e0800000000000000
+      internalID: -2238834149956354260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe719afc98dcb6880800000000000000
+      internalID: -8616567470265133073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f933030fb2434e0800000000000000
+      internalID: -2002927623672193142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f2675ff883da170800000000000000
+      internalID: 8191265488206442330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c527fa5ee6430a980800000000000000
+      internalID: -8529760043335191972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317aaa7baec091420800000000000000
+      internalID: 2601124462026467091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da711e7feaea1e10800000000000000
+      internalID: 2169304484865473240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b368786e8a8f67250800000000000000
+      internalID: 5942210162667783739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d14468e4e8d25f0800000000000000
+      internalID: -779810692554023680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3a0606b5c30dec0800000000000000
+      internalID: -3544266543583943756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee3e25cef9520d0800000000000000
+      internalID: -3448174102330478880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca45483b0a3dc3a60800000000000000
+      internalID: 7655226153783022764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10fc5527db34ffd0800000000000000
+      internalID: -2309154913703366625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f159f98ddf9290e90800000000000000
+      internalID: -7059064770688740065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00680ec338087020800000000000000
+      internalID: 2339629025011982348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c28cfb6b03db18e0800000000000000
+      internalID: -1721550386529271102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b0ceb361b238ee0800000000000000
+      internalID: -1260116096239006853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dffe6c18306f860800000000000000
+      internalID: 7563236480138607920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be48db02d23d1fe0800000000000000
+      internalID: -1216760446596919626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea29a6cbd43559a0800000000000000
+      internalID: -6245027189743867163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9291a45d4729fc0800000000000000
+      internalID: -3489598301838693957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040c059e7d8d0ddd0800000000000000
+      internalID: -2463230574327709632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14e35fcca52fc3b0800000000000000
+      internalID: -5490127996598361058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722cc91fe6e9fb7e0800000000000000
+      internalID: -1747503931059289561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c0b54900153590800000000000000
+      internalID: -7695226756282662032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5a57f26289bc7f0800000000000000
+      internalID: -591211636296669765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dc8e4e68b30b0d0800000000000000
+      internalID: -3409159467367346788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b4a2ceac5f10250800000000000000
+      internalID: 5909274437981195078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902df09e3dd198eb0800000000000000
+      internalID: -4717206338708450807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418c59d859361940800000000000000
+      internalID: 5266459868022997314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f5722777420b1e0800000000000000
+      internalID: -2184205723839799520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b180c59069f218580800000000000000
+      internalID: -8826721473220835301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a13a9e992e9be050800000000000000
+      internalID: 5830928044152992167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb830dd8775eb860800000000000000
+      internalID: 7547566202135219151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffd1a4d1a9bef570800000000000000
+      internalID: 8502437251230326769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be2ecbd894fa0470800000000000000
+      internalID: 8361764595526676144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7186001027415ce0800000000000000
+      internalID: -1418274204611608197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478cda7772b3a6fd0800000000000000
+      internalID: -2347999215022651276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3a8ed4888106150800000000000000
+      internalID: 5863713688538096554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172251699f668a300800000000000000
+      internalID: 263573800352031345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0526eef0d3b727230800000000000000
+      internalID: 3635103351431914064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35364e65b969d480800000000000000
+      internalID: -8873945362796759750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100bfbe9e3c51a7b0800000000000000
+      internalID: -5214785469497233407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c992237d774978de0800000000000000
+      internalID: -1330931922432284260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd057a059f233f20800000000000000
+      internalID: 3401114460766932411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948301e2338eaf540800000000000000
+      internalID: 5042598039308482633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856fc9ea58c66e90800000000000000
+      internalID: -7032713475297155700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2519745a4f825a6d0800000000000000
+      internalID: -2979930547225652910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8455ee52d2da5ecf0800000000000000
+      internalID: -223582197063461560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77cee6d13c420d00800000000000000
+      internalID: 937395449389565823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Rojas Con Prota Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b60dc3be83e0830800000000000000
+      internalID: 4039228498786675558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_0: 1221749299894715286
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_1: 3874427826705385885
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_10: -8616567470265133073
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_11: -2002927623672193142
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_12: 8191265488206442330
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_13: -8529760043335191972
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_14: 2601124462026467091
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_15: 2169304484865473240
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_16: 5942210162667783739
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_17: -779810692554023680
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_18: -3544266543583943756
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_19: -3448174102330478880
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_2: 5795448668816005855
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_20: 7655226153783022764
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_21: -2309154913703366625
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_22: -7059064770688740065
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_23: 2339629025011982348
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_24: -1721550386529271102
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_25: -1260116096239006853
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_26: 7563236480138607920
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_27: -1216760446596919626
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_28: -6245027189743867163
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_29: -3489598301838693957
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_3: -6022707179511896808
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_30: -2463230574327709632
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_31: -5490127996598361058
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_32: -1747503931059289561
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_33: -7695226756282662032
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_34: -591211636296669765
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_35: -3409159467367346788
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_36: 5909274437981195078
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_37: -4717206338708450807
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_38: 5266459868022997314
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_39: -2184205723839799520
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_4: -4471623723159843093
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_40: -8826721473220835301
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_41: 5830928044152992167
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_42: 7547566202135219151
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_43: 8502437251230326769
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_44: 8361764595526676144
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_45: -1418274204611608197
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_46: -2347999215022651276
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_47: 5863713688538096554
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_48: 263573800352031345
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_49: 3635103351431914064
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_5: 4894525898434628128
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_50: -8873945362796759750
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_51: -5214785469497233407
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_52: -1330931922432284260
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_53: 3401114460766932411
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_54: 5042598039308482633
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_55: -7032713475297155700
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_56: -2979930547225652910
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_57: -223582197063461560
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_58: 937395449389565823
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_59: 4039228498786675558
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_6: 8703687855066804368
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_7: -5691179495748136936
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_8: -6013241169702047948
+      Plantas Carnivoras Rojas Con Prota Sprite Sheet_9: -2238834149956354260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: 484af8f64bf24d84eaff05c9b6d4307a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1699426048589793926
+    second: Jugador - Muerte_0
+  - first:
+      213: 5638518986542754959
+    second: Jugador - Muerte_1
+  - first:
+      213: -7834740853494497871
+    second: Jugador - Muerte_2
+  - first:
+      213: -1673319335741274412
+    second: Jugador - Muerte_3
+  - first:
+      213: -7210655569911385891
+    second: Jugador - Muerte_4
+  - first:
+      213: 8855702175164320785
+    second: Jugador - Muerte_5
+  - first:
+      213: 4665530612598800908
+    second: Jugador - Muerte_6
+  - first:
+      213: 3991318379676338365
+    second: Jugador - Muerte_7
+  - first:
+      213: -6686943182064083616
+    second: Jugador - Muerte_8
+  - first:
+      213: 3347605903621049307
+    second: Jugador - Muerte_9
+  - first:
+      213: 830063653457186245
+    second: Jugador - Muerte_10
+  - first:
+      213: 8187713707923777674
+    second: Jugador - Muerte_11
+  - first:
+      213: -1700667616299535008
+    second: Jugador - Muerte_12
+  - first:
+      213: 419286794701113364
+    second: Jugador - Muerte_13
+  - first:
+      213: -4285336493116807695
+    second: Jugador - Muerte_14
+  - first:
+      213: 6814374236219476767
+    second: Jugador - Muerte_15
+  - first:
+      213: 4182663218020455224
+    second: Jugador - Muerte_16
+  - first:
+      213: -1080053845133514489
+    second: Jugador - Muerte_17
+  - first:
+      213: 2806064058926526778
+    second: Jugador - Muerte_18
+  - first:
+      213: -1107959794053153333
+    second: Jugador - Muerte_19
+  - first:
+      213: -6005122426110251314
+    second: Jugador - Muerte_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jugador - Muerte_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7572c3430d6a68e0800000000000000
+      internalID: -1699426048589793926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c2d24e42b004e40800000000000000
+      internalID: 5638518986542754959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d649550eec27c8e0800000000000000
+      internalID: -1673319335741274412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd07dbd76fa9eeb90800000000000000
+      internalID: -7210655569911385891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc2537536c5ea70800000000000000
+      internalID: 8855702175164320785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0289a48f5b4fb040800000000000000
+      internalID: 4665530612598800908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8881e5be2046730800000000000000
+      internalID: 3991318379676338365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d99d7da943333a0800000000000000
+      internalID: -6686943182064083616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_9
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb455d35d5157e20800000000000000
+      internalID: 3347605903621049307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_10
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd4745be7af48b00800000000000000
+      internalID: 830063653457186245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a46bac3a90a170800000000000000
+      internalID: 8187713707923777674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador - Muerte_20
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 58
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49775958, y: 0.5103949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece67fe48f489aca0800000000000000
+      internalID: -6005122426110251314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jugador - Muerte_0: -1699426048589793926
+      Jugador - Muerte_1: 5638518986542754959
+      Jugador - Muerte_10: 830063653457186245
+      Jugador - Muerte_11: 8187713707923777674
+      Jugador - Muerte_20: -6005122426110251314
+      Jugador - Muerte_3: -1673319335741274412
+      Jugador - Muerte_4: -7210655569911385891
+      Jugador - Muerte_5: 8855702175164320785
+      Jugador - Muerte_6: 4665530612598800908
+      Jugador - Muerte_7: 3991318379676338365
+      Jugador - Muerte_8: -6686943182064083616
+      Jugador - Muerte_9: 3347605903621049307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 7a55b2fb893235648b3ba60c8fa102f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9090091407668754201
+    second: boss cangrejo animacion muerte parpadeo y desvanecimiento_0
+  - first:
+      213: 6785835843412408430
+    second: boss cangrejo animacion muerte parpadeo y desvanecimiento_1
+  - first:
+      213: -4436256032206723572
+    second: boss cangrejo animacion muerte parpadeo y desvanecimiento_2
+  - first:
+      213: 2807102464148822710
+    second: boss cangrejo animacion muerte parpadeo y desvanecimiento_3
+  - first:
+      213: -8494736303314696179
+    second: boss cangrejo animacion muerte parpadeo y desvanecimiento_4
+  - first:
+      213: -4047380480804930547
+    second: boss cangrejo animacion muerte parpadeo y desvanecimiento_5
+  - first:
+      213: 5403470031198628702
+    second: boss cangrejo animacion muerte parpadeo y desvanecimiento_6
+  - first:
+      213: -5204430020251327549
+    second: boss cangrejo animacion muerte parpadeo y desvanecimiento_7
+  - first:
+      213: -4028139413899109889
+    second: boss cangrejo animacion muerte parpadeo y desvanecimiento_8
+  - first:
+      213: 3751517715991470696
+    second: boss cangrejo animacion muerte parpadeo y desvanecimiento_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss cangrejo animacion muerte parpadeo y desvanecimiento_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 103
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5000009, y: 0.46740723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9173de159fd762e70800000000000000
+      internalID: 9090091407668754201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion muerte parpadeo y desvanecimiento_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 104
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.51738185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b5b62fb12c2e50800000000000000
+      internalID: 6785835843412408430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion muerte parpadeo y desvanecimiento_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 138
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49743608, y: 0.6029942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0662ab94a04f62c0800000000000000
+      internalID: -4436256032206723572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion muerte parpadeo y desvanecimiento_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 174
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5032061, y: 1.171075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bad6b781d4d4f620800000000000000
+      internalID: 2807102464148822710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion muerte parpadeo y desvanecimiento_4
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 0
+        width: 177
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5032061, y: 1.171075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d080054d652ac1a80800000000000000
+      internalID: -8494736303314696179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion muerte parpadeo y desvanecimiento_5
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 0
+        width: 177
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5032061, y: 1.171075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cb5ca85e0d4d7c0800000000000000
+      internalID: -4047380480804930547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion muerte parpadeo y desvanecimiento_6
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 0
+        width: 176
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5032061, y: 1.171075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b20145d5bfcfa40800000000000000
+      internalID: 5403470031198628702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion muerte parpadeo y desvanecimiento_7
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 0
+        width: 177
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5032061, y: 1.171075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36a88887626c7b0800000000000000
+      internalID: -5204430020251327549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion muerte parpadeo y desvanecimiento_8
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 0
+        width: 177
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5032061, y: 1.171075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91bc88b8c2918c0800000000000000
+      internalID: -4028139413899109889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss cangrejo animacion muerte parpadeo y desvanecimiento_9
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 0
+        width: 176
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5032061, y: 1.171075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a14e7c71101430800000000000000
+      internalID: 3751517715991470696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss cangrejo animacion muerte parpadeo y desvanecimiento_0: 9090091407668754201
+      boss cangrejo animacion muerte parpadeo y desvanecimiento_1: 6785835843412408430
+      boss cangrejo animacion muerte parpadeo y desvanecimiento_2: -4436256032206723572
+      boss cangrejo animacion muerte parpadeo y desvanecimiento_3: 2807102464148822710
+      boss cangrejo animacion muerte parpadeo y desvanecimiento_4: -8494736303314696179
+      boss cangrejo animacion muerte parpadeo y desvanecimiento_5: -4047380480804930547
+      boss cangrejo animacion muerte parpadeo y desvanecimiento_6: 5403470031198628702
+      boss cangrejo animacion muerte parpadeo y desvanecimiento_7: -5204430020251327549
+      boss cangrejo animacion muerte parpadeo y desvanecimiento_8: -4028139413899109889
+      boss cangrejo animacion muerte parpadeo y desvanecimiento_9: 3751517715991470696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

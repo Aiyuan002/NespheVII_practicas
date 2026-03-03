@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 54888f5392cb72a49bb579dddcf9f899
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6478215332735162672
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_0
+  - first:
+      213: -1731843701099691306
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_1
+  - first:
+      213: 7064167169847309794
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_2
+  - first:
+      213: -8471591953915223104
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_3
+  - first:
+      213: 3619384474743224535
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_4
+  - first:
+      213: -541044805083427698
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_5
+  - first:
+      213: 272947646080983432
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_6
+  - first:
+      213: -8925952701678075149
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_7
+  - first:
+      213: -5637861405143432605
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_8
+  - first:
+      213: 2653316791253998965
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_9
+  - first:
+      213: 9188766753266831157
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_10
+  - first:
+      213: -6560674689556893975
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_11
+  - first:
+      213: 8256660363457264579
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_12
+  - first:
+      213: -3233074635808825471
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_13
+  - first:
+      213: -3998741138554081887
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_14
+  - first:
+      213: 4244405338594030990
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_15
+  - first:
+      213: 3908752339727100423
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_16
+  - first:
+      213: 1438232567531200536
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_17
+  - first:
+      213: 2565166190631409111
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_18
+  - first:
+      213: -4506365620877894908
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_19
+  - first:
+      213: 6050974800054401535
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_20
+  - first:
+      213: 2666695939868301795
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_21
+  - first:
+      213: -8733122734932607659
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_22
+  - first:
+      213: -2611571813991269501
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_23
+  - first:
+      213: 3256986680473469097
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_24
+  - first:
+      213: 2119508293537665384
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_25
+  - first:
+      213: 9031426534012172635
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_26
+  - first:
+      213: 2995514359854600951
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_27
+  - first:
+      213: 4013682721889111930
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_28
+  - first:
+      213: -3881363218690299519
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_29
+  - first:
+      213: -6206805117322298163
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_30
+  - first:
+      213: -8253708607038473137
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_31
+  - first:
+      213: 3746475766675417124
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_32
+  - first:
+      213: 213815572654849385
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_33
+  - first:
+      213: 7233137284182661698
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_34
+  - first:
+      213: -551966360075842875
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_35
+  - first:
+      213: 729700870701803578
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_36
+  - first:
+      213: 3360242849594602662
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_37
+  - first:
+      213: -2820276713990354142
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_38
+  - first:
+      213: -9082917139501522336
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_39
+  - first:
+      213: -2897273266678028060
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_40
+  - first:
+      213: -7784827844545624887
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_41
+  - first:
+      213: 5227301682486850658
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_42
+  - first:
+      213: -6285929206494231550
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_43
+  - first:
+      213: -3725404063418313386
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_44
+  - first:
+      213: 6220587520847496921
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_45
+  - first:
+      213: -7159698598588229334
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_46
+  - first:
+      213: -7784792448917762018
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_47
+  - first:
+      213: -5100964825242544932
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_48
+  - first:
+      213: 9012743926978091456
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_49
+  - first:
+      213: -1754293333008296429
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_50
+  - first:
+      213: 8251530309066471917
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_51
+  - first:
+      213: -7863535265402274656
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_52
+  - first:
+      213: -1691647649427967960
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_53
+  - first:
+      213: -963414445032060091
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_54
+  - first:
+      213: 2065684047139317067
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_55
+  - first:
+      213: -2975655682813290426
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_56
+  - first:
+      213: 4393905131790176026
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_57
+  - first:
+      213: 3568507956956270536
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_58
+  - first:
+      213: 2778779031769633293
+    second: Plantas Carnivoras Verdes Con Prota Sprite Sheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0391b26a58e37e950800000000000000
+      internalID: 6478215332735162672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2847d545147f7e0800000000000000
+      internalID: -1731843701099691306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5b9b80d96f80260800000000000000
+      internalID: 7064167169847309794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c363d8900cde6a80800000000000000
+      internalID: -8471591953915223104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d832a2e003aa3230800000000000000
+      internalID: 3619384474743224535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c8e69cd92dd78f0800000000000000
+      internalID: -541044805083427698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881afee1074b9c300800000000000000
+      internalID: 272947646080983432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1253
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f24a8e3f45a02480800000000000000
+      internalID: -8925952701678075149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3628a853cea42c1b0800000000000000
+      internalID: -5637861405143432605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d1643509972d420800000000000000
+      internalID: 2653316791253998965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f836c8dae058f70800000000000000
+      internalID: 9188766753266831157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea01a312dc3f4a0800000000000000
+      internalID: -6560674689556893975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbfaeadadc859270800000000000000
+      internalID: 8256660363457264579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f1a409fbfc123d0800000000000000
+      internalID: -3233074635808825471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad2eb7ee1e9188c0800000000000000
+      internalID: -3998741138554081887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1074
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e853ba9ea2827ea30800000000000000
+      internalID: 4244405338594030990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a29642b8dae3630800000000000000
+      internalID: 3908752339727100423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810681c66e0a5f310800000000000000
+      internalID: 1438232567531200536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d55d6e3f0d499320800000000000000
+      internalID: 2565166190631409111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b5a83f75c2671c0800000000000000
+      internalID: -4506365620877894908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9351e658169f350800000000000000
+      internalID: 6050974800054401535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e993db14d1020520800000000000000
+      internalID: 2666695939868301795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d34748427bdc680800000000000000
+      internalID: -8733122734932607659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 895
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bb0a99545d1cbd0800000000000000
+      internalID: -2611571813991269501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0cccf2124233d20800000000000000
+      internalID: 3256986680473469097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8619ec630910a6d10800000000000000
+      internalID: 2119508293537665384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5935d60592165d70800000000000000
+      internalID: 9031426534012172635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f217ba7074329920800000000000000
+      internalID: 2995514359854600951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fc25f8b2773b730800000000000000
+      internalID: 4013682721889111930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a2b987b0a22ac0800000000000000
+      internalID: -3881363218690299519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc7def71affcd9a0800000000000000
+      internalID: -6206805117322298163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 716
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c33ed70cfe47d80800000000000000
+      internalID: -8253708607038473137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4282c403cd72ef330800000000000000
+      internalID: 3746475766675417124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96df9876120a7f200800000000000000
+      internalID: 213815572654849385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a57538904416460800000000000000
+      internalID: 7233137284182661698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cac6bb15850758f0800000000000000
+      internalID: -551966360075842875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a386976631b602a00800000000000000
+      internalID: 729700870701803578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4f121811bf1ae20800000000000000
+      internalID: 3360242849594602662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b8c46654d5cd8d0800000000000000
+      internalID: -2820276713990354142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 537
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06264b72cfef2f180800000000000000
+      internalID: -9082917139501522336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8ab6a7051dac7d0800000000000000
+      internalID: -2897273266678028060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c948325cb6f390800000000000000
+      internalID: -7784827844545624887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2643e6e4f2b1b8840800000000000000
+      internalID: 5227301682486850658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20488a3e0b4e3c8a0800000000000000
+      internalID: -6285929206494231550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655972b0eb4bc4cc0800000000000000
+      internalID: -3725404063418313386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6c7526467f35650800000000000000
+      internalID: 6220587520847496921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29594cee04a3ac90800000000000000
+      internalID: -7159698598588229334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 358
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e101d18638cd6f390800000000000000
+      internalID: -7784792448917762018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4d7ab748bb539b0800000000000000
+      internalID: -5100964825242544932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9961b99d2b31d70800000000000000
+      internalID: 9012743926978091456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316543e128f77a7e0800000000000000
+      internalID: -1754293333008296429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b64df813538270800000000000000
+      internalID: 8251530309066471917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acb0f2c65c1fd290800000000000000
+      internalID: -7863535265402274656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820b8b2fc6f0688e0800000000000000
+      internalID: -1691647649427967960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b4268aaa341a2f0800000000000000
+      internalID: -963414445032060091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 179
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b452ee742b8caac10800000000000000
+      internalID: 2065684047139317067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489a041ce854b6d0800000000000000
+      internalID: -2975655682813290426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f8e1dff694afc30800000000000000
+      internalID: 4393905131790176026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf88808413e58130800000000000000
+      internalID: 3568507956956270536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Carnivoras Verdes Con Prota Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 146
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02dee98ec4309620800000000000000
+      internalID: 2778779031769633293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_0: 6478215332735162672
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_1: -1731843701099691306
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_10: 9188766753266831157
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_11: -6560674689556893975
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_12: 8256660363457264579
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_13: -3233074635808825471
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_14: -3998741138554081887
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_15: 4244405338594030990
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_16: 3908752339727100423
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_17: 1438232567531200536
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_18: 2565166190631409111
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_19: -4506365620877894908
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_2: 7064167169847309794
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_20: 6050974800054401535
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_21: 2666695939868301795
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_22: -8733122734932607659
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_23: -2611571813991269501
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_24: 3256986680473469097
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_25: 2119508293537665384
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_26: 9031426534012172635
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_27: 2995514359854600951
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_28: 4013682721889111930
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_29: -3881363218690299519
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_3: -8471591953915223104
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_30: -6206805117322298163
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_31: -8253708607038473137
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_32: 3746475766675417124
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_33: 213815572654849385
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_34: 7233137284182661698
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_35: -551966360075842875
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_36: 729700870701803578
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_37: 3360242849594602662
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_38: -2820276713990354142
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_39: -9082917139501522336
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_4: 3619384474743224535
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_40: -2897273266678028060
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_41: -7784827844545624887
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_42: 5227301682486850658
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_43: -6285929206494231550
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_44: -3725404063418313386
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_45: 6220587520847496921
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_46: -7159698598588229334
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_47: -7784792448917762018
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_48: -5100964825242544932
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_49: 9012743926978091456
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_5: -541044805083427698
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_50: -1754293333008296429
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_51: 8251530309066471917
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_52: -7863535265402274656
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_53: -1691647649427967960
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_54: -963414445032060091
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_55: 2065684047139317067
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_56: -2975655682813290426
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_57: 4393905131790176026
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_58: 3568507956956270536
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_59: 2778779031769633293
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_6: 272947646080983432
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_7: -8925952701678075149
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_8: -5637861405143432605
+      Plantas Carnivoras Verdes Con Prota Sprite Sheet_9: 2653316791253998965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

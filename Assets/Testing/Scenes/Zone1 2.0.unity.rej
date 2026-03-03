@@ -1,0 +1,10 @@
+diff a/Assets/Testing/Scenes/Zone1 2.0.unity b/Assets/Testing/Scenes/Zone1 2.0.unity	(rejected hunks)
+@@ -53902,7 +53902,7 @@
+   m_Icon: {fileID: 0}
+   m_NavMeshLayer: 0
+   m_StaticEditorFlags: 0
+-  m_IsActive: 0
++  m_IsActive: 1
+ --- !u!224 &881202709
+ RectTransform:
+   m_ObjectHideFlags: 0

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 12c6ac3e44f5fbe4789e48a0228711ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8002644883869368421
+    second: tocon_0
+  - first:
+      213: 5408276559462516211
+    second: tocon_1
+  - first:
+      213: 13210867978047040
+    second: tocon_2
+  - first:
+      213: -7090362422917330551
+    second: tocon_3
+  - first:
+      213: 3172066886104424686
+    second: tocon_4
+  - first:
+      213: -237163886730808923
+    second: tocon_5
+  - first:
+      213: -118278771333298816
+    second: tocon_6
+  - first:
+      213: 5017172590683549930
+    second: tocon_7
+  - first:
+      213: -5150708705982453005
+    second: tocon_8
+  - first:
+      213: -4366672219545013111
+    second: tocon_9
+  - first:
+      213: 4384923332299064087
+    second: tocon_10
+  - first:
+      213: -6964266150886460216
+    second: tocon_11
+  - first:
+      213: -1696839704683114582
+    second: tocon_12
+  - first:
+      213: 1081923274393212698
+    second: tocon_13
+  - first:
+      213: -5868374436720932397
+    second: tocon_14
+  - first:
+      213: 3074380752181763792
+    second: tocon_15
+  - first:
+      213: 3471514327008325127
+    second: tocon_16
+  - first:
+      213: -7924790950383705061
+    second: tocon_17
+  - first:
+      213: 8937080812204452697
+    second: tocon_18
+  - first:
+      213: 6835878314831756498
+    second: tocon_19
+  - first:
+      213: 4134136941955731654
+    second: tocon_20
+  - first:
+      213: -2748837057449944211
+    second: tocon_21
+  - first:
+      213: 8341560952245435779
+    second: tocon_22
+  - first:
+      213: -2800410631975822883
+    second: tocon_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tocon_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56081ae3f1b1f0f60800000000000000
+      internalID: 8002644883869368421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 188
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5c5d560ee0e0b40800000000000000
+      internalID: 5408276559462516211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 188
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e8105e63fee2000800000000000000
+      internalID: 13210867978047040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 188
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9890c3551f8f99d90800000000000000
+      internalID: -7090362422917330551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 190
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0a80ec602750c20800000000000000
+      internalID: 3172066886104424686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 188
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1fbd993bc65bcf0800000000000000
+      internalID: -237163886730808923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_6
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 188
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085853a851acb5ef0800000000000000
+      internalID: -118278771333298816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_7
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 186
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f48c93e390a540800000000000000
+      internalID: 5017172590683549930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6766b8b10588b0800000000000000
+      internalID: -5150708705982453005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 112
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984f37f70c67663c0800000000000000
+      internalID: -4366672219545013111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 108
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130205d9806adc30800000000000000
+      internalID: 4384923332299064087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 108
+        width: 112
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4b22385d4f95f90800000000000000
+      internalID: -6964266150886460216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_12
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 108
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf8591674d9378e0800000000000000
+      internalID: -1696839704683114582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 110
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a175f6c5c73c30f00800000000000000
+      internalID: 1081923274393212698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 108
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d90442ba885f8ea0800000000000000
+      internalID: -5868374436720932397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_15
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 108
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de971e51056aaa20800000000000000
+      internalID: 3074380752181763792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea20633eb4d2030800000000000000
+      internalID: 3471514327008325127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 44
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1426233e9c750290800000000000000
+      internalID: -7924790950383705061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 44
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be764e5a3e60c70800000000000000
+      internalID: 8937080812204452697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 44
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcb75bfb1bedde50800000000000000
+      internalID: 6835878314831756498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_20
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 60
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0571625a76f5930800000000000000
+      internalID: 4134136941955731654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_21
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 67
+        width: 73
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b144d924b2ad9d0800000000000000
+      internalID: -2748837057449944211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_22
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 63
+        width: 79
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dbbd69d7d23c370800000000000000
+      internalID: 8341560952245435779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tocon_23
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 70
+        width: 73
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd99adf0e51f229d0800000000000000
+      internalID: -2800410631975822883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tocon_0: 8002644883869368421
+      tocon_1: 5408276559462516211
+      tocon_10: 4384923332299064087
+      tocon_11: -6964266150886460216
+      tocon_12: -1696839704683114582
+      tocon_13: 1081923274393212698
+      tocon_14: -5868374436720932397
+      tocon_15: 3074380752181763792
+      tocon_16: 3471514327008325127
+      tocon_17: -7924790950383705061
+      tocon_18: 8937080812204452697
+      tocon_19: 6835878314831756498
+      tocon_2: 13210867978047040
+      tocon_20: 4134136941955731654
+      tocon_21: -2748837057449944211
+      tocon_22: 8341560952245435779
+      tocon_23: -2800410631975822883
+      tocon_3: -7090362422917330551
+      tocon_4: 3172066886104424686
+      tocon_5: -237163886730808923
+      tocon_6: -118278771333298816
+      tocon_7: 5017172590683549930
+      tocon_8: -5150708705982453005
+      tocon_9: -4366672219545013111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

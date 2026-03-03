@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: afcef888318d96840a185b4461668941
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4422007363576938510
+    second: "seta_transparente_desaparici\xF3n_sprite_0"
+  - first:
+      213: 258900037926132212
+    second: "seta_transparente_desaparici\xF3n_sprite_1"
+  - first:
+      213: 7796470830467867312
+    second: "seta_transparente_desaparici\xF3n_sprite_2"
+  - first:
+      213: -8182869859275468041
+    second: "seta_transparente_desaparici\xF3n_sprite_3"
+  - first:
+      213: 8922774198683109220
+    second: "seta_transparente_desaparici\xF3n_sprite_4"
+  - first:
+      213: -3482449122540074712
+    second: "seta_transparente_desaparici\xF3n_sprite_5"
+  - first:
+      213: -5723195275447602997
+    second: "seta_transparente_desaparici\xF3n_sprite_6"
+  - first:
+      213: 6238897341147568824
+    second: "seta_transparente_desaparici\xF3n_sprite_7"
+  - first:
+      213: 764186331850396574
+    second: "seta_transparente_desaparici\xF3n_sprite_8"
+  - first:
+      213: 2932247442165251449
+    second: "seta_transparente_desaparici\xF3n_sprite_9"
+  - first:
+      213: -2833071047003338757
+    second: "seta_transparente_desaparici\xF3n_sprite_10"
+  - first:
+      213: 2115420968585221701
+    second: "seta_transparente_desaparici\xF3n_sprite_11"
+  - first:
+      213: 7185850098885264491
+    second: "seta_transparente_desaparici\xF3n_sprite_12"
+  - first:
+      213: 4176832431656613266
+    second: "seta_transparente_desaparici\xF3n_sprite_13"
+  - first:
+      213: 2091369345743404402
+    second: "seta_transparente_desaparici\xF3n_sprite_14"
+  - first:
+      213: -2747275647701772294
+    second: "seta_transparente_desaparici\xF3n_sprite_0"
+  - first:
+      213: -397312420677467804
+    second: "seta_transparente_desaparici\xF3n_sprite_1"
+  - first:
+      213: -7671762626399440792
+    second: "seta_transparente_desaparici\xF3n_sprite_2"
+  - first:
+      213: -7920794131542189280
+    second: "seta_transparente_desaparici\xF3n_sprite_3"
+  - first:
+      213: -3118919839048834905
+    second: "seta_transparente_desaparici\xF3n_sprite_4"
+  - first:
+      213: 3036519583867310512
+    second: "seta_transparente_desaparici\xF3n_sprite_5"
+  - first:
+      213: 770823098496862949
+    second: "seta_transparente_desaparici\xF3n_sprite_6"
+  - first:
+      213: 8355425558428020508
+    second: "seta_transparente_desaparici\xF3n_sprite_7"
+  - first:
+      213: -6708794420099832606
+    second: "seta_transparente_desaparici\xF3n_sprite_8"
+  - first:
+      213: 5791576227521881763
+    second: "seta_transparente_desaparici\xF3n_sprite_9"
+  - first:
+      213: -9190740616787943184
+    second: "seta_transparente_desaparici\xF3n_sprite_10"
+  - first:
+      213: -644080441031385989
+    second: "seta_transparente_desaparici\xF3n_sprite_11"
+  - first:
+      213: -8666363258985759935
+    second: "seta_transparente_desaparici\xF3n_sprite_12"
+  - first:
+      213: 6310206805480336997
+    second: "seta_transparente_desaparici\xF3n_sprite_13"
+  - first:
+      213: -988189347850919825
+    second: "seta_transparente_desaparici\xF3n_sprite_15"
+  - first:
+      213: 8790921860067193629
+    second: "seta_transparente_desaparici\xF3n_sprite_16"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_0"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb5db4bbfd1a2c0800000000000000
+      internalID: -4422007363576938510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_1"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91ce8763cc79300800000000000000
+      internalID: 258900037926132212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_2"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b26bbfa9e0a23c60800000000000000
+      internalID: 7796470830467867312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_3"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f292aab73b907e80800000000000000
+      internalID: -8182869859275468041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_4"
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467078bdbdf04db70800000000000000
+      internalID: 8922774198683109220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_5"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c0ae49fadbafc0800000000000000
+      internalID: -3482449122540074712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_6"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc070c248302390b0800000000000000
+      internalID: -5723195275447602997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_7"
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bada31a314059650800000000000000
+      internalID: 6238897341147568824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_8"
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93d6248b6fea9a00800000000000000
+      internalID: 764186331850396574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_9"
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dbecf438f61b820800000000000000
+      internalID: 2932247442165251449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_10"
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf70ceb94e8eea8d0800000000000000
+      internalID: -2833071047003338757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_11"
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5465fe6b92c7b5d10800000000000000
+      internalID: 2115420968585221701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_12"
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b640349b79449b360800000000000000
+      internalID: 7185850098885264491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seta_transparente_desaparici\xF3n_sprite_13"
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 0
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295393f77f617f930800000000000000
+      internalID: 4176832431656613266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "seta_transparente_desaparici\xF3n_sprite_0": -4422007363576938510
+      "seta_transparente_desaparici\xF3n_sprite_1": 258900037926132212
+      "seta_transparente_desaparici\xF3n_sprite_10": -2833071047003338757
+      "seta_transparente_desaparici\xF3n_sprite_11": 2115420968585221701
+      "seta_transparente_desaparici\xF3n_sprite_12": 7185850098885264491
+      "seta_transparente_desaparici\xF3n_sprite_13": 4176832431656613266
+      "seta_transparente_desaparici\xF3n_sprite_2": 7796470830467867312
+      "seta_transparente_desaparici\xF3n_sprite_3": -8182869859275468041
+      "seta_transparente_desaparici\xF3n_sprite_4": 8922774198683109220
+      "seta_transparente_desaparici\xF3n_sprite_5": -3482449122540074712
+      "seta_transparente_desaparici\xF3n_sprite_6": -5723195275447602997
+      "seta_transparente_desaparici\xF3n_sprite_7": 6238897341147568824
+      "seta_transparente_desaparici\xF3n_sprite_8": 764186331850396574
+      "seta_transparente_desaparici\xF3n_sprite_9": 2932247442165251449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

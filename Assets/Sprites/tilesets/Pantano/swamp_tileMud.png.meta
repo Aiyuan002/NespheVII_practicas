@@ -1,0 +1,1091 @@
+fileFormatVersion: 2
+guid: 2f858135a66f1a744ae3eaeaaee8bf2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7703854653636152988
+    second: swamp_tileMud_0
+  - first:
+      213: 5606974703155800687
+    second: swamp_tileMud_1
+  - first:
+      213: 5874124725896080029
+    second: swamp_tileMud_2
+  - first:
+      213: 7746904930539072062
+    second: swamp_tileMud_3
+  - first:
+      213: -7803266225161082183
+    second: swamp_tileMud_4
+  - first:
+      213: 6341846544323210765
+    second: swamp_tileMud_5
+  - first:
+      213: -6811874707815140288
+    second: swamp_tileMud_6
+  - first:
+      213: 2183867951851143339
+    second: swamp_tileMud_7
+  - first:
+      213: -2363619484116883187
+    second: swamp_tileMud_8
+  - first:
+      213: 8493785260484779479
+    second: swamp_tileMud_9
+  - first:
+      213: 3856115721345702397
+    second: swamp_tileMud_10
+  - first:
+      213: -7489331031257645848
+    second: swamp_tileMud_11
+  - first:
+      213: -8399532438987515412
+    second: swamp_tileMud_12
+  - first:
+      213: -1317532808375094218
+    second: swamp_tileMud_13
+  - first:
+      213: -4877057477140059375
+    second: swamp_tileMud_14
+  - first:
+      213: -6072910657921085465
+    second: swamp_tileMud_15
+  - first:
+      213: -6296996232655369284
+    second: swamp_tileMud_16
+  - first:
+      213: 4262761368045491727
+    second: swamp_tileMud_17
+  - first:
+      213: 2539162472113903857
+    second: swamp_tileMud_18
+  - first:
+      213: 3698967870618229667
+    second: swamp_tileMud_19
+  - first:
+      213: 8648840087562000160
+    second: swamp_tileMud_20
+  - first:
+      213: 7074708437694114968
+    second: swamp_tileMud_21
+  - first:
+      213: -3276037494923418675
+    second: swamp_tileMud_22
+  - first:
+      213: 1788774069649454432
+    second: swamp_tileMud_23
+  - first:
+      213: -3310133947316178387
+    second: swamp_tileMud_24
+  - first:
+      213: -87465898116084476
+    second: swamp_tileMud_25
+  - first:
+      213: -8445571098916612977
+    second: swamp_tileMud_26
+  - first:
+      213: 6570879906318421211
+    second: swamp_tileMud_27
+  - first:
+      213: 1276740814783072163
+    second: swamp_tileMud_28
+  - first:
+      213: 7776962472702750562
+    second: swamp_tileMud_29
+  - first:
+      213: -2556436933607845266
+    second: swamp_tileMud_30
+  - first:
+      213: 5125579313695818438
+    second: swamp_tileMud_31
+  - first:
+      213: -9190881950206026588
+    second: swamp_tileMud_32
+  - first:
+      213: 2563120558498129183
+    second: swamp_tileMud_33
+  - first:
+      213: -7543742209435722702
+    second: swamp_tileMud_34
+  - first:
+      213: -53608723544728694
+    second: swamp_tileMud_35
+  - first:
+      213: -6932969694024708039
+    second: swamp_tileMud_36
+  - first:
+      213: 6090094431652342548
+    second: swamp_tileMud_37
+  - first:
+      213: 3187186850039664297
+    second: swamp_tileMud_38
+  - first:
+      213: -3407567935372548836
+    second: swamp_tileMud_39
+  - first:
+      213: 4117572840289670618
+    second: swamp_tileMud_40
+  - first:
+      213: -3094694107205401920
+    second: swamp_tileMud_41
+  - first:
+      213: -7222801158716772758
+    second: swamp_tileMud_42
+  - first:
+      213: 4354437784775475801
+    second: swamp_tileMud_43
+  - first:
+      213: 1253336090368020475
+    second: swamp_tileMud_44
+  - first:
+      213: -5525566897654098120
+    second: swamp_tileMud_45
+  - first:
+      213: 6355069958028809756
+    second: swamp_tileMud_46
+  - first:
+      213: -7990591168897076750
+    second: swamp_tileMud_47
+  - first:
+      213: -5828374059829762734
+    second: swamp_tileMud_48
+  - first:
+      213: 6657003329558468681
+    second: swamp_tileMud_49
+  - first:
+      213: 7623626534099669116
+    second: swamp_tileMud_50
+  - first:
+      213: -5863141968370355392
+    second: swamp_tileMud_51
+  - first:
+      213: -2469791386089487229
+    second: swamp_tileMud_52
+  - first:
+      213: -5768742475584211750
+    second: swamp_tileMud_53
+  - first:
+      213: 833228077687073546
+    second: swamp_tileMud_54
+  - first:
+      213: -112598561935476478
+    second: swamp_tileMud_55
+  - first:
+      213: 2873215822922639666
+    second: swamp_tileMud_56
+  - first:
+      213: -9095633320832264780
+    second: swamp_tileMud_57
+  - first:
+      213: -4466832954516784720
+    second: swamp_tileMud_58
+  - first:
+      213: 3764466551412162509
+    second: swamp_tileMud_59
+  - first:
+      213: -3876067959696866389
+    second: swamp_tileMud_60
+  - first:
+      213: 2517641323634445316
+    second: swamp_tileMud_61
+  - first:
+      213: -7458706787411161010
+    second: swamp_tileMud_62
+  - first:
+      213: 1237223524983089746
+    second: swamp_tileMud_63
+  - first:
+      213: -6686364152463267308
+    second: swamp_tileMud_64
+  - first:
+      213: 8221205416228472037
+    second: swamp_tileMud_65
+  - first:
+      213: -3263645034642264196
+    second: swamp_tileMud_66
+  - first:
+      213: 6910951727466094437
+    second: swamp_tileMud_67
+  - first:
+      213: 4368147894760088253
+    second: swamp_tileMud_68
+  - first:
+      213: 8454659847652511929
+    second: swamp_tileMud_69
+  - first:
+      213: 3679399056602579117
+    second: swamp_tileMud_70
+  - first:
+      213: 950252832634343000
+    second: swamp_tileMud_71
+  - first:
+      213: 193521494947572758
+    second: swamp_tileMud_72
+  - first:
+      213: -1450250296278838674
+    second: swamp_tileMud_73
+  - first:
+      213: -2388993051194474223
+    second: swamp_tileMud_74
+  - first:
+      213: 2969703478892879272
+    second: swamp_tileMud_75
+  - first:
+      213: 1043063169585742932
+    second: swamp_tileMud_76
+  - first:
+      213: 5061667878741104346
+    second: swamp_tileMud_77
+  - first:
+      213: -8147842890980906428
+    second: swamp_tileMud_78
+  - first:
+      213: 2336140373476878140
+    second: swamp_tileMud_79
+  - first:
+      213: 1430373998389887588
+    second: swamp_tileMud_80
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swamp_tileMud_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461f6c06209661590800000000000000
+      internalID: -7703854653636152988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ae33619c9ffcd40800000000000000
+      internalID: 5606974703155800687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aef55d055158150800000000000000
+      internalID: 5874124725896080029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ae08d4df8828b60800000000000000
+      internalID: 7746904930539072062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba687136ba35b390800000000000000
+      internalID: -7803266225161082183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e6c6ed4d3c20850800000000000000
+      internalID: 6341846544323210765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f53a4b0c5771a0800000000000000
+      internalID: -6811874707815140288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba08272e458ae4e10800000000000000
+      internalID: 2183867951851143339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0965092a9cb23fd0800000000000000
+      internalID: -2363619484116883187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddd4a141bcffd570800000000000000
+      internalID: 8493785260484779479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df91c9761dca38530800000000000000
+      internalID: 3856115721345702397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecf3947b1d801890800000000000000
+      internalID: -7489331031257645848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce957c6dfbdde6b80800000000000000
+      internalID: -8399532438987515412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63431e034ee27bde0800000000000000
+      internalID: -1317532808375094218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b67e57016315cb0800000000000000
+      internalID: -4877057477140059375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0ee9aeefa8bba0800000000000000
+      internalID: -6072910657921085465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 80
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb8a901a439c98a0800000000000000
+      internalID: -6296996232655369284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f061c9011ee582b30800000000000000
+      internalID: 4262761368045491727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f81a59b0daec3320800000000000000
+      internalID: 2539162472113903857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab58cb2eaf555330800000000000000
+      internalID: 3698967870618229667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0279a427c3ad60870800000000000000
+      internalID: 8648840087562000160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c673637d96e2260800000000000000
+      internalID: 7074708437694114968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 48
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b2ecf98003d810800000000000000
+      internalID: 1788774069649454432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22f14776ba0012d0800000000000000
+      internalID: -3310133947316178387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d84d4aa3249cef0800000000000000
+      internalID: -87465898116084476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8415c305dd4bca80800000000000000
+      internalID: -8445571098916612977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc8cd5f574703b50800000000000000
+      internalID: 6570879906318421211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7436fa105e7b110800000000000000
+      internalID: 1276740814783072163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e629d994726b58cd0800000000000000
+      internalID: -2556436933607845266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c20ee4ba37b12740800000000000000
+      internalID: 5125579313695818438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp_tileMud_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 11
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac9b69cf8d637080800000000000000
+      internalID: -9190881950206026588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      swamp_tileMud_0: -7703854653636152988
+      swamp_tileMud_1: 5606974703155800687
+      swamp_tileMud_10: 3856115721345702397
+      swamp_tileMud_11: -7489331031257645848
+      swamp_tileMud_12: -8399532438987515412
+      swamp_tileMud_13: -1317532808375094218
+      swamp_tileMud_14: -4877057477140059375
+      swamp_tileMud_15: -6072910657921085465
+      swamp_tileMud_16: -6296996232655369284
+      swamp_tileMud_17: 4262761368045491727
+      swamp_tileMud_18: 2539162472113903857
+      swamp_tileMud_19: 3698967870618229667
+      swamp_tileMud_2: 5874124725896080029
+      swamp_tileMud_20: 8648840087562000160
+      swamp_tileMud_21: 7074708437694114968
+      swamp_tileMud_23: 1788774069649454432
+      swamp_tileMud_24: -3310133947316178387
+      swamp_tileMud_25: -87465898116084476
+      swamp_tileMud_26: -8445571098916612977
+      swamp_tileMud_27: 6570879906318421211
+      swamp_tileMud_28: 1276740814783072163
+      swamp_tileMud_3: 7746904930539072062
+      swamp_tileMud_30: -2556436933607845266
+      swamp_tileMud_31: 5125579313695818438
+      swamp_tileMud_32: -9190881950206026588
+      swamp_tileMud_4: -7803266225161082183
+      swamp_tileMud_5: 6341846544323210765
+      swamp_tileMud_6: -6811874707815140288
+      swamp_tileMud_7: 2183867951851143339
+      swamp_tileMud_8: -2363619484116883187
+      swamp_tileMud_9: 8493785260484779479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

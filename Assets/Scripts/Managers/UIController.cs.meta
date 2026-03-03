@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 94d97a16c4372c94ba77810f434979be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainFace: {fileID: 21300000, guid: 5e1817644ae59af4eb3e6edf62a0693b, type: 3}
+  - heatlhRecoverFace: {fileID: 21300000, guid: 000bd287cb808614e98a5b39a8a18276,
+      type: 3}
+  - energyRecoverFace: {fileID: 21300000, guid: d35edaf83292b2e4cafbc4af6e12a2c0,
+      type: 3}
+  - hurtFace: {fileID: 21300000, guid: 321c952d7cf52fd4a9877bd6c587d270, type: 3}
+  - tiredFace: {fileID: 21300000, guid: 0a1cf62930c06eb4fa1e637e6d301062, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

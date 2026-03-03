@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 2e6f06af221ad5440a4eb1a1105b8aa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5292173233057498137
+    second: animacion nube polvo caida pared_3
+  - first:
+      213: -5700249340507952914
+    second: animacion nube polvo caida pared_4
+  - first:
+      213: -6156448497404559922
+    second: animacion nube polvo caida pared_3
+  - first:
+      213: 6345802599468974001
+    second: animacion nube polvo caida pared_3
+  - first:
+      213: -5769647215920344145
+    second: animacion nube polvo caida pared_5
+  - first:
+      213: -8130921873683090363
+    second: animacion nube polvo caida pared_5
+  - first:
+      213: 1320512175556083273
+    second: animacion nube polvo caida pared_6
+  - first:
+      213: -3765793855327546074
+    second: animacion nube polvo caida pared_7
+  - first:
+      213: 8828854779257433556
+    second: animacion nube polvo caida pared_8
+  - first:
+      213: 4845948169053169108
+    second: animacion nube polvo caida pared_9
+  - first:
+      213: 63299539901309867
+    second: animacion nube polvo caida pared_6
+  - first:
+      213: -5307380648350387395
+    second: animacion nube polvo caida pared_7
+  - first:
+      213: 5608464922478669749
+    second: animacion nube polvo caida pared_12
+  - first:
+      213: 1275759944679319163
+    second: animacion nube polvo caida pared_13
+  - first:
+      213: -5653384201664963487
+    second: animacion nube polvo caida pared_14
+  - first:
+      213: -6519512777153650604
+    second: animacion nube polvo caida pared_15
+  - first:
+      213: -2689768630398589930
+    second: animacion nube polvo caida pared_16
+  - first:
+      213: 2484006960589099336
+    second: animacion nube polvo caida pared_17
+  - first:
+      213: -4000206541712509168
+    second: animacion nube polvo caida pared_4
+  - first:
+      213: -7954652093356772679
+    second: animacion nube polvo caida pared_19
+  - first:
+      213: 3337692333584349991
+    second: animacion nube polvo caida pared_20
+  - first:
+      213: -5354030071249006915
+    second: animacion nube polvo caida pared_21
+  - first:
+      213: -1517441566885814813
+    second: animacion nube polvo caida pared_22
+  - first:
+      213: 2246575069079162927
+    second: animacion nube polvo caida pared_0
+  - first:
+      213: -7437779167884683712
+    second: animacion nube polvo caida pared_24
+  - first:
+      213: -4072976019324581226
+    second: animacion nube polvo caida pared_25
+  - first:
+      213: -6288788327834801646
+    second: animacion nube polvo caida pared_26
+  - first:
+      213: -7884833492803218525
+    second: animacion nube polvo caida pared_27
+  - first:
+      213: 6871626178485411852
+    second: animacion nube polvo caida pared_28
+  - first:
+      213: -2627255579831794498
+    second: animacion nube polvo caida pared_29
+  - first:
+      213: -950558103819460419
+    second: animacion nube polvo caida pared_30
+  - first:
+      213: -1396940456050039881
+    second: animacion nube polvo caida pared_31
+  - first:
+      213: 5153519332174375000
+    second: animacion nube polvo caida pared_32
+  - first:
+      213: 4963344410600715222
+    second: animacion nube polvo caida pared_33
+  - first:
+      213: 3612470186184700187
+    second: animacion nube polvo caida pared_34
+  - first:
+      213: 3887475412896179594
+    second: animacion nube polvo caida pared_35
+  - first:
+      213: -2181841743076970127
+    second: animacion nube polvo caida pared_36
+  - first:
+      213: 6274474758920082717
+    second: animacion nube polvo caida pared_37
+  - first:
+      213: -1669586917452448674
+    second: animacion nube polvo caida pared_4
+  - first:
+      213: -5307614053078290244
+    second: animacion nube polvo caida pared_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animacion nube polvo caida pared_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 124
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914093e2483917940800000000000000
+      internalID: -6156448497404559922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion nube polvo caida pared_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 124
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdb63ab5b6ef8aa0800000000000000
+      internalID: 5292173233057498137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion nube polvo caida pared_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 110
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31fbf0d681eefa0800000000000000
+      internalID: -5769647215920344145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion nube polvo caida pared_6
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 0
+        width: 108
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3634e9892e0e000800000000000000
+      internalID: 1320512175556083273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion nube polvo caida pared_7
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 0
+        width: 102
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33fa478b656856b0800000000000000
+      internalID: -3765793855327546074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion nube polvo caida pared_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 120
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017380528596c78c0800000000000000
+      internalID: -5700249340507952914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion nube polvo caida pared_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 112
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2056b95f107d2f10800000000000000
+      internalID: 2246575069079162927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion nube polvo caida pared_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 122
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c7b9f5b8f64d8e0800000000000000
+      internalID: -6702085689855808849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animacion nube polvo caida pared_0: 2246575069079162927
+      animacion nube polvo caida pared_1: -5700249340507952914
+      animacion nube polvo caida pared_2: -6156448497404559922
+      animacion nube polvo caida pared_3: 5292173233057498137
+      animacion nube polvo caida pared_4: -6702085689855808849
+      animacion nube polvo caida pared_5: -5769647215920344145
+      animacion nube polvo caida pared_6: 1320512175556083273
+      animacion nube polvo caida pared_7: -3765793855327546074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

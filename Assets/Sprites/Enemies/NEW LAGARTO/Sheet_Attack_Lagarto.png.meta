@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 81eb210fab387f441bc278ce65e03627
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8781468400112309018
+    second: Sheet_Attack_Lagarto_0
+  - first:
+      213: -5413189431602878500
+    second: Sheet_Attack_Lagarto_1
+  - first:
+      213: 3322100032225297105
+    second: Sheet_Attack_Lagarto_2
+  - first:
+      213: 1318178120636111023
+    second: Sheet_Attack_Lagarto_3
+  - first:
+      213: 4814126827608942639
+    second: Sheet_Attack_Lagarto_4
+  - first:
+      213: -708566289965771003
+    second: Sheet_Attack_Lagarto_5
+  - first:
+      213: -2679172807045507084
+    second: Sheet_Attack_Lagarto_6
+  - first:
+      213: -4159050060462487071
+    second: Sheet_Attack_Lagarto_7
+  - first:
+      213: 2173525963256388230
+    second: Sheet_Attack_Lagarto_8
+  - first:
+      213: 4728100421448535645
+    second: Sheet_Attack_Lagarto_9
+  - first:
+      213: 8985908798592265605
+    second: Sheet_Attack_Lagarto_10
+  - first:
+      213: -9208771924218833546
+    second: Sheet_Attack_Lagarto_11
+  - first:
+      213: 6424752855029094245
+    second: Sheet_Attack_Lagarto_12
+  - first:
+      213: 4015548990934062957
+    second: Sheet_Attack_Lagarto_13
+  - first:
+      213: -5128770497300141427
+    second: Sheet_Attack_Lagarto_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 151
+        height: 62
+      alignment: 9
+      pivot: {x: 0.50000066, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a131303dbfa0ed970800000000000000
+      internalID: 8781468400112309018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 159
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7696b64ec70e4b0800000000000000
+      internalID: -5413189431602878500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 160
+        height: 62
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d24a19c0687a1e20800000000000000
+      internalID: 3322100032225297105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_3
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 166
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa81537440c1b4210800000000000000
+      internalID: 1318178120636111023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_4
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1
+        width: 170
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f282f47e7d63fc240800000000000000
+      internalID: 4814126827608942639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_5
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 165
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50716c2a6baaa26f0800000000000000
+      internalID: -708566289965771003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_6
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 160
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f79a20e68aa1dad0800000000000000
+      internalID: -2679172807045507084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_7
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 153
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9011f61061846c0800000000000000
+      internalID: -4159050060462487071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_8
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 158
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a5cf5095ae92e10800000000000000
+      internalID: 2173525963256388230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_9
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 0
+        width: 151
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4999992, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e80d268469d9140800000000000000
+      internalID: 4728100421448535645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_10
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 0
+        width: 151
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d2624617c54bc70800000000000000
+      internalID: 8985908798592265605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_11
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 0
+        width: 153
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4999992, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675985f99bed33080800000000000000
+      internalID: -9208771924218833546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_12
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 0
+        width: 152
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5679fad8eae492950800000000000000
+      internalID: 6424752855029094245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_13
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 0
+        width: 151
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679dce28881ab730800000000000000
+      internalID: 4015548990934062957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Attack_Lagarto_14
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 0
+        width: 152
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4999984, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aebe5f762f2d8b0800000000000000
+      internalID: -5128770497300141427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sheet_Attack_Lagarto_0: 8781468400112309018
+      Sheet_Attack_Lagarto_1: -5413189431602878500
+      Sheet_Attack_Lagarto_10: 8985908798592265605
+      Sheet_Attack_Lagarto_11: -9208771924218833546
+      Sheet_Attack_Lagarto_12: 6424752855029094245
+      Sheet_Attack_Lagarto_13: 4015548990934062957
+      Sheet_Attack_Lagarto_14: -5128770497300141427
+      Sheet_Attack_Lagarto_2: 3322100032225297105
+      Sheet_Attack_Lagarto_3: 1318178120636111023
+      Sheet_Attack_Lagarto_4: 4814126827608942639
+      Sheet_Attack_Lagarto_5: -708566289965771003
+      Sheet_Attack_Lagarto_6: -2679172807045507084
+      Sheet_Attack_Lagarto_7: -4159050060462487071
+      Sheet_Attack_Lagarto_8: 2173525963256388230
+      Sheet_Attack_Lagarto_9: 4728100421448535645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
