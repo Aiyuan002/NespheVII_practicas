@@ -5916,6 +5916,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1533062717}
   m_CullTransparentMesh: 0
+--- !u!82 &1535259700 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 3362443081711119247, guid: eee7933a2d824ab498aefb7eda1ce171,
+    type: 3}
+  m_PrefabInstance: {fileID: 1610623791320716435}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1561915637
 GameObject:
   m_ObjectHideFlags: 0
@@ -8361,6 +8367,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1142551422910723742, guid: eee7933a2d824ab498aefb7eda1ce171,
+        type: 3}
+      propertyPath: loopSource
+      value: 
+      objectReference: {fileID: 1535259700}
     - target: {fileID: 2718339622962055704, guid: eee7933a2d824ab498aefb7eda1ce171,
         type: 3}
       propertyPath: m_Name
