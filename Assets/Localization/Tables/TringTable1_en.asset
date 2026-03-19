@@ -23,7 +23,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2
-    m_Localized: Start
+    m_Localized: New Game
     m_Metadata:
       m_Items: []
   - m_Id: 3
@@ -202,6 +202,30 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 50
     m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: mdiwpaoj4n lkdfow lqowrsw ikodba qwerty yuio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Native
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: 'Ethan '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: Translator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: '[Press F]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52
+    m_Localized: '[Press E to pick up]'
     m_Metadata:
       m_Items: []
   references:

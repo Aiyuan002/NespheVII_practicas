@@ -23,7 +23,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2
-    m_Localized: 'Jouer '
+    m_Localized: Nouvelle partie
     m_Metadata:
       m_Items: []
   - m_Id: 3
@@ -127,7 +127,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 32
-    m_Localized: "Pr\xEAt pour l\u2019action"
+    m_Localized: "Pr\xEAt \xE0 l'action"
     m_Metadata:
       m_Items: []
   - m_Id: 33
@@ -204,6 +204,30 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 50
     m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: mdiwpaoj4n lkdfow lqowrsw ikodba qwerty yuio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Natif
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: 'Ethan '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: Traducteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: '[Appuyez sur la touche F]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52
+    m_Localized: '[Appuyez sur la touche E pour ramasser]'
     m_Metadata:
       m_Items: []
   references:

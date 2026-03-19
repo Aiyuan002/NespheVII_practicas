@@ -4253,7 +4253,6 @@ GameObject:
   - component: {fileID: 4247259556540007204}
   - component: {fileID: 5486577765102433926}
   - component: {fileID: 3557275764850029593}
-  - component: {fileID: 1648134341017146792}
   m_Layer: 5
   m_Name: LanguagesPanel
   m_TagString: Untagged
@@ -4321,22 +4320,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &1648134341017146792
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4500318672231526381}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47a54c52d6cddd745859de47b81b9c28, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  musicSlider: {fileID: 0}
-  sfxSlider: {fileID: 0}
-  musicSource: {fileID: 0}
-  sfxSource: {fileID: 0}
 --- !u!1 &4576651361461008537
 GameObject:
   m_ObjectHideFlags: 0

@@ -4,7 +4,6 @@ using UnityEngine.EventSystems;
 public class SliderVisualController : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 {
     public Animator sliderAnimator;
-    public Animator handleAnimator;
 
     public void OnPointerDown(PointerEventData eventData)
     {

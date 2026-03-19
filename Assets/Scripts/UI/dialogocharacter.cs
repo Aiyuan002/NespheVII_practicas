@@ -60,3 +60,4 @@ public class dialogocharacter : MonoBehaviour
         // Aquí puedes realizar cualquier acción relacionada con el diálogo del NPC
     }
 }
+

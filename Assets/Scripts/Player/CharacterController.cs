@@ -112,6 +112,7 @@ public class CharacterController : MonoBehaviour
     public float crouchMoveSpeed;
     public bool isCrouching;
     private float crouchValue;
+    private bool canCrouch = true;
 
     //Desplazamiento
     [Header("Dash")]
@@ -207,20 +208,6 @@ public class CharacterController : MonoBehaviour
     private PlayerControls controls;
     public bool enablePlatform;
 
-    [Header("Dialogs")]
-    private bool isNearNPC = false;
-    public GameObject attacks;
-    public GameObject minimap;
-    public GameObject textPulsaF;
-    public GameObject PanelDialogo;
-    public Text textDialogo;
-    public GameObject canExit;
-
-    //private bool isDialogeInProgress = false;
-    private bool isDialogueInProgress;
-    private bool canPressF = true;
-    int contador = 0;
-
     public Piolet voidPiolet;
 
     [Header("Respawn/Checkpoint")]
@@ -278,7 +265,6 @@ public class CharacterController : MonoBehaviour
         controls.Gameplay.RoofCrouch.canceled += ctx => StopRoofCrouch();
         controls.Gameplay.AttackDirection.performed += ctx =>
             ropeDirection = ctx.ReadValue<Vector2>();
-        controls.Gameplay.Talk.performed += ctx => Talk();
         controls.Gameplay.Interact.performed += ctx =>
         {
             OnPlayerInteract?.Invoke();
@@ -306,15 +292,35 @@ public class CharacterController : MonoBehaviour
     {
         isJumping = !atGround && rb.linearVelocity.y > 0f;
 
+        //if (isPointShooting && !isCrouching && !isClimbing)
+        //{
+        //    projectile.shootNormal = false;
+        //    pointShooting.enabled = true;
+
+        //    if(!isSplitShooting)
+        //    {
+        //        if(normalSprite != null) normalSprite.SetActive(false);
+        //        if(shootSprite != null) shootSprite.SetActive(true);
+        //        if(botAnimator != null) botAnimator.SetBool("Land", false);
+        //        isSplitShooting = true;
+        //    }
+
+        //    UpdateLegsWhileSplitShooting();
+        //    splitShootTimer = 0f;
+        //}
+        //else
+        //{
+        //    projectile.shootNormal = true;
+        //    pointShooting.enabled = false;
+        //}
+
         if (isPointShooting)
         {
             projectile.shootNormal = false;
-            pointShooting.enabled = true;
         }
         else
         {
             projectile.shootNormal = true;
-            pointShooting.enabled = false;
         }
 
         // Control fin de disparo split (torso/piernas)
@@ -365,15 +371,6 @@ public class CharacterController : MonoBehaviour
 
             rb.gravityScale = 1;
             isClimbing = false;
-        }
-        if (isImmune)
-        {
-            immuneTimer += Time.deltaTime;
-            // Lógica de parpadeo aquí
-            if (immuneTimer >= immuneTime)
-            {
-                isImmune = false;
-            }
         }
 
         if (isVineTouching || isWallTouching)
@@ -443,18 +440,6 @@ public class CharacterController : MonoBehaviour
             }
         }
 
-        if (canExit.activeSelf && Input.GetKeyDown(KeyCode.E))
-        {
-            Debug.Log("al menos lo intentara??");
-            canExit.SetActive(false);
-            PanelDialogo.SetActive(false);
-            attacks.SetActive(true);
-            minimap.SetActive(true);
-            textDialogo.text = "";
-            canPressF = true;
-            ResetDialog();
-        }
-
         if (isCrouching || isClimbing && !canMove)
         {
             delayToMoveTimer += Time.deltaTime;
@@ -512,7 +497,7 @@ public class CharacterController : MonoBehaviour
             }
         }
 
-        if (canMove)
+        if (canMove && (DialogueManager.I == null || !DialogueManager.I.IsOpen))
         {
             if (move.x < 0)
             {
@@ -669,7 +654,6 @@ public class CharacterController : MonoBehaviour
                 }
             }
         }
-
     }
 
     private float GetCurrentTopClipLengthOrFallback()
@@ -782,6 +766,9 @@ public class CharacterController : MonoBehaviour
         if (topAnimator != null) topAnimator.SetBool("Land", true);
         if (botAnimator != null) botAnimator.SetBool("Land", true);
         normalAnimator.SetBool("Land", true);
+
+        topAnimator.transform.localPosition = Vector3.zero;
+        botAnimator.transform.localPosition = Vector3.zero;
     }
 
     //Salto
@@ -1169,6 +1156,41 @@ public class CharacterController : MonoBehaviour
                 HorizontalShoot();
             }
         }
+        else
+        {
+            // Modo disparo con ratón
+            if (canShoot && !isCrouching && !isClimbing)
+            {
+
+                // Obtener info de apuntado
+                pointShooting.GetShootInfo(out string clipName, out bool aimingRight, out int zone, out Transform spawnPos);
+
+
+
+                // Elegir posición de spawn según la zona angular
+                float aimAngle = zone * 7.5f;
+                //if (aimAngle <= 22.5f)
+                //    spawnPos = hShootPosition;
+                //else if (aimAngle >= 67.5f)
+                //    spawnPos = vShootPosition;
+                //else
+                //    spawnPos = dShootPosition;
+
+                // Reproducir animación de disparo via split-shoot
+                if (CanUseSplitShoot())
+                {
+                    BeginSplitShoot(clipName);
+                }
+                else
+                {
+                    normalAnimator.Play(clipName, -1, 0f);
+                    normalAnimator.SetBool("Land", false);
+                }
+
+                Instantiate(bullet, spawnPos.position, spawnPos.rotation);
+                canShoot = false;
+            }
+        }
     }
 
     //Disparar cuerda
@@ -1243,11 +1265,15 @@ public class CharacterController : MonoBehaviour
     //Se agacha
     void Crouch()
     {
-        if (!isDashing && !isClimbing && !isAttacking && atGround)
+        if (!isDashing && !isClimbing && !isAttacking && atGround && canCrouch)
         {
             if (crouchValue > 0.35f || !canStandUp)
             {
+                if (isSplitShooting)
+                    EndSplitShoot();
+
                 normalSprite.SetActive(false);
+                shootSprite.SetActive(false);
                 dashSprite.SetActive(false);
                 climbSprite.SetActive(false);
                 trepaSprite.SetActive(false);
@@ -1721,6 +1747,7 @@ public class CharacterController : MonoBehaviour
             isImmune = true;
             immuneTimer = 0f;
             blinkTimer = 0f;
+
             foreach (var r in sr)
                 r.enabled = false;
             return;
@@ -1805,26 +1832,6 @@ public class CharacterController : MonoBehaviour
         }
     }
 
-    private void Talk()
-    {
-        if (Keyboard.current.fKey.wasPressedThisFrame && isNearNPC && canPressF)
-        {
-            PanelDialogo.SetActive(true);
-            canPressF = false;
-            if (PanelDialogo == true)
-            {
-                StartCoroutine("DialogSequence");
-                canAccelerate = false;
-
-                canAttack = false;
-                canDash = false;
-                canMove = false;
-                canJump = false;
-                canMove = false;
-                canShoot = false;
-            }
-        }
-    }
 
     private void OnEnable()
     {
@@ -1915,17 +1922,12 @@ public class CharacterController : MonoBehaviour
             missionItmes++;
             Destroy(collision.gameObject);
         }
-        else if (collision.transform.tag == "NPC")
-        {
-            isNearNPC = true;
-            textPulsaF.SetActive(true);
-        }
         else if (collision.transform.tag == "Traductor")
         {
-            Traductor traductor = FindFirstObjectByType<Traductor>();
-            traductor.isActiveTranslate = true;
-            uiController.ActiveIconTranslate();
+            if (Traductor.I != null)
+                Traductor.I.GiveTranslator();
 
+            uiController.ActiveIconTranslate();
             Destroy(collision.transform.parent.gameObject);
         }
         else if (collision.transform.tag == "HealthPotion")
@@ -1945,17 +1947,6 @@ public class CharacterController : MonoBehaviour
                 CheckTop();
                 Debug.Log("CheckTop en OnTriggerExit2D");
             }
-        }
-
-        if (collision.transform.tag == "NPC")
-        {
-            isNearNPC = false;
-            canPressF = true;
-            textPulsaF.SetActive(false);
-            PanelDialogo.SetActive(false);
-            attacks.SetActive(true);
-            minimap.SetActive(true);
-            canExit.SetActive(false);
         }
     }
 
@@ -1977,63 +1968,10 @@ public class CharacterController : MonoBehaviour
         }
     }
 
-    private void OnTalkPerformed(InputAction.CallbackContext context)
-    {
-        if (isNearNPC == true)
-        {
-            Talk();
-            isFalling = false;
-            normalAnimator.SetBool("Falling", false);
-        }
-    }
+
 
     public Vector3 GetTransform() => transform.position;
 
-    IEnumerator DialogSequence()
-    {
-        normalAnimator.SetBool("Run", false);
-        normalAnimator.SetBool("Walk", false);
-        textDialogo.text = "";
-        attacks.SetActive(false);
-        minimap.SetActive(false);
-        string texto = string.Empty;
-
-        if (!uiController.translateIcon.activeSelf)
-        {
-            texto = "⏚⟟⟒⋏⎐⟒⋏⟟⎅⍜ ⏃ ⟒⌇⏁⟒ ⌿⌰⏃⋏⟒⏁⏃ ⌇⎍ ⋏⏃⎐⟒ ⌇⟒ ⟒⌇⏁⍀⟒⌰⌰⍜";
-        }
-        else
-        {
-            texto = "Bienvenido a este planeta, su nave se estrelló. ";
-        }
-        contador = 0;
-        while (contador < texto.Length)
-        {
-            textDialogo.text += texto[contador];
-            contador++;
-            yield return new WaitForSeconds(0.03f);
-        }
-        if (contador >= texto.Length)
-        {
-            canExit.SetActive(true);
-        }
-        else
-        {
-            canExit.SetActive(false);
-        }
-
-        canMove = true;
-        canJump = true;
-    }
-
-    void ResetDialog()
-    {
-        if (Keyboard.current.fKey.wasPressedThisFrame && isNearNPC)
-        {
-            contador = 0;
-            StartCoroutine(DialogSequence());
-        }
-    }
 
     public void ExecuteSelectedAttack(int index)
     {
@@ -2061,5 +1999,17 @@ public class CharacterController : MonoBehaviour
             return true;
         }
         return false;
+    }
+    public void SetControlEnabled(bool enabled)
+    {
+        canMove = enabled;
+        canJump = enabled;
+        canDash = enabled;
+        canAttack = enabled;
+        canShoot = enabled;
+        canCrouch = enabled;
+
+        if (!enabled)
+            move = Vector2.zero;
     }
 }

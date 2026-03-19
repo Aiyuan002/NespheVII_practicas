@@ -4,6 +4,7 @@ using UnityEngine;
     {
         Grass,
         Mud,
+        Wood,
         Default
     }
 

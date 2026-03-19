@@ -17,6 +17,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 7fe603f5a8b92764b9ac41a8e386e28c, type: 2}
   - {fileID: 11400000, guid: 9e0bd760b6214aa49a722148e5221d47, type: 2}
   - {fileID: 11400000, guid: eb26708f4e16c4648bdb0bbda17755fc, type: 2}
+  - {fileID: 11400000, guid: b3103bf567fc6a149b1a44ddc5c584b4, type: 2}
+  - {fileID: 11400000, guid: 12c2aa2afad1a7a40a4bce1a1c0b74fe, type: 2}
   m_Extensions:
   - rid: 1010761552901701657
   m_Group: String Table
@@ -32,7 +34,10 @@ MonoBehaviour:
         - rid: 1010761552901701659
         - rid: 1010761552901701660
         - rid: 1010761552901701661
-        m_ConnectedFile: C:/Users/nonem/Downloads/BuilderLanguages - Hoja 1 (2).csv
+        - rid: 4056926589138763850
+        - rid: 4056926589138763851
+        - rid: 4056926589138763849
+        m_ConnectedFile: C:/Users/Usuario/Downloads/BuilderLanguages - Hoja 1 (1).csv
     - rid: 1010761552901701658
       type: {class: KeyIdColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns,
         asm: Unity.Localization.Editor}
@@ -69,3 +74,30 @@ MonoBehaviour:
         m_FieldName: Spanish(es)
         m_CommentFieldName: Spanish(es) Comments
         m_IncludeComments: 1
+    - rid: 4056926589138763849
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns,
+        asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: de
+        m_FieldName: German(de)
+        m_CommentFieldName: German(de) Comments
+        m_IncludeComments: 0
+    - rid: 4056926589138763850
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns,
+        asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: 
+        m_FieldName: 
+        m_CommentFieldName: 
+        m_IncludeComments: 0
+    - rid: 4056926589138763851
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns,
+        asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: ru
+        m_FieldName: Russian(ru)
+        m_CommentFieldName: Russian(ru) Comments
+        m_IncludeComments: 0

@@ -6,42 +6,43 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-    //[SerializeField] private GameObject ButtonPause;
     [SerializeField] private GameObject MenuPausa;
+    [SerializeField] private GameObject MenuOpciones;
     [SerializeField] private AudioClip clickSFX;
 
-    private bool isPaused = false;
+    public static bool IsPaused { get; private set; }
 
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (isPaused)
-                Resume();
-            else
-                Pause();
+            if (IsPaused) Resume();
+            else Pause();
         }
     }
 
     public void Pause()
     {
-        if (isPaused) return;
+        if (IsPaused) return;
 
         Time.timeScale = 0f;
-        //ButtonPause.SetActive(false);
         MenuPausa.SetActive(true);
-        isPaused = true;
+        IsPaused = true;
     }
 
     public void Resume()
     {
-        if (!isPaused) return;
+        if (!IsPaused) return;
 
         Time.timeScale = 1f;
-        //ButtonPause.SetActive(true);
         MenuPausa.SetActive(false);
-        isPaused = false;
+
+        if (MenuOpciones != null)
+            MenuOpciones.SetActive(false);
+
+        IsPaused = false;
     }
+
     public void PlayClick()
     {
         AudioManager.Instance.PlaySFX(clickSFX);
@@ -49,7 +50,8 @@ public class PauseMenu : MonoBehaviour
 
     public void BackToMenu()
     {
-        Time.timeScale = 1f; 
+        Time.timeScale = 1f;
+        IsPaused = false;
         SceneManager.LoadScene("MainMenu");
     }
 }

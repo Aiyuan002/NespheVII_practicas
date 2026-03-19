@@ -198,7 +198,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 75e874a8d87164f4c95148bc69013bee, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
@@ -621,7 +621,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SliderVisualController
   sliderAnimator: {fileID: 6378268928166416150}
-  handleAnimator: {fileID: 5793658303680201335}
 --- !u!1 &366028721657763265
 GameObject:
   m_ObjectHideFlags: 0
@@ -711,7 +710,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 22100000, guid: 49781d1bd6854de4997ebcf874f46429, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
@@ -1804,7 +1803,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 22100000, guid: c8a233a1380315e4c90df23b35948bd7, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
@@ -3397,7 +3396,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 3410484898108341163}
         m_TargetAssemblyTypeName: LocalizationController, Assembly-CSharp
         m_MethodName: ChangeLocale
         m_Mode: 3
@@ -4299,7 +4298,7 @@ GameObject:
   - component: {fileID: 6611390611504377924}
   - component: {fileID: 2601295606909783080}
   - component: {fileID: 2718272705705978492}
-  - component: {fileID: 6596323821099162564}
+  - component: {fileID: 3410484898108341163}
   m_Layer: 5
   m_Name: LanguagesPanel
   m_TagString: Untagged
@@ -4367,7 +4366,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &6596323821099162564
+--- !u!114 &3410484898108341163
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4376,13 +4375,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 2801389830939208765}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47a54c52d6cddd745859de47b81b9c28, type: 3}
+  m_Script: {fileID: 11500000, guid: 011b4ce43b82cbb44b7ecd885bec3c3f, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: 
-  musicSlider: {fileID: 0}
-  sfxSlider: {fileID: 0}
-  musicSource: {fileID: 0}
-  sfxSource: {fileID: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizationController
 --- !u!1 &2813070709187094816
 GameObject:
   m_ObjectHideFlags: 0
@@ -4507,7 +4502,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 0cd3ad6b0d44e7448a823fc00a605f0a, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
@@ -4740,7 +4735,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 049dc3694e8cc8040a6ab77fe7ce1210, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
@@ -5563,7 +5558,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SliderVisualController
   sliderAnimator: {fileID: 4065450357652803901}
-  handleAnimator: {fileID: 2111567976145798626}
 --- !u!1 &4110859888835946552
 GameObject:
   m_ObjectHideFlags: 0
@@ -6264,7 +6258,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 3410484898108341163}
         m_TargetAssemblyTypeName: LocalizationController, Assembly-CSharp
         m_MethodName: ChangeLocale
         m_Mode: 3
@@ -6904,7 +6898,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 09ff1c6604e34684b8eb6c47d6c05a63, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
@@ -7656,7 +7650,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 0cd3ad6b0d44e7448a823fc00a605f0a, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
@@ -8084,7 +8078,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SliderVisualController
   sliderAnimator: {fileID: 1930828751665459122}
-  handleAnimator: {fileID: 4559905840204975412}
 --- !u!1 &5851273486525896611
 GameObject:
   m_ObjectHideFlags: 0
@@ -8562,6 +8555,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PauseMenu
   MenuPausa: {fileID: 1413826895727894715}
+  MenuOpciones: {fileID: 4862224506518589229}
   clickSFX: {fileID: 8300000, guid: 8e1d87ce504b48243925426e9edc6876, type: 3}
 --- !u!1 &6687920330965625350
 GameObject:
@@ -9661,7 +9655,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 22100000, guid: 9fe89d37330ee464baed7a145f53cf20, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
@@ -9828,7 +9822,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 3410484898108341163}
         m_TargetAssemblyTypeName: LocalizationController, Assembly-CSharp
         m_MethodName: ChangeLocale
         m_Mode: 3
@@ -10415,7 +10409,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 0cd3ad6b0d44e7448a823fc00a605f0a, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0

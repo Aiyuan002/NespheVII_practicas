@@ -96,6 +96,13 @@ public class AudioManager : MonoBehaviour
         musicSource.clip = clip;
         musicSource.Play();
     }
+    public void PlayPickup(AudioClip clip)
+    {
+        if (clip == null) return;
+        if (sfxSource == null) return;
+
+        sfxSource.PlayOneShot(clip);
+    }
 
     public void StopMusic() => musicSource.Stop();
 }

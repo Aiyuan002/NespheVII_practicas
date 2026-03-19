@@ -1,20 +1,33 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
 
 public class Traductor : MonoBehaviour
 {
-    [Space(5)]
-    [Header("Traductor")]
-    public bool isActiveTranslate;
+    public static Traductor I { get; private set; }
 
-    // Start is called before the first frame update
-    void Start()
+    [field: SerializeField] public bool HasTranslator { get; private set; }
+
+    private void Awake()
     {
-        if (!isActiveTranslate)
-        {
-            isActiveTranslate = false;
-        }
+        if (I != null && I != this) { Destroy(gameObject); return; }
+        I = this;
+        DontDestroyOnLoad(gameObject);
     }
+
+    public void GiveTranslator()
+    {
+        HasTranslator = true;
+    }
+
+    public void RemoveTranslator()
+    {
+        HasTranslator = false;
+    }
+
+
+
+
+
+
+
+    [Space(5)][Header("Traductor")] public bool isActiveTranslate; // Start is called before the first frame update void Start() { if (!isActiveTranslate) { isActiveTranslate = false; } }
 }

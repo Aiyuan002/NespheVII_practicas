@@ -80,7 +80,7 @@ public class Projectile : MonoBehaviour
             //}
             if (coll.CompareTag("Player"))
             {
-                Debug.Log("aquientrasiono");
+                //Debug.Log("aquientrasiono");
                 collision_ = true;
                 Destroy(this.gameObject);
                 collision_ = false;

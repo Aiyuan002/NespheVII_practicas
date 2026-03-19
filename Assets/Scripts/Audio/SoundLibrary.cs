@@ -8,16 +8,11 @@ public class SoundLibrary : MonoBehaviour
     public AudioClip runGrass;
     public AudioClip walkMud;
     public AudioClip runMud;
-
-    [Header("Jump & Land")]
-    public AudioClip jump;
-    public AudioClip landSoft;
-    public AudioClip landHard;
+    public AudioClip walkWood;
+    public AudioClip runWood;
 
     [Header("Pickups")]
     public AudioClip pickupItem;
-    public AudioClip pickupHealth;
-    public AudioClip pickupAbility;
 
     [Header("Combat")]
     public AudioClip punch;
