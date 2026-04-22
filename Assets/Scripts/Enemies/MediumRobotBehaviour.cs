@@ -208,9 +208,28 @@ public class MediumRobotBehaviour : MonoBehaviour
 
     //Disparo
     void Shoot()
+{
+    if (bullet == null || shootPosition == null || playerTransform == null)
     {
-        Instantiate(bullet, shootPosition.position, shootPosition.rotation);
+        return;
     }
+
+    float directionX = 1f;
+
+    if (playerTransform.position.x < transform.position.x)
+    {
+        directionX = -1f;
+    }
+
+    GameObject newBullet = Instantiate(bullet, shootPosition.position, Quaternion.identity);
+
+    EnemyProjectile projectileScript = newBullet.GetComponent<EnemyProjectile>();
+
+    if (projectileScript != null)
+    {
+        projectileScript.SetDirection(directionX);
+    }
+}
 
     void Jump()
     {
