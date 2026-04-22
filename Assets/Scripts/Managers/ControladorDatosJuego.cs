@@ -85,7 +85,6 @@ public class ControladorDatosJuego : MonoBehaviour
             health = UI.GetComponent<UIController>().currentHealth,
             guardado = UI.GetComponent<UIController>().haGuardado,
         };
-        Debug.Log(UI.GetComponent<UIController>().currentHealth);
         
         string cadenaJSON = JsonUtility.ToJson(nuevosDatos);
 
@@ -93,6 +92,5 @@ public class ControladorDatosJuego : MonoBehaviour
 
         primerCargado = true;
 
-        Debug.Log("Archivo Guardado");
     }
 }

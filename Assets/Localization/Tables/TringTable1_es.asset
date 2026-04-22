@@ -227,6 +227,134 @@ MonoBehaviour:
     m_Localized: '[Presiona E para recoger]'
     m_Metadata:
       m_Items: []
+  - m_Id: 53
+    m_Localized: Inventario lleno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: "No puedes llevar m\xE1s de este tipo "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: "Planta Carn\xEDvora"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Lagarto del Pantano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Mago Nativo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58
+    m_Localized: Planta escupidora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: Planta de fuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60
+    m_Localized: Planta venenosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: Estatua del Dios Reptil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62
+    m_Localized: "Soldado Corporaci\xF3n Ca\xF1on"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: "Soldado Corporaci\xF3n Rifle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64
+    m_Localized: Mercenario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: Robot Comandante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66
+    m_Localized: Robot Laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: Robot mascota Bomba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Localized: Dron explorador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69
+    m_Localized: "Recluta Soldado Corporaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70
+    m_Localized: Monstruo Ojos de Pantano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: Monstruo Lobo de Pantano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: Flor de racimo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: Planta violeta venenosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: Medusa de Fuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: "Medusa El\xE9ctrica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: Monstruo gigante de pantano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77
+    m_Localized: "\xC1rbol de huevos de \xE1cido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78
+    m_Localized: "Lech\xF3n del bosque volador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79
+    m_Localized: Dinosario alien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80
+    m_Localized: Rosa del pantano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81
+    m_Localized: Mercenario Sapo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82
+    m_Localized: Serpiente de pantano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83
+    m_Localized: Director General de Helion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84
+    m_Localized: Monstruo pulpo del pantanto
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

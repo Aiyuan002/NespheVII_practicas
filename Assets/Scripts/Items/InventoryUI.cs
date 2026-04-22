@@ -48,6 +48,31 @@ public class InventoryUI : MonoBehaviour
             EventTrigger trigger =
                 slotButtons[i].GetComponent<EventTrigger>()
                 ?? slotButtons[i].gameObject.AddComponent<EventTrigger>();
+            // Hover entrar
+            EventTrigger.Entry enterEntry = new EventTrigger.Entry
+            {
+                eventID = EventTriggerType.PointerEnter
+            };
+
+            enterEntry.callback.AddListener((data) =>
+            {
+                ShowDescription(index);
+            });
+
+            trigger.triggers.Add(enterEntry);
+
+            // Hover salir
+            EventTrigger.Entry exitEntry = new EventTrigger.Entry
+            {
+                eventID = EventTriggerType.PointerExit
+            };
+
+            exitEntry.callback.AddListener((data) =>
+            {
+                descripcion.SetActive(false);
+            });
+
+            trigger.triggers.Add(exitEntry);
             EventTrigger.Entry entry = new EventTrigger.Entry
             {
                 eventID = EventTriggerType.PointerClick,
@@ -69,35 +94,35 @@ public class InventoryUI : MonoBehaviour
     }
     #endregion
 
-    /* public void OnPointerEnter(PointerEventData eventData)
-     {
-         // Verificar si el puntero está sobre un slotButton
-         if (eventData.pointerEnter != null)
-         {
-             Button button = eventData.pointerEnter?.GetComponentInChildren<Button>();
-             if (button != null && System.Array.IndexOf(slotButtons, button) != -1)
-             {
-                 int slotIndex = System.Array.IndexOf(slotButtons, button);
-                 if (slotIndex >= 0 && slotIndex < inventory.GetSlots().Count)
-                 {
-                     InventorySlot slot = inventory.GetSlots()[slotIndex];
-                     if (slot.item != null)
-                     {
-                         // Activar y actualizar la descripción
-                         isActiveDes = true;
-                         descripcion.SetActive(true);
- 
-                         TextMeshProUGUI descripcionText =
-                             descripcion.GetComponentInChildren<TextMeshProUGUI>();
-                         if (descripcionText != null)
-                         {
-                             descripcionText.text = $"Nombre: {slot.item.name}\nDescripción:";
-                         }
-                     }
-                 }
-             }
-         }
-     }*/
+    public void OnPointerEnter(PointerEventData eventData)
+    {
+        // Verificar si el puntero está sobre un slotButton
+        if (eventData.pointerEnter != null)
+        {
+            Button button = eventData.pointerEnter?.GetComponentInChildren<Button>();
+            if (button != null && System.Array.IndexOf(slotButtons, button) != -1)
+            {
+                int slotIndex = System.Array.IndexOf(slotButtons, button);
+                if (slotIndex >= 0 && slotIndex < inventory.GetSlots().Count)
+                {
+                    InventorySlot slot = inventory.GetSlots()[slotIndex];
+                    if (slot.item != null)
+                    {
+                        // Activar y actualizar la descripción
+                        isActiveDes = true;
+                        descripcion.SetActive(true);
+
+                        TextMeshProUGUI descripcionText =
+                            descripcion.GetComponentInChildren<TextMeshProUGUI>();
+                        if (descripcionText != null)
+                        {
+                            descripcionText.text = $"Nombre: {slot.item.name}\nDescripción:";
+                        }
+                    }
+                }
+            }
+        }
+    }
 
     public void OnPointerExit(PointerEventData eventData)
     {
@@ -175,10 +200,10 @@ public class InventoryUI : MonoBehaviour
         }
         selectedSlot = index;
 
-        RectTransform buttonRect = slotButtons[selectedSlot].GetComponent<RectTransform>();
-        RectTransform descripcionRect = descripcion.GetComponent<RectTransform>();
-        Vector2 anchoredPosition = buttonRect.anchoredPosition + new Vector2(-554f, 261f); // Desplazamiento fijo
-        descripcionRect.anchoredPosition = anchoredPosition;
+        // RectTransform buttonRect = slotButtons[selectedSlot].GetComponent<RectTransform>();
+        // RectTransform descripcionRect = descripcion.GetComponent<RectTransform>();
+        // Vector2 anchoredPosition = buttonRect.anchoredPosition + new Vector2(-554f, 261f); // Desplazamiento fijo
+        // descripcionRect.anchoredPosition = anchoredPosition;
 
         if (index >= 0 && index < inventory.GetSlots().Count)
         {
@@ -201,6 +226,7 @@ public class InventoryUI : MonoBehaviour
                     || slot.item.type == ItemType.Gema_Azul
                     || slot.item.type == ItemType.Gema_Negra
                     || slot.item.type == ItemType.Gema_Cian
+                    || slot.item.type == ItemType.SetaGreenHealth_1
                 )
             )
             {
@@ -236,6 +262,7 @@ public class InventoryUI : MonoBehaviour
     #region Actualización de UI
     private void UpdateUI()
     {
+        Debug.Log("<color=yellow>[UI]</color> UpdateUI ejecutándose...");
         List<InventorySlot> slots = inventory.GetSlots();
         for (int i = 0; i < slotButtons.Length; i++)
         {
@@ -293,6 +320,12 @@ public class InventoryUI : MonoBehaviour
                 inventory.RemoveItem(slotIndex);
                 descripcion.SetActive(false);
             }
+            else if (item.type == ItemType.SetaGreenHealth_1 && UI.lifes < 3)
+            {
+                item.Use();
+                inventory.RemoveItem(slotIndex);
+                descripcion.SetActive(false);
+            }
             else
             {
                 DeselectSlot(); // Deseleccionar si no se usa el item
@@ -323,6 +356,36 @@ public class InventoryUI : MonoBehaviour
                 DeselectSlot();
                 descripcion.SetActive(false);
             }
+        }
+    }
+    private void ShowDescription(int index)
+    {
+        List<InventorySlot> slots = inventory.GetSlots();
+
+        if (index < 0 || index >= slots.Count)
+            return;
+
+        InventorySlot slot = slots[index];
+
+        if (slot.item == null)
+            return;
+
+        descripcion.SetActive(true);
+
+        // RectTransform buttonRect = slotButtons[index].GetComponent<RectTransform>();
+        // RectTransform descripcionRect = descripcion.GetComponent<RectTransform>();
+
+        // Vector2 anchoredPosition =
+        //     buttonRect.anchoredPosition + new Vector2(-554f, 261f);
+
+        // descripcionRect.anchoredPosition = anchoredPosition;
+
+        TextMeshProUGUI descripcionText =
+            descripcion.GetComponentInChildren<TextMeshProUGUI>();
+
+        if (descripcionText != null)
+        {
+            descripcionText.text = slot.item.beneficio;
         }
     }
     #endregion

@@ -2,58 +2,70 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Localization;
+
+public enum InventoryAddResult
+{
+    Success,
+    InventoryFull,
+    MaxStackReached
+}
 
 public class Inventory : MonoBehaviour
 {
-    [SerializeField]
-    private int maxSlots = 3;
+    [Header("Config")]
+    [SerializeField] private int maxSlots = 3;
 
-    private List<InventorySlot> slots = new List<InventorySlot>();
+    [Header("UI Feedback")]
+    [SerializeField] private Animator feedbackAnimator;
+    [SerializeField] private TextMeshProUGUI feedbackText;
+    [SerializeField] private float feedbackDuration = 2f;
+
+    [Header("Localized Messages")]
+    [SerializeField] private LocalizedString inventoryFullMessage;
+    [SerializeField] private LocalizedString maxStackReachedMessage;
+
+    private readonly List<InventorySlot> slots = new List<InventorySlot>();
+    private Coroutine feedbackCoroutine;
 
     public delegate void InventoryUpdate();
     public static event InventoryUpdate OnInventoryUpdate;
 
-    [SerializeField]
-    private Animator textFull;
-    public bool isFull = false;
-
-    public bool AddItem(Item newItem)
+    public InventoryAddResult AddItem(Item newItem)
     {
+        if (newItem == null)
+            return InventoryAddResult.InventoryFull;
+
         foreach (InventorySlot slot in slots)
         {
-            if (slot.item.id == newItem.id && slot.quantity < newItem.maxStack)
+            if (slot.item.id == newItem.id)
             {
-                slot.quantity++;
-
-                Debug.Log($"Stack aumentado: {slot.item.name} (x{slot.quantity})");
-                OnInventoryUpdate?.Invoke();
-
-                return true;
-            }
-            else if (slot.item.id == newItem.id && slot.quantity >= newItem.maxStack)
-            {
-                Debug.Log("maximoAqui" + newItem.maxStack + " " + slot.quantity);
-                OnInventoryUpdate?.Invoke();
-                StartCoroutine(CourutineText());
-                return false;
+                if (slot.quantity < slot.item.maxStack)
+                {
+                    slot.quantity++;
+                    OnInventoryUpdate?.Invoke();
+                    return InventoryAddResult.Success;
+                }
+                else
+                {
+                    ShowFeedback(maxStackReachedMessage);
+                    return InventoryAddResult.MaxStackReached;
+                }
             }
         }
 
         if (slots.Count < maxSlots)
         {
             slots.Add(new InventorySlot(newItem));
-            Debug.Log($"Nuevo slot: {newItem.name}");
+
+            Debug.Log($"<color=green>[INVENTARIO]</color> Ítem añadido. Slots ocupados: {slots.Count}. Lanzando evento OnInventoryUpdate.");
+            
             OnInventoryUpdate?.Invoke();
-
-            return true;
+            return InventoryAddResult.Success;
         }
-        else
-        {
-            StartCoroutine(CourutineText());
 
-            Debug.Log("Inventario lleno");
-            return false;
-        }
+        ShowFeedback(inventoryFullMessage);
+        return InventoryAddResult.InventoryFull;
     }
 
     public List<InventorySlot> GetSlots()
@@ -63,44 +75,43 @@ public class Inventory : MonoBehaviour
 
     public void RemoveItem(int slotIndex)
     {
-        if (slotIndex < slots.Count)
-        {
-            slots[slotIndex].quantity--;
+        if (slotIndex < 0 || slotIndex >= slots.Count)
+            return;
 
-            // Si la cantidad llega a 0, eliminar el slot
-            if (slots[slotIndex].quantity <= 0)
-            {
-                slots.RemoveAt(slotIndex);
-                OnInventoryUpdate?.Invoke();
-            }
+        slots[slotIndex].quantity--;
 
-            OnInventoryUpdate?.Invoke();
-        }
+        if (slots[slotIndex].quantity <= 0)
+            slots.RemoveAt(slotIndex);
+
+        OnInventoryUpdate?.Invoke();
     }
 
-    /*  private bool IsInventoryFull()
-      {
-          // Si hay espacio para un nuevo slot, el inventario no está lleno.
-          if (slots.Count < maxSlots)
-              return false;
-  
-          // Recorremos todos los slots y verificamos si alguno tiene espacio para más items.
-          foreach (InventorySlot slot in slots)
-          {
-              if (slot.quantity < slot.item.maxStack)
-                  return false;
-          }
-          return true;
-      }*/
-    public IEnumerator CourutineText()
+    private void ShowFeedback(LocalizedString localizedMessage)
     {
-        textFull.Play("Fullinventory");
+        if (feedbackCoroutine != null)
+            StopCoroutine(feedbackCoroutine);
 
-        yield return new WaitForSeconds(2);
+        feedbackCoroutine = StartCoroutine(ShowFeedbackRoutine(localizedMessage));
+    }
+
+    private IEnumerator ShowFeedbackRoutine(LocalizedString localizedMessage)
+    {
+        var handle = localizedMessage.GetLocalizedStringAsync();
+        yield return handle;
+
+        if (feedbackText != null)
+            feedbackText.text = handle.Result;
+
+        if (feedbackAnimator != null)
+        {
+            feedbackAnimator.gameObject.SetActive(true);
+            feedbackAnimator.Play("Fullinventory", 0, 0f);
+        }
+
+        yield return new WaitForSeconds(feedbackDuration);
     }
 }
 
-// Clase para manejar los stacks
 [System.Serializable]
 public class InventorySlot
 {

@@ -53,8 +53,8 @@ public class TiendaBasica : MonoBehaviour
         go.SetActive(false);
         Item item = go.GetComponent<Item>();
 
-       
-        if (playerInventory.AddItem(item))
+
+        if (playerInventory.AddItem(item) == InventoryAddResult.Success)
         {
             Debug.Log("Has comprado una poción de vida.");
             
@@ -83,7 +83,7 @@ public class TiendaBasica : MonoBehaviour
         go.SetActive(false);
         Item item = go.GetComponent<Item>();
 
-        if (playerInventory.AddItem(item))
+        if (playerInventory.AddItem(item) == InventoryAddResult.Success)
         {
             Debug.Log("Has comprado una poción de maná.");
         }

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 
 public class MediumRobotBehaviour : MonoBehaviour
 {
@@ -58,6 +59,13 @@ public class MediumRobotBehaviour : MonoBehaviour
     public bool canPatrol = true;
     public bool canJump = true;
     public bool noGround;
+
+    [Header("Localization")]
+    public LocalizedString enemyName;
+
+        [Header("UI Distance")]
+    public float hideUIDistance = 4f;
+    private bool enemyUIShown;
 
     void Start()
     {
@@ -132,6 +140,8 @@ public class MediumRobotBehaviour : MonoBehaviour
         {
             CheckGround();
         }
+
+        HideUIIfFar();
     }
 
     //Comprobar si toca el suelo
@@ -208,28 +218,9 @@ public class MediumRobotBehaviour : MonoBehaviour
 
     //Disparo
     void Shoot()
-{
-    if (bullet == null || shootPosition == null || playerTransform == null)
     {
-        return;
+        Instantiate(bullet, shootPosition.position, shootPosition.rotation);
     }
-
-    float directionX = 1f;
-
-    if (playerTransform.position.x < transform.position.x)
-    {
-        directionX = -1f;
-    }
-
-    GameObject newBullet = Instantiate(bullet, shootPosition.position, Quaternion.identity);
-
-    EnemyProjectile projectileScript = newBullet.GetComponent<EnemyProjectile>();
-
-    if (projectileScript != null)
-    {
-        projectileScript.SetDirection(directionX);
-    }
-}
 
     void Jump()
     {
@@ -386,7 +377,9 @@ public class MediumRobotBehaviour : MonoBehaviour
         if (collision.transform.tag == "Projectile")
         {
             var dmg = collision.gameObject.GetComponent<Projectile>().damage;
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             if (!isImmune)
             {
                 GetDamage(dmg);
@@ -397,7 +390,9 @@ public class MediumRobotBehaviour : MonoBehaviour
         if (collision.transform.tag == "Attack")
         {
             var dmg = collision.gameObject.GetComponentInParent<CharacterController>().attackDamage;
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             if (!isImmune)
             {
                 StartCoroutine(WaitToAnim(dmg));
@@ -444,6 +439,19 @@ public class MediumRobotBehaviour : MonoBehaviour
         if (collision.transform.tag == "Player")
         {
             PushPlayer();
+        }
+    }
+
+    private void HideUIIfFar()
+    {
+        if (!enemyUIShown || playerTransform == null || uiController == null) return;
+
+        float distance = Vector2.Distance(transform.position, playerTransform.position);
+
+        if (distance > hideUIDistance)
+        {
+            uiController.DisabledEnemyCanvas();
+            enemyUIShown = false;
         }
     }
 }

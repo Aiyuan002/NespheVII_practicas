@@ -13,11 +13,10 @@ public class MapPlayer : MonoBehaviour
     public float XOffset;
     public float Multiply;
 
-    // Start is called before the first frame update
-    void Start() { }
 
     void Update()
     {
+
         Vector3 screenPos = personaje.transform.position * Multiply;
 
         Vector2 localPoint;
@@ -32,10 +31,8 @@ public class MapPlayer : MonoBehaviour
             )
         )
         {
+            localPoint += new Vector2(XOffset, YOffset);
             rawImage.rectTransform.anchoredPosition = localPoint;
         }
-        localPoint += new Vector2(XOffset, YOffset); // 50 píxeles hacia arriba
-
-        rawImage.rectTransform.anchoredPosition = localPoint;
     }
 }

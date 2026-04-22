@@ -25,22 +25,26 @@ public class PauseMenu : MonoBehaviour
     {
         if (IsPaused) return;
 
-        Time.timeScale = 0f;
         MenuPausa.SetActive(true);
         IsPaused = true;
+
+        if (PauseGameManager.Instance != null)
+            PauseGameManager.Instance.SetPausedByMenu(true);
     }
 
     public void Resume()
     {
         if (!IsPaused) return;
 
-        Time.timeScale = 1f;
         MenuPausa.SetActive(false);
 
         if (MenuOpciones != null)
             MenuOpciones.SetActive(false);
 
         IsPaused = false;
+
+        if (PauseGameManager.Instance != null)
+            PauseGameManager.Instance.SetPausedByMenu(false);
     }
 
     public void PlayClick()
@@ -50,8 +54,12 @@ public class PauseMenu : MonoBehaviour
 
     public void BackToMenu()
     {
-        Time.timeScale = 1f;
         IsPaused = false;
+
+        if (PauseGameManager.Instance != null)
+            PauseGameManager.Instance.SetPausedByMenu(false);
+
+        Time.timeScale = 1f;
         SceneManager.LoadScene("MainMenu");
     }
 }

@@ -32,8 +32,8 @@ public class PlayerFootsteps : MonoBehaviour
         }
 
         AudioClip clip = GetFootstepClip();
-        Debug.Log("Surface usada por footsteps: " + surfaceDetector.CurrentSurface);
-        Debug.Log("Clip elegido: " + (clip != null ? clip.name : "NULL"));
+        //Debug.Log("Surface usada por footsteps: " + surfaceDetector.CurrentSurface);
+        //Debug.Log("Clip elegido: " + (clip != null ? clip.name : "NULL"));
         AudioManager.Instance.PlayLoop(clip); ;
     }
 

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 
 public class Medusa : MonoBehaviour
 {
@@ -70,6 +71,13 @@ public class Medusa : MonoBehaviour
     private bool isCheckingDistance = false;
     private bool isExecutingAttack = false;
     private bool finishMelee = false;
+
+    [Header("Localization")]
+    public LocalizedString enemyName;
+
+        [Header("UI Distance")]
+    public float hideUIDistance = 4f;
+    private bool enemyUIShown;
 
     void Start()
     {
@@ -166,6 +174,8 @@ public class Medusa : MonoBehaviour
             CheckPlayerDirection();
             DetectPlayer();
         }
+
+        HideUIIfFar();
     }
 
     void Death()
@@ -418,7 +428,9 @@ public class Medusa : MonoBehaviour
         if (collision.transform.tag == "Projectile")
         {
             var dmg = collision.gameObject.GetComponent<Projectile>().damage;
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             GetDamage(dmg);
             Destroy(collision.gameObject);
         }
@@ -426,7 +438,9 @@ public class Medusa : MonoBehaviour
         if (collision.transform.tag == "Attack")
         {
             var dmg = collision.gameObject.GetComponentInParent<CharacterController>().attackDamage;
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             StartCoroutine(WaitToAnim(dmg));
         }
     }
@@ -558,6 +572,19 @@ public class Medusa : MonoBehaviour
             {
                 sr.enabled = false;
             }
+        }
+    }
+
+    private void HideUIIfFar()
+    {
+        if (!enemyUIShown || playerTransform == null || uiController == null) return;
+
+        float distance = Vector2.Distance(transform.position, playerTransform.position);
+
+        if (distance > hideUIDistance)
+        {
+            uiController.DisabledEnemyCanvas();
+            enemyUIShown = false;
         }
     }
 }

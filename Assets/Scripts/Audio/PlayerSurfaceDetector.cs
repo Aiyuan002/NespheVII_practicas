@@ -53,7 +53,7 @@ public class PlayerSurfaceDetector : MonoBehaviour
         {
             CurrentSurface = SurfaceType.Default;
         }
-        Debug.Log("Tile detectado: " + currentTile.name + " | Surface final: " + CurrentSurface);
+        //Debug.Log("Tile detectado: " + currentTile.name + " | Surface final: " + CurrentSurface);
     }
 
     private bool ContainsTile(TileBase[] tileArray, TileBase targetTile)

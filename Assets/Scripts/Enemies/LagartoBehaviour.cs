@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Security.Cryptography;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.Localization;
 
 public class LagartoBehaviour : MonoBehaviour
 {
@@ -71,6 +72,13 @@ public class LagartoBehaviour : MonoBehaviour
     private float stopTimer = 0f;
     public float stopTime = 2f;
 
+    [Header("Localization")]
+    public LocalizedString enemyName;
+
+    [Header("UI Distance")]
+    public float hideUIDistance = 4f;
+    private bool enemyUIShown;
+
     void Start()
     {
         if (transform.rotation.y == 0)
@@ -124,6 +132,7 @@ public class LagartoBehaviour : MonoBehaviour
             Jump();
 
         CheckGround();
+        HideUIIfFar();
     }
 
     void HandleVelocity()
@@ -397,7 +406,9 @@ public class LagartoBehaviour : MonoBehaviour
 
             int dmg = projectile.damage;
 
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             if (!isImmune)
             {
                 GetDamage(dmg);
@@ -409,7 +420,9 @@ public class LagartoBehaviour : MonoBehaviour
         {
             int dmg = collision.gameObject.GetComponentInParent<CharacterController>().attackDamage;
 
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             if (!isImmune)
             {
                 StartCoroutine(WaitToAnim(dmg));
@@ -528,6 +541,19 @@ public class LagartoBehaviour : MonoBehaviour
     public void PositionDown()
     {
         transform.position = new Vector2(transform.position.x, transform.position.y - walking);
+    }
+
+    private void HideUIIfFar()
+    {
+        if (!enemyUIShown || playerTransform == null || uiController == null) return;
+
+        float distance = Vector2.Distance(transform.position, playerTransform.position);
+
+        if (distance > hideUIDistance)
+        {
+            uiController.DisabledEnemyCanvas();
+            enemyUIShown = false;
+        }
     }
 
     //_______________________________________________________________

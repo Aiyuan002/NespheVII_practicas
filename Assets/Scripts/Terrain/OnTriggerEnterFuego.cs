@@ -10,7 +10,6 @@ public class OnTriggerEnterFuego : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            Debug.Log("Se guarda");
             guardar = true;
         }
     }

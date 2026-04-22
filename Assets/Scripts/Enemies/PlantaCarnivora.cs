@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 
 public class PlantaCarnivora : MonoBehaviour
 {
@@ -29,6 +30,15 @@ public class PlantaCarnivora : MonoBehaviour
     private SpriteRenderer sr;
     public bool isImmune;
 
+    [Header("Localization")]
+    public LocalizedString enemyName;
+
+    [Header("UI Distance")]
+    public Transform playerTransform;
+    public float hideUIDistance = 4f;
+    private bool enemyUIShown;
+
+
     private void Start()
     {
         animator = this.GetComponent<Animator>();
@@ -45,6 +55,7 @@ public class PlantaCarnivora : MonoBehaviour
         }
 
         GetDamagePlayer();
+        HideUIIfFar();
     }
 
     public void GetDamagePlayer()
@@ -121,7 +132,9 @@ public class PlantaCarnivora : MonoBehaviour
         if (collision.transform.tag == "Projectile")
         {
             var dmg = collision.gameObject.GetComponent<Projectile>().damage;
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             //DamageBlink();
             if (!isImmune)
             {
@@ -133,12 +146,27 @@ public class PlantaCarnivora : MonoBehaviour
         if (collision.transform.tag == "Attack")
         {
             var dmg = collision.gameObject.GetComponentInParent<CharacterController>().attackDamage;
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             //DamageBlink();
             if (!isImmune)
             {
                 GetDamage(dmg);
             }
+        }
+    }
+
+    private void HideUIIfFar()
+    {
+        if (!enemyUIShown || playerTransform == null || uiController == null) return;
+
+        float distance = Vector2.Distance(transform.position, playerTransform.position);
+
+        if (distance > hideUIDistance)
+        {
+            uiController.DisabledEnemyCanvas();
+            enemyUIShown = false;
         }
     }
 }

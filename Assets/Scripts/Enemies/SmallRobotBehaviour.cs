@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.Remoting.Metadata.W3cXsd2001;
 using UnityEngine;
+using UnityEngine.Localization;
 
 public class SmallRobotBehaviour : MonoBehaviour
 {
@@ -78,6 +79,13 @@ public class SmallRobotBehaviour : MonoBehaviour
     [Header("Trigger")]
     AttackPoint scriptAttack;
 
+    [Header("Localization")]
+    public LocalizedString enemyName;
+
+        [Header("UI Distance")]
+    public float hideUIDistance = 4f;
+    private bool enemyUIShown;
+
     void Start()
     {
         if (transform.rotation.y == 0)
@@ -148,6 +156,7 @@ public class SmallRobotBehaviour : MonoBehaviour
             if (!hasObjective)
                 CheckGround();
         }
+        HideUIIfFar();
     }
 
     void CheckGround()
@@ -435,7 +444,9 @@ public class SmallRobotBehaviour : MonoBehaviour
         if (collision.transform.tag == "Projectile")
         {
             var dmg = collision.gameObject.GetComponent<Projectile>().damage;
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             if (!isImmune)
             {
                 GetDamage(dmg);
@@ -446,7 +457,9 @@ public class SmallRobotBehaviour : MonoBehaviour
         if (collision.transform.tag == "Attack")
         {
             var dmg = collision.gameObject.GetComponentInParent<CharacterController>().attackDamage;
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             if (!isImmune)
             {
                 StartCoroutine(WaitToAnim(dmg));
@@ -524,6 +537,19 @@ public class SmallRobotBehaviour : MonoBehaviour
                 srPlayer[i].enabled = false;
             }
             Debug.Log("daño");
+        }
+    }
+
+    private void HideUIIfFar()
+    {
+        if (!enemyUIShown || playerTransform == null || uiController == null) return;
+
+        float distance = Vector2.Distance(transform.position, playerTransform.position);
+
+        if (distance > hideUIDistance)
+        {
+            uiController.DisabledEnemyCanvas();
+            enemyUIShown = false;
         }
     }
 }

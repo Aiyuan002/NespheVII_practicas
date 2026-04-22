@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 
 public class BigRobotBehaviour : MonoBehaviour
 {
@@ -51,6 +52,13 @@ public class BigRobotBehaviour : MonoBehaviour
     public bool canShoot;
     public bool canPatrol = true;
     public bool noGround;
+
+    [Header("Localization")]
+    public LocalizedString enemyName;
+
+        [Header("UI Distance")]
+    public float hideUIDistance = 4f;
+    private bool enemyUIShown;
 
     // Start is called before the first frame update
     void Start()
@@ -106,6 +114,7 @@ public class BigRobotBehaviour : MonoBehaviour
             DamageBlink();
         }
         CheckGround();
+        HideUIIfFar();
     }
 
     void Death()
@@ -255,7 +264,9 @@ public class BigRobotBehaviour : MonoBehaviour
         if (collision.transform.tag == "Projectile")
         {
             var dmg = collision.gameObject.GetComponent<Projectile>().damage;
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             if (!isImmune)
             {
                 GetDamage(dmg);
@@ -267,7 +278,9 @@ public class BigRobotBehaviour : MonoBehaviour
         {
             var dmg = collision.gameObject.GetComponentInParent<CharacterController>().attackDamage;
 
-            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, gameObject.name, faceImage);
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
             if (!isImmune)
             {
                 StartCoroutine(WaitToAnim(dmg));
@@ -383,6 +396,19 @@ public class BigRobotBehaviour : MonoBehaviour
                     ChangeDirection();
                 }
             }
+        }
+    }
+
+    private void HideUIIfFar()
+    {
+        if (!enemyUIShown || playerTransform == null || uiController == null) return;
+
+        float distance = Vector2.Distance(transform.position, playerTransform.position);
+
+        if (distance > hideUIDistance)
+        {
+            uiController.DisabledEnemyCanvas();
+            enemyUIShown = false;
         }
     }
 }

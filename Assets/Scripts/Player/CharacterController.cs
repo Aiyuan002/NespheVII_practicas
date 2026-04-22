@@ -42,6 +42,7 @@ public class CharacterController : MonoBehaviour
     [Header("Movement")]
     public float moveSpeed = 1;
     public float runSpeed = 2.5f;
+    public bool canRun = true;
 
     //private float currentSpeed;
     private Vector2 move;
@@ -54,6 +55,8 @@ public class CharacterController : MonoBehaviour
     private float changeDirSpeed;
     private bool isChangingDirection = false;
     public bool stopWalls = false;
+    public bool wallOnLeft = false;
+    public bool wallOnRight = false;
 
     //Salto
     [Header("Jump")]
@@ -87,6 +90,7 @@ public class CharacterController : MonoBehaviour
 
     //Disparo
     [Header("Shoot")]
+    public float shootCooldown = 0.5f;
     public GameObject bullet;
     public float shootDelay;
     private float shootDelayTimer;
@@ -96,6 +100,9 @@ public class CharacterController : MonoBehaviour
     private Vector2 shootDirection;
     private float delayToIdleTimer;
     private bool isShooting;
+    private bool shouldChangeLookingDirection = false;
+    private bool shootingRight = true;
+    private float shootCooldownTimer = 0;
 
     // Split shoot (torso/piernas)
     [Header("Split Shoot (Torso/Legs)")]
@@ -106,6 +113,8 @@ public class CharacterController : MonoBehaviour
 
     // Necesario para salir de Fall al aterrizar mientras sigues disparando
     private bool legsNeedsLanding;
+    private SpriteRenderer botSpriteRenderer;
+    private string pointShootLegsClip;
 
     //Crouch
     [Header("Crouch")]
@@ -247,6 +256,9 @@ public class CharacterController : MonoBehaviour
             else
             {
                 isCrouching = false;
+                crouchSprite.SetActive(false);
+                if (!isSplitShooting)
+                    normalSprite.SetActive(true);
             }
         };
         controls.Gameplay.Dash.performed += ctx => Dash();
@@ -286,33 +298,18 @@ public class CharacterController : MonoBehaviour
 
         if (shootSprite != null)
             shootSprite.SetActive(false);
+
+        if (botAnimator != null)
+            botSpriteRenderer = botAnimator.GetComponent<SpriteRenderer>();
     }
 
     private void FixedUpdate()
     {
+        shootCooldownTimer += Time.deltaTime;
         isJumping = !atGround && rb.linearVelocity.y > 0f;
 
-        //if (isPointShooting && !isCrouching && !isClimbing)
-        //{
-        //    projectile.shootNormal = false;
-        //    pointShooting.enabled = true;
-
-        //    if(!isSplitShooting)
-        //    {
-        //        if(normalSprite != null) normalSprite.SetActive(false);
-        //        if(shootSprite != null) shootSprite.SetActive(true);
-        //        if(botAnimator != null) botAnimator.SetBool("Land", false);
-        //        isSplitShooting = true;
-        //    }
-
-        //    UpdateLegsWhileSplitShooting();
-        //    splitShootTimer = 0f;
-        //}
-        //else
-        //{
-        //    projectile.shootNormal = true;
-        //    pointShooting.enabled = false;
-        //}
+        if (!canRun && currentSpeed == runSpeed)
+            currentSpeed = moveSpeed;
 
         if (isPointShooting)
         {
@@ -415,6 +412,10 @@ public class CharacterController : MonoBehaviour
         {
             DamageBlink();
         }
+        else
+        {
+            RestoreSpriteRenderers();
+        }
 
         ChangeWallRoofClimb();
 
@@ -505,6 +506,7 @@ public class CharacterController : MonoBehaviour
                     lookingRight
                     && (currentSpeed == runSpeed || currentSpeed == changeDirSpeed)
                     && !isChangingDirection
+                    && !isPointShooting
                 )
                 {
                     ChangeRunDirection();
@@ -512,8 +514,12 @@ public class CharacterController : MonoBehaviour
                 else if (!isChangingDirection)
                 {
                     move = new Vector2(-1, 0);
-                    transform.rotation = Quaternion.Euler(0, 180, 0);
-                    lookingRight = false;
+
+                    if (!isSplitShooting)
+                    {
+                        normalSprite.transform.localScale = new Vector3(-1, 1, 1);
+                        lookingRight = false;
+                    }
                 }
             }
             else if (move.x > 0)
@@ -522,6 +528,7 @@ public class CharacterController : MonoBehaviour
                     !lookingRight
                     && (currentSpeed == runSpeed || currentSpeed == changeDirSpeed)
                     && !isChangingDirection
+                    && !isPointShooting
                 )
                 {
                     ChangeRunDirection();
@@ -529,8 +536,13 @@ public class CharacterController : MonoBehaviour
                 else if (!isChangingDirection)
                 {
                     move = new Vector2(1, 0);
-                    transform.rotation = Quaternion.Euler(Vector3.zero);
-                    lookingRight = true;
+
+
+                    if (!isSplitShooting)
+                    {
+                        normalSprite.transform.localScale = new Vector3(1, 1, 1);
+                        lookingRight = true;
+                    }
                 }
             }
             else if (move.y > 0 && isClimbing && !isRoofTouching)
@@ -576,14 +588,16 @@ public class CharacterController : MonoBehaviour
                 return;
             }
 
-            if (!stopWalls)
             {
                 Vector2 c = new Vector2(0, move.y) * currentSpeed * Time.deltaTime;
                 transform.Translate(c, Space.World);
 
-                Vector2 m = new Vector2(move.x, 0) * currentSpeed * Time.deltaTime;
-
-                transform.Translate(m, Space.World);
+                bool blockedByWall = (move.x > 0 && wallOnRight) || (move.x < 0 && wallOnLeft);
+                if (!blockedByWall)
+                {
+                    Vector2 m = new Vector2(move.x, 0) * currentSpeed * Time.deltaTime;
+                    transform.Translate(m, Space.World);
+                }
                 isMoving = true;
             }
 
@@ -669,7 +683,7 @@ public class CharacterController : MonoBehaviour
 
     private bool CanUseSplitShoot()
     {
-        return !isCrouching && !isClimbing && !isRoofCrouch;
+        return !isCrouching && !isClimbing && !isRoofCrouch && !isAttacking;
     }
 
     private void UpdateLegsWhileSplitShooting()
@@ -692,21 +706,43 @@ public class CharacterController : MonoBehaviour
 
         if (isMoving)
         {
+            Debug.Log("Entro aqui");
             if (currentSpeed == runSpeed)
             {
                 botAnimator.SetBool("Walk", false);
+                botAnimator.SetBool("WalkBack", false);
                 botAnimator.SetBool("Run", true);
             }
             else
             {
                 botAnimator.SetBool("Run", false);
-                botAnimator.SetBool("Walk", true);
+
+                bool forward = (move.x > 0 && shootingRight) || (move.x < 0 && !shootingRight);
+                if (forward)
+                {
+                    botAnimator.SetBool("Walk", true);
+                }
+                else
+                {
+                    botAnimator.SetBool("WalkBack", true);
+                }
+                
             }
+
+            if (isPointShooting && botSpriteRenderer != null)
+                botSpriteRenderer.flipX = move.x < 0;
         }
         else
         {
             botAnimator.SetBool("Walk", false);
+            botAnimator.SetBool("WalkBack", false);
             botAnimator.SetBool("Run", false);
+
+            if (botSpriteRenderer != null)
+                botSpriteRenderer.flipX = false;
+
+            if (!string.IsNullOrEmpty(pointShootLegsClip))
+                TryPlayLegsState(pointShootLegsClip);
         }
 
         splitLegsStateRequested = null;
@@ -717,10 +753,11 @@ public class CharacterController : MonoBehaviour
         if (botAnimator == null)
             return;
 
-        if (string.Equals(splitLegsStateRequested, stateName, StringComparison.Ordinal))
-            return; // evita spamear
+        if (botAnimator.GetCurrentAnimatorStateInfo(-1).IsName(stateName) || botAnimator.GetCurrentAnimatorStateInfo(0).IsName(stateName))
+            return; 
 
         splitLegsStateRequested = stateName;
+        Debug.Log("Animacion que se esta haciendo: " + stateName);
         botAnimator.Play(stateName, -1, 0f);
     }
 
@@ -730,6 +767,7 @@ public class CharacterController : MonoBehaviour
             return;
 
         if (normalSprite != null) normalSprite.SetActive(false);
+        if (crouchSprite != null) crouchSprite.SetActive(false);
         if (shootSprite != null) shootSprite.SetActive(true);
 
         if (topAnimator != null)
@@ -757,10 +795,11 @@ public class CharacterController : MonoBehaviour
         isSplitShooting = false;
         splitShootTimer = 0f;
         splitLegsStateRequested = null;
+        pointShootLegsClip = null;
 
         // Volver a sprite normal
         if (shootSprite != null) shootSprite.SetActive(false);
-        if (normalSprite != null) normalSprite.SetActive(true);
+        if (!isCrouching && normalSprite != null) normalSprite.SetActive(true);
 
         // Volver a idle vía Land=true
         if (topAnimator != null) topAnimator.SetBool("Land", true);
@@ -769,6 +808,23 @@ public class CharacterController : MonoBehaviour
 
         topAnimator.transform.localPosition = Vector3.zero;
         botAnimator.transform.localPosition = Vector3.zero;
+
+        if (botSpriteRenderer != null)
+            botSpriteRenderer.flipX = false;
+
+        if(shouldChangeLookingDirection)
+        {
+            if(lookingRight)
+            {
+                lookingRight = false;
+                normalSprite.transform.localScale = new Vector3(-1, 1, 1);
+            }
+            else
+            {
+                lookingRight = true;
+                normalSprite.transform.localScale = Vector3.one;
+            }
+        }
     }
 
     //Salto
@@ -910,6 +966,13 @@ public class CharacterController : MonoBehaviour
             canAttack = true;
             isFalling = false;
             heightDamage = false;
+
+            // Corrección defensiva: si el sprite de crouch está activo pero isCrouching es false
+            if (!isCrouching && crouchSprite.activeSelf && !isSplitShooting)
+            {
+                crouchSprite.SetActive(false);
+                normalSprite.SetActive(true);
+            }
 
             if (isSplitShooting)
             {
@@ -1126,70 +1189,42 @@ public class CharacterController : MonoBehaviour
     //Comprueba la direccion de disparo
     void CheckShootDirection()
     {
-        if (!isPointShooting)
+        if(shootCooldownTimer >= shootCooldown)
         {
-            if (isAttacking && !isAiming)
-            {
-                meleeSprite.SetActive(false);
-                normalSprite.SetActive(true);
-                isAttacking = false;
-                normalAnimator.SetBool("Land", true);
-            }
-
-            if (shootDirection.y > 0)
-            {
-                if (shootDirection.x >= -0.5f && shootDirection.x <= 0.5f)
-                {
-                    VerticalShoot();
-                }
-                else
-                {
-                    UpDiagonalShoot();
-                }
-            }
-            else if (shootDirection.y < 0 && !isCrouching)
-            {
-                DownDiagonalShoot();
-            }
-            else
-            {
-                HorizontalShoot();
-            }
+            shootCooldownTimer = 0;
         }
         else
         {
-            // Modo disparo con ratón
-            if (canShoot && !isCrouching && !isClimbing)
+            return;
+        }
+
+        // Modo disparo con ratón
+        if (canShoot && !isCrouching && !isClimbing && CanUseSplitShoot() && currentSpeed != runSpeed)
+        {
+            // Obtener info de apuntado
+            pointShooting.GetShootInfo(out string bodyClipName, out string legsClipName, out bool aimingRight, out int zone, out Transform spawnPos);
+
+            // Elegir posición de spawn según la zona angular
+            float aimAngle = zone * 7.5f;
+
+            if (aimingRight != lookingRight)
             {
-
-                // Obtener info de apuntado
-                pointShooting.GetShootInfo(out string clipName, out bool aimingRight, out int zone, out Transform spawnPos);
-
-
-
-                // Elegir posición de spawn según la zona angular
-                float aimAngle = zone * 7.5f;
-                //if (aimAngle <= 22.5f)
-                //    spawnPos = hShootPosition;
-                //else if (aimAngle >= 67.5f)
-                //    spawnPos = vShootPosition;
-                //else
-                //    spawnPos = dShootPosition;
-
-                // Reproducir animación de disparo via split-shoot
-                if (CanUseSplitShoot())
-                {
-                    BeginSplitShoot(clipName);
-                }
-                else
-                {
-                    normalAnimator.Play(clipName, -1, 0f);
-                    normalAnimator.SetBool("Land", false);
-                }
-
-                Instantiate(bullet, spawnPos.position, spawnPos.rotation);
-                canShoot = false;
+                shouldChangeLookingDirection = true;
             }
+            else
+            {
+                shouldChangeLookingDirection = false;
+            }
+
+            shootingRight = aimingRight;
+
+            pointShootLegsClip = legsClipName;
+
+            // Reproducir animación de disparo via split-shoot
+            BeginSplitShoot(bodyClipName);
+
+            Instantiate(bullet, spawnPos.position, spawnPos.rotation);
+            canShoot = false;
         }
     }
 
@@ -1216,7 +1251,7 @@ public class CharacterController : MonoBehaviour
 
     void Run()
     {
-        if (!isCrouching && !stopWalls && !isJumping && !isFalling)
+        if (!isCrouching && !stopWalls && !isJumping && !isFalling && !isSplitShooting && !isWallTouching && canRun)
         {
             currentSpeed = runSpeed;
         }
@@ -1225,6 +1260,7 @@ public class CharacterController : MonoBehaviour
     //Cambiar de direccion al correr
     void ChangeRunDirection()
     {
+
         if (canDecelerate)
         {
             isChangingDirection = true;
@@ -1239,11 +1275,11 @@ public class CharacterController : MonoBehaviour
         {
             if (lookingRight)
             {
-                transform.rotation = Quaternion.Euler(0, 180, 0);
+                normalSprite.transform.localScale = new Vector3(1, 1, 1);
             }
             else
             {
-                transform.rotation = Quaternion.Euler(Vector3.zero);
+                normalSprite.transform.localScale = new Vector3(-1, 1, 1);
             }
 
             canAccelerate = true;
@@ -1368,6 +1404,10 @@ public class CharacterController : MonoBehaviour
     {
         if (canClimb == true)
         {
+            if (lookingRight)
+                climbSprite.transform.localScale = Vector3.one;
+            else
+                climbSprite.transform.localScale = new Vector3(-1, 1, 1);
             //Debug.Log("canClimb: " + canClimb + " Time: " + Time.time);
             if ((isWallTouching || isVineTouching) && !atGround || isRoofTouching)
             {
@@ -1476,7 +1516,7 @@ public class CharacterController : MonoBehaviour
     //Ataque melee
     public void Attack()
     {
-        if (canAttack && uiController.currentEnergy > 0)
+        if (canAttack && uiController.currentEnergy > 0 && !isSplitShooting)
         {
             canAttack = false;
             isAttacking = true;
@@ -1769,6 +1809,9 @@ public class CharacterController : MonoBehaviour
 
     private IEnumerator DeathAndRespawn()
     {
+        Vignette vig;
+        volume.profile.TryGet<Vignette>(out vig);
+
         canMove = false;
         canAttack = false;
 
@@ -1784,8 +1827,7 @@ public class CharacterController : MonoBehaviour
         muerteSprite.SetActive(true);
         muerteAnimator.Play("Player_Muerte");
 
-        Vignette vig;
-        if (volume.profile.TryGet<Vignette>(out vig))
+        if(vig)
             vig.intensity.value = 1f;
 
         float duration = muerteAnimator.GetCurrentAnimatorStateInfo(0).length;
@@ -1796,6 +1838,9 @@ public class CharacterController : MonoBehaviour
         muerteSprite.SetActive(false);
         normalSprite.SetActive(true);
         fullSprite.SetActive(true);
+
+        if(vig)
+            vig.intensity.value = 0f;
 
         uiController.currentHealth = uiController.maxHealth;
         uiController.healthSlider.value = uiController.maxHealth;
@@ -1830,6 +1875,17 @@ public class CharacterController : MonoBehaviour
             immuneTimer = 0; // Reiniciar
             blinkTimer = 0;
         }
+    }
+
+    public void RestoreSpriteRenderers()
+    {
+        sr = GetComponentsInChildren<SpriteRenderer>();
+
+        foreach(SpriteRenderer r in sr)
+        {
+            r.enabled = true;
+        }
+
     }
 
 

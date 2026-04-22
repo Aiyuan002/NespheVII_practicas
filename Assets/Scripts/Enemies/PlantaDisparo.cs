@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 
 public class PlantaDisparo : MonoBehaviour
 {
@@ -26,6 +27,14 @@ public class PlantaDisparo : MonoBehaviour
 
     public UIController uiController;
 
+    [Header("Localization")]
+    public LocalizedString enemyName;
+
+    [Header("UI Distance")]
+    public Transform player;
+    public float hideUIDistance = 4f;
+    private bool enemyUIShown;
+
     void Start()
     {
         trigger = triggerObj.GetComponent<EntraTrigger>();
@@ -42,6 +51,8 @@ public class PlantaDisparo : MonoBehaviour
         }
 
         animator.SetBool("EntraZona", trigger != null && trigger.entra);
+
+        HideUIIfFar();
     }
 
     public void DispararAzul()
@@ -89,7 +100,10 @@ public class PlantaDisparo : MonoBehaviour
     {
         if (isImmune) return;
 
-        uiController?.EnabledEnemyCanvas(health, damage, maxHealth, gameObject.name, faceImage);
+        string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+
+        uiController?.EnabledEnemyCanvas(health, damage, maxHealth, localizedName, faceImage);
+        enemyUIShown = true;
         GetDamage(damage);
     }
 
@@ -128,6 +142,19 @@ public class PlantaDisparo : MonoBehaviour
         {
             sr.enabled = true;
             isImmune = false;
+        }
+    }
+
+    private void HideUIIfFar()
+    {
+        if (!enemyUIShown || player == null || uiController == null) return;
+
+        float distance = Vector2.Distance(transform.position, player.position);
+
+        if (distance > hideUIDistance)
+        {
+            uiController.DisabledEnemyCanvas();
+            enemyUIShown = false;
         }
     }
 }

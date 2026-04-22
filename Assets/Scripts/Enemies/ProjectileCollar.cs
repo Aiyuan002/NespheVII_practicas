@@ -64,7 +64,7 @@ public class ProjectileCollar : MonoBehaviour
         }
         else
         {
-            Debug.Log("aqui no hay quien viva");
+            //Debug.Log("aqui no hay quien viva");
             // Movimiento hacia la posición de retorno
             transform.position = Vector2.MoveTowards(
                 transform.position,

@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: b86b981f39f278d4ba615218d3ba99ab
   m_SerializeEntries:
+  - m_GUID: bdbc4214ae6c9884f998212dd94b4f04
+    m_Address: Assets/Anims/Mechanisms/TimedDoorClosed.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c59fa2645a0ff1c468f1d4a3f63db741
     m_Address: Assets/PlayerControls.inputactions
     m_ReadOnly: 0

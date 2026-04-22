@@ -19,4 +19,10 @@ public class SoundLibrary : MonoBehaviour
     public AudioClip playerShot;
     public AudioClip enemyShot;
     public AudioClip explosion;
+
+    [Header("Enemies")]
+    public AudioClip miniRobotExplosion;
+
+
+
 }

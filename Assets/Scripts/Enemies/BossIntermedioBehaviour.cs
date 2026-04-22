@@ -8,68 +8,45 @@ public class BossIntermedioBehaviour : MonoBehaviour
 {
     [Header("Boss Intermedio Attributes")]
     public Sprite faceImage;
-    public int EnemyHealth;
-    public int maxHealth;
-    private float blinkTimer;
-    public float blinkTime;
-    private float immuneTimer;
-    public float immuneTime;
-    public float moveSpeed;
-    public float attackTime;
-    private float attackTimer;
-    public float damageTime;
+    public int EnemyHealth = 200;
+    public int maxHealth = 200;
+
+    public float blinkTime = 0.1f;
+    public float immuneTime = 1f;
+    public float moveSpeed = 2f;
+    public float followDistance = 10f;
+    public float playerStopDistance = 2f;
+
     public GameObject recompensa;
-    private SpriteRenderer sr;
-    public float followDistance;
-    public bool death;
-    public bool isFollow;
 
+    [Header("Block")]
     public bool blockProjectile = false;
-    public float blockTimer;
-    float timeFalse;
-    public float timerFalse;
+    public float blockCooldown = 10f;
+    private float blockTimer = 0f;
 
-    float timeTP;
-    public float timerTP;
+    [Header("Teleport / Phase / Timers")]
+    public float timerFalse = 5f;
+    private float timeFalse = 0f;
 
-    [Header("Animators")]
+    public float timerTP = 6f;
+    private float timeTP = 0f;
+
+    public float phaseChangeThreshold = 100f;
+
+    [Header("Animator")]
     public Animator BossIntermedioAnimator;
 
-    public float phaseChangeThreshold = 100f; // Umbral para cambiar a la fase 2 (50% de vida)
-
-    private float attackCooldown = 3f; // Tiempo de espera después de cada ataque
-
-    //private float phaseCooldown = 4f; // Tiempo antes de cambiar de fase NO SE ESTÁ USANDO
-
     [Header("IA")]
-    public float playerStopDistance;
     public Transform playerTransform;
-    private Rigidbody2D rb;
-    private RobotWallChecker childrenWallC;
-    private RobotGroundChecker childrenGroundC;
-    private float distanceToPlayer;
+    public GameObject player;
 
     [Header("UI")]
     public UIController uiController;
 
-    public bool hasObjective;
-    public bool lookRight;
-    public bool canAttack;
-    public bool isImmune;
-
-    public bool canJump = true;
-    public bool canFollow = false;
-    public bool noGround;
-    public bool isAttacking;
-    public bool isAttack = false;
-
-    private int activeCollars = 0;
-
     [Header("Melee")]
     public GameObject gOAtk;
-    AttackPoint atScript;
-    public GameObject player;
-    int contador;
+    private AttackPoint atScript;
+    private int contador = 0;
 
     [Header("Shoot")]
     public Transform shootPosition;
@@ -77,196 +54,193 @@ public class BossIntermedioBehaviour : MonoBehaviour
     public GameObject bullet;
     public GameObject nube;
 
-    bool collarAvailable;
-
     [Header("Cinematic")]
-    bool inCinematic = false;
     public GameObject cinematic;
     public GameObject transition;
-    GameObject bulletDestroy;
+    public Transform puntoDeSpawn;
+
+    [Header("State")]
+    public bool death;
+    public bool isFollow;
+    public bool hasObjective;
+    public bool lookRight;
+    public bool canAttack = true;
+    public bool isImmune;
+    public bool canJump = true;
+    public bool canFollow = false;
+    public bool noGround;
+    public bool isAttacking;
+    public bool isAttack = false;
+
+    private bool inCinematic = false;
+    private bool collarAvailable = true;
+
+    private float blinkTimer = 0f;
+    private float immuneTimer = 0f;
+    private float distanceToPlayer = 0f;
+
+    private GameObject bulletDestroy;
     private GameObject bulletDestroyNube;
 
-    void Start()
+    private int activeCollars = 0;
+
+    private SpriteRenderer sr;
+
+    private float attackCooldown = 3f;
+    public float recoveryAfterAttack = 0.75f;
+    private bool isRecovering = false;
+
+    private void Start()
     {
-        uiController = GameObject.FindFirstObjectByType<UIController>();
-        BossIntermedioAnimator = GetComponent<Animator>();
+        if (uiController == null)
+            uiController = GameObject.FindFirstObjectByType<UIController>();
+
+        if (BossIntermedioAnimator == null)
+            BossIntermedioAnimator = GetComponent<Animator>();
+
         sr = GetComponent<SpriteRenderer>();
-        atScript = gOAtk.GetComponent<AttackPoint>();
+
+        if (gOAtk != null)
+            atScript = gOAtk.GetComponent<AttackPoint>();
+
+        ValidateReferences();
+        UpdateCollarEstado();
     }
 
     private void Update()
     {
+        if (inCinematic)
+            return;
+
         if (death)
         {
-            // BossIntermedioAnimator.SetBool("Muerto", death);
-
-            Destroy(bulletDestroy);
-            death = false;
-            inCinematic = true;
-            //cinematica
-            StartCoroutine(Death());
+            HandleDeath();
+            return;
         }
-        if (inCinematic)
+
+        UpdateTimers();
+        UpdateDistanceInfo();
+        UpdateAnimatorParameters();
+
+        if (isImmune)
+            HandleImmunity();
+
+        DetectPlayer();
+
+        if (hasObjective)
         {
-            Destroy(bulletDestroyNube);
-            Destroy(bulletDestroy);
+            ChangeDirection(playerTransform.position);
+            FollowPlayer();
         }
+        else
+        {
+            isFollow = false;
+            isAttacking = false;
+        }
+    }
 
-        distanceToPlayer = Vector2.Distance(transform.position, playerTransform.position);
-        BossIntermedioAnimator.SetFloat("Distancia", distanceToPlayer);
-        BossIntermedioAnimator.SetInteger("Vida", EnemyHealth);
-        BossIntermedioAnimator.SetInteger("Contador", contador);
-        BossIntermedioAnimator.SetBool("Siguiendo", isFollow);
-        BossIntermedioAnimator.SetBool("Delante", atScript.attack);
+    private void ValidateReferences()
+    {
+        if (uiController == null)
+            Debug.LogError("[BossIntermedio] UIController no encontrado.");
+
+        if (BossIntermedioAnimator == null)
+            Debug.LogError("[BossIntermedio] Animator no encontrado.");
+
+        if (sr == null)
+            Debug.LogError("[BossIntermedio] SpriteRenderer no encontrado.");
+
+        if (playerTransform == null)
+            Debug.LogError("[BossIntermedio] playerTransform no asignado.");
+
+        if (player == null)
+            Debug.LogError("[BossIntermedio] player no asignado.");
+
+        if (atScript == null)
+            Debug.LogWarning("[BossIntermedio] AttackPoint no encontrado en gOAtk.");
+
+        if (shootPosition == null)
+            Debug.LogWarning("[BossIntermedio] shootPosition no asignado.");
+
+        if (shootPositionNube == null)
+            Debug.LogWarning("[BossIntermedio] shootPositionNube no asignado.");
+
+        if (bullet == null)
+            Debug.LogWarning("[BossIntermedio] bullet no asignado.");
+
+        if (nube == null)
+            Debug.LogWarning("[BossIntermedio] nube no asignado.");
+    }
+
+    private void UpdateTimers()
+    {
         timeTP += Time.deltaTime;
         if (timeTP >= timerTP)
-        {
             timeTP = 0f;
-        }
-        BossIntermedioAnimator.SetFloat("TiempoParaTeletransporte", timeTP);
+
         if (!collarAvailable)
         {
             timeFalse += Time.deltaTime;
             if (timeFalse >= timerFalse)
             {
-                BossIntermedioAnimator.SetBool("CollarDispo", true);
                 collarAvailable = true;
-                timeFalse = 0;
+                timeFalse = 0f;
+                BossIntermedioAnimator.SetBool("CollarDispo", true);
             }
         }
 
-        if (isImmune)
-        {
-            Damage();
-        }
-        if (blockTimer >= 10f)
-        {
-            if (!blockProjectile)
-            {
-                return;
-            }
-            else
-            {
-                blockTimer = 0f;
-                blockProjectile = false;
-            }
-        }
-        else
-        {
-            blockTimer += Time.deltaTime;
-        }
+        blockTimer += Time.deltaTime;
 
+        if (blockProjectile && blockTimer >= blockCooldown)
+        {
+            blockProjectile = false;
+            blockTimer = 0f;
+        }
+    }
+
+    private void UpdateDistanceInfo()
+    {
+        if (playerTransform == null)
+            return;
+
+        distanceToPlayer = Vector2.Distance(transform.position, playerTransform.position);
+    }
+
+    private void UpdateAnimatorParameters()
+    {
+        if (BossIntermedioAnimator == null)
+            return;
+
+        BossIntermedioAnimator.SetFloat("Distancia", distanceToPlayer);
+        BossIntermedioAnimator.SetInteger("Vida", EnemyHealth);
+        BossIntermedioAnimator.SetInteger("Contador", contador);
+        BossIntermedioAnimator.SetBool("Siguiendo", isFollow);
+        BossIntermedioAnimator.SetFloat("TiempoParaTeletransporte", timeTP);
         BossIntermedioAnimator.SetFloat("Tiempo", blockTimer);
+
+        if (atScript != null)
+            BossIntermedioAnimator.SetBool("Delante", atScript.attack);
     }
 
-    IEnumerator Death()
+    private void DetectPlayer()
     {
-        Animator trans = transition.GetComponent<Animator>();
-        trans.Play("TransicionEntreCamaras");
-        trans.speed = 2f;
+        if (playerTransform == null)
+            return;
 
-        yield return new WaitForSeconds(0.25f);
-
-        cinematic.SetActive(true);
+        hasObjective = Vector2.Distance(transform.position, playerTransform.position) < followDistance;
     }
 
-    public void NotifyCollarDispo()
+    private void FollowPlayer()
     {
-        activeCollars--;
-        Debug.Log($"Collares activos (Dispo): {activeCollars}");
-        UpdateCollarEstado();
-    }
+        if (playerTransform == null || isRecovering)
+            return;
 
-    public void NotifyCollarNoDispo()
-    {
-        activeCollars++;
-        Debug.Log($"Collares activos (Dispo): {activeCollars}");
-        UpdateCollarEstado();
-    }
-
-    private void UpdateCollarEstado()
-    {
-        collarAvailable = (activeCollars == 0);
-        BossIntermedioAnimator.SetBool("CollarDispo", collarAvailable);
-    }
-
-    private void MeleeAttack1()
-    {
-        // Lógica de la animación y el ataque Melee1 para la fase 1
-        // Colocar la lógica de daño al jugador aquí
-        //Debug.Log("Ataque Melee1 fase 1");
-        canAttack = false;
-        Invoke("EnableAttack", attackCooldown);
-    }
-
-    private void MeleeAttack2()
-    {
-        // Lógica de la animación y el ataque Melee2 para la fase 1
-        // Colocar la lógica de daño al jugador aquí
-        //Debug.Log("Ataque Melee2 fase 1");
-        canAttack = false;
-        Invoke("EnableAttack", attackCooldown);
-    }
-
-    private void RangedAttack()
-    {
-        // Lógica de la animación y el ataque a distancia para la fase 1
-        // Colocar la lógica de daño al jugador aquí
-        //Debug.Log("Ataque a distancia fase 1");
-        canAttack = false;
-        Invoke("EnableAttack", attackCooldown);
-    }
-
-    private void MeleeAttack1Phase2()
-    {
-        // Lógica de la animación y el ataque Melee1 para la fase 2
-        // Colocar la lógica de daño al jugador aquí
-        //Debug.Log("Ataque Melee1 fase 2");
-        canAttack = false;
-        Invoke("EnableAttack", attackCooldown);
-    }
-
-    private void MeleeAttack2Phase2()
-    {
-        // Lógica de la animación y el ataque Melee2 para la fase 2
-        // Colocar la lógica de daño al jugador aquí
-        //Debug.Log("Ataque Melee2 fase 2");
-        canAttack = false;
-        Invoke("EnableAttack", attackCooldown);
-    }
-
-    private void RangedCombo()
-    {
-        // Lógica de la animación y el ataque a distancia en combo para la fase 2
-        // Colocar la lógica de daño al jugador aquí
-        //Debug.Log("Ataque a distancia en combo fase 2");
-        canAttack = false;
-        Invoke("EnableAttack", attackCooldown);
-    }
-
-    private void EnableAttack()
-    {
-        // Permitir que el boss ataque nuevamente después del tiempo de espera
-        canAttack = true;
-    }
-
-    void FollowPlayer()
-    {
-        float distanceToPlayer = Vector2.Distance(transform.position, playerTransform.position);
-        Debug.Log("cuanta" + distanceToPlayer);
-        if (distanceToPlayer > playerStopDistance && isAttacking)
+        if (distanceToPlayer > playerStopDistance)
         {
-            isAttacking = false; // Dejar de atacar
-            canAttack = false; // No puede atacar mientras persigue
-        }
-        if (distanceToPlayer > playerStopDistance && !isAttacking)
-        {
-            canAttack = false;
-            //if (!noGround)
-            //{
-            //   // isAttacking = false;
-            //}
+            isFollow = true;
+            isAttacking = false;
             canJump = true;
+            canAttack = false;
 
             transform.position = Vector2.MoveTowards(
                 transform.position,
@@ -274,77 +248,200 @@ public class BossIntermedioBehaviour : MonoBehaviour
                 moveSpeed * Time.deltaTime
             );
         }
-        else if (distanceToPlayer <= playerStopDistance) // Si está en rango de ataque
+        else
         {
-            //   canAttack = true;
+            isFollow = false;
             isAttacking = true;
+            canAttack = true;
         }
     }
 
-    public void ChangeDirection(Vector3 player)
+    public void ChangeDirection(Vector3 playerPos)
     {
-        Debug.Log("delante " + (transform.position.x > player.x));
-        if (transform.position.x < player.x)
+        if (transform.position.x < playerPos.x)
         {
-            transform.rotation = new Quaternion(0, 180, 0, 0);
+            transform.rotation = Quaternion.Euler(0, 180, 0);
             lookRight = false;
         }
         else
         {
-            transform.rotation = new Quaternion(0, 0, 0, 0);
+            transform.rotation = Quaternion.Euler(0, 0, 0);
             lookRight = true;
         }
     }
 
-    void DetectPlayer()
+    private void HandleDeath()
     {
-        Debug.Log(Vector2.Distance(transform.position, playerTransform.position));
-        if (Vector2.Distance(transform.position, playerTransform.position) < followDistance)
-        {
-            hasObjective = true;
-        }
-        else // Fuera del rango
-        {
-            hasObjective = false;
-        }
+        death = false;
+        inCinematic = true;
+
+        if (bulletDestroy != null)
+            Destroy(bulletDestroy);
+
+        if (bulletDestroyNube != null)
+            Destroy(bulletDestroyNube);
+
+        bulletDestroy = null;
+        bulletDestroyNube = null;
+
+        if (uiController != null)
+            uiController.DisabledEnemyCanvas();
+
+        StartCoroutine(DeathCoroutine());
     }
+
+    private IEnumerator DeathCoroutine()
+    {
+        if (transition != null)
+        {
+            Animator trans = transition.GetComponent<Animator>();
+            if (trans != null)
+            {
+                trans.Play("TransicionEntreCamaras");
+                trans.speed = 2f;
+            }
+        }
+
+        yield return new WaitForSeconds(0.25f);
+
+        if (cinematic != null)
+            cinematic.SetActive(true);
+
+        yield return new WaitForSeconds(0.25f);
+
+        GameObject foundPlayer = GameObject.FindGameObjectWithTag("Player");
+        if (foundPlayer != null && puntoDeSpawn != null)
+            foundPlayer.transform.position = puntoDeSpawn.position;
+    }
+
+    public void NotifyCollarDispo()
+    {
+        activeCollars = Mathf.Max(0, activeCollars - 1);
+        UpdateCollarEstado();
+    }
+
+    public void NotifyCollarNoDispo()
+    {
+        activeCollars++;
+        UpdateCollarEstado();
+    }
+
+    private void UpdateCollarEstado()
+    {
+        collarAvailable = activeCollars == 0;
+
+        if (BossIntermedioAnimator != null)
+            BossIntermedioAnimator.SetBool("CollarDispo", collarAvailable);
+    }
+
+    // =========================
+    // Animation Events - Attacks
+    // =========================
+
+    public void MeleeAttack1()
+    {
+        TriggerAttackCooldown();
+        StartCoroutine(AttackRecovery());
+    }
+
+    public void MeleeAttack2()
+    {
+        TriggerAttackCooldown();
+        StartCoroutine(AttackRecovery());
+    }
+
+    public void RangedAttack()
+    {
+        TriggerAttackCooldown();
+        StartCoroutine(AttackRecovery());
+    }
+
+    private IEnumerator AttackRecovery()
+    {
+        isRecovering = true;
+        canAttack = false;
+        isFollow = false;
+        yield return new WaitForSeconds(recoveryAfterAttack);
+        isRecovering = false;
+        canAttack = true;
+    }
+
+    public void MeleeAttack1Phase2()
+    {
+        TriggerAttackCooldown();
+    }
+
+    public void MeleeAttack2Phase2()
+    {
+        TriggerAttackCooldown();
+    }
+
+    public void RangedCombo()
+    {
+        TriggerAttackCooldown();
+    }
+
+    private void TriggerAttackCooldown()
+    {
+        canAttack = false;
+        CancelInvoke(nameof(EnableAttack));
+        Invoke(nameof(EnableAttack), attackCooldown);
+    }
+
+    private void EnableAttack()
+    {
+        canAttack = true;
+    }
+
+    // =========================
+    // Damage to Boss
+    // =========================
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.transform.tag == "Player")
+        if (EnemyHealth <= 0 || inCinematic)
+            return;
+
+        if (collision.CompareTag("Projectile"))
         {
-            //CAMBIARLO A UNA FUNCION ASI NO RENTA
-            /* hasObjective = true;
-             isPatrolling = false;*/
+            HandleProjectileCollision(collision);
+            return;
         }
-        if (collision.CompareTag("Projectile") && blockTimer >= 10f)
+
+        if (collision.CompareTag("Attack"))
         {
-            BossIntermedioAnimator.SetTrigger("Bloquear");
+            HandleMeleeCollision(collision);
+        }
+    }
+
+    private void HandleProjectileCollision(Collider2D collision)
+    {
+        if (blockTimer >= blockCooldown)
+        {
+            if (BossIntermedioAnimator != null)
+                BossIntermedioAnimator.SetTrigger("Bloquear");
+
             blockProjectile = true;
-        }
-        if (collision.transform.tag == "Projectile" && EnemyHealth > 0 && !blockProjectile)
-        {
-            var projectile = collision.GetComponent<Projectile>();
+            blockTimer = 0f;
 
-            int dmg = projectile.damage;
-
-            uiController.EnabledEnemyCanvas(
-                EnemyHealth,
-                dmg,
-                maxHealth,
-                gameObject.name,
-                faceImage
-            );
-            if (!isImmune)
-            {
-                GetDamage(dmg);
-            }
             Destroy(collision.gameObject);
+            return;
         }
 
-        if (collision.transform.tag == "Attack" && EnemyHealth > 0)
+        if (blockProjectile)
         {
-            var dmg = collision.gameObject.GetComponentInParent<CharacterController>().attackDamage;
+            Destroy(collision.gameObject);
+            return;
+        }
+
+        Projectile projectile = collision.GetComponent<Projectile>();
+        if (projectile == null)
+            return;
+
+        int dmg = projectile.damage;
+
+        if (uiController != null)
+        {
             uiController.EnabledEnemyCanvas(
                 EnemyHealth,
                 dmg,
@@ -352,55 +449,114 @@ public class BossIntermedioBehaviour : MonoBehaviour
                 gameObject.name,
                 faceImage
             );
-            if (!isImmune)
-            {
-                StartCoroutine(WaitToAnim(dmg));
-            }
         }
+
+        if (!isImmune)
+            GetDamage(dmg);
+
+        Destroy(collision.gameObject);
+    }
+
+    private void HandleMeleeCollision(Collider2D collision)
+    {
+        CharacterController cc = collision.GetComponentInParent<CharacterController>();
+        if (cc == null)
+            return;
+
+        int dmg = cc.attackDamage;
+
+        if (uiController != null)
+        {
+            uiController.EnabledEnemyCanvas(
+                EnemyHealth,
+                dmg,
+                maxHealth,
+                gameObject.name,
+                faceImage
+            );
+        }
+
+        if (!isImmune)
+            StartCoroutine(WaitToAnim(dmg));
     }
 
     private IEnumerator WaitToAnim(int damage)
     {
-        yield return new WaitForSeconds(.5f);
+        yield return new WaitForSeconds(0.5f);
         GetDamage(damage);
     }
 
-    void GetDamage(int dmg)
+    private void GetDamage(int dmg)
     {
         EnemyHealth -= dmg;
 
-        if (EnemyHealth == 0)
+        if (EnemyHealth <= 0)
         {
+            EnemyHealth = 0;
             death = true;
-            uiController.DisabledEnemyCanvas();
-
             return;
         }
 
-        if (EnemyHealth > 0)
-        {
-            isImmune = true;
-            immuneTimer = 0;
+        isImmune = true;
+        immuneTimer = 0f;
+        blinkTimer = 0f;
+
+        if (sr != null)
             sr.enabled = false;
-            blinkTimer = 0;
+
+        if (uiController != null)
             uiController.ChangePlayerFace();
+    }
+
+    private void HandleImmunity()
+    {
+        immuneTimer += Time.deltaTime;
+        blinkTimer += Time.deltaTime;
+
+        if (blinkTimer >= blinkTime)
+        {
+            if (sr != null)
+                sr.enabled = !sr.enabled;
+
+            blinkTimer = 0f;
+        }
+
+        if (immuneTimer >= immuneTime)
+        {
+            if (sr != null)
+                sr.enabled = true;
+
+            isImmune = false;
         }
     }
 
+    // =========================
+    // Shoot
+    // =========================
+
     public void ShootCollar()
     {
-        Vector2 direction = playerTransform.position - shootPosition.position;
+        if (shootPosition == null || bullet == null || playerTransform == null)
+            return;
 
+        Vector2 direction = playerTransform.position - shootPosition.position;
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
-        bulletDestroy = Instantiate(bullet, shootPosition.position, Quaternion.Euler(0, 0, angle));
+        bulletDestroy = Instantiate(
+            bullet,
+            shootPosition.position,
+            Quaternion.Euler(0, 0, angle)
+        );
     }
 
     public void ShootNube()
     {
-        Vector3 nuevaRotacion = shootPosition.rotation.eulerAngles;
+        if (shootPositionNube == null || nube == null)
+            return;
 
+        Vector3 nuevaRotacion = shootPositionNube.rotation.eulerAngles;
         nuevaRotacion.z = -180;
+
         bulletDestroyNube = Instantiate(
             nube,
             shootPositionNube.position,
@@ -408,41 +564,45 @@ public class BossIntermedioBehaviour : MonoBehaviour
         );
     }
 
+    // =========================
+    // Damage to Player
+    // =========================
+
     public void GetDamagePlayer()
     {
-        CharacterController ccPlayer = player.GetComponent<CharacterController>();
-        if (ccPlayer.isImmune)
+        if (player == null || atScript == null)
             return;
-        if (contador == 2)
-        {
-            contador = 0;
-        }
-        contador += 1;
 
-        if (atScript.attack)
-        {
-            SpriteRenderer[] srPlayer;
+        CharacterController ccPlayer = player.GetComponent<CharacterController>();
+        if (ccPlayer == null || ccPlayer.isImmune)
+            return;
 
-            ccPlayer = player.GetComponent<CharacterController>();
-            srPlayer = player.GetComponentsInChildren<SpriteRenderer>();
+        if (!atScript.attack)
+            return;
+
+        contador++;
+        if (contador > 2)
+            contador = 1;
+
+        SpriteRenderer[] srPlayer = player.GetComponentsInChildren<SpriteRenderer>();
+
+        if (uiController != null)
             uiController.ConsumeHealth();
 
-            if (uiController.lifes <= 0 && uiController.currentHealth <= 0)
-            {
-                Destroy(player);
-            }
-            else
-            {
-                uiController.ChangePlayerFace();
-                Debug.Log(isImmune);
-                ccPlayer.isImmune = true;
-                Debug.Log(isImmune);
-                ccPlayer.immuneTimer = 0;
-                ccPlayer.blinkTimer = 0;
-                StartCoroutine(BlinkEffect(srPlayer, 1.5f, 0.2f));
-                Debug.Log("daño");
-            }
+        if (uiController != null && uiController.lifes <= 0 && uiController.currentHealth <= 0)
+        {
+            Destroy(player);
+            return;
         }
+
+        if (uiController != null)
+            uiController.ChangePlayerFace();
+
+        ccPlayer.isImmune = true;
+        ccPlayer.immuneTimer = 0;
+        ccPlayer.blinkTimer = 0;
+
+        StartCoroutine(BlinkEffect(srPlayer, 1.5f, 0.2f));
     }
 
     private IEnumerator BlinkEffect(SpriteRenderer[] renderers, float duration, float blinkInterval)
@@ -451,42 +611,21 @@ public class BossIntermedioBehaviour : MonoBehaviour
 
         while (elapsed < duration)
         {
-            // Alternar visibilidad de los sprites
             for (int i = 0; i < renderers.Length; i++)
-            {
                 renderers[i].enabled = !renderers[i].enabled;
-            }
-            // Esperar el intervalo de parpadeo
+
             yield return new WaitForSeconds(blinkInterval);
             elapsed += blinkInterval;
         }
 
-        // Asegurarse de que los sprites queden visibles al final
         for (int i = 0; i < renderers.Length; i++)
-        {
             renderers[i].enabled = true;
-        }
 
-        // Desactivar inmunidad después del parpadeo
-        CharacterController ccPlayer = player.GetComponent<CharacterController>();
-        ccPlayer.isImmune = false;
-    }
-
-    void Damage()
-    {
-        immuneTimer += Time.deltaTime;
-        blinkTimer += Time.deltaTime;
-
-        if (blinkTimer >= blinkTime)
+        if (player != null)
         {
-            sr.enabled = !sr.enabled;
-            blinkTimer = 0;
-        }
-
-        if (immuneTimer >= immuneTime)
-        {
-            sr.enabled = true;
-            isImmune = false;
+            CharacterController ccPlayer = player.GetComponent<CharacterController>();
+            if (ccPlayer != null)
+                ccPlayer.isImmune = false;
         }
     }
 }

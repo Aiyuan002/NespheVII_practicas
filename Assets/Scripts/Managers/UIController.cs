@@ -73,7 +73,7 @@ public class UIController : MonoBehaviour
     private RecargarAscensor scriptAscensor;
     private int tubos;
     public GameObject translateIcon;
-    public GameObject[] Plus;
+    //public GameObject[] Plus;
 
     [Header("Map")]
     public GameObject map;
@@ -229,6 +229,8 @@ public class UIController : MonoBehaviour
 
         if (canToggleMap && Input.GetKeyDown(KeyCode.H))
         {
+            if (PauseMenu.IsPaused)
+                return;
             StartCoroutine(ToggleMap());
         }
     }
@@ -244,12 +246,16 @@ public class UIController : MonoBehaviour
         canToggleMap = false;
 
         isMapOpen = !isMapOpen;
+
         if (isMapOpen)
             animator.Play("MapComplete");
 
         map.SetActive(isMapOpen);
 
-        yield return new WaitForSeconds(1);
+        if (PauseGameManager.Instance != null)
+            PauseGameManager.Instance.SetPausedByMap(isMapOpen);
+
+        yield return new WaitForSecondsRealtime(1f);
         canToggleMap = true;
     }
 
@@ -301,56 +307,67 @@ public class UIController : MonoBehaviour
     /*********************************************************************************************/
     public void RecoverHealth(int amount)
     {
-        Debug.Log("recuperasion");
+        Debug.Log("recuperasión");
 
-        if (healthSlider.value < healthSlider.maxValue)
-        {
-            switch (amount)
-            {
-                case 25:
-                    Plus[0].SetActive(true);
-                    Plus[0].GetComponent<Animator>().Play("PlusAnimation");
-                    StartCoroutine(DesactivarPlus());
-                    break;
-                case 50:
-                    Plus[0].SetActive(true);
-                    Plus[1].SetActive(true);
-                    Plus[0].GetComponent<Animator>().Play("PlusAnimation");
-                    StartCoroutine(DesactivarPlus());
+        if (currentHealth >= maxHealth)
+            return;
 
-                    break;
-                case 75:
-                    Plus[0].SetActive(true);
-                    Plus[1].SetActive(true);
-                    Plus[2].SetActive(true);
-                    Plus[0].GetComponent<Animator>().Play("PlusAnimation");
-                    StartCoroutine(DesactivarPlus());
-                    break;
-            }
+        currentHealth += amount;
 
-            healthSlider.value =
-                (healthSlider.value >= healthSlider.maxValue)
-                    ? healthSlider.maxValue
-                    : healthSlider.value + amount;
-            currentHealth =
-                (healthSlider.value >= healthSlider.maxValue)
-                    ? currentHealth = 100
-                    : currentHealth + amount;
-        }
+        if (currentHealth > maxHealth)
+            currentHealth = maxHealth;
 
+        healthSlider.value = currentHealth;
         healthText.text = currentHealth + "/" + maxHealth;
-        recoveringHealth = true;
-        //currentHealth += amount;
+
+        // if (healthSlider.value < healthSlider.maxValue)
+        // {
+        //     switch (amount)
+        //     {
+        //         case 25:
+        //             Plus[0].SetActive(true);
+        //             Plus[0].GetComponent<Animator>().Play("PlusAnimation");
+        //             StartCoroutine(DesactivarPlus());
+        //             break;
+        //         case 50:
+        //             Plus[0].SetActive(true);
+        //             Plus[1].SetActive(true);
+        //             Plus[0].GetComponent<Animator>().Play("PlusAnimation");
+        //             StartCoroutine(DesactivarPlus());
+
+        //             break;
+        //         case 75:
+        //             Plus[0].SetActive(true);
+        //             Plus[1].SetActive(true);
+        //             Plus[2].SetActive(true);
+        //             Plus[0].GetComponent<Animator>().Play("PlusAnimation");
+        //             StartCoroutine(DesactivarPlus());
+        //             break;
+        //     }
+
+        //     healthSlider.value =
+        //         (healthSlider.value >= healthSlider.maxValue)
+        //             ? healthSlider.maxValue
+        //             : healthSlider.value + amount;
+        //     currentHealth =
+        //         (healthSlider.value >= healthSlider.maxValue)
+        //             ? currentHealth = 100
+        //             : currentHealth + amount;
+        // }
+
+        // healthText.text = currentHealth + "/" + maxHealth;
+        // recoveringHealth = true;
+        // //currentHealth += amount;
     }
 
-    IEnumerator DesactivarPlus()
-    {
-        yield return new WaitForSeconds(2);
-        Plus[0].SetActive(false);
-        Plus[1].SetActive(false);
+    // IEnumerator DesactivarPlus()
+    // {
+    //     yield return new WaitForSeconds(2);
+    //     Plus[0].SetActive(false);
+    //     Plus[1].SetActive(false);
 
-        Plus[2].SetActive(false);
-    }
+    //     Plus[2].SetActive(false);
+    // }
 
     public void RecoverEnergy(int amount)
     {

@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: f1d0e0ff7e560d645a91283f0a6bfee7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6759931507468004812
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_0
+  - first:
+      213: 7195362421945320547
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_1
+  - first:
+      213: 5717996421355197924
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_2
+  - first:
+      213: -6697405545926282699
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_3
+  - first:
+      213: 4880140147124966575
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_4
+  - first:
+      213: 2319359454558016902
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_5
+  - first:
+      213: 4525603602137179446
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_6
+  - first:
+      213: -3774387369566889990
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_7
+  - first:
+      213: -2476744661326109691
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_8
+  - first:
+      213: -4392278528546701522
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_9
+  - first:
+      213: 2968313395506219536
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_10
+  - first:
+      213: 3953115987628689191
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_11
+  - first:
+      213: -4985406643160928338
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_12
+  - first:
+      213: 4282409143755409741
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_13
+  - first:
+      213: -6735605306766151921
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_14
+  - first:
+      213: -4493095300318725185
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_15
+  - first:
+      213: 2162139262183291135
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_16
+  - first:
+      213: -7544859842182931481
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_17
+  - first:
+      213: 6984431157718958872
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_18
+  - first:
+      213: -7893198973000169766
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_19
+  - first:
+      213: 6724846421976060246
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_20
+  - first:
+      213: -7584237957143604909
+    second: puerta_corporaci%C3%B3n_2_nvl1_sp_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432166f0c16ef22a0800000000000000
+      internalID: -6759931507468004812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364ce3600001bd360800000000000000
+      internalID: 7195362421945320547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5d4d133776a5f40800000000000000
+      internalID: 5717996421355197924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532355ee3290e03a0800000000000000
+      internalID: -6697405545926282699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa491839b9db9b340800000000000000
+      internalID: 4880140147124966575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685df5ba225003020800000000000000
+      internalID: 2319359454558016902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6356d9b9f7c2ece30800000000000000
+      internalID: 4525603602137179446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af79e385faeae9bc0800000000000000
+      internalID: -3774387369566889990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504ef465ad5d0add0800000000000000
+      internalID: -2476744661326109691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ff56713fd7b03c0800000000000000
+      internalID: -4392278528546701522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a8e217e41913920800000000000000
+      internalID: 2968313395506219536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_11
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7278686db0a4cd630800000000000000
+      internalID: 3953115987628689191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_12
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf2585621740dab0800000000000000
+      internalID: -4985406643160928338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_13
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d490d645d6c2e6b30800000000000000
+      internalID: 4282409143755409741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_14
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fa7f609a25682a0800000000000000
+      internalID: -6735605306766151921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_15
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb768a31a155a1c0800000000000000
+      internalID: -4493095300318725185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_16
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff83c551436710e10800000000000000
+      internalID: 2162139262183291135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_17
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb939aa2f54b4790800000000000000
+      internalID: -7544859842182931481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_18
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8134202022fade060800000000000000
+      internalID: 6984431157718958872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_19
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6c8d0aa59b57290800000000000000
+      internalID: -7893198973000169766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_20
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65190f6e034735d50800000000000000
+      internalID: 6724846421976060246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_corporaci%C3%B3n_2_nvl1_sp_21
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 0
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351db60d2cf5fb690800000000000000
+      internalID: -7584237957143604909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4181d7825d3f50d4fadca3edc03f4afe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":102.0,"y":116.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      puerta_corporaci%C3%B3n_2_nvl1_sp_0: -6759931507468004812
+      puerta_corporaci%C3%B3n_2_nvl1_sp_1: 7195362421945320547
+      puerta_corporaci%C3%B3n_2_nvl1_sp_10: 2968313395506219536
+      puerta_corporaci%C3%B3n_2_nvl1_sp_11: 3953115987628689191
+      puerta_corporaci%C3%B3n_2_nvl1_sp_12: -4985406643160928338
+      puerta_corporaci%C3%B3n_2_nvl1_sp_13: 4282409143755409741
+      puerta_corporaci%C3%B3n_2_nvl1_sp_14: -6735605306766151921
+      puerta_corporaci%C3%B3n_2_nvl1_sp_15: -4493095300318725185
+      puerta_corporaci%C3%B3n_2_nvl1_sp_16: 2162139262183291135
+      puerta_corporaci%C3%B3n_2_nvl1_sp_17: -7544859842182931481
+      puerta_corporaci%C3%B3n_2_nvl1_sp_18: 6984431157718958872
+      puerta_corporaci%C3%B3n_2_nvl1_sp_19: -7893198973000169766
+      puerta_corporaci%C3%B3n_2_nvl1_sp_2: 5717996421355197924
+      puerta_corporaci%C3%B3n_2_nvl1_sp_20: 6724846421976060246
+      puerta_corporaci%C3%B3n_2_nvl1_sp_21: -7584237957143604909
+      puerta_corporaci%C3%B3n_2_nvl1_sp_3: -6697405545926282699
+      puerta_corporaci%C3%B3n_2_nvl1_sp_4: 4880140147124966575
+      puerta_corporaci%C3%B3n_2_nvl1_sp_5: 2319359454558016902
+      puerta_corporaci%C3%B3n_2_nvl1_sp_6: 4525603602137179446
+      puerta_corporaci%C3%B3n_2_nvl1_sp_7: -3774387369566889990
+      puerta_corporaci%C3%B3n_2_nvl1_sp_8: -2476744661326109691
+      puerta_corporaci%C3%B3n_2_nvl1_sp_9: -4392278528546701522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
