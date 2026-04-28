@@ -129752,6 +129752,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 537401354}
     m_Modifications:
+    - target: {fileID: 154803939, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 154803939, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 269775060, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -129768,6 +129776,11 @@ PrefabInstance:
     - target: {fileID: 4335174059118902793, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
       propertyPath: canPatrol
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4335174059118902793, guid: fe478c6364e082f48a2af96ad31ded8c,
+        type: 3}
+      propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4335174059118902793, guid: fe478c6364e082f48a2af96ad31ded8c,
@@ -129941,10 +129954,16 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 4335174059118902793, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
+    - {fileID: 269775060, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8215042432838086117, guid: fe478c6364e082f48a2af96ad31ded8c,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1443070189}
   m_SourcePrefab: {fileID: 100100000, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
 --- !u!1001 &658452503
 PrefabInstance:
@@ -271851,6 +271870,28 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ded8831f81a3eea4cba57b99380c4218, type: 3}
+--- !u!1 &1443070188 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8215042432838086117, guid: fe478c6364e082f48a2af96ad31ded8c,
+    type: 3}
+  m_PrefabInstance: {fileID: 652701809}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1443070189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1443070188}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc28be0c4fe064e70a025dd61f0769d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DronBehaviour_JCSantos
+  health: 5
+  maxHealth: 10
+  speed: 2
+  playerTransform: {fileID: 1785532603}
 --- !u!4 &1453027842 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 391644990005583848, guid: ded8831f81a3eea4cba57b99380c4218,
