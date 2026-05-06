@@ -1451,6 +1451,12 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1237757356}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &95441936 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8215042432421417318, guid: fe478c6364e082f48a2af96ad31ded8c,
+    type: 3}
+  m_PrefabInstance: {fileID: 652701809}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &99063821
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -129757,8 +129763,16 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 154803939, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 154803939, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
       propertyPath: m_GravityScale
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 154803939, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 269775060, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
       propertyPath: m_Enabled
@@ -129847,12 +129861,12 @@ PrefabInstance:
     - target: {fileID: 8215042432838086112, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.27
+      value: -5.219
       objectReference: {fileID: 0}
     - target: {fileID: 8215042432838086112, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.98
+      value: 1.615
       objectReference: {fileID: 0}
     - target: {fileID: 8215042432838086112, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
@@ -129897,7 +129911,7 @@ PrefabInstance:
     - target: {fileID: 8215042432838086113, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
       propertyPath: m_Radius
-      value: 0.19481753
+      value: 0.13
       objectReference: {fileID: 0}
     - target: {fileID: 8215042432838086113, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
@@ -129912,12 +129926,12 @@ PrefabInstance:
     - target: {fileID: 8215042432838086113, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
       propertyPath: m_Offset.y
-      value: -0.0028180927
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8215042432838086113, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8215042432838086114, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
@@ -129932,7 +129946,7 @@ PrefabInstance:
     - target: {fileID: 8215042432838086117, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
       propertyPath: m_Name
-      value: Dron (zone13) (1)
+      value: DronJC
       objectReference: {fileID: 0}
     - target: {fileID: 8215042432838086117, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
@@ -129965,6 +129979,18 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1443070189}
   m_SourcePrefab: {fileID: 100100000, guid: fe478c6364e082f48a2af96ad31ded8c, type: 3}
+--- !u!95 &652701810 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 8215042432421417316, guid: fe478c6364e082f48a2af96ad31ded8c,
+    type: 3}
+  m_PrefabInstance: {fileID: 652701809}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &652701811 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 8215042432838086114, guid: fe478c6364e082f48a2af96ad31ded8c,
+    type: 3}
+  m_PrefabInstance: {fileID: 652701809}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &658452503
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -130767,6 +130793,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b4965eec92510914bb86e4ed802dfd5d, type: 3}
+--- !u!1 &675926101 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1358779556521288717, guid: 3979d671f93c2d8499f5655aa5136e2f,
+    type: 3}
+  m_PrefabInstance: {fileID: 1785532600}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &677465834 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4074844586446473214, guid: 6266cfe369f827f42a40b3018702fe4a,
@@ -261572,6 +261604,18 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1061500223}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1062602053 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 189028996, guid: b4965eec92510914bb86e4ed802dfd5d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1618897055}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2128c2574d6b2479f178f7ac0adf14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1084993406
 GameObject:
   m_ObjectHideFlags: 0
@@ -262450,12 +262494,12 @@ PrefabInstance:
     - target: {fileID: 5601987735205520201, guid: 133ba22819640854796228f64afa6466,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -677
+      value: -676.56635
       objectReference: {fileID: 0}
     - target: {fileID: 5601987735205520201, guid: 133ba22819640854796228f64afa6466,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -384
+      value: -384.8179
       objectReference: {fileID: 0}
     - target: {fileID: 5601987735205520201, guid: 133ba22819640854796228f64afa6466,
         type: 3}
@@ -271885,13 +271929,47 @@ MonoBehaviour:
   m_GameObject: {fileID: 1443070188}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc28be0c4fe064e70a025dd61f0769d6, type: 3}
+  m_Script: {fileID: 11500000, guid: 8069f7cf757024b8a99c110fc7af05eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DronBehaviour_JCSantos
-  health: 5
+  faceImage: {fileID: 2190877999447139200, guid: 562d95426db76ae4fae6aa1d8e9882e2,
+    type: 3}
+  health: 8
   maxHealth: 10
+  aimTime: 0.5
+  refreshTime: 1
+  recompensa: {fileID: 908300179}
+  immuneTime: 0.4
+  blinkTime: 0.1
+  eyesSprite: {fileID: 95441936}
+  eyesColor2: {r: 0.9622642, g: 0.16999508, b: 0.013616921, a: 0}
+  eyesColor1: {r: 0.9339623, g: 0.9022019, b: 0.039649326, a: 0}
+  eyesColor0: {r: 0.022917405, g: 0.9716981, b: 0.1725119, a: 0}
+  explosion: {fileID: 6619765022819068634, guid: 86f1123d3ae3fab4f90ae28c6319435c,
+    type: 3}
+  dronAnimator: {fileID: 652701811}
+  eyesAnimator: {fileID: 652701810}
+  uiController: {fileID: 201824303615078294}
+  isImmune: 0
+  shootPosition: {fileID: 312315113}
+  bullet: {fileID: 675926101}
+  enemyName:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  hideUIDistance: 4
+  patrolTime: 3
   speed: 2
   playerTransform: {fileID: 1785532603}
+  childrenWallC: {fileID: 1062602053}
+  references:
+    version: 2
+    RefIds: []
 --- !u!4 &1453027842 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 391644990005583848, guid: ded8831f81a3eea4cba57b99380c4218,
