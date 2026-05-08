@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Localization;
 
 public class DronBehaviour_JCSantos : MonoBehaviour
@@ -64,9 +63,9 @@ public class DronBehaviour_JCSantos : MonoBehaviour
     private float patrolTimer;
     private bool lookRight = true;
     public float speed = 2f;
+    public Transform wallChecker;
 
     private Vector2 movement;
-    private Vector2 avoidance;
 
     [Header("References")]
     public Transform playerTransform;
@@ -74,8 +73,7 @@ public class DronBehaviour_JCSantos : MonoBehaviour
     public RobotWallChecker childrenWallC;
     private SpriteRenderer eyesSR;
 
-    
-// ---------------- AL ARRANCAR ----------------
+    // ---------------- AL ARRANCAR ----------------
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -84,11 +82,10 @@ public class DronBehaviour_JCSantos : MonoBehaviour
 
         initialPosition = transform.position;
         uiController = GameObject.FindFirstObjectByType<UIController>();
-
+        childrenWallC = GetComponentInChildren<RobotWallChecker>();
         state = DronState.Patrol;
     }
-
-// ---------------- CADA FRAME ----------------
+    // ---------------- CADA FRAME ----------------
     private void Update()
     {
         switch (state)
@@ -96,65 +93,54 @@ public class DronBehaviour_JCSantos : MonoBehaviour
             case DronState.Patrol:
                 Patrol();
                 break;
-
             case DronState.Chase:
                 FollowPlayer();
                 break;
-
             case DronState.Return:
                 BackPosition();
                 break;
-
             case DronState.Attack:
                 AttackBehaviour();
                 break;
         }
-
         if (isImmune)
             DamageBlink();
-
         HideUIIfFar();
         CheckStateTransitions();
     }
-
     // ---------------- CADA ESTADO FIXED ----------------
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + (movement + avoidance) * Time.fixedDeltaTime);
-        //rb.linearVelocity = movement + avoidance;
+        rb.linearVelocity = movement;
     }
     // ---------------- ESTADOS ----------------
     void Patrol()
     {
         Vector2 patrolDir = lookRight ? Vector2.right : Vector2.left;
-        //movement = patrolDir * speed; -- A ver que pasa
-
-        if (childrenWallC != null && childrenWallC.isWall)
+        
+        // Detectar pared
+        if (IsWallAhead())
         {
+            ChangeDirection();
+            patrolTimer = 0F;
             movement = Vector2.zero;
             return;
         }
+        //Movimiento normal
         movement = patrolDir * speed;
+        //Timer patrulla
         patrolTimer += Time.deltaTime;
         if (patrolTimer >= patrolTime)
         {
             patrolTimer = 0f;
             ChangeDirection();
         }
-
-        if (childrenWallC != null && childrenWallC.isWall)
-        {
-            ChangeDirection();
-            patrolTimer = 0f;
-        }
     }
-
     void FollowPlayer()
     {
         Vector2 dir = (playerTransform.position - transform.position).normalized;
-        //movement = patrolDir * speed; -- A ver que pasa
 
-        if (childrenWallC != null && childrenWallC.isWall)
+        if (IsWallAhead())
         {
             movement = Vector2.zero;
             return;
@@ -166,25 +152,27 @@ public class DronBehaviour_JCSantos : MonoBehaviour
         else if (playerTransform.position.x < transform.position.x && lookRight)
             ChangeDirection();
     }
-
     void BackPosition()
     {
         Vector2 dir = (initialPosition - transform.position).normalized;
+        LookToDirection(dir.x);
+        if (IsWallAhead())
+        {
+            movement = Vector2.zero;
+            return;
+        }
+
         movement = dir * speed;
 
-        // FIX CLAVE: evitar basura de colisión
         if (Vector3.Distance(transform.position, initialPosition) < 0.2f)
         {
             state = DronState.Patrol;
             movement = Vector2.zero;
-            avoidance = Vector2.zero;
         }
     }
-
     void AttackBehaviour()
     {
         movement = Vector2.zero;
-
         aimingTimer += Time.deltaTime;
         if (aimingTimer >= aimTime)
         {
@@ -193,7 +181,6 @@ public class DronBehaviour_JCSantos : MonoBehaviour
             state = DronState.Chase;
         }
     }
-
     // ---------------- ESTADO DE LAS TRANSICIONES ----------------
     void CheckStateTransitions()
     {
@@ -208,15 +195,11 @@ public class DronBehaviour_JCSantos : MonoBehaviour
             state = DronState.Attack;
         }
     }
-
     // ---------------- COLISIONES ----------------
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
-        {
             state = DronState.Chase;
-        }
 
         if (collision.CompareTag("Projectile"))
         {
@@ -225,16 +208,11 @@ public class DronBehaviour_JCSantos : MonoBehaviour
             Destroy(collision.gameObject);
         }
     }
-
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
-        {
             state = DronState.Return;
-            avoidance = Vector2.zero; // FIX IMPORTANTE
-        }
     }
-
     // ---------------- DAÑO ----------------
     void GetDamage(int dmg)
     {
@@ -244,7 +222,6 @@ public class DronBehaviour_JCSantos : MonoBehaviour
         isImmune = true;
         spriteRenderer.enabled = false;
     }
-
     void Die()
     {
         state = DronState.Dead;
@@ -255,17 +232,19 @@ public class DronBehaviour_JCSantos : MonoBehaviour
         }
         if (recompensa != null)
             Instantiate(recompensa, transform.position, Quaternion.identity);
+        GetComponent<Collider2D>().enabled = false;
         Destroy(gameObject);
     }
-
     // ---------------- UTILES ----------------
     void ChangeDirection()
     {
         lookRight = !lookRight;
         spriteRenderer.flipX = !lookRight;
         eyesSR.flipX = !lookRight;
+        Vector3 checkerPos = wallChecker.localPosition;
+        checkerPos.x *= -1;
+        wallChecker.localPosition = checkerPos;
     }
-
     void Shoot()
     {
         float angle =
@@ -273,11 +252,19 @@ public class DronBehaviour_JCSantos : MonoBehaviour
                 playerTransform.position.y - shootPosition.position.y,
                 playerTransform.position.x - shootPosition.position.x
             ) * Mathf.Rad2Deg;
-
         Instantiate(bullet, shootPosition.position, Quaternion.Euler(0, 0, angle - 180));
     }
-
+    void LookToDirection(float directionX)
+    {
+        if (directionX > 0 && !lookRight)
+            ChangeDirection();
+        else if (directionX < 0 && lookRight)
+            ChangeDirection();
+        }
+    bool IsWallAhead()
+    {
+        return childrenWallC != null && childrenWallC.isWall;
+    }
     void HideUIIfFar() { }
-
     void DamageBlink() { }
 }
