@@ -1,0 +1,270 @@
+﻿using UnityEngine;
+using UnityEngine.Localization;
+
+public class DronBehaviour_JCSantos : MonoBehaviour
+{
+    public enum DronState
+    {
+        Patrol,
+        Chase,
+        Return,
+        Attack,
+        Dead
+    }
+    [Header("Dron Attributes")]
+    public Sprite faceImage;
+    public int health;
+    public int maxHealth;
+    public float aimTime;
+    private float aimingTimer;
+    public float refreshTime;
+    private float refreshTimer;
+
+    public GameObject recompensa;
+    private SpriteRenderer spriteRenderer;
+
+    private float immuneTimer;
+    public float immuneTime;
+    private float blinkTimer;
+    public float blinkTime;
+
+    [Header("Sprites")]
+    public GameObject eyesSprite;
+    public Color eyesColor2;
+    public Color eyesColor1;
+    public Color eyesColor0;
+    public GameObject explosion;
+
+    [Header("Animators")]
+    public Animator dronAnimator;
+    public Animator eyesAnimator;
+
+    [Header("AI")]
+    private Vector3 initialPosition;
+    private DronState state;
+
+    [Header("UI")]
+    public UIController uiController;
+    public bool isImmune;
+
+    [Header("Shoot")]
+    public Transform shootPosition;
+    public GameObject bullet;
+
+    [Header("Localization")]
+    public LocalizedString enemyName;
+
+    [Header("UI Distance")]
+    public float hideUIDistance = 4f;
+    private bool enemyUIShown;
+
+    [Header("Movement")]
+    public float patrolTime = 3f;
+    private float patrolTimer;
+    private bool lookRight = true;
+    public float speed = 2f;
+    public Transform wallChecker;
+
+    private Vector2 movement;
+
+    [Header("References")]
+    public Transform playerTransform;
+    private Rigidbody2D rb;
+    public RobotWallChecker childrenWallC;
+    private SpriteRenderer eyesSR;
+
+    // ---------------- AL ARRANCAR ----------------
+    private void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        eyesSR = eyesSprite.GetComponent<SpriteRenderer>();
+
+        initialPosition = transform.position;
+        uiController = GameObject.FindFirstObjectByType<UIController>();
+        childrenWallC = GetComponentInChildren<RobotWallChecker>();
+        state = DronState.Patrol;
+    }
+    // ---------------- CADA FRAME ----------------
+    private void Update()
+    {
+        switch (state)
+        {
+            case DronState.Patrol:
+                Patrol();
+                break;
+            case DronState.Chase:
+                FollowPlayer();
+                break;
+            case DronState.Return:
+                BackPosition();
+                break;
+            case DronState.Attack:
+                AttackBehaviour();
+                break;
+        }
+        if (isImmune)
+            DamageBlink();
+        HideUIIfFar();
+        CheckStateTransitions();
+    }
+    // ---------------- CADA ESTADO FIXED ----------------
+    private void FixedUpdate()
+    {
+        rb.linearVelocity = movement;
+    }
+    // ---------------- ESTADOS ----------------
+    void Patrol()
+    {
+        Vector2 patrolDir = lookRight ? Vector2.right : Vector2.left;
+        
+        // Detectar pared
+        if (IsWallAhead())
+        {
+            ChangeDirection();
+            patrolTimer = 0F;
+            movement = Vector2.zero;
+            return;
+        }
+        //Movimiento normal
+        movement = patrolDir * speed;
+        //Timer patrulla
+        patrolTimer += Time.deltaTime;
+        if (patrolTimer >= patrolTime)
+        {
+            patrolTimer = 0f;
+            ChangeDirection();
+        }
+    }
+    void FollowPlayer()
+    {
+        Vector2 dir = (playerTransform.position - transform.position).normalized;
+
+        if (IsWallAhead())
+        {
+            movement = Vector2.zero;
+            return;
+        }
+        movement = dir * speed;// -- A ver que pasa
+
+        if (playerTransform.position.x > transform.position.x && !lookRight)
+            ChangeDirection();
+        else if (playerTransform.position.x < transform.position.x && lookRight)
+            ChangeDirection();
+    }
+    void BackPosition()
+    {
+        Vector2 dir = (initialPosition - transform.position).normalized;
+        LookToDirection(dir.x);
+        if (IsWallAhead())
+        {
+            movement = Vector2.zero;
+            return;
+        }
+
+        movement = dir * speed;
+
+        if (Vector3.Distance(transform.position, initialPosition) < 0.2f)
+        {
+            state = DronState.Patrol;
+            movement = Vector2.zero;
+        }
+    }
+    void AttackBehaviour()
+    {
+        movement = Vector2.zero;
+        aimingTimer += Time.deltaTime;
+        if (aimingTimer >= aimTime)
+        {
+            aimingTimer = 0;
+            Shoot();
+            state = DronState.Chase;
+        }
+    }
+    // ---------------- ESTADO DE LAS TRANSICIONES ----------------
+    void CheckStateTransitions()
+    {
+        if (state == DronState.Dead) return;
+        if (health <= 0)
+        {
+            Die();
+            return;
+        }
+        if (state == DronState.Chase && Vector3.Distance(transform.position, playerTransform.position) <= 1f)
+        {
+            state = DronState.Attack;
+        }
+    }
+    // ---------------- COLISIONES ----------------
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+            state = DronState.Chase;
+
+        if (collision.CompareTag("Projectile"))
+        {
+            var dmg = collision.GetComponent<Projectile>().damage;
+            GetDamage(dmg);
+            Destroy(collision.gameObject);
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+            state = DronState.Return;
+    }
+    // ---------------- DAÑO ----------------
+    void GetDamage(int dmg)
+    {
+        health -= dmg;
+        if (health <= 0)
+            return;
+        isImmune = true;
+        spriteRenderer.enabled = false;
+    }
+    void Die()
+    {
+        state = DronState.Dead;
+        if (explosion != null)
+        {
+            GameObject fx = Instantiate(explosion, transform.position, transform.rotation);
+            Destroy(fx, 0.5f);
+        }
+        if (recompensa != null)
+            Instantiate(recompensa, transform.position, Quaternion.identity);
+        GetComponent<Collider2D>().enabled = false;
+        Destroy(gameObject);
+    }
+    // ---------------- UTILES ----------------
+    void ChangeDirection()
+    {
+        lookRight = !lookRight;
+        spriteRenderer.flipX = !lookRight;
+        eyesSR.flipX = !lookRight;
+        Vector3 checkerPos = wallChecker.localPosition;
+        checkerPos.x *= -1;
+        wallChecker.localPosition = checkerPos;
+    }
+    void Shoot()
+    {
+        float angle =
+            Mathf.Atan2(
+                playerTransform.position.y - shootPosition.position.y,
+                playerTransform.position.x - shootPosition.position.x
+            ) * Mathf.Rad2Deg;
+        Instantiate(bullet, shootPosition.position, Quaternion.Euler(0, 0, angle - 180));
+    }
+    void LookToDirection(float directionX)
+    {
+        if (directionX > 0 && !lookRight)
+            ChangeDirection();
+        else if (directionX < 0 && lookRight)
+            ChangeDirection();
+        }
+    bool IsWallAhead()
+    {
+        return childrenWallC != null && childrenWallC.isWall;
+    }
+    void HideUIIfFar() { }
+    void DamageBlink() { }
+}

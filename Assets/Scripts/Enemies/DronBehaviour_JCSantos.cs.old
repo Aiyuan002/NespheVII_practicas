@@ -1,0 +1,454 @@
+﻿using System.Collections;
+using UnityEngine;
+using UnityEngine.Localization;
+
+public class DronBehaviour_JCSantos : MonoBehaviour
+{
+    [Header("Dron Attributes")]
+    public Sprite faceImage;
+    public int health;
+    public int maxHealth;
+    public float aimTime;
+    private float aimingTimer;
+    public float refreshTime;
+    private float refreshTimer;
+    public Collider2D bodyCollider;
+    public GameObject recompensa;
+    private SpriteRenderer spriteRenderer;
+    private float immuneTimer;
+    public float immuneTime;
+    private float blinkTimer;
+    public float blinkTime;
+
+    [Header("Sprites")]
+    public GameObject eyesSprite;
+
+    //public Color eyesColor3;
+    public Color eyesColor2;
+    public Color eyesColor1;
+    public Color eyesColor0;
+    public GameObject explosion;
+
+    [Header("Animators")]
+    public Animator dronAnimator;
+    public Animator eyesAnimator;
+
+    [Header("AI")]
+    private Vector3 initialPosition;
+    private bool isReturningToInitialPosition = false;
+
+    [Header("UI")]
+    public UIController uiController;
+    public bool isImmune;
+
+    [Header("Shoot")]
+    public Transform shootPosition;
+    public GameObject bullet;
+    public bool hasObjective;
+    public bool canShoot;
+    public bool canPatrol;
+
+    [Header("Localization")]
+    public LocalizedString enemyName;
+
+    [Header("UI Distance")]
+    public float hideUIDistance = 4f;
+    private bool enemyUIShown;
+
+    [Header("Movement")]
+    public float patrolTime = 3f;
+    private float patrolTimer;
+    private bool lookRight = true;
+    public float speed =2f; 
+    private Vector2 movement;
+    private Vector2 avoidance;
+
+
+    [Header("References")]
+    public Transform playerTransform;
+    private Rigidbody2D rb;
+    public RobotWallChecker childrenWallC;
+    private SpriteRenderer eyesSR;
+
+    private void Start()
+    {
+        patrolTimer = 0f;
+        canPatrol = true;
+        rb = GetComponent<Rigidbody2D>();
+        eyesSR = eyesSprite.GetComponent<SpriteRenderer>();
+        initialPosition = transform.position;
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        childrenWallC = GetComponentInChildren<RobotWallChecker>();
+        uiController = GameObject.FindFirstObjectByType<UIController>();
+        if (childrenWallC == null){
+            Debug.LogWarning("No hay RobotWallChexker");
+        }
+        hasObjective = false;
+
+    }
+    //Update Unity
+    private void Update()
+    {
+        //Movimiento
+        if (hasObjective)
+        {
+            FollowPlayer();
+        }
+        else if (isReturningToInitialPosition)
+        {
+            BackPosition();
+        }
+        else if (canPatrol)
+        {
+            Patrol();
+        }
+        else 
+        {
+            movement = Vector2.zero;
+        }
+        //Combate Disparo
+        if (hasObjective && canShoot && !dronAnimator.GetCurrentAnimatorStateInfo(0).IsName("Shoot"))
+        {
+            Aim();
+        }
+        //Daño / Inmune
+        if (isImmune)
+        {
+            DamageBlink();
+        }
+        //UI
+        HideUIIfFar();
+        //Checks
+        CheckPosition();
+        //CheckDirection();
+    }
+
+    private void FixedUpdate()
+    {
+        rb.linearVelocity = movement + avoidance;
+    }
+
+
+    //Si pierde vision del player lo busca.
+    //void SearchPlayer()
+    //{
+    //    int nextPoint = Random.Range(0, searchPoints.Length);
+    //
+    //    if (lookRight && searchPoints[nextPoint].position.x > transform.position.x)
+    //    {
+    //        agent.destination = searchPoints[nextPoint].position;
+    //    }
+    //    else if(!lookRight && searchPoints[nextPoint].position.x < transform.position.x)
+    //    {
+    //        agent.destination = searchPoints[nextPoint].position;
+    //    }
+    //    else
+    //    {
+    //        nextPoint = Random.Range(0, searchPoints.Length);
+    //    }
+    //}
+
+    //Comprobar si se encuentra en la posición inicial.
+
+
+    void CheckPosition()
+    {
+        //Si está volviendo a posición inicial
+        if (isReturningToInitialPosition)
+        {
+            if (Vector3.Distance(transform.position, initialPosition) < 0.1f)
+            {
+                isReturningToInitialPosition = false;
+                canPatrol = true;
+            }
+        }
+    }
+
+
+    //Si tiene vision del player lo persigue.
+    void FollowPlayer()
+    {
+        //Movimiento manual hacia el jugador
+        Vector2 direction = (playerTransform.position - transform.position).normalized;
+
+        if(playerTransform.position.x > transform.position.x){
+            if (!lookRight){
+                ChangeDirection();
+            }
+        }
+        else {
+            if (lookRight){
+                ChangeDirection();
+            }
+        }
+        //Usamos la misma velocidad que patrol
+        movement = direction * speed;
+
+        if(Vector3.Distance(transform.position, playerTransform.position) <= 1f)
+        {
+            canShoot = true;
+            movement = Vector2.zero;
+        }
+    }
+
+    //Si no tiene vision del player patrulla.
+    void Patrol()
+    {
+        
+        Vector2 patrolDir = lookRight ? Vector2.right : Vector2.left;
+        movement = patrolDir * speed; 
+
+        patrolTimer += Time.deltaTime;
+        if (patrolTimer >= patrolTime)
+        {
+            patrolTimer = 0f;
+            ChangeDirection();
+        }
+        if (childrenWallC != null && childrenWallC.isWall)
+        {
+            ChangeDirection();
+            patrolTimer = 0f;
+        }
+    }
+
+    //Si tiene vision del player apunta durante un tiempo y despues dispara.
+    void Aim()
+    {
+        dronAnimator.Play("Aim");
+        eyesAnimator.Play("Aim");
+
+        aimingTimer += Time.deltaTime;
+        if (aimingTimer >= aimTime)
+        {
+            aimingTimer = 0;
+            dronAnimator.SetTrigger("Shoot");
+            eyesAnimator.SetTrigger("Shoot");
+            Shoot();
+            canShoot = false;
+        }
+    }
+
+    //Rota para mirar hacia la otra dirección.
+    void ChangeDirection()
+    {
+        lookRight = !lookRight;
+
+        spriteRenderer.flipX = !lookRight;
+        eyesSR.flipX = !lookRight;
+
+        dronAnimator.Play("ChangeDirection");
+        eyesAnimator.Play("ChangeDirection");
+    }
+
+    //Ejecuta el disparo.
+    void Shoot()
+    {
+        float angle =
+            Mathf.Atan2(
+                playerTransform.position.y - shootPosition.position.y,
+                playerTransform.position.x - shootPosition.position.x
+            ) * Mathf.Rad2Deg;
+
+        // Instancia la bala con la rotación calculada
+
+        Instantiate(bullet, shootPosition.position, Quaternion.Euler(0, 0, angle - 180));
+    }
+
+    //Vuelve a la posicion inicial
+
+    void BackPosition()
+    {
+        Vector2 direction = (initialPosition - transform.position). normalized;
+        //Movemos
+        movement = direction * speed;
+        //Evitamos paredes
+        if(childrenWallC !=null && childrenWallC.isWall){
+            ChangeDirection();
+            movement = Vector2.zero;
+            return;
+        }
+        //Seguimos hasta la pared
+        if (Vector3.Distance(transform.position, initialPosition) <= 0.19f)
+        {
+            isReturningToInitialPosition = false;
+            canPatrol = true;
+            movement = Vector2.zero;
+        }
+        //Cambiamos el ojo
+        if(playerTransform.position.x > transform.position.x){
+            if (!lookRight){
+                ChangeDirection();
+            }
+        }
+        else {
+            if (lookRight){
+                ChangeDirection();
+            }
+        }
+    }
+
+    //Delay para reiniciar el funcionamiento del dron.
+    void Refresh()
+    {
+        refreshTimer += Time.deltaTime;
+        if (refreshTimer >= refreshTime)
+        {
+            refreshTimer = 0;
+            canShoot = true;
+        }
+    }
+
+    //Daña al dron al recibir disparos.
+    void GetDamage(int dmg)
+    {
+        health -= dmg;
+        ChangeEyesColor();
+
+        if (health <= 0)
+        {
+            if (explosion != null)
+            {
+                GameObject effect = Instantiate(explosion, transform.position, transform.rotation);
+                Destroy(effect, 0.5f);
+            }
+
+            if (recompensa != null)
+            {
+                Instantiate(recompensa, transform.position, Quaternion.identity);
+            }
+
+            Destroy(gameObject);
+        }
+        if (health > 0)
+        {
+            isImmune = true;
+            immuneTimer = 0;
+            spriteRenderer.enabled = false;
+            blinkTimer = 0;
+        }
+    }
+
+    //Cambia el color de los ojos en funcion de la salud restante.
+    void ChangeEyesColor()
+    {
+        if (health == 2)
+        {
+            eyesSR.color = eyesColor2;
+        }
+        if (health == 1)
+        {
+            eyesSR.color = eyesColor1;
+        }
+        if (health == 0)
+        {
+            eyesSR.color = eyesColor0;
+        }
+    }
+
+    void DamageBlink()
+    {
+        immuneTimer += Time.deltaTime;
+        blinkTimer += Time.deltaTime;
+
+        if (blinkTimer >= blinkTime)
+        {
+            spriteRenderer.enabled = !spriteRenderer.enabled;
+            blinkTimer = 0;
+        }
+
+        if (immuneTimer >= immuneTime)
+        {
+            spriteRenderer.enabled = true;
+            isImmune = false;
+        }
+    }
+    private void OnCollisionStay2D(Collision2D collision){
+        if (collision.collider.CompareTag("Wall")){
+            Vector2 normal = collision.GetContact(0).normal;
+            avoidance = normal * speed;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("Wall"))
+        {
+            avoidance = Vector2.zero;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.transform.tag == "Player")
+        {
+            hasObjective = true;
+            canPatrol = false;
+        }
+
+        if (collision.transform.tag == "Projectile")
+        {
+            var dmg = collision.gameObject.GetComponent<Projectile>().damage;
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
+            GetDamage(dmg);
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.transform.tag == "Attack")
+        {
+            var dmg = collision.gameObject.GetComponentInParent<CharacterController>().attackDamage;
+            string localizedName = enemyName.IsEmpty ? gameObject.name : enemyName.GetLocalizedString();
+            uiController.EnabledEnemyCanvas(health, dmg, maxHealth, localizedName, faceImage);
+            enemyUIShown = true;
+            StartCoroutine(WaitToAnim(dmg));
+        }
+    }
+    //Espera de apuntado
+    private IEnumerator WaitToAnim(int damage)
+    {
+        yield return new WaitForSeconds(.5f);
+        GetDamage(damage);
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.transform.tag == "Player")
+        {
+            hasObjective = false;
+            //ChangeDirection();
+
+            // canShoot = false;
+            // if (health > 0)
+            // {
+            //     isReturningToInitialPosition = true;
+            // }
+            //
+            // if (canShoot)
+            // {
+            //     aimingTimer = 0;
+            // }
+            isReturningToInitialPosition = true;
+        }
+    }
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        // if (collision.transform.tag == "Player")
+        // {
+        //     hasObjective = true;
+        // }
+    }
+
+    private void HideUIIfFar()
+    {
+        if (!enemyUIShown || playerTransform == null || uiController == null) return;
+
+        float distance = Vector2.Distance(transform.position, playerTransform.position);
+
+        if (distance > hideUIDistance)
+        {
+            uiController.DisabledEnemyCanvas();
+            enemyUIShown = false;
+        }
+    }
+}
