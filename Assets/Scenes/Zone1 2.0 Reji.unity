@@ -289,7 +289,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
@@ -6349,7 +6349,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: -32768
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: d0c0f6f67d73f1c478acbe96670e5aa0, type: 3}
@@ -39794,7 +39794,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
@@ -40407,7 +40407,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
@@ -51528,7 +51528,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: ba1df7473e184eb4bae6f109a7b5b681, type: 3}
@@ -58352,7 +58352,7 @@ GameObject:
   - component: {fileID: 837085087}
   m_Layer: 11
   m_Name: Tilemap_Fake
-  m_TagString: Untagged
+  m_TagString: Projectile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59703,6 +59703,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37f33d812be26a04aa1456d4e9e630b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hitsToBreak: 3
 --- !u!61 &837085088
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -61128,7 +61129,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
@@ -141944,7 +141945,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 9acff8a49ff1b2743b39e4d24f663f15, type: 3}
@@ -142336,7 +142337,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 3c03088cc82b35b4e9037df1f7c86fb9, type: 3}
@@ -142485,7 +142486,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 9acff8a49ff1b2743b39e4d24f663f15, type: 3}
@@ -146473,7 +146474,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 9acff8a49ff1b2743b39e4d24f663f15, type: 3}
@@ -148274,7 +148275,7 @@ GameObject:
   - component: {fileID: 1372999139}
   m_Layer: 11
   m_Name: Tilemap_Fake (1)
-  m_TagString: Untagged
+  m_TagString: Projectile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -148306,6 +148307,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37f33d812be26a04aa1456d4e9e630b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hitsToBreak: 3
 --- !u!61 &1372999140
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -152248,7 +152250,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 9acff8a49ff1b2743b39e4d24f663f15, type: 3}
@@ -152997,7 +152999,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 9acff8a49ff1b2743b39e4d24f663f15, type: 3}
@@ -154859,7 +154861,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: b8914308d1372b14eb9b6822854cd35c, type: 3}
@@ -161439,7 +161441,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 3c03088cc82b35b4e9037df1f7c86fb9, type: 3}
@@ -163002,7 +163004,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 2134885977
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 9acff8a49ff1b2743b39e4d24f663f15, type: 3}
@@ -163173,6 +163175,8 @@ MonoBehaviour:
   objectoAnimacion: {fileID: 631168611}
   mainCamera: {fileID: 963194225}
   transition: {fileID: 1705978508}
+  puntoDeSpawn: {fileID: 0}
+  minimapa: {fileID: 0}
 --- !u!61 &1926479756
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -173887,10 +173891,6 @@ MonoBehaviour:
   energyIcon: {fileID: 468775385}
   gameobjectAscensor: {fileID: 1670818730}
   translateIcon: {fileID: 1593768867}
-  Plus:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
   map: {fileID: 1414761648}
   deadPlayer: {fileID: 0}
   slicedPlayer: {fileID: 0}
@@ -178355,6 +178355,7 @@ MonoBehaviour:
   playerShot: {fileID: 8300000, guid: 79937dab128ff0f46a87b0e9752dc9e4, type: 3}
   enemyShot: {fileID: 8300000, guid: ff9abe8fa8ed6c34f9c2e0dd9275241d, type: 3}
   explosion: {fileID: 8300000, guid: dc27b0d4db2bcaf409bb9424152be610, type: 3}
+  miniRobotExplosion: {fileID: 0}
 --- !u!1001 &9063826658420634986
 PrefabInstance:
   m_ObjectHideFlags: 0
