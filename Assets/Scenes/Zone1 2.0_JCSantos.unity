@@ -127487,7 +127487,7 @@ PrefabInstance:
         type: 3}
       propertyPath: faceImage
       value: 
-      objectReference: {fileID: 8841282271604468939, guid: 0926dbfd950b47e43bee9137a1f53c88,
+      objectReference: {fileID: 4272570484203756870, guid: 0926dbfd950b47e43bee9137a1f53c88,
         type: 3}
     - target: {fileID: -1217337325452121707, guid: 6799d6a1bf14f0e42990a3e0515653a9,
         type: 3}
@@ -129790,7 +129790,7 @@ PrefabInstance:
     - target: {fileID: 3338819381477902639, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
       propertyPath: m_Radius
-      value: 0.75
+      value: 1.03
       objectReference: {fileID: 0}
     - target: {fileID: 4335174059118902793, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
@@ -129846,7 +129846,12 @@ PrefabInstance:
     - target: {fileID: 5759208225183754434, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.067
+      value: 0.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759208225183754434, guid: fe478c6364e082f48a2af96ad31ded8c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.04
       objectReference: {fileID: 0}
     - target: {fileID: 7533612242262912329, guid: fe478c6364e082f48a2af96ad31ded8c,
         type: 3}
@@ -130803,12 +130808,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b4965eec92510914bb86e4ed802dfd5d, type: 3}
---- !u!1 &675926101 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1358779556521288717, guid: 3979d671f93c2d8499f5655aa5136e2f,
-    type: 3}
-  m_PrefabInstance: {fileID: 1785532600}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &677465834 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4074844586446473214, guid: 6266cfe369f827f42a40b3018702fe4a,
@@ -262492,12 +262491,12 @@ PrefabInstance:
     - target: {fileID: 5601987735205520201, guid: 133ba22819640854796228f64afa6466,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -676.56635
+      value: -675.76
       objectReference: {fileID: 0}
     - target: {fileID: 5601987735205520201, guid: 133ba22819640854796228f64afa6466,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -384.8179
+      value: -385.51
       objectReference: {fileID: 0}
     - target: {fileID: 5601987735205520201, guid: 133ba22819640854796228f64afa6466,
         type: 3}
@@ -271930,13 +271929,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8069f7cf757024b8a99c110fc7af05eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DronBehaviour_JCSantos
-  faceImage: {fileID: 2190877999447139200, guid: 562d95426db76ae4fae6aa1d8e9882e2,
-    type: 3}
-  health: 8
-  maxHealth: 10
+  faceImage: {fileID: 21300000, guid: d6e6744bb5b667b4785b76a011ee9379, type: 3}
+  health: 3
+  maxHealth: 3
   aimTime: 0.5
+  shootCooldown: 1.5
   refreshTime: 1
-  recompensa: {fileID: 908300179}
+  recompensa: {fileID: 8962947064598723360, guid: 059702b057f6ab44a8f018520cba32d1,
+    type: 3}
   immuneTime: 0.4
   blinkTime: 0.1
   eyesSprite: {fileID: 95441936}
@@ -271950,7 +271950,7 @@ MonoBehaviour:
   uiController: {fileID: 201824303615078294}
   isImmune: 0
   shootPosition: {fileID: 312315113}
-  bullet: {fileID: 675926101}
+  bullet: {fileID: 4041557343960621453, guid: 199faa3b819ad4562a9ecdb521311ec6, type: 3}
   enemyName:
     m_TableReference:
       m_TableCollectionName: 
@@ -271964,6 +271964,9 @@ MonoBehaviour:
   patrolTime: 3
   speed: 2
   wallChecker: {fileID: 2069682018}
+  loseTargetDelay: 1.2
+  attackDistanceX: 0.01
+  chaseDeadZoneX: 0.15
   playerTransform: {fileID: 1785532603}
   childrenWallC: {fileID: 2069682019}
   references:
@@ -278707,7 +278710,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 1.5460205, y: 0.8779907}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1705978510
