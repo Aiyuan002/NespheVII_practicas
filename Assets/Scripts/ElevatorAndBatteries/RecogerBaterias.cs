@@ -14,12 +14,12 @@ public class RecogerBaterias : MonoBehaviour
 
     private void OnEnable()
     {
-        CharacterController.OnPlayerInteract += InteractWithBattery;
+        PlayerController.OnPlayerInteract += InteractWithBattery;
     }
 
     private void OnDisable()
     {
-        CharacterController.OnPlayerInteract -= InteractWithBattery;
+        PlayerController.OnPlayerInteract -= InteractWithBattery;
     }
 
     void Start()

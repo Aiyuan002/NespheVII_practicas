@@ -32,10 +32,16 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] private bool useTypewriter = true;
     [SerializeField] private float charDelay = 0.03f;
 
+    [Header("Typing Audio")]
+    [SerializeField] private AudioSource typingAudioSource;
+    [SerializeField] private float typingVolume = 0.5f;
+    [SerializeField] private int playSoundEveryXCharacters = 1;
+    [SerializeField] private bool skipSpaces = true;
+
     public bool IsOpen { get; private set; }
 
     private Coroutine dialogueRoutine;
-    private CharacterController currentPlayer;
+    private PlayerController currentPlayer;
 
     private void Awake()
     {
@@ -54,7 +60,7 @@ public class DialogueManager : MonoBehaviour
             continuePrompt.SetActive(false);
     }
 
-    public void OpenDialogue(NPCDialogue npc, CharacterController playerController)
+    public void OpenDialogue(NPCDialogue npc, PlayerController playerController)
     {
         if (npc == null || playerController == null)
             return;
@@ -123,6 +129,7 @@ public class DialogueManager : MonoBehaviour
         for (int i = 0; i < line.Length; i++)
         {
             dialogueText.text += line[i];
+            PlayRandomTypingSound(line[i], i);
             yield return new WaitForSeconds(charDelay);
         }
     }
@@ -137,6 +144,31 @@ public class DialogueManager : MonoBehaviour
             yield return null;
         }
     }
+
+    private void PlayRandomTypingSound(char character, int index)
+    {
+        if (typingAudioSource == null)
+            return;
+
+        if (skipSpaces && char.IsWhiteSpace(character))
+            return;
+
+        if (playSoundEveryXCharacters > 1 && index % playSoundEveryXCharacters != 0)
+            return;
+
+        AudioClip[] clips =
+        {
+        AudioManager.Instance.sounds.dialogueKey1,
+        AudioManager.Instance.sounds.dialogueKey2,
+        AudioManager.Instance.sounds.dialogueKey3
+    };
+
+        AudioClip clip = clips[Random.Range(0, clips.Length)];
+
+        if (clip != null)
+            typingAudioSource.PlayOneShot(clip, typingVolume);
+    }
+
 
     private void ApplySpeaker(SpeakerId speaker)
     {

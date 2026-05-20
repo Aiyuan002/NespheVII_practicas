@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3354774807484090015}
   - component: {fileID: 6698472241433979351}
   - component: {fileID: 4694141109922496642}
+  - component: {fileID: 1031159600203330806}
   m_Layer: 0
   m_Name: Native1_0
   m_TagString: Untagged
@@ -190,3 +191,119 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.17, y: 0.55}
   m_EdgeRadius: 0
+--- !u!114 &1031159600203330806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3354774807484090014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711128a288073b4a90e392665beaa53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  noTranslatorLines:
+  - speaker: 0
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:2418ae41f6db36b4eac97738f1f5fbdc
+      m_TableEntryReference:
+        m_KeyId: 41
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    textStyle: 0
+  - speaker: 1
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:2418ae41f6db36b4eac97738f1f5fbdc
+      m_TableEntryReference:
+        m_KeyId: 51
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    textStyle: 1
+  - speaker: 0
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:2418ae41f6db36b4eac97738f1f5fbdc
+      m_TableEntryReference:
+        m_KeyId: 42
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    textStyle: 0
+  withTranslatorLines:
+  - speaker: 0
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:2418ae41f6db36b4eac97738f1f5fbdc
+      m_TableEntryReference:
+        m_KeyId: 41
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    textStyle: 0
+  - speaker: 1
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:2418ae41f6db36b4eac97738f1f5fbdc
+      m_TableEntryReference:
+        m_KeyId: 43
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    textStyle: 0
+  - speaker: 1
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:2418ae41f6db36b4eac97738f1f5fbdc
+      m_TableEntryReference:
+        m_KeyId: 44
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    textStyle: 0
+  - speaker: 0
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:2418ae41f6db36b4eac97738f1f5fbdc
+      m_TableEntryReference:
+        m_KeyId: 45
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    textStyle: 0
+  - speaker: 0
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:2418ae41f6db36b4eac97738f1f5fbdc
+      m_TableEntryReference:
+        m_KeyId: 46
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    textStyle: 0
+  - speaker: 1
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:2418ae41f6db36b4eac97738f1f5fbdc
+      m_TableEntryReference:
+        m_KeyId: 117
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    textStyle: 0
+  references:
+    version: 2
+    RefIds: []

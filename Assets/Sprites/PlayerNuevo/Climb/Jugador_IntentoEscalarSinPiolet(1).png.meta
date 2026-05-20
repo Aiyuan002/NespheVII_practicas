@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: cbe5a4625393a56488dbee481d160c89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3221702594806463003
+    second: Jugador_IntentoEscalarSinPiolet(1)_0
+  - first:
+      213: 7460278491705988829
+    second: Jugador_IntentoEscalarSinPiolet(1)_1
+  - first:
+      213: -8111482518071180298
+    second: Jugador_IntentoEscalarSinPiolet(1)_2
+  - first:
+      213: 5728224491135916796
+    second: Jugador_IntentoEscalarSinPiolet(1)_3
+  - first:
+      213: 7452079159005854130
+    second: Jugador_IntentoEscalarSinPiolet(1)_4
+  - first:
+      213: -1352346572113642161
+    second: Jugador_IntentoEscalarSinPiolet(1)_5
+  - first:
+      213: -3486715368308024687
+    second: Jugador_IntentoEscalarSinPiolet(1)_6
+  - first:
+      213: -5566374610288355987
+    second: Jugador_IntentoEscalarSinPiolet(1)_7
+  - first:
+      213: 3353867923596835518
+    second: Jugador_IntentoEscalarSinPiolet(1)_8
+  - first:
+      213: -4483299224665725673
+    second: Jugador_IntentoEscalarSinPiolet(1)_9
+  - first:
+      213: 586538335070800799
+    second: Jugador_IntentoEscalarSinPiolet(1)_10
+  - first:
+      213: -4546295833424155399
+    second: Jugador_IntentoEscalarSinPiolet(1)_11
+  - first:
+      213: -8656646633442894589
+    second: Jugador_IntentoEscalarSinPiolet(1)_12
+  - first:
+      213: 6387088277778864032
+    second: Jugador_IntentoEscalarSinPiolet(1)_13
+  - first:
+      213: -1804832122729491054
+    second: Jugador_IntentoEscalarSinPiolet(1)_14
+  - first:
+      213: -3549272025013776845
+    second: Jugador_IntentoEscalarSinPiolet(1)_15
+  - first:
+      213: 6352761092452185758
+    second: Jugador_IntentoEscalarSinPiolet(1)_16
+  - first:
+      213: 5793963247300759060
+    second: Jugador_IntentoEscalarSinPiolet(1)_17
+  - first:
+      213: -6249152412231058833
+    second: Jugador_IntentoEscalarSinPiolet(1)_18
+  - first:
+      213: 1171104560918782366
+    second: Jugador_IntentoEscalarSinPiolet(1)_19
+  - first:
+      213: 5438635482295886362
+    second: Jugador_IntentoEscalarSinPiolet(1)_20
+  - first:
+      213: 2586578851942730065
+    second: Jugador_IntentoEscalarSinPiolet(1)_21
+  - first:
+      213: 6043267285382569844
+    second: Jugador_IntentoEscalarSinPiolet(1)_22
+  - first:
+      213: 747083926192401727
+    second: Jugador_IntentoEscalarSinPiolet(1)_23
+  - first:
+      213: 3839350401991444728
+    second: Jugador_IntentoEscalarSinPiolet(1)_24
+  - first:
+      213: -9107821183118425947
+    second: Jugador_IntentoEscalarSinPiolet(1)_25
+  - first:
+      213: -3609257446833518055
+    second: Jugador_IntentoEscalarSinPiolet(1)_26
+  - first:
+      213: 8430469251351586409
+    second: Jugador_IntentoEscalarSinPiolet(1)_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ab46fc079c5bc20800000000000000
+      internalID: 3221702594806463003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd65f9f03cb388760800000000000000
+      internalID: 7460278491705988829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3839450a93e6f80800000000000000
+      internalID: -8111482518071180298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa59d343ddbe7f40800000000000000
+      internalID: 5728224491135916796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b2a6238a1b6760800000000000000
+      internalID: 7452079159005854130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4df2fb25ff7b3de0800000000000000
+      internalID: -1352346572113642161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ada1f88d2bc9fc0800000000000000
+      internalID: -3486715368308024687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65520ba8c340c2b0800000000000000
+      internalID: -5566374610288355987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaf0916b155b8e20800000000000000
+      internalID: 3353867923596835518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e304db1f18c1c0800000000000000
+      internalID: -4483299224665725673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b4b05128dc32800800000000000000
+      internalID: 586538335070800799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc2aecd60058e0c0800000000000000
+      internalID: -4546295833424155399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1e8370c96dd780800000000000000
+      internalID: -8656646633442894589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7121ac2fe73a850800000000000000
+      internalID: 6387088277778864032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2959e7d2fb2f3f6e0800000000000000
+      internalID: -1804832122729491054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e82d9e5e37ebec0800000000000000
+      internalID: -3549272025013776845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96f8822e8a892850800000000000000
+      internalID: 6352761092452185758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ec70d20ea486050800000000000000
+      internalID: 5793963247300759060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a31b19dfc8649a0800000000000000
+      internalID: -6249152412231058833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e916764b469904010800000000000000
+      internalID: 1171104560918782366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12e411f72ae97b40800000000000000
+      internalID: 5438635482295886362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1598595f2cf55e320800000000000000
+      internalID: 2586578851942730065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f97f3d39ffdd350800000000000000
+      internalID: 6043267285382569844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d2a166fdc2e5a00800000000000000
+      internalID: 747083926192401727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f804fe49dc184530800000000000000
+      internalID: 3839350401991444728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0c276a3e48a9180800000000000000
+      internalID: -9107821183118425947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a0e8a897759edc0800000000000000
+      internalID: -3609257446833518055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_IntentoEscalarSinPiolet(1)_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9662aa81e1b0ff470800000000000000
+      internalID: 8430469251351586409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 07a3e051ad692a140ba283880f0e9639
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":72.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Jugador_IntentoEscalarSinPiolet(1)_0: 3221702594806463003
+      Jugador_IntentoEscalarSinPiolet(1)_1: 7460278491705988829
+      Jugador_IntentoEscalarSinPiolet(1)_10: 586538335070800799
+      Jugador_IntentoEscalarSinPiolet(1)_11: -4546295833424155399
+      Jugador_IntentoEscalarSinPiolet(1)_12: -8656646633442894589
+      Jugador_IntentoEscalarSinPiolet(1)_13: 6387088277778864032
+      Jugador_IntentoEscalarSinPiolet(1)_14: -1804832122729491054
+      Jugador_IntentoEscalarSinPiolet(1)_15: -3549272025013776845
+      Jugador_IntentoEscalarSinPiolet(1)_16: 6352761092452185758
+      Jugador_IntentoEscalarSinPiolet(1)_17: 5793963247300759060
+      Jugador_IntentoEscalarSinPiolet(1)_18: -6249152412231058833
+      Jugador_IntentoEscalarSinPiolet(1)_19: 1171104560918782366
+      Jugador_IntentoEscalarSinPiolet(1)_2: -8111482518071180298
+      Jugador_IntentoEscalarSinPiolet(1)_20: 5438635482295886362
+      Jugador_IntentoEscalarSinPiolet(1)_21: 2586578851942730065
+      Jugador_IntentoEscalarSinPiolet(1)_22: 6043267285382569844
+      Jugador_IntentoEscalarSinPiolet(1)_23: 747083926192401727
+      Jugador_IntentoEscalarSinPiolet(1)_24: 3839350401991444728
+      Jugador_IntentoEscalarSinPiolet(1)_25: -9107821183118425947
+      Jugador_IntentoEscalarSinPiolet(1)_26: -3609257446833518055
+      Jugador_IntentoEscalarSinPiolet(1)_27: 8430469251351586409
+      Jugador_IntentoEscalarSinPiolet(1)_3: 5728224491135916796
+      Jugador_IntentoEscalarSinPiolet(1)_4: 7452079159005854130
+      Jugador_IntentoEscalarSinPiolet(1)_5: -1352346572113642161
+      Jugador_IntentoEscalarSinPiolet(1)_6: -3486715368308024687
+      Jugador_IntentoEscalarSinPiolet(1)_7: -5566374610288355987
+      Jugador_IntentoEscalarSinPiolet(1)_8: 3353867923596835518
+      Jugador_IntentoEscalarSinPiolet(1)_9: -4483299224665725673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

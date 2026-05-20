@@ -23,35 +23,35 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2
-    m_Localized: New Game
+    m_Localized: NEW GAME
     m_Metadata:
       m_Items: []
   - m_Id: 3
-    m_Localized: Options
+    m_Localized: OPTIONS
     m_Metadata:
       m_Items: []
   - m_Id: 4
-    m_Localized: Credits
+    m_Localized: CREDITS
     m_Metadata:
       m_Items: []
   - m_Id: 5
-    m_Localized: Exit
+    m_Localized: EXIT
     m_Metadata:
       m_Items: []
   - m_Id: 6
-    m_Localized: Audio
+    m_Localized: AUDIO
     m_Metadata:
       m_Items: []
   - m_Id: 7
-    m_Localized: Language
+    m_Localized: LANGUAGE
     m_Metadata:
       m_Items: []
   - m_Id: 8
-    m_Localized: Controls
+    m_Localized: CONTROLS
     m_Metadata:
       m_Items: []
   - m_Id: 9
-    m_Localized: Back
+    m_Localized: BACK
     m_Metadata:
       m_Items: []
   - m_Id: 10
@@ -67,7 +67,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 13
-    m_Localized: "Espa\xF1ol "
+    m_Localized: "ESPA\xD1OL"
     m_Metadata:
       m_Items: []
   - m_Id: 14
@@ -83,7 +83,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 17
-    m_Localized: Resume
+    m_Localized: RESUME
     m_Metadata:
       m_Items: []
   - m_Id: 18
@@ -103,7 +103,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22
-    m_Localized: Main Menu
+    m_Localized: MAIN MENU
     m_Metadata:
       m_Items: []
   - m_Id: 23
@@ -167,7 +167,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 42
-    m_Localized: "(Something the protagonist doesn\u2019t understand)"
+    m_Localized: (Phew, the translator is on the ship, I should go get him)
     m_Metadata:
       m_Items: []
   - m_Id: 43
@@ -205,7 +205,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 51
-    m_Localized: mdiwpaoj4n lkdfow lqowrsw ikodba qwerty yuio
+    m_Localized: mdiwpaoj4n lkdfow lqow
     m_Metadata:
       m_Items: []
   - m_Id: 30
@@ -354,6 +354,243 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 84
     m_Localized: Swamp Octopus Monster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85
+    m_Localized: You cannot gain more health/mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86
+    m_Localized: You have maximum lives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87
+    m_Localized: Press E to toggle the switch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88
+    m_Localized: Ugh, the translator is in the ship...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: You have no mana left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90
+    m_Localized: PRODUCTION & NARRATIVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91
+    m_Localized: PROGRAMMING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92
+    m_Localized: CONCEPT ART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93
+    m_Localized: "ART \u2014 CHARACTERS & ENVIRONMENTS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94
+    m_Localized: 2D ANIMATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95
+    m_Localized: 3D MODELING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96
+    m_Localized: MUSIC & SOUND EFFECTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97
+    m_Localized: INTERNS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98
+    m_Localized: ART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99
+    m_Localized: TUTORIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101
+    m_Localized: 'WASD to move
+
+      Space to jump
+
+      Shift to run'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102
+    m_Localized: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103
+    m_Localized: 'Equip an item to slots 1, 2, or 3, or left-click the item
+
+      Middle-click
+      to drop an item'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104
+    m_Localized: Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105
+    m_Localized: Left-click to use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106
+    m_Localized: Abilities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107
+    m_Localized: 'Tab to switch abilities
+
+      Right-click to use an ability
+
+      Central-click
+      the ability icon to display ability information'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108
+    m_Localized: Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109
+    m_Localized: Press M to open the full map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111
+    m_Localized: SHIELD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112
+    m_Localized: You use your bionic arm to unleash a short-range attack that deals
+      massive damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113
+    m_Localized: PUNCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114
+    m_Localized: You raise a protective barrier that blocks all enemy projectiles.
+      If it manages to block an attack immediately upon being raised, it refunds
+      its energy cost and empowers your next shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115
+    m_Localized: Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116
+    m_Localized: 'The red bar indicates health
+
+      The blue bar indicates mana
+      (special attacks).
+
+      And the bar at the bottom indicates the number of
+      lives you have left. You have 3.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117
+    m_Localized: To do that, you'll need to activate the elevator. Find the batteries
+      so it works, hurry!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118
+    m_Localized: '[Press Enter to skip]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119
+    m_Localized: PAUSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120
+    m_Localized: 'MOVE '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121
+    m_Localized: JUMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122
+    m_Localized: BASIC ATTACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123
+    m_Localized: SPECIAL ATTACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124
+    m_Localized: MAP COMPLETE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125
+    m_Localized: RUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126
+    m_Localized: CHANGE SPECIAL ATTACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127
+    m_Localized: RELEASE ITEM FROM INVENTORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128
+    m_Localized: USE OBJECTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129
+    m_Localized: TRANSLATOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130
+    m_Localized: A watch that allows you to understand the native language without
+      any problems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131
+    m_Localized: BOOTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132
+    m_Localized: Boots that will allow you to do a double jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133
+    m_Localized: PIOLET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134
+    m_Localized: A tool that allows you to climb in permitted areas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136
+    m_Localized: 'CONGRATULATIONS!
+
+      END OF DEMO!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137
+    m_Localized: TO BE CONTINUED...
     m_Metadata:
       m_Items: []
   references:

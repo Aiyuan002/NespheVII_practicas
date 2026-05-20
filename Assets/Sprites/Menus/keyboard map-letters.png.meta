@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 4444746325067ee48bb706d6b6c9e8f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6248761325196624898
+    second: keyboard map-letters_0
+  - first:
+      213: -7586809167509850579
+    second: keyboard map-letters_1
+  - first:
+      213: 9001945520438543091
+    second: keyboard map-letters_2
+  - first:
+      213: -7589533238082687965
+    second: keyboard map-letters_3
+  - first:
+      213: 3706528717392397250
+    second: keyboard map-letters_4
+  - first:
+      213: -2961798135564345907
+    second: keyboard map-letters_5
+  - first:
+      213: 6784400938854206981
+    second: keyboard map-letters_6
+  - first:
+      213: 616755343333837992
+    second: keyboard map-letters_7
+  - first:
+      213: -6063949332238794748
+    second: keyboard map-letters_8
+  - first:
+      213: 7702397361540215478
+    second: keyboard map-letters_9
+  - first:
+      213: -5870099573662752332
+    second: keyboard map-letters_10
+  - first:
+      213: -4771967579724933820
+    second: keyboard map-letters_11
+  - first:
+      213: 5391580356106072795
+    second: keyboard map-letters_12
+  - first:
+      213: -8798026797553548686
+    second: keyboard map-letters_13
+  - first:
+      213: 8596728782912980944
+    second: keyboard map-letters_14
+  - first:
+      213: 8569898661782408889
+    second: keyboard map-letters_15
+  - first:
+      213: -1661451148831457175
+    second: keyboard map-letters_16
+  - first:
+      213: 3235506459860311932
+    second: keyboard map-letters_17
+  - first:
+      213: -6286898354072667942
+    second: keyboard map-letters_18
+  - first:
+      213: 4311378692210232677
+    second: keyboard map-letters_19
+  - first:
+      213: -5824388338076839221
+    second: keyboard map-letters_20
+  - first:
+      213: -7161700869710027451
+    second: keyboard map-letters_21
+  - first:
+      213: -6869133091937506110
+    second: keyboard map-letters_22
+  - first:
+      213: 3672729781205123333
+    second: keyboard map-letters_23
+  - first:
+      213: 2342222694050044102
+    second: keyboard map-letters_24
+  - first:
+      213: 6018403695003743339
+    second: keyboard map-letters_25
+  - first:
+      213: 3585466710679193362
+    second: keyboard map-letters_26
+  - first:
+      213: 1388236296487445046
+    second: keyboard map-letters_27
+  - first:
+      213: -7925391682493677924
+    second: keyboard map-letters_28
+  - first:
+      213: -6147389644229839827
+    second: keyboard map-letters_29
+  - first:
+      213: -7756153200715862841
+    second: keyboard map-letters_30
+  - first:
+      213: 3443572347363017203
+    second: keyboard map-letters_31
+  - first:
+      213: 6966351368291604061
+    second: keyboard map-letters_32
+  - first:
+      213: 5584898249064684800
+    second: keyboard map-letters_33
+  - first:
+      213: -8695316757316012892
+    second: keyboard map-letters_34
+  - first:
+      213: 3820339795701720698
+    second: keyboard map-letters_35
+  - first:
+      213: -2646834582273668268
+    second: keyboard map-letters_36
+  - first:
+      213: -7092204191298845005
+    second: keyboard map-letters_37
+  - first:
+      213: 7981301716089146778
+    second: keyboard map-letters_38
+  - first:
+      213: 3309715976375758783
+    second: keyboard map-letters_39
+  - first:
+      213: -720665144208969191
+    second: keyboard map-letters_40
+  - first:
+      213: 7326960140888506503
+    second: keyboard map-letters_41
+  - first:
+      213: 4583373032958941003
+    second: keyboard map-letters_42
+  - first:
+      213: -2896259001536346077
+    second: keyboard map-letters_43
+  - first:
+      213: 8138568714810655450
+    second: keyboard map-letters_44
+  - first:
+      213: 9171651445978929081
+    second: keyboard map-letters_45
+  - first:
+      213: 5640673384794590396
+    second: keyboard map-letters_46
+  - first:
+      213: -8066385527483038718
+    second: keyboard map-letters_47
+  - first:
+      213: -1535187831221177019
+    second: keyboard map-letters_48
+  - first:
+      213: -1062741906115041144
+    second: keyboard map-letters_49
+  - first:
+      213: 1889453832982230274
+    second: keyboard map-letters_50
+  - first:
+      213: 2335850062993341899
+    second: keyboard map-letters_51
+  - first:
+      213: 4775780335420805308
+    second: keyboard map-letters_52
+  - first:
+      213: 7225096396432787008
+    second: keyboard map-letters_53
+  - first:
+      213: -6555055962135211824
+    second: keyboard map-letters_54
+  - first:
+      213: -7258408642445133582
+    second: keyboard map-letters_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: keyboard map-letters_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 335
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbb47d9ea0f749a0800000000000000
+      internalID: -6248761325196624898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 286
+        width: 126
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26f5ef324d36b690800000000000000
+      internalID: -7586809167509850579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 335
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f28829a1c55dec70800000000000000
+      internalID: 9001945520438543091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 335
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32caf052bbf8ca690800000000000000
+      internalID: -7589533238082687965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 335
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c345fdfa3c307330800000000000000
+      internalID: 3706528717392397250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 335
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdd549b94495e6d0800000000000000
+      internalID: -2961798135564345907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 335
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e4b3665b8072e50800000000000000
+      internalID: 6784400938854206981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 335
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acccb097b72f8800800000000000000
+      internalID: 616755343333837992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 335
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40080f3e53688dba0800000000000000
+      internalID: -6063949332238794748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 335
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2b28d579964ea60800000000000000
+      internalID: 7702397361540215478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 335
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1e8a3f987398ea0800000000000000
+      internalID: -5870099573662752332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_11
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 335
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44590dae4c096cdb0800000000000000
+      internalID: -4771967579724933820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_12
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 129
+        width: 155
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd23daf94cdb2da40800000000000000
+      internalID: 5391580356106072795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 286
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2720477dd3127e580800000000000000
+      internalID: -8798026797553548686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 90
+        width: 179
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d787e7d747bd4770800000000000000
+      internalID: 8596728782912980944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 286
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bec2a87d656ee670800000000000000
+      internalID: 8569898661782408889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 286
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9608c3e9bf651f8e0800000000000000
+      internalID: -1661451148831457175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 286
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f94789bf3d6ec20800000000000000
+      internalID: 3235506459860311932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 286
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b282a14370c8a0800000000000000
+      internalID: -6286898354072667942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 286
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d0161f31815db30800000000000000
+      internalID: 4311378692210232677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 286
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2900b5aad9b2fa0800000000000000
+      internalID: -5824388338076839221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_21
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 286
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545e359d0078c9c90800000000000000
+      internalID: -7161700869710027451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 286
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc2f2cd8dfeba0a0800000000000000
+      internalID: -6869133091937506110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_23
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 286
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501cabce64828f230800000000000000
+      internalID: 3672729781205123333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_24
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 287
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c816bf612f318020800000000000000
+      internalID: 2342222694050044102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 245
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64b893164aa58350800000000000000
+      internalID: 6018403695003743339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 243
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217850c0af222c130800000000000000
+      internalID: 3585466710679193362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 243
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63220747e81044310800000000000000
+      internalID: 1388236296487445046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_28
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 243
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ef02b514a530290800000000000000
+      internalID: -7925391682493677924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 243
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24f3c750b510baa0800000000000000
+      internalID: -6147389644229839827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 243
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc62dff1cb9c5490800000000000000
+      internalID: -7756153200715862841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_31
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 243
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f14eea1ec60acf20800000000000000
+      internalID: 3443572347363017203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_32
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 243
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56d39ff8a37da060800000000000000
+      internalID: 6966351368291604061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_33
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 243
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d93321e5b818d40800000000000000
+      internalID: 5584898249064684800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 243
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a47dae9a77045780800000000000000
+      internalID: -8695316757316012892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_35
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 199
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76e61c9dc2940530800000000000000
+      internalID: 3820339795701720698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_36
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 199
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bcb5098fd844bd0800000000000000
+      internalID: -2646834582273668268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_37
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 199
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b688173ddd639d90800000000000000
+      internalID: -7092204191298845005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 199
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d85b0cf9743ce60800000000000000
+      internalID: 7981301716089146778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_39
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 199
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfef4715297eed20800000000000000
+      internalID: 3309715976375758783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_40
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 199
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9123b6d9edeaff5f0800000000000000
+      internalID: -720665144208969191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_41
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 199
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7800b11ad679ea560800000000000000
+      internalID: 7326960140888506503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_42
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 199
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b475f9e5d796b9f30800000000000000
+      internalID: 4583373032958941003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_43
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 199
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32806eb78cb6ec7d0800000000000000
+      internalID: -2896259001536346077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 155
+        width: 113
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2856a402102f070800000000000000
+      internalID: 8138568714810655450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 155
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b795498560484f70800000000000000
+      internalID: 9171651445978929081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_46
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 155
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc8ea2de82b74e40800000000000000
+      internalID: 5640673384794590396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 155
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204850da9117e0090800000000000000
+      internalID: -8066385527483038718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 90
+        width: 126
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5453f802dcae1bae0800000000000000
+      internalID: -1535187831221177019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_49
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 155
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8886716fdd16041f0800000000000000
+      internalID: -1062741906115041144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_50
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 155
+        width: 95
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205f7661040b83a10800000000000000
+      internalID: 1889453832982230274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 112
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdba45a14b9a6020800000000000000
+      internalID: 2335850062993341899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_52
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 90
+        width: 247
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb09d0279eaf64240800000000000000
+      internalID: 4775780335420805308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_53
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 114
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046c45174e2b44460800000000000000
+      internalID: 7225096396432787008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_54
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 114
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0df162553c705a0800000000000000
+      internalID: -6555055962135211824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard map-letters_55
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 112
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8be60ebc3f44b90800000000000000
+      internalID: -7258408642445133582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      keyboard map-letters_0: -6248761325196624898
+      keyboard map-letters_1: -7586809167509850579
+      keyboard map-letters_10: -5870099573662752332
+      keyboard map-letters_11: -4771967579724933820
+      keyboard map-letters_12: 5391580356106072795
+      keyboard map-letters_13: -8798026797553548686
+      keyboard map-letters_14: 8596728782912980944
+      keyboard map-letters_15: 8569898661782408889
+      keyboard map-letters_16: -1661451148831457175
+      keyboard map-letters_17: 3235506459860311932
+      keyboard map-letters_18: -6286898354072667942
+      keyboard map-letters_19: 4311378692210232677
+      keyboard map-letters_2: 9001945520438543091
+      keyboard map-letters_20: -5824388338076839221
+      keyboard map-letters_21: -7161700869710027451
+      keyboard map-letters_22: -6869133091937506110
+      keyboard map-letters_23: 3672729781205123333
+      keyboard map-letters_24: 2342222694050044102
+      keyboard map-letters_25: 6018403695003743339
+      keyboard map-letters_26: 3585466710679193362
+      keyboard map-letters_27: 1388236296487445046
+      keyboard map-letters_28: -7925391682493677924
+      keyboard map-letters_29: -6147389644229839827
+      keyboard map-letters_3: -7589533238082687965
+      keyboard map-letters_30: -7756153200715862841
+      keyboard map-letters_31: 3443572347363017203
+      keyboard map-letters_32: 6966351368291604061
+      keyboard map-letters_33: 5584898249064684800
+      keyboard map-letters_34: -8695316757316012892
+      keyboard map-letters_35: 3820339795701720698
+      keyboard map-letters_36: -2646834582273668268
+      keyboard map-letters_37: -7092204191298845005
+      keyboard map-letters_38: 7981301716089146778
+      keyboard map-letters_39: 3309715976375758783
+      keyboard map-letters_4: 3706528717392397250
+      keyboard map-letters_40: -720665144208969191
+      keyboard map-letters_41: 7326960140888506503
+      keyboard map-letters_42: 4583373032958941003
+      keyboard map-letters_43: -2896259001536346077
+      keyboard map-letters_44: 8138568714810655450
+      keyboard map-letters_45: 9171651445978929081
+      keyboard map-letters_46: 5640673384794590396
+      keyboard map-letters_47: -8066385527483038718
+      keyboard map-letters_48: -1535187831221177019
+      keyboard map-letters_49: -1062741906115041144
+      keyboard map-letters_5: -2961798135564345907
+      keyboard map-letters_50: 1889453832982230274
+      keyboard map-letters_51: 2335850062993341899
+      keyboard map-letters_52: 4775780335420805308
+      keyboard map-letters_53: 7225096396432787008
+      keyboard map-letters_54: -6555055962135211824
+      keyboard map-letters_55: -7258408642445133582
+      keyboard map-letters_6: 6784400938854206981
+      keyboard map-letters_7: 616755343333837992
+      keyboard map-letters_8: -6063949332238794748
+      keyboard map-letters_9: 7702397361540215478
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

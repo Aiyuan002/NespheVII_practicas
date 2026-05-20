@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections;
+using UnityEngine.SceneManagement;
 
 
 public class CreditsAutoScroll : MonoBehaviour
@@ -14,7 +16,7 @@ public class CreditsAutoScroll : MonoBehaviour
     private void Start()
     {
         Canvas.ForceUpdateCanvases();
-        scrollRect.verticalNormalizedPosition = 0f;
+        scrollRect.verticalNormalizedPosition = 1f;
 
         if (playOnStart)
         {
@@ -28,7 +30,7 @@ public class CreditsAutoScroll : MonoBehaviour
         isPlaying = true;
 
         Canvas.ForceUpdateCanvases();
-        scrollRect.verticalNormalizedPosition = 0f;
+        scrollRect.verticalNormalizedPosition = 1f;
     }
 
     public void Stop()
@@ -45,12 +47,19 @@ public class CreditsAutoScroll : MonoBehaviour
 
         float t = Mathf.Clamp01(timer / duration);
 
-        scrollRect.verticalNormalizedPosition = t;
+        scrollRect.verticalNormalizedPosition = 1f - t;
 
         if (t >= 1f)
         {
             isPlaying = false;
+            StartCoroutine(GoToMenu());
         }
+    }
+
+    private IEnumerator GoToMenu()
+    {
+        yield return new WaitForSeconds(2f);
+        UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
     }
 
 }

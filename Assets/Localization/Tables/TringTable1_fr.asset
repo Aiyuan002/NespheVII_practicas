@@ -207,7 +207,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 51
-    m_Localized: mdiwpaoj4n lkdfow lqowrsw ikodba qwerty yuio
+    m_Localized: mdiwpaoj4n lkdfow lqow
     m_Metadata:
       m_Items: []
   - m_Id: 30
@@ -356,6 +356,74 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 84
     m_Localized: Monstre Poulpe des Marais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85
+    m_Localized: Vous ne pouvez pas gagner plus de vie/mana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86
+    m_Localized: Vous avez le maximum de vies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87
+    m_Localized: Appuyez sur E pour actionner l'interrupteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88
+    m_Localized: Ugh, le traducteur est dans le vaisseau...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: Il ne vous reste plus de mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90
+    m_Localized: PRODUCTION & NARRATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91
+    m_Localized: PROGRAMMATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92
+    m_Localized: CONCEPT ART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93
+    m_Localized: "ART \u2014 PERSONNAGES & D\xC9CORS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94
+    m_Localized: ANIMATION 2D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95
+    m_Localized: "MOD\xC9LISATION 3D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96
+    m_Localized: MUSIQUE & EFFETS SONORES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97
+    m_Localized: STAGIAIRES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98
+    m_Localized: ART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99
+    m_Localized: TUTORIEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100
+    m_Localized: "D\xE9placement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101
+    m_Localized: 
     m_Metadata:
       m_Items: []
   references:

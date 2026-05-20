@@ -24,6 +24,9 @@ public class Inventory : MonoBehaviour
     [Header("Localized Messages")]
     [SerializeField] private LocalizedString inventoryFullMessage;
     [SerializeField] private LocalizedString maxStackReachedMessage;
+    [SerializeField] private LocalizedString statusFullMessage;
+    [SerializeField] private LocalizedString maxLifesMessage;
+    [SerializeField] private LocalizedString noManaMessage;
 
     private readonly List<InventorySlot> slots = new List<InventorySlot>();
     private Coroutine feedbackCoroutine;
@@ -59,7 +62,7 @@ public class Inventory : MonoBehaviour
             slots.Add(new InventorySlot(newItem));
 
             Debug.Log($"<color=green>[INVENTARIO]</color> Ítem añadido. Slots ocupados: {slots.Count}. Lanzando evento OnInventoryUpdate.");
-            
+
             OnInventoryUpdate?.Invoke();
             return InventoryAddResult.Success;
         }
@@ -84,6 +87,19 @@ public class Inventory : MonoBehaviour
             slots.RemoveAt(slotIndex);
 
         OnInventoryUpdate?.Invoke();
+    }
+    public void RequestFeedbackStatusFull()
+    {
+        ShowFeedback(statusFullMessage);
+    }
+    public void RequestFeedbackMaxLifes()
+    {
+        ShowFeedback(maxLifesMessage);
+    }
+
+    public void RequestFeedbackNoMana()
+    {
+        ShowFeedback(noManaMessage);
     }
 
     private void ShowFeedback(LocalizedString localizedMessage)
@@ -110,6 +126,7 @@ public class Inventory : MonoBehaviour
 
         yield return new WaitForSeconds(feedbackDuration);
     }
+
 }
 
 [System.Serializable]

@@ -9,6 +9,7 @@ public class DoorSwitchZone1 : MonoBehaviour
     [Header("Configuración")]
     public bool activateOnce = false;
     public float cooldown = 5f;
+    public GameObject toggleText;
 
     private bool isCooldown = false;
 
@@ -31,13 +32,19 @@ public class DoorSwitchZone1 : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
+        {
             playerInRange = true;
+            toggleText.SetActive(true);
+        }
     }
 
     void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
+        {
             playerInRange = false;
+            toggleText.SetActive(false);
+        }
     }
 
     public void Activate()

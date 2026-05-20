@@ -8,6 +8,9 @@ public class GameState : MonoBehaviour
     public bool InDialogue { get; private set; }
     public event Action<bool> OnDialogueChanged;
 
+    public bool InTutorial { get; private set; }
+    public event Action<bool> OnTutorialChanged;
+
     private void Awake()
     {
         if (I != null && I != this) { Destroy(gameObject); return; }
@@ -20,5 +23,12 @@ public class GameState : MonoBehaviour
         if (InDialogue == inDialogue) return;
         InDialogue = inDialogue;
         OnDialogueChanged?.Invoke(InDialogue);
+    }
+
+    public void SetTutorial(bool inTutorial)
+    {
+        if (InTutorial == inTutorial) return;
+        InTutorial = inTutorial;
+        OnTutorialChanged?.Invoke(InTutorial);
     }
 }

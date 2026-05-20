@@ -23,35 +23,35 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2
-    m_Localized: Nueva partida
+    m_Localized: NUEVA PARTIDA
     m_Metadata:
       m_Items: []
   - m_Id: 3
-    m_Localized: Opciones
+    m_Localized: OPCIONES
     m_Metadata:
       m_Items: []
   - m_Id: 4
-    m_Localized: "Cr\xE9ditos"
+    m_Localized: "CR\xC9DITOS"
     m_Metadata:
       m_Items: []
   - m_Id: 5
-    m_Localized: Salir
+    m_Localized: SALIR
     m_Metadata:
       m_Items: []
   - m_Id: 6
-    m_Localized: Audio
+    m_Localized: AUDIO
     m_Metadata:
       m_Items: []
   - m_Id: 7
-    m_Localized: Idioma
+    m_Localized: IDIOMA
     m_Metadata:
       m_Items: []
   - m_Id: 8
-    m_Localized: Controles
+    m_Localized: CONTROLES
     m_Metadata:
       m_Items: []
   - m_Id: 9
-    m_Localized: Volver
+    m_Localized: VOLVER
     m_Metadata:
       m_Items: []
   - m_Id: 10
@@ -67,11 +67,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 13
-    m_Localized: "Espa\xF1ol "
+    m_Localized: "ESPA\xD1OL"
     m_Metadata:
       m_Items: []
   - m_Id: 14
-    m_Localized: English
+    m_Localized: "INGL\xC9S"
     m_Metadata:
       m_Items: []
   - m_Id: 15
@@ -83,7 +83,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 17
-    m_Localized: Reanudar
+    m_Localized: REANUDAR
     m_Metadata:
       m_Items: []
   - m_Id: 18
@@ -103,7 +103,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22
-    m_Localized: "Men\xFA principal"
+    m_Localized: "MEN\xDA PRINCIPAL"
     m_Metadata:
       m_Items: []
   - m_Id: 23
@@ -167,7 +167,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 42
-    m_Localized: (Algo que no entiende el protagonista)
+    m_Localized: "(Uff el traductor est\xE1 en la nave, deber\xEDa ir a por \xE9l)"
     m_Metadata:
       m_Items: []
   - m_Id: 43
@@ -204,7 +204,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 51
-    m_Localized: mdiwpaoj4n lkdfow lqowrsw ikodba qwerty yuio
+    m_Localized: mdiwpaoj4n lkdfow lqow
     m_Metadata:
       m_Items: []
   - m_Id: 30
@@ -353,6 +353,229 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 84
     m_Localized: Monstruo pulpo del pantanto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85
+    m_Localized: "No puedes ponerte m\xE1s vida/man\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86
+    m_Localized: "Ya tienes el m\xE1ximo de vidas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87
+    m_Localized: Pulsa E para usar el interruptor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88
+    m_Localized: "Ugh el traductor est\xE1 en la nave..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: "No te queda man\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90
+    m_Localized: "PRODUCCI\xD3N Y NARRATIVA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91
+    m_Localized: "PROGRAMACI\xD3N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92
+    m_Localized: CONCEPT ART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93
+    m_Localized: "ARTE \u2014 PERSONAJES & ESCENARIOS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94
+    m_Localized: "ANIMACI\xD3N 2D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95
+    m_Localized: MODELADO 3D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96
+    m_Localized: "M\xDASICA & EFECTOS DE SONIDO"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97
+    m_Localized: "PR\xC1CTICAS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98
+    m_Localized: ARTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99
+    m_Localized: TUTORIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100
+    m_Localized: Movimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101
+    m_Localized: "WASD para moverte \nSpace para saltar\nShift para correr"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102
+    m_Localized: Inventario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103
+    m_Localized: 'Equipar objeto en slots con 1, 2 o 3 o click izquierdo pulsando
+      el objeto
+
+      Click central para soltar objeto'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104
+    m_Localized: Pistola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105
+    m_Localized: Click izquierdo para activar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106
+    m_Localized: Habilidades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107
+    m_Localized: "Tab para cambiar de habilidad \nClick derecho para activar habilidad\nClick
+      central en el icono para desplegar informaci\xF3n de habilidades"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108
+    m_Localized: Mapa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109
+    m_Localized: M para abrir el mapa completo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111
+    m_Localized: ESCUDO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112
+    m_Localized: "Haces uso de tu brazo bi\xF3nico para asertar un ataque de corto
+      alcance y da\xF1o masivo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113
+    m_Localized: "PU\xD1ETAZO"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114
+    m_Localized: "Escudo con parry integrado: mantenlo pulsado para bloquear los
+      ataques de enemigos y clava el timing exacto del golpe para que te devuelva
+      su coste de energ\xEDa y potenciar tu siguiente disparo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115
+    m_Localized: Jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116
+    m_Localized: "La barra roja indica vida\nLa barra azul indica man\xE1 (ataques
+      especiales)\nY la barra de abajo indica el n\xFAmero de vidas que te quedan.
+      Tienes 3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117
+    m_Localized: "Para eso tendr\xE1s que activar el ascensor. \xA1Busca las bater\xEDas
+      para que funcione, corre!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118
+    m_Localized: '[Presiona Enter para saltar]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119
+    m_Localized: PAUSA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120
+    m_Localized: MOVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121
+    m_Localized: SALTAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122
+    m_Localized: "ATAQUE B\xC1SICO"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123
+    m_Localized: ATAQUE ESPECIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124
+    m_Localized: MAPA COMPLETO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125
+    m_Localized: CORRER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126
+    m_Localized: CAMBIAR ATAQUE ESPECIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127
+    m_Localized: SOLTAR OBJETO DEL INVENTARIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128
+    m_Localized: USAR OBJETOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129
+    m_Localized: TRADUCTOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130
+    m_Localized: "Un reloj que te permite entender la lengua de los nativos sin ning\xFAn
+      problema"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131
+    m_Localized: BOTAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132
+    m_Localized: "Unas botas que te permitir\xE1n hacer un salto doble"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133
+    m_Localized: PIOLET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134
+    m_Localized: Una herramienta que te permite escalar en las zonas permitidas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135
+    m_Localized: Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136
+    m_Localized: "\xA1ENHORABUENA!\n\xA1FIN DE LA DEMO!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137
+    m_Localized: "CONTINUAR\xC1..."
     m_Metadata:
       m_Items: []
   references:

@@ -10,10 +10,10 @@ public class MainMenu : MonoBehaviour
     public GameObject[] menuItems;
 
     [SerializeField]
-    public float retrasoEntreElementos = 0.25f; // Retraso entre la aparición de los elementos
+    public float retrasoEntreElementos = 0.25f; // Retraso entre la apariciï¿½n de los elementos
 
     [SerializeField]
-    public float fadeDuration = 0.25f; // Duración de la animación fade-in
+    public float fadeDuration = 0.25f; // Duraciï¿½n de la animaciï¿½n fade-in
 
     [SerializeField]
     public Image image1;
@@ -22,10 +22,10 @@ public class MainMenu : MonoBehaviour
     public Image image2;
 
     [SerializeField]
-    public float tiempoImagen = 6f; // Tiempo que cada imagen permanece visible antes de hacer la transición
+    public float tiempoImagen = 6f; // Tiempo que cada imagen permanece visible antes de hacer la transiciï¿½n
 
     [SerializeField]
-    public float fadeDurationImagen = 1f; // Duración de la animación fade-in y fade-out de la imagen
+    public float fadeDurationImagen = 1f; // Duraciï¿½n de la animaciï¿½n fade-in y fade-out de la imagen
 
     [SerializeField] private AudioClip clickSFX;
     [SerializeField] private AudioClip menuMusic;
@@ -80,7 +80,7 @@ public class MainMenu : MonoBehaviour
 
     public IEnumerator AlternarImagenes()
     {
-        // Asegurarse de que ambas imágenes están activas desde el principio
+        // Asegurarse de que ambas imï¿½genes estï¿½n activas desde el principio
         image1.gameObject.SetActive(true);
         image2.gameObject.SetActive(true);
 
@@ -164,7 +164,7 @@ public class MainMenu : MonoBehaviour
 
     public void NewGame()
     {
-        SceneManager.LoadScene("Zone1 2.0");
+        SceneManager.LoadScene("Zone1 2.0Carlos");
     }
 
     public void Continue()
@@ -174,7 +174,7 @@ public class MainMenu : MonoBehaviour
 
     public void Credits()
     {
-        //Code for credits
+        SceneManager.LoadScene("Credits");
     }
 
     public void Exit()

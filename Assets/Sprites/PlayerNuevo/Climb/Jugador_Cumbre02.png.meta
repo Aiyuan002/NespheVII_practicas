@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 125ac1a22d7c68b49b3f585fb3796f9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 313297322672072050
+    second: Jugador_Cumbre02_0
+  - first:
+      213: 6795959537576343018
+    second: Jugador_Cumbre02_1
+  - first:
+      213: -8936230526414754764
+    second: Jugador_Cumbre02_2
+  - first:
+      213: -5739950230392146244
+    second: Jugador_Cumbre02_3
+  - first:
+      213: 1953923680989645552
+    second: Jugador_Cumbre02_4
+  - first:
+      213: 7808257186231368924
+    second: Jugador_Cumbre02_5
+  - first:
+      213: -8707781919933468977
+    second: Jugador_Cumbre02_6
+  - first:
+      213: 3385410897131855856
+    second: Jugador_Cumbre02_7
+  - first:
+      213: 2732767485804557178
+    second: Jugador_Cumbre02_8
+  - first:
+      213: -2665941951270124111
+    second: Jugador_Cumbre02_9
+  - first:
+      213: -1443184443513042872
+    second: Jugador_Cumbre02_10
+  - first:
+      213: 4477575433190254588
+    second: Jugador_Cumbre02_11
+  - first:
+      213: -5116038817595132644
+    second: Jugador_Cumbre02_12
+  - first:
+      213: -2121206827450693012
+    second: Jugador_Cumbre02_13
+  - first:
+      213: 7691879491135750022
+    second: Jugador_Cumbre02_14
+  - first:
+      213: 8496905592425267009
+    second: Jugador_Cumbre02_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27523fa414e095400800000000000000
+      internalID: 313297322672072050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 11
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae57a216139105e50800000000000000
+      internalID: 6795959537576343018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 11
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ceb02bea12cf380800000000000000
+      internalID: -8936230526414754764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 11
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6fd015da99750b0800000000000000
+      internalID: -5739950230392146244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 11
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa8c9b4c3bbd1b10800000000000000
+      internalID: 1953923680989645552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 11
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc363c7a808c5c60800000000000000
+      internalID: 7808257186231368924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 11
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceebc8ca7eb72780800000000000000
+      internalID: -8707781919933468977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 11
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffd74636456bfe20800000000000000
+      internalID: 3385410897131855856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 8
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a733e1dac8dbce520800000000000000
+      internalID: 2732767485804557178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 7
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b58bba8beba00bd0800000000000000
+      internalID: -2665941951270124111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 11
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848090b1567c8fbe0800000000000000
+      internalID: -1443184443513042872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 11
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7225e122b832e30800000000000000
+      internalID: 4477575433190254588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 11
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15f1242dcd2009b0800000000000000
+      internalID: -5116038817595132644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_13
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 11
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a0baa01a5ff82e0800000000000000
+      internalID: -2121206827450693012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 11
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f3244d4ab0fba60800000000000000
+      internalID: 7691879491135750022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador_Cumbre02_15
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 11
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fb9862e921be570800000000000000
+      internalID: 8496905592425267009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jugador_Cumbre02_0: 313297322672072050
+      Jugador_Cumbre02_1: 6795959537576343018
+      Jugador_Cumbre02_10: -1443184443513042872
+      Jugador_Cumbre02_11: 4477575433190254588
+      Jugador_Cumbre02_12: -5116038817595132644
+      Jugador_Cumbre02_13: -2121206827450693012
+      Jugador_Cumbre02_14: 7691879491135750022
+      Jugador_Cumbre02_15: 8496905592425267009
+      Jugador_Cumbre02_2: -8936230526414754764
+      Jugador_Cumbre02_3: -5739950230392146244
+      Jugador_Cumbre02_4: 1953923680989645552
+      Jugador_Cumbre02_5: 7808257186231368924
+      Jugador_Cumbre02_6: -8707781919933468977
+      Jugador_Cumbre02_7: 3385410897131855856
+      Jugador_Cumbre02_8: 2732767485804557178
+      Jugador_Cumbre02_9: -2665941951270124111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

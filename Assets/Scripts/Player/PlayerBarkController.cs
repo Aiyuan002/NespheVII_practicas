@@ -17,7 +17,8 @@ public class PlayerBarkController : MonoBehaviour
     }
 
     [Header("Refs")]
-    [SerializeField] private CharacterController player;
+    [SerializeField] private PlayerController player;
+    [SerializeField] private SpellMenuManager spellMenuManager;   // ← NUEVO
     [SerializeField] private GameObject barkPanel;
     [SerializeField] private TextMeshProUGUI barkText;
     [SerializeField] private TextMeshProUGUI skipPrompt;
@@ -63,6 +64,20 @@ public class PlayerBarkController : MonoBehaviour
     private Coroutine showRoutine;
     private Coroutine blinkRoutine;
 
+    [Header("Typing Audio")]
+    [SerializeField] private AudioSource typingAudioSource;
+    [SerializeField] private float typingVolume = 0.5f;
+    [SerializeField] private int playSoundEveryXCharacters = 1;
+    [SerializeField] private bool skipSpaces = true;
+
+
+    private bool IsSpellMenuOpen =>
+        spellMenuManager != null && spellMenuManager.isOpen;
+
+    private bool IsBlockedByUI =>
+        (DialogueManager.I != null && DialogueManager.I.IsOpen) || IsSpellMenuOpen;
+
+
     private void Awake()
     {
         if (barkPanel != null)
@@ -74,11 +89,26 @@ public class PlayerBarkController : MonoBehaviour
 
     private void Update()
     {
-        if (DialogueManager.I != null && DialogueManager.I.IsOpen)
+
+        if (IsBlockedByUI)
         {
             if (showing)
                 ForceHide();
 
+            if (IsSpellMenuOpen)
+            {
+                idleTimer = 0f;
+                idleIntervalTimer = 0f;
+            }
+
+            return;
+        }
+
+        if (Input.GetMouseButtonDown(0) || Input.GetMouseButtonDown(1) || Input.GetMouseButtonDown(2))
+        {
+
+            idleTimer = 0f;
+            idleIntervalTimer = 0f;
             return;
         }
 
@@ -91,7 +121,7 @@ public class PlayerBarkController : MonoBehaviour
         if (!enableIdleBarks || player == null)
             return;
 
-        bool isIdle = player.IsIdleForBarks();
+        bool isIdle = player.IsIdleForBarks() && !player.isDying;
 
         if (!isIdle)
         {
@@ -114,6 +144,8 @@ public class PlayerBarkController : MonoBehaviour
         }
     }
 
+    // ── Triggers públicos ─────────────────────────────────────────────────────
+
     public void TriggerPostEnemyEncounterBark()
         => TryShowBark(BarkContext.PostEnemyEncounter);
 
@@ -126,9 +158,11 @@ public class PlayerBarkController : MonoBehaviour
     public void TriggerFinalBossBark()
         => TryShowBark(BarkContext.FinalBoss);
 
+    // ── Lógica interna ────────────────────────────────────────────────────────
+
     private void TryShowBark(BarkContext context)
     {
-        if (DialogueManager.I != null && DialogueManager.I.IsOpen)
+        if (IsBlockedByUI)
             return;
 
         if (Time.time - lastShowTime < globalCooldown)
@@ -183,9 +217,7 @@ public class PlayerBarkController : MonoBehaviour
             idx = 0;
 
         LocalizedString chosen = arr[idx];
-
         idx = (idx + 1) % arr.Length;
-
         return chosen;
     }
 
@@ -214,7 +246,7 @@ public class PlayerBarkController : MonoBehaviour
             foreach (char c in text)
             {
                 barkText.text += c;
-
+                PlayRandomTypingSound(c, barkText.text.Length - 1);
                 yield return new WaitForSeconds(charDelay);
 
                 if (!showing)
@@ -228,7 +260,6 @@ public class PlayerBarkController : MonoBehaviour
         t = Mathf.Clamp(t, minShowSeconds, maxShowSeconds);
 
         float timer = 0f;
-
         while (timer < t)
         {
             timer += Time.deltaTime;
@@ -240,6 +271,23 @@ public class PlayerBarkController : MonoBehaviour
         }
 
         ForceHide();
+    }
+    private void PlayRandomTypingSound(char character, int index)
+    {
+        if (typingAudioSource == null) return;
+        if (skipSpaces && char.IsWhiteSpace(character)) return;
+        if (playSoundEveryXCharacters > 1 && index % playSoundEveryXCharacters != 0) return;
+
+        AudioClip[] clips =
+        {
+        AudioManager.Instance.sounds.dialogueKey1,
+        AudioManager.Instance.sounds.dialogueKey2,
+        AudioManager.Instance.sounds.dialogueKey3
+    };
+
+        AudioClip clip = clips[Random.Range(0, clips.Length)];
+        if (clip != null)
+            typingAudioSource.PlayOneShot(clip, typingVolume);
     }
 
     private IEnumerator BlinkSkipPrompt()

@@ -21,7 +21,6 @@ public class RopeProjectile : MonoBehaviour
     {
         if (collision.transform.tag == "Climb" || collision.transform.tag == "Roof")
         {
-            characterController.CreateRope(this.transform, collision.transform.tag);
             Destroy(gameObject);
         }
     }

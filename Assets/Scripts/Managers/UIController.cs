@@ -10,6 +10,8 @@ using UnityEngine.UI;
 
 public class UIController : MonoBehaviour
 {
+    public static UIController Instance { get; private set; }
+
     [Header("Player")]
     public int lifes = 3;
     public int maxHealth = 100;
@@ -33,6 +35,10 @@ public class UIController : MonoBehaviour
     public TextMeshProUGUI healthText;
     private TextMeshProUGUI energyText;
     public TextMeshProUGUI lifesText;
+    public GameObject livesIndicator;
+    public Transform pos3Vidas;
+    public Transform pos2Vidas;
+    public Transform pos1Vida;
     private TextMeshProUGUI ammunition1Text;
     private TextMeshProUGUI ammunition2Text;
     private TextMeshProUGUI ammunition3Text;
@@ -73,6 +79,8 @@ public class UIController : MonoBehaviour
     private RecargarAscensor scriptAscensor;
     private int tubos;
     public GameObject translateIcon;
+    public GameObject bootsIcon;
+    public GameObject pioletIcon;
     //public GameObject[] Plus;
 
     [Header("Map")]
@@ -87,6 +95,16 @@ public class UIController : MonoBehaviour
     private GameObject deadPlayer,
         slicedPlayer;
 
+    [Header("Flash")]
+    public GameObject flash;
+
+    private void Awake()
+    {
+        if (Instance == null)
+            Instance = this;
+        else
+            Destroy(this);
+    }
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -103,7 +121,8 @@ public class UIController : MonoBehaviour
         healthText = healthSlider.GetComponentInChildren<TextMeshProUGUI>();
         energyText = energySlider.GetComponentInChildren<TextMeshProUGUI>();
 
-        lifesText = GameObject.Find("LifeText").GetComponent<TextMeshProUGUI>();
+        //lifesText = GameObject.Find("LifeText").GetComponent<TextMeshProUGUI>();
+        UpdateLivesIndicator();
         playerImage = GameObject.Find("PlayerImage").GetComponent<Image>();
         if (!haGuardado)
         {
@@ -112,7 +131,8 @@ public class UIController : MonoBehaviour
         }
         healthText.text = currentHealth + "/" + maxHealth;
         energyText.text = currentEnergy + "/" + maxEnergy;
-        lifesText.text = lifes.ToString();
+        UpdateLivesIndicator();
+        //lifesText.text = lifes.ToString();
 
         enemy = GameObject.Find("Enemy");
         enemyHealthSlider = enemy.GetComponentInChildren<Slider>();
@@ -193,41 +213,41 @@ public class UIController : MonoBehaviour
         }
     }
 
+    public void Flash()
+    {
+        StartCoroutine(EnableFlash());
+    }
+
+    private IEnumerator EnableFlash()
+    {
+        flash.SetActive(true);
+
+        yield return new WaitForSeconds(0.5f);
+
+        flash.SetActive(false);
+    }
+
     private void Update()
     {
         healthSlider.value = currentHealth;
         energySlider.value = currentEnergy;
-        /*if (currentEnergy < maxEnergy)
-        {
-            ResetEnergy();
-        }*/
+
         if (lifes <= 0)
         {
             lifes = 0;
-            lifesText.text = lifes.ToString();
-
-            //aqui poner una courutine y que se reinice automatico o poner lo que sea
-
-
-            //
-            //
+            UpdateLivesIndicator();
+            //lifesText.text = lifes.ToString();
         }
 
-        /*********************************************************************************************/
         if (recoveringHealth)
         {
-            // recoveryTime += Time.deltaTime;
-
-            // if (recoveryTime >= recoveryTimer)
-
             energySlider.value = maxEnergy;
             currentEnergy = maxEnergy;
             energyText.text = currentEnergy + "/" + maxEnergy;
             energyTime = 0;
         }
-        /*********************************************************************************************/
 
-        if (canToggleMap && Input.GetKeyDown(KeyCode.H))
+        if (canToggleMap && Input.GetKeyDown(KeyCode.M))
         {
             if (PauseMenu.IsPaused)
                 return;
@@ -244,7 +264,6 @@ public class UIController : MonoBehaviour
     IEnumerator ToggleMap()
     {
         canToggleMap = false;
-
         isMapOpen = !isMapOpen;
 
         if (isMapOpen)
@@ -259,36 +278,34 @@ public class UIController : MonoBehaviour
         canToggleMap = true;
     }
 
+    // --- CORRECCIÓN APLICADA AQUÍ ---
     public void ConsumeHealth(float damagePercentage)
     {
-        if (healthSlider.value > healthSlider.minValue)
-        {
-            ChangePlayerFace();
-            healthSlider.value = healthSlider.value - healthCosumed;
-            currentHealth = currentHealth - healthCosumed;
-        }
-        else
-        {
-            lifes--;
-            lifesText.text = lifes.ToString();
-            healthSlider.value = healthSlider.maxValue;
-            currentHealth = maxHealth;
-            if (lifes == 1)
-            {
-                playerImage.sprite = tiredFace;
-            }
-        }
-        healthText.text = currentHealth + "/" + maxHealth;
+        // En lugar de tener dos lógicas separadas, llamamos a la función principal
+        ConsumeHealth();
     }
 
-    public void ConsumeEnergy()
+    public bool ConsumeEnergy()
     {
-        if (energySlider.value > energySlider.minValue)
+        if (currentEnergy < energyCosumed)
         {
-            energySlider.value = energySlider.value - energyCosumed;
-            currentEnergy = currentEnergy - energyCosumed;
-            energyText.text = currentEnergy + "/" + maxEnergy;
+            Inventory inventory = FindFirstObjectByType<Inventory>();
+
+            if (inventory != null)
+                inventory.RequestFeedbackNoMana();
+
+            return false;
         }
+
+        currentEnergy -= energyCosumed;
+
+        if (currentEnergy < 0)
+            currentEnergy = 0;
+
+        energySlider.value = currentEnergy;
+        energyText.text = currentEnergy + "/" + maxEnergy;
+
+        return true;
     }
 
     void ResetEnergy()
@@ -304,7 +321,6 @@ public class UIController : MonoBehaviour
         }
     }
 
-    /*********************************************************************************************/
     public void RecoverHealth(int amount)
     {
         Debug.Log("recuperasión");
@@ -319,55 +335,7 @@ public class UIController : MonoBehaviour
 
         healthSlider.value = currentHealth;
         healthText.text = currentHealth + "/" + maxHealth;
-
-        // if (healthSlider.value < healthSlider.maxValue)
-        // {
-        //     switch (amount)
-        //     {
-        //         case 25:
-        //             Plus[0].SetActive(true);
-        //             Plus[0].GetComponent<Animator>().Play("PlusAnimation");
-        //             StartCoroutine(DesactivarPlus());
-        //             break;
-        //         case 50:
-        //             Plus[0].SetActive(true);
-        //             Plus[1].SetActive(true);
-        //             Plus[0].GetComponent<Animator>().Play("PlusAnimation");
-        //             StartCoroutine(DesactivarPlus());
-
-        //             break;
-        //         case 75:
-        //             Plus[0].SetActive(true);
-        //             Plus[1].SetActive(true);
-        //             Plus[2].SetActive(true);
-        //             Plus[0].GetComponent<Animator>().Play("PlusAnimation");
-        //             StartCoroutine(DesactivarPlus());
-        //             break;
-        //     }
-
-        //     healthSlider.value =
-        //         (healthSlider.value >= healthSlider.maxValue)
-        //             ? healthSlider.maxValue
-        //             : healthSlider.value + amount;
-        //     currentHealth =
-        //         (healthSlider.value >= healthSlider.maxValue)
-        //             ? currentHealth = 100
-        //             : currentHealth + amount;
-        // }
-
-        // healthText.text = currentHealth + "/" + maxHealth;
-        // recoveringHealth = true;
-        // //currentHealth += amount;
     }
-
-    // IEnumerator DesactivarPlus()
-    // {
-    //     yield return new WaitForSeconds(2);
-    //     Plus[0].SetActive(false);
-    //     Plus[1].SetActive(false);
-
-    //     Plus[2].SetActive(false);
-    // }
 
     public void RecoverEnergy(int amount)
     {
@@ -375,24 +343,31 @@ public class UIController : MonoBehaviour
 
         if (energySlider.value < energySlider.maxValue)
         {
-            energySlider.value =
-                (energySlider.value >= energySlider.maxValue)
-                    ? energySlider.maxValue
-                    : energySlider.value + amount;
-            currentEnergy =
-                (energySlider.value >= energySlider.maxValue)
-                    ? currentEnergy = 100
-                    : currentEnergy + amount;
+            currentEnergy += amount;
+            if (currentEnergy > maxEnergy) currentEnergy = maxEnergy;
+
+            energySlider.value = currentEnergy;
         }
 
         energyText.text = currentEnergy + "/" + maxEnergy;
-
-        //currentHealth += amount;
     }
+
+    public void UpdateLivesIndicator()
+    {
+        Transform targetPos = lifes switch
+        {
+            3 => pos3Vidas,
+            2 => pos2Vidas,
+            1 => pos1Vida,
+            _ => pos1Vida
+        };
+
+        livesIndicator.GetComponent<RectTransform>().position = targetPos.position;
+    }
+
 
     public void RecoverEnergy() { }
 
-    /*********************************************************************************************/
     public void ChangePlayerFace()
     {
         if (playerImage.sprite == mainFace)
@@ -470,6 +445,7 @@ public class UIController : MonoBehaviour
         }
     }
 
+    // --- LÓGICA DE MUERTE CORREGIDA ---
     public void ConsumeHealth()
     {
         currentHealth -= healthCosumed;
@@ -481,26 +457,16 @@ public class UIController : MonoBehaviour
         }
         else
         {
-            lifes--;
-            lifesText.text = lifes.ToString();
+            lifes--; // Pierde una vida
+            UpdateLivesIndicator();
+            //lifesText.text = lifes.ToString();
 
-            if (lifes <= 0)
+            if (lifes > 0)
             {
-                currentHealth = 0;
-                currentEnergy = 0;
-                healthSlider.value = 0;
-                energySlider.value = 0;
-                lifes = 0;
-
-                //  Destroy(player_);
-
-                // Destruye al jugador cuando no quedan vidas
-                // También puedes agregar lógica de Game Over aquí
-            }
-            else
-            {
+                // Todavía tiene vidas: reset de salud al 100%
                 currentHealth = maxHealth;
                 healthSlider.value = maxHealth;
+
                 if (lifes == 1)
                 {
                     playerImage.sprite = tiredFace;
@@ -524,6 +490,16 @@ public class UIController : MonoBehaviour
         translateIcon.SetActive(true);
     }
 
+    public void ActiveIconBoots()
+    {
+        bootsIcon.SetActive(true);
+    }
+
+    public void ActiveIconPiolet()
+    {
+        pioletIcon.SetActive(true);
+    }
+
     public void NewGame()
     {
         SceneManager.LoadScene(3);
@@ -531,7 +507,6 @@ public class UIController : MonoBehaviour
 
     public void LoadGame()
     {
-        // Carga la escena del juego
         SceneManager.LoadScene(1);
     }
 

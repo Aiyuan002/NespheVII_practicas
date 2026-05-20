@@ -2,12 +2,20 @@
 {
     public int healthToRestore = 20;
 
-    public override void Use()
+    public override bool Use()
     {
         base.Use();
 
         UIController health = FindFirstObjectByType<UIController>();
-        health.RecoverHealth(healthToRestore);
-        Destroy(gameObject); // Elimina el ítem después de usarlo
+        if (health != null && health.currentHealth >= health.maxHealth)
+        {
+            return false;
+        }
+
+        if (health != null)
+        {
+            health.RecoverHealth(healthToRestore);
+        }
+        return true;
     }
 }

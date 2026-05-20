@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 8350150956164558053}
   m_Layer: 0
   m_Name: medusa electrica
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -167,33 +167,45 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b63f58e4254790845b6589d13c30ee59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  faceImage: {fileID: -7199104826435147910, guid: 2680e2d73ce98964dae589ad52c936e6,
-    type: 3}
   health: 9
   maxHealth: 9
+  isImmune: 0
+  blinkTime: 0.2
+  immuneTime: 0.1
+  faceImage: {fileID: -7199104826435147910, guid: 2680e2d73ce98964dae589ad52c936e6,
+    type: 3}
+  uiController: {fileID: 0}
+  enemyName:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  hideUIDistance: 4
+  playerTransform: {fileID: 0}
+  recompensa: {fileID: 6801343138756485147, guid: bdc9f0fc3445945478002d66d78625d8,
+    type: 3}
   patrolTime: 3
   aimTime: 0.7
   meleeTime: 0.7
   bodyCollider: {fileID: 8350150956164558053}
-  recompensa: {fileID: 6801343138756485147, guid: bdc9f0fc3445945478002d66d78625d8,
-    type: 3}
-  sr: {fileID: 8350150956199087731}
-  immuneTime: 0.1
-  blinkTime: 0.2
   followDistance: 2
   medusaAnimator: {fileID: 8350150956199087730}
   player: {fileID: 0}
-  playerTransform: {fileID: 0}
   moveSpeed: 0.6
   patrolSpeed: 0.8
-  uiController: {fileID: 0}
-  isImmune: 0
   gOAtk: {fileID: 8350150956177167457}
   hasObjective: 0
   lookRight: 0
   canShoot: 0
   canPatrol: 1
   canMelee: 0
+  references:
+    version: 2
+    RefIds: []
 --- !u!50 &8350150956164558054
 Rigidbody2D:
   serializedVersion: 5

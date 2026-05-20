@@ -1,5 +1,74 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3016027936195011908
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5608479429432742900}
+  - component: {fileID: 643330615711097173}
+  m_Layer: 20
+  m_Name: Collision
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5608479429432742900
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3016027936195011908}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.0114799, y: 0.43360355, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9162300885525226768}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!70 &643330615711097173
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3016027936195011908}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 3.0154765, y: -0.4288767}
+  m_Size: {x: 0.11826277, y: 0.26777312}
+  m_Direction: 0
 --- !u!1 &5314737028664707183
 GameObject:
   m_ObjectHideFlags: 0
@@ -13,7 +82,7 @@ GameObject:
   - component: {fileID: -4963767429280281469}
   - component: {fileID: -8784552008387988140}
   - component: {fileID: 367945720595484435}
-  m_Layer: 0
+  m_Layer: 21
   m_Name: consumibles2_3
   m_TagString: Consumable
   m_Icon: {fileID: 0}
@@ -32,7 +101,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 5608479429432742900}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4798224770005172108
@@ -134,14 +204,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae4d4c4a7522a0e4799a657025a9c5f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sellValue: 10
-  type: 17
+  sellValue: 5
+  type: 1
   icon: {fileID: 4169890953762776017, guid: ab78596a89d4b0d428bad03a25eae5ea, type: 3}
   id: 2
   maxStack: 5
-  beneficio: Recuperas 1 vida
+  beneficio: "+25 de man\xE1"
   descripcion: '(usa este consumible o vendelo, su precio de venta es de: '
-  precio: 2 oro)
+  precio: 1
   dropPrefab: {fileID: 5314737028664707183}
   pickupBlockTimeAfterDrop: 1.25
 --- !u!70 &367945720595484435
@@ -174,7 +244,7 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0

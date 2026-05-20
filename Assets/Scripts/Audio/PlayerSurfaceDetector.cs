@@ -1,9 +1,9 @@
 using UnityEngine;
-using  UnityEngine.Tilemaps;
+using UnityEngine.Tilemaps;
 
 public class PlayerSurfaceDetector : MonoBehaviour
 {
-[Header("Referencias")]
+    [Header("Referencias")]
     [SerializeField] private Tilemap groundTilemap;
     [SerializeField] private Transform feetPoint;
 
@@ -11,8 +11,10 @@ public class PlayerSurfaceDetector : MonoBehaviour
     [SerializeField] private TileBase[] grassTiles;
     [SerializeField] private TileBase[] mudTiles;
     [SerializeField] private TileBase[] woodTiles;
+    [SerializeField] private TileBase[] rockTiles;
+    [SerializeField] private TileBase[] rockySandTiles;
 
-      public SurfaceType CurrentSurface { get; private set; } = SurfaceType.Default;
+    public SurfaceType CurrentSurface { get; private set; } = SurfaceType.None;
 
     private void Update()
     {
@@ -23,7 +25,7 @@ public class PlayerSurfaceDetector : MonoBehaviour
     {
         if (groundTilemap == null || feetPoint == null)
         {
-            CurrentSurface = SurfaceType.Default;
+            CurrentSurface = SurfaceType.None;
             return;
         }
 
@@ -32,28 +34,27 @@ public class PlayerSurfaceDetector : MonoBehaviour
 
         if (currentTile == null)
         {
-            CurrentSurface = SurfaceType.Default;
+            CurrentSurface = SurfaceType.None;
             return;
         }
 
-
         if (ContainsTile(grassTiles, currentTile))
-        {
             CurrentSurface = SurfaceType.Grass;
-        }
+
         else if (ContainsTile(mudTiles, currentTile))
-        {
             CurrentSurface = SurfaceType.Mud;
-        }
+
         else if (ContainsTile(woodTiles, currentTile))
-        {
             CurrentSurface = SurfaceType.Wood;
-        }
+
+        else if (ContainsTile(rockTiles, currentTile))
+            CurrentSurface = SurfaceType.Rock;
+
+        else if (ContainsTile(rockySandTiles, currentTile))
+            CurrentSurface = SurfaceType.RockySand;
+
         else
-        {
-            CurrentSurface = SurfaceType.Default;
-        }
-        //Debug.Log("Tile detectado: " + currentTile.name + " | Surface final: " + CurrentSurface);
+            CurrentSurface = SurfaceType.None;
     }
 
     private bool ContainsTile(TileBase[] tileArray, TileBase targetTile)

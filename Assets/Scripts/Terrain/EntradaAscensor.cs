@@ -9,7 +9,7 @@ public class EntradaAscensor : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            SceneManager.LoadScene("Zone2.0");
+            SceneManager.LoadScene("DemoCompleted");
         }
     }
 }

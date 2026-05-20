@@ -3,14 +3,14 @@ using UnityEngine;
 public class PlayerFootsteps : MonoBehaviour
 {
     public PlayerSurfaceDetector surfaceDetector;
-    [SerializeField] private CharacterController characterController;
+    [SerializeField] private PlayerController characterController;
 
     public bool isMoving;
     public bool isRunning;
 
     private void Update()
     {
-        if (AudioManager.Instance == null || surfaceDetector == null)
+        if (AudioManager.Instance == null || surfaceDetector == null || characterController == null)
             return;
 
         if (!characterController.atGround)
@@ -32,9 +32,11 @@ public class PlayerFootsteps : MonoBehaviour
         }
 
         AudioClip clip = GetFootstepClip();
-        //Debug.Log("Surface usada por footsteps: " + surfaceDetector.CurrentSurface);
-        //Debug.Log("Clip elegido: " + (clip != null ? clip.name : "NULL"));
-        AudioManager.Instance.PlayLoop(clip); ;
+
+        if (clip != null)
+            AudioManager.Instance.PlayLoop(clip);
+        else
+            AudioManager.Instance.StopLoop();
     }
 
     private AudioClip GetFootstepClip()
@@ -52,8 +54,14 @@ public class PlayerFootsteps : MonoBehaviour
             case SurfaceType.Wood:
                 return isRunning ? sounds.runWood : sounds.walkWood;
 
+            case SurfaceType.Rock:
+                return isRunning ? sounds.runRock : sounds.walkRock;
+
+            case SurfaceType.RockySand:
+                return isRunning ? sounds.runRockySand : sounds.walkRockySand;
+
             default:
-                return isRunning ? sounds.runGrass : sounds.walkGrass;
+                return null;
         }
     }
 }

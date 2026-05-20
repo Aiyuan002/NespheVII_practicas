@@ -65,152 +65,143 @@ public class Item : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        Debug.Log("COLISION con: " + collision.gameObject.name +
+              " | Tag: " + collision.gameObject.tag +
+              " | Layer: " + LayerMask.LayerToName(collision.gameObject.layer));
         TryPickup(collision.gameObject);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log("TRIGGER con: " + collision.gameObject.name +
+              " | Tag: " + collision.gameObject.tag +
+              " | Layer: " + LayerMask.LayerToName(collision.gameObject.layer));
         TryPickup(collision.gameObject);
     }
 
     private void TryPickup(GameObject other)
     {
         if (hasBeenCollected || pickupBlocked)
-            return;
-
-        if (!other.CompareTag("Player"))
-            return;
-
-        Inventory inventory = other.GetComponent<Inventory>();
-        Debug.Log($"<color=cyan>[ITEM]</color> {name} detectó al jugador. Intentando añadir al inventario...");
-        if (inventory == null)
         {
-            Debug.LogWarning("El Player no tiene componente Inventory.");
+            Debug.Log("No recoge: bloqueado o ya recogido");
             return;
         }
-        Debug.Log($"Intentando recoger {name} | id={id} | maxStack={maxStack}");
-        InventoryAddResult result = inventory.AddItem(this);
+        if (!other.CompareTag("Player"))
+        {
+            Debug.Log("No recoge: no es Player");
+            return;
+        }
 
-        Debug.Log($"<color=cyan>[ITEM]</color> Resultado de añadir {name}: {result}");
+        Inventory inventory = other.GetComponentInParent<Inventory>();
+        if (inventory == null)
+        {
+            Debug.LogError("El Player no tiene componente Inventory");
+            return;
+        }
+
+        InventoryAddResult result = inventory.AddItem(this);
+        Debug.Log("Resultado AddItem: " + result);
 
         if (result == InventoryAddResult.Success)
         {
             CollectItem();
         }
-        else
-        {
-            // No desaparece. Se queda en el suelo.
-            Debug.Log($"No se pudo recoger {name}. Motivo: {result}");
-        }
     }
 
     private void CollectItem()
     {
-        Debug.Log($"<color=orange>[ALERTA]</color> {name} está siendo recolectada AHORA MISMO.");
         hasBeenCollected = true;
-
-        if (rb != null)
-            rb.simulated = false;
-
-        if (itemCollider != null)
-            itemCollider.enabled = false;
-
-        if (spriteRenderer != null)
-            spriteRenderer.enabled = false;
+        if (rb != null) rb.simulated = false;
+        if (itemCollider != null) itemCollider.enabled = false;
+        if (spriteRenderer != null) spriteRenderer.enabled = false;
+        AudioManager.Instance?.PlayPickupItem(AudioManager.Instance.sounds.pickupItem_02);
     }
 
-    public virtual void Use()
+    // --- MÉTODO CORREGIDO ---
+    public virtual bool Use()
     {
-        Debug.Log($"Usando item: {type}");
-
         UIController ui = FindFirstObjectByType<UIController>();
-        if (ui == null)
-        {
-            Debug.LogWarning("No se encontró UIController.");
-            return;
-        }
+        if (ui == null) return false;
 
         switch (type)
         {
+            // Lógica de SALUD
             case ItemType.HealthPotion:
+                if (ui.currentHealth >= ui.maxHealth) return false;
                 ui.RecoverHealth(25);
-                break;
-
-            case ItemType.ManaPotion:
-                ui.RecoverEnergy(25);
-                break;
+                return true;
 
             case ItemType.HealthPotion_Level2:
+                if (ui.currentHealth >= ui.maxHealth) return false;
                 ui.RecoverHealth(50);
-                break;
-
-            case ItemType.ManaPotion_Level2:
-                ui.RecoverEnergy(50);
-                break;
+                return true;
 
             case ItemType.HealthPotion_Level3:
+                if (ui.currentHealth >= ui.maxHealth) return false;
                 ui.RecoverHealth(75);
-                break;
+                return true;
+
+            // Lógica de ENERGÍA
+            case ItemType.ManaPotion:
+                if (ui.currentEnergy >= ui.maxEnergy) return false;
+                ui.RecoverEnergy(25);
+                return true;
+
+            case ItemType.ManaPotion_Level2:
+                if (ui.currentEnergy >= ui.maxEnergy) return false;
+                ui.RecoverEnergy(50);
+                return true;
 
             case ItemType.ManaPotion_Level3:
+                if (ui.currentEnergy >= ui.maxEnergy) return false;
                 ui.RecoverEnergy(75);
-                break;
+                return true;
 
+            // Lógica de VIDAS (Seta)
             case ItemType.SetaGreenHealth_1:
-                if (ui.lifes < 3)
-                {
-                    ui.lifes += 1;
-                    ui.lifesText.text = ui.lifes.ToString();
-                }
-                break;
+                if (ui.lifes >= 3) return false;
+                ui.lifes += 1;
+                ui.lifesText.text = ui.lifes.ToString();
+                DrugsManager drugsManager = FindFirstObjectByType<DrugsManager>();
+                if (drugsManager != null) drugsManager.TriggerEffect();
+                return true;
 
+            // Otros ítems que no tienen restricción de "barra llena"
             case ItemType.AntivenomPotion:
             case ItemType.TradePotion:
             case ItemType.Pilas:
-            case ItemType.Gema_Amarrilla:
-            case ItemType.Gema_Marron:
-            case ItemType.Gema_Morada:
-            case ItemType.Gema_Verde:
-            case ItemType.Gema_Roja:
-            case ItemType.Gema_Azul:
-            case ItemType.Gema_Negra:
-            case ItemType.Gema_Cian:
-                break;
+                // Aquí podrías añadir lógica específica si la necesitas
+                return true;
 
             default:
-                Debug.LogWarning("Tipo de ítem no reconocido: " + type);
-                break;
+                return true;
         }
     }
 
     public virtual void Drop()
     {
-        CharacterController player = FindFirstObjectByType<CharacterController>();
+        if (dropPrefab == null) return;
+
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+
         if (player == null)
         {
-            Debug.LogWarning("No se encontró CharacterController para soltar el item.");
+            Debug.LogWarning("No se encontró ningún objeto con tag Player.");
             return;
         }
 
-        if (dropPrefab == null)
-        {
-            Debug.LogWarning("No hay dropPrefab asignado.");
-            return;
-        }
+        float direction = player.transform.localScale.x >= 0 ? 1f : -1f;
 
-        GameObject droppedItem = Instantiate(
-            dropPrefab,
-            player.transform.position,
-            Quaternion.identity
-        );
+        Vector3 spawnPos = player.transform.position + new Vector3(direction * 0.35f, 0.1f, 0f);
+
+        GameObject droppedItem = Instantiate(dropPrefab, spawnPos, Quaternion.identity);
 
         Item droppedItemScript = droppedItem.GetComponent<Item>();
+
         if (droppedItemScript != null)
         {
             droppedItemScript.CopyItemDataFrom(this);
-            droppedItemScript.StartCoroutine(
-                droppedItemScript.EnablePickupAfterDelay(player.transform.position)
-            );
+            droppedItemScript.StartCoroutine(droppedItemScript.EnablePickupAfterDelay(spawnPos));
         }
     }
 
@@ -230,15 +221,10 @@ public class Item : MonoBehaviour
     {
         pickupBlocked = true;
         hasBeenCollected = false;
-
         transform.position = spawnPosition;
 
-        if (spriteRenderer != null)
-            spriteRenderer.enabled = true;
-
-        if (itemCollider != null)
-            itemCollider.enabled = true;
-
+        if (spriteRenderer != null) spriteRenderer.enabled = true;
+        if (itemCollider != null) itemCollider.enabled = true;
         if (rb != null)
         {
             rb.simulated = true;

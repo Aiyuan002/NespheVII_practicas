@@ -9,9 +9,9 @@ public class MapPlayer : MonoBehaviour
     public RawImage rawImage;
     public Camera _camera;
     public Canvas canvas;
-    public float YOffset;
-    public float XOffset;
-    public float Multiply;
+    public float YOffset = 604.5f;
+    public float XOffset = 277.8f;
+    public float Multiply = 49.6f;
 
 
     void Update()

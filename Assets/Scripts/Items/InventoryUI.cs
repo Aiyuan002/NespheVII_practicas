@@ -80,9 +80,9 @@ public class InventoryUI : MonoBehaviour
             entry.callback.AddListener(
                 (data) =>
                 {
-                    if (((PointerEventData)data).button == PointerEventData.InputButton.Right)
+                    if (((PointerEventData)data).button == PointerEventData.InputButton.Middle)
                     {
-                        OnSlotClickedRight(index); // Clic derecho
+                        OnSlotClickedMiddle(index); // Clic central de la rueda
                     }
                 }
             );
@@ -136,14 +136,14 @@ public class InventoryUI : MonoBehaviour
     {
         // Seleccionar slots con teclas numéricas
         if (Input.GetKeyDown(KeyCode.Alpha1))
-            ToggleSlot(0);
+            UseItem(0);
         else if (Input.GetKeyDown(KeyCode.Alpha2))
-            ToggleSlot(1);
+            UseItem(1);
         else if (Input.GetKeyDown(KeyCode.Alpha3))
-            ToggleSlot(2);
+            UseItem(2);
 
         // Manejar activación con clic izquierdo si hay un slot seleccionado
-        HandleActivationInput();
+        //HandleActivationInput();
     }
 
     private void HandleActivationInput()
@@ -290,73 +290,66 @@ public class InventoryUI : MonoBehaviour
         if (slotIndex < slots.Count && slots[slotIndex].item != null)
         {
             Item item = slots[slotIndex].item;
-            Debug.Log("Slot clickeado con el botón izquierdo");
 
-            // Usar pociones de salud si la vida no está llena
-            if (
-                (
-                    item.type == ItemType.HealthPotion
-                    || item.type == ItemType.HealthPotion_Level2
-                    || item.type == ItemType.HealthPotion_Level3
-                )
-                && UI.healthSlider.value < UI.healthSlider.maxValue
-            )
+            bool sePudoUsar = item.Use();
+
+            if (sePudoUsar)
             {
-                item.Use();
-                inventory.RemoveItem(slotIndex);
-                descripcion.SetActive(false);
-            }
-            // Usar pociones de maná si la energía no está llena
-            else if (
-                (
-                    item.type == ItemType.ManaPotion
-                    || item.type == ItemType.ManaPotion_Level2
-                    || item.type == ItemType.ManaPotion_Level3
-                )
-                && UI.energySlider.value < UI.energySlider.maxValue
-            )
-            {
-                item.Use();
-                inventory.RemoveItem(slotIndex);
-                descripcion.SetActive(false);
-            }
-            else if (item.type == ItemType.SetaGreenHealth_1 && UI.lifes < 3)
-            {
-                item.Use();
                 inventory.RemoveItem(slotIndex);
                 descripcion.SetActive(false);
             }
             else
             {
-                DeselectSlot(); // Deseleccionar si no se usa el item
+                if (item.type == ItemType.SetaGreenHealth_1)
+                {
+                    inventory.RequestFeedbackMaxLifes();
+                }
+                else
+                {
+                    inventory.RequestFeedbackStatusFull();
+                }
+
+                DeselectSlot();
             }
         }
     }
 
-    private void OnSlotClickedRight(int slotIndex)
+    private void OnSlotClickedMiddle(int slotIndex)
     {
         List<InventorySlot> slots = inventory.GetSlots();
+
         if (slotIndex < slots.Count && slots[slotIndex].item != null)
         {
             Item item = slots[slotIndex].item;
-            Debug.Log("Slot clickeado con el botón derecho");
 
-            // Soltar pociones (salud o maná)
-            if (
-                item.type == ItemType.HealthPotion
-                || item.type == ItemType.HealthPotion_Level2
-                || item.type == ItemType.HealthPotion_Level3
-                || item.type == ItemType.ManaPotion
-                || item.type == ItemType.ManaPotion_Level2
-                || item.type == ItemType.ManaPotion_Level3
-            )
-            {
-                item.Drop();
-                inventory.RemoveItem(slotIndex);
-                DeselectSlot();
-                descripcion.SetActive(false);
-            }
+            item.Drop();
+            inventory.RemoveItem(slotIndex);
+            DeselectSlot();
+            descripcion.SetActive(false);
         }
+        //Este codigo restringe qué cosas puedes soltar. Ahora puedes soltar lo que quieras.
+        // List<InventorySlot> slots = inventory.GetSlots();
+        // if (slotIndex < slots.Count && slots[slotIndex].item != null)
+        // {
+        //     Item item = slots[slotIndex].item;
+        //     Debug.Log("Slot clickeado con el botón derecho");
+
+        //     // Soltar pociones (salud o maná)
+        //     if (
+        //         item.type == ItemType.HealthPotion
+        //         || item.type == ItemType.HealthPotion_Level2
+        //         || item.type == ItemType.HealthPotion_Level3
+        //         || item.type == ItemType.ManaPotion
+        //         || item.type == ItemType.ManaPotion_Level2
+        //         || item.type == ItemType.ManaPotion_Level3
+        //     )
+        //     {
+        //         item.Drop();
+        //         inventory.RemoveItem(slotIndex);
+        //         DeselectSlot();
+        //         descripcion.SetActive(false);
+        //     }
+        // }
     }
     private void ShowDescription(int index)
     {
@@ -386,6 +379,36 @@ public class InventoryUI : MonoBehaviour
         if (descripcionText != null)
         {
             descripcionText.text = slot.item.beneficio;
+        }
+    }
+    public void UseItem(int index)
+    {
+        List<InventorySlot> slots = inventory.GetSlots();
+
+        if (index < 0 || index >= slots.Count)
+            return;
+
+        Item itemParaUsar = slots[index].item;
+
+        if (itemParaUsar == null)
+            return;
+
+        bool seUso = itemParaUsar.Use();
+
+        if (seUso)
+        {
+            inventory.RemoveItem(index);
+            descripcion.SetActive(false);
+            DeselectSlot();
+        }
+        else
+        {
+            if (itemParaUsar.type == ItemType.SetaGreenHealth_1)
+                inventory.RequestFeedbackMaxLifes();
+            else
+                inventory.RequestFeedbackStatusFull();
+
+            DeselectSlot();
         }
     }
     #endregion

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c86ad3469fee6b4facf4cca7386896f, type: 3}
+  m_Name: New Sound Library
+  m_EditorClassIdentifier: Assembly-CSharp::SoundLibrary
+  walkGrass: {fileID: 8300000, guid: ee2096bd89a6d314180b8ae0d40c19b6, type: 3}
+  runGrass: {fileID: 8300000, guid: 77740e1151c3f9e4581d6a27c7fdf117, type: 3}
+  walkMud: {fileID: 8300000, guid: 6b10221fea21e2a4c8ade3182ff498c1, type: 3}
+  runMud: {fileID: 8300000, guid: aeec45af488ad90448fb7f5f5814d82a, type: 3}
+  walkWood: {fileID: 8300000, guid: 2df4ee4a9ccac26498f3440ddc13a8b8, type: 3}
+  runWood: {fileID: 8300000, guid: 3621ea6d67374b14887fc83e9c1c9789, type: 3}
+  walkRock: {fileID: 8300000, guid: 428bb44b88ff4014cbf5f9164a966cba, type: 3}
+  runRock: {fileID: 8300000, guid: d4e03c1b88b9a3d429ef9b2849937817, type: 3}
+  walkRockySand: {fileID: 8300000, guid: 428bb44b88ff4014cbf5f9164a966cba, type: 3}
+  runRockySand: {fileID: 8300000, guid: d4e03c1b88b9a3d429ef9b2849937817, type: 3}
+  pickupItem: {fileID: 8300000, guid: 9eae8225113dcc24eaa6a6a87cfd2ae1, type: 3}
+  pickupItem_02: {fileID: 8300000, guid: c0c38538d04ce174395d39eb6c00b125, type: 3}
+  punch: {fileID: 0}
+  playerShot: {fileID: 8300000, guid: 79937dab128ff0f46a87b0e9752dc9e4, type: 3}
+  enemyShot: {fileID: 0}
+  explosion: {fileID: 8300000, guid: de3d7d89c44077040bce517d549e6981, type: 3}
+  miniRobotExplosion: {fileID: 0}
+  SpittingPlantShot: {fileID: 8300000, guid: 786d51fc4f925be4ca739a40931acbb6, type: 3}
+  fireCamp: {fileID: 8300000, guid: b1664f31ced3cf34baa9570b13dd0d10, type: 3}
+  dialogueKey1: {fileID: 8300000, guid: 7843618dbd3c9774a8b32c1865908c7a, type: 3}
+  dialogueKey2: {fileID: 8300000, guid: a4189ad645af16445bb916509fa962cd, type: 3}
+  dialogueKey3: {fileID: 8300000, guid: 9d31a2fe1e38f6c4f9d6c0845abf434e, type: 3}

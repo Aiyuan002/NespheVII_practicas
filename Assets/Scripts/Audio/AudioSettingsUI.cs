@@ -11,12 +11,14 @@ public class AudioSettingsUI : MonoBehaviour
 
     private void Start()
     {
-        master.value = AudioManager.Instance.GetMaster();
-        music.value = AudioManager.Instance.GetMusic();
-        sfx.value = AudioManager.Instance.GetSFX();
+        if (AudioManager.Instance == null) return;
 
         master.onValueChanged.AddListener(AudioManager.Instance.SetMaster);
         music.onValueChanged.AddListener(AudioManager.Instance.SetMusic);
         sfx.onValueChanged.AddListener(AudioManager.Instance.SetSFX);
+
+        master.SetValueWithoutNotify(AudioManager.Instance.GetMaster());
+        music.SetValueWithoutNotify(AudioManager.Instance.GetMusic());
+        sfx.SetValueWithoutNotify(AudioManager.Instance.GetSFX());
     }
 }

@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 public class PlayerDialogueInteractor : MonoBehaviour
 {
     [SerializeField] private GameObject interactPrompt; // "Pulsa F"
-    [SerializeField] private CharacterController playerController; // tu script
+    [SerializeField] private PlayerController playerController; // tu script
 
     private PlayerControls controls;
     private NPCDialogue currentNpc;
@@ -13,7 +13,7 @@ public class PlayerDialogueInteractor : MonoBehaviour
     {
         controls = new PlayerControls();
         if (interactPrompt != null) interactPrompt.SetActive(false);
-        if (playerController == null) playerController = GetComponent<CharacterController>();
+        if (playerController == null) playerController = GetComponent<PlayerController>();
     }
 
     private void OnEnable()

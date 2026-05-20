@@ -14,6 +14,8 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioSource sfxSource;
     [SerializeField] private AudioSource loopSource;
     [SerializeField] private AudioSource musicSource;
+    [SerializeField] private AudioSource pickupSource;
+    
 
     [Header("Library")]
     public SoundLibrary sounds;
@@ -24,23 +26,45 @@ public class AudioManager : MonoBehaviour
     private const string MASTER = "MasterVol";
     private const string MUSIC = "MusicVol";
     private const string SFX = "SFXVol";
+    private float lastSFXVol = -1f;
 
     private void Awake()
     {
-        if (Instance != null)
-        {
-            Destroy(gameObject);
-            return;
-        }
-
+        if (Instance != null) { Destroy(gameObject); return; }
         Instance = this;
         DontDestroyOnLoad(gameObject);
+
+        // Forzar volume a 1 para que el mixer tenga control total
+        sfxSource.volume = 1f;
+        loopSource.volume = 1f;
+        musicSource.volume = 1f;
+
+        StartCoroutine(LoadVolumesNextFrame());
     }
 
-    private void Start()
+    private IEnumerator LoadVolumesNextFrame()
     {
+        yield return null;
         LoadVolumes();
     }
+
+    private void Update()
+    {
+        if (sfxSource.volume != 1f)
+            Debug.Log($"[Audio] sfxSource.volume es: {sfxSource.volume}", this);
+
+        audioMixer.GetFloat(SFX, out float currentVol);
+        if (Mathf.Abs(currentVol - lastSFXVol) > 0.01f)
+        {
+            Debug.Log($"[Audio] SFXVol cambió a: {currentVol}", this);
+            lastSFXVol = currentVol;
+        }
+    }
+    public void PlayPickup(AudioClip clip)
+{
+    if (clip == null || pickupSource == null) return;
+    pickupSource.PlayOneShot(clip, 1f);
+}
 
     // ---------------- VOLUME ----------------
 
@@ -51,15 +75,26 @@ public class AudioManager : MonoBehaviour
     private void SetVolume(string param, float value)
     {
         value = Mathf.Clamp01(value);
-        audioMixer.SetFloat(param, Mathf.Lerp(-80f, 0f, volumeCurve.Evaluate(value)));
+        float db = Mathf.Lerp(-80f, 0f, volumeCurve.Evaluate(value));
+        bool ok = audioMixer.SetFloat(param, db);
+        Debug.Log($"[Audio] SetFloat({param}, {db}) → ok:{ok} whfoiqwfqoiwjfiqhw");
         PlayerPrefs.SetFloat(param, value);
     }
 
     private void LoadVolumes()
     {
-        SetMaster(PlayerPrefs.GetFloat(MASTER, 0.5f));
-        SetMusic(PlayerPrefs.GetFloat(MUSIC, 0.5f));
-        SetSFX(PlayerPrefs.GetFloat(SFX, 0.5f));
+        float master = PlayerPrefs.GetFloat(MASTER, 1f);
+        float music = PlayerPrefs.GetFloat(MUSIC, 0.5f);
+        float sfx = PlayerPrefs.GetFloat(SFX, 0.5f);
+
+        Debug.Log($"[Audio] LoadVolumes → master:{master} music:{music} sfx:{sfx}");
+        Debug.Log($"[Audio] volumeCurve evaluate 0.5 = {volumeCurve.Evaluate(0.5f)}");
+
+        SetMaster(master);
+        SetMusic(music);
+        SetSFX(sfx);
+
+        Debug.Log($"[Audio] sfxSource.volume tras load: {sfxSource.volume}");
     }
 
     public float GetMaster() => PlayerPrefs.GetFloat(MASTER, 0.5f);
@@ -71,6 +106,7 @@ public class AudioManager : MonoBehaviour
     public void PlaySFX(AudioClip clip)
     {
         if (clip == null) return;
+        Debug.Log($"[Audio] PlaySFX: {clip.name} | volume: {sfxSource.volume} | mixer mute: ?");
         sfxSource.PlayOneShot(clip);
     }
 
@@ -96,7 +132,7 @@ public class AudioManager : MonoBehaviour
         musicSource.clip = clip;
         musicSource.Play();
     }
-    public void PlayPickup(AudioClip clip)
+    public void PlayPickupItem(AudioClip clip)
     {
         if (clip == null) return;
         if (sfxSource == null) return;

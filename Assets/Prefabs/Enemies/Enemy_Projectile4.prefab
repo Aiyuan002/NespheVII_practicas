@@ -161,17 +161,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 5355741088390335317}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 61664c02153a31944bc340adc099bb51, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  damage: 1
-  speed: -2
-  lifeTime: 2.5
-  empty: {fileID: 4686212282400632378}
-  explosion: {fileID: 6619765022819068634, guid: 86f1123d3ae3fab4f90ae28c6319435c,
-    type: 3}
-  coll: 
-  collision_: 0
+  m_Script: {fileID: 11500000, guid: 921264af0ccd9f448ae87779b23f12cf, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  speed: 8
 --- !u!50 &-5838808270648975998
 Rigidbody2D:
   serializedVersion: 4

@@ -1,10 +1,12 @@
 using UnityEngine;
 
-    public enum SurfaceType
-    {
-        Grass,
-        Mud,
-        Wood,
-        Default
-    }
+public enum SurfaceType
+{
+    None,
+    Grass,
+    Mud,
+    Wood,
+    Rock,
+    RockySand
+}
 

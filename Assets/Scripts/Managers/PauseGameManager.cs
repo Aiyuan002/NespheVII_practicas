@@ -2,12 +2,14 @@ using UnityEngine;
 
 public class PauseGameManager : MonoBehaviour
 {
-public static PauseGameManager Instance { get; private set; }
+    public static PauseGameManager Instance { get; private set; }
 
-    [SerializeField] private CharacterController playerController;
+    [SerializeField] private PlayerController playerController;
 
     private bool pausedByMenu;
     private bool pausedByMap;
+    private bool pausedBySpellMenu;
+    private bool pausedByTutorial;
 
     private void Awake()
     {
@@ -20,7 +22,7 @@ public static PauseGameManager Instance { get; private set; }
         Instance = this;
 
         if (playerController == null)
-            playerController = FindFirstObjectByType<CharacterController>();
+            playerController = FindFirstObjectByType<PlayerController>();
 
         ApplyPauseState();
     }
@@ -36,14 +38,28 @@ public static PauseGameManager Instance { get; private set; }
         pausedByMap = value;
         ApplyPauseState();
     }
+    public void SetPausedBySpellMenu(bool value)
+    {
+        pausedBySpellMenu = value;
+        ApplyPauseState();
+    }
+
+    public void SetPausedByTutorial(bool value)
+    {
+        pausedByTutorial = value;
+        ApplyPauseState();
+    }
 
     public bool IsPausedByMenu => pausedByMenu;
     public bool IsPausedByMap => pausedByMap;
     public bool IsGamePaused => pausedByMenu || pausedByMap;
 
+    public bool IsPausedBySpellMenu => pausedBySpellMenu;
+    public bool IsPausedByTutorial => pausedByTutorial;
+
     private void ApplyPauseState()
     {
-        bool shouldFreeze = pausedByMenu || pausedByMap;
+        bool shouldFreeze = pausedByMenu || pausedByMap || pausedBySpellMenu || pausedByTutorial;
 
         Time.timeScale = shouldFreeze ? 0f : 1f;
 

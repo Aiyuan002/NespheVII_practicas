@@ -116,7 +116,7 @@ public class RadialMenu : MonoBehaviour
     void UseAbility(int idx)
     {
         if (idx < 0 || idx >= segments.Count) return;
-        var cc = FindFirstObjectByType<CharacterController>();
+        var cc = FindFirstObjectByType<PlayerController>();
         if (cc != null)
             cc.ExecuteSelectedAttack(idx);
     }

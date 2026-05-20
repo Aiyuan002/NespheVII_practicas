@@ -1,9 +1,10 @@
 ﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PuertaSecreta : MonoBehaviour
 {
-    public int hitsToBreak = 3;
+    private int hitsToBreak = 2;
 
     private int currentHits;
     private Vector3 startPosition;
@@ -13,36 +14,24 @@ public class PuertaSecreta : MonoBehaviour
         startPosition = transform.position;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void ReceiveHit()
     {
-        if (collision.CompareTag("Projectile"))
-{
-    currentHits++;
+        currentHits++;
+        StartCoroutine(ShakeWall());
 
-    StartCoroutine(ShakeWall());
-
-    Destroy(collision.gameObject);
-
-    if (currentHits >= hitsToBreak)
-    {
-        gameObject.SetActive(false);
-    }
-}
+        if (currentHits >= hitsToBreak)
+            gameObject.SetActive(false);
     }
 
     IEnumerator ShakeWall()
     {
         float shakeTime = 0.15f;
-
         while (shakeTime > 0)
         {
             shakeTime -= Time.deltaTime;
-
             transform.position = startPosition + (Vector3)Random.insideUnitCircle * 0.05f;
-
             yield return null;
         }
-
         transform.position = startPosition;
     }
 }

@@ -37,7 +37,7 @@ MonoBehaviour:
         - rid: 4056926589138763850
         - rid: 4056926589138763851
         - rid: 4056926589138763849
-        m_ConnectedFile: C:/Users/Usuario/Downloads/BuilderLanguages - Hoja 1 (3).csv
+        m_ConnectedFile: C:/Users/Usuario/Downloads/BuilderLanguages - Hoja 1 (10).csv
     - rid: 1010761552901701658
       type: {class: KeyIdColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns,
         asm: Unity.Localization.Editor}

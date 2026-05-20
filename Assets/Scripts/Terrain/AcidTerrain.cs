@@ -5,22 +5,22 @@ using UnityEngine;
 public class AcidTerrain : MonoBehaviour
 {
     public GameObject Player;
-    public UIController uiController;
 
     private bool isInAcid = false; // Variable para verificar si el jugador está en el ácido
     private float timer = 0.0f; // Temporizador inicializado en cero
 
     private void Update()
     {
-        // Verificar si el jugador está en el ácido y actualizar el temporizador
         if (isInAcid)
         {
-            timer += Time.deltaTime; // Incrementar el temporizador en cada frame
+            timer += Time.deltaTime;
 
-            if (timer >= 1.0f && uiController.lifes > 0)
+            if (timer >= 1.0f)
             {
-                timer = 0.0f; // Reiniciar el temporizador
-                uiController.ConsumeHealth();
+                timer = 0.0f;
+                PlayerController pc = Player.GetComponent<PlayerController>();
+                if (pc != null && !pc.isImmune && !pc.isDying)
+                    pc.GetDamage();
             }
         }
     }
